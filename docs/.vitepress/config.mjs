@@ -23,7 +23,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'discord', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'discord', link: 'https://discord.gg/6u47fz6dCP' },
+      { icon: 'github', link: 'https://github.com/VGSS6102/minelacswiki' }
     ]
   }
 })
