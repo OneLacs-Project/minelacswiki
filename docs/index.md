@@ -8,7 +8,6 @@ hero:
   tagline:
   image:
     src: sawa_nishiy512.png
-    alt: Нищук
   actions:
     - theme: brand
       text: Вики
