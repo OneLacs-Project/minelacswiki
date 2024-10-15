@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "MineLacs Wiki",
   description: "Вики Сервера MineLacs",
+  base: '/minelacswiki/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
