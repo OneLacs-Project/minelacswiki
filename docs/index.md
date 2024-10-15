@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "MineLacs Wiki" 
-  text: "Вики Сервера MineLacs"
+  name: "MineLacs" 
+  text: "Википедия"
   tagline:
   image:
     src: https://github.com/VGSS6102/minelacswiki/blob/main/docs/imgs/sawa_nishiy512.png
