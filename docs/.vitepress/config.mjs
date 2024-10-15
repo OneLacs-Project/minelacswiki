@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "MineLacs Wiki",
   description: "Вики Сервера MineLacs",
-  logo: 'imgs/mlWIKILOGO.png',
+  logo: 'mlWIKILOGO.png',
   base: '/minelacswiki/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
