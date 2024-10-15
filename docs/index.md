@@ -7,7 +7,7 @@ hero:
   text: "Вики Сервера MineLacs"
   tagline:
   image:
-    src: /sawa_nishiy512.png
+    src: 
   actions:
     - theme: brand
       text: Вики
