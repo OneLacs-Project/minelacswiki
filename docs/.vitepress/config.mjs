@@ -7,7 +7,7 @@ export default defineConfig({
   base: '/minelacswiki/',
   themeConfig: {
     sitetitle: "MineLacs Wiki",
-    logo: '/mlWIKILOGO.svg',
+    logo: 'https://github.com/VGSS6102/minelacswiki/blob/main/docs/imgs/mlWIKILOGO.svg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
