@@ -4,9 +4,10 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "MineLacs Wiki",
   description: "Вики Сервера MineLacs",
-  logo: 'imgs/mlWIKILOGO.svg',
   base: '/minelacswiki/',
   themeConfig: {
+    sitetitle: "MineLacs Wiki",
+    logo: 'mlWIKILOGO.svg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
