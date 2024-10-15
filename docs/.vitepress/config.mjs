@@ -7,7 +7,7 @@ export default defineConfig({
   base: '/minelacswiki/',
   themeConfig: {
     sitetitle: "MineLacs Wiki",
-    logo: 'https://cdn.discordapp.com/attachments/1248795602259677225/1248795603572363345/image.png?ex=670fb149&is=670e5fc9&hm=97f174ca66d41b8855e71f81a4d895d5225614f8d9d210aab6039de6f7ccd48d&',
+    logo: 'https://github.com/VGSS6102/minelacswiki/blob/main/docs/imgs/mlWIKILOGO.svg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
