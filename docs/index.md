@@ -7,7 +7,7 @@ hero:
   text: "Википедия"
   tagline:
   image:
-    src: https://cdn.discordapp.com/attachments/806846465615331329/1295697637097603123/wiki.png?ex=670f97f5&is=670e4675&hm=b1d0bddc34d02558d7542d83637689ad78ef0c345117baaef63ab7f44d4a7d23&
+    src: https://cdn.discordapp.com/attachments/806846465615331329/1295699111349190679/wiki512.png?ex=670f9955&is=670e47d5&hm=7db5f1dcc46965ca430795f3afe56ed8e81ef7761b5bb220783df6ca0e04e6d7&
   actions:
     - theme: brand
       text: MineLacs Magic
