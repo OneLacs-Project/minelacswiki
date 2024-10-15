@@ -7,10 +7,10 @@ hero:
   text: "Википедия"
   tagline:
   image:
-    src: https://github.com/VGSS6102/minelacswiki/blob/main/docs/imgs/sawa_nishiy512.png
+    src: https://cdn.discordapp.com/attachments/806846465615331329/1295697637097603123/wiki.png?ex=670f97f5&is=670e4675&hm=b1d0bddc34d02558d7542d83637689ad78ef0c345117baaef63ab7f44d4a7d23&
   actions:
     - theme: brand
-      text: Вики
+      text: MineLacs Magic
       link: /markdown-examples
     - theme: alt
       text: API Examples
