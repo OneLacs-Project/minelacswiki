@@ -11,6 +11,9 @@ export default defineConfig({
     ['link', { rel: 'icon', type: 'image/png', href: '/mlwiki-logo.png' }],
     ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
+  cleanUrls: true,
+
+
   themeConfig: {
     sitetitle: "MineLacs Wiki",
 
