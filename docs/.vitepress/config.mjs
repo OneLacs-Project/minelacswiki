@@ -9,6 +9,7 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/mlwiki-logo.svg' }],
     ['link', { rel: 'icon', type: 'image/png', href: '/mlwiki-logo.png' }],
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
   themeConfig: {
     sitetitle: "MineLacs Wiki",
