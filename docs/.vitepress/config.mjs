@@ -103,7 +103,7 @@ export default defineConfig({
                 }  
               ]
             },
-            { text: 'ML Create', link: '', collapsed: true, items: [
+            { text: 'ML Create', link: '/wiki/archive/ml-create', collapsed: true, items: [
                 { text: 'Галерея', link: '/wiki/archive/sub-ml-create/gallery'},
                 { text: 'Хайлайты', link: '/wiki/archive/sub-ml-create/highlights'},
                 { text: 'MineMusic Mod', link: '/wiki/archive/sub-ml-create/minemusic-mod'},

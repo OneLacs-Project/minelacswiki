@@ -88,20 +88,17 @@ lastUpdated: true
 
 **Общее количество: `14`**
 
-
-
-<!-- - SawaDawa177_ <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 10px; vertical-align: middle;" />
-- GreatShow6102 <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 10px; vertical-align: middle;" />
-- Mr_Frying 
-- phonexr  
-- DVD314 
-- AngelOfOlaf 
-- Nub4ik1  
-- GodToolPlays  
-- b_r_u_h_  
-- Babfter  
-- FEODAL  
-- ENTER_FM  
-- vxdqqqq 
-- Street02_  
-  -->
+- **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Mr_Frying <img src="https://api.mineatar.io/face/8a587fdf-a714-42db-b460-cac37bfaaaeb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- phonexr <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- AngelOfOlaf <img src="https://api.mineatar.io/face/e1f7457b-aca5-4e61-b416-b1368057a4fe?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Nub4ik1  <img src="https://api.mineatar.io/face/d2b496f0-c2b0-4849-8dee-a6bda731a7eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- GodToolPlays  <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- b_r_u_h_  <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Babfter  <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- FEODAL  <img src="https://api.mineatar.io/face/fb9a3e77-cdfa-4161-b16f-7326eef5e85b?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- ENTER_FM  <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- vxdqqqq <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Street02_  <img src="https://api.mineatar.io/face/7cb844d1-e394-4cf2-9707-0a95aefffca4?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
