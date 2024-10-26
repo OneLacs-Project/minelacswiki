@@ -2,8 +2,11 @@
 # ![mnlogo](./imgs/minenetLOGO.png)
 outline: deep
 lastUpdated: false
+next: 
+    text: 'ML Magic'
+    link: '/wiki/season/ml-magic'
 ---
-# ⁉️ Как зайти?
+# ❓ Как зайти?
 ## Требования 
 - Присуствовать на нашем [**Дискорд Сервере**](https://discord.com/invite/6u47fz6dCP)
 - Зайти на сервер и получить 4х значный код `????`
