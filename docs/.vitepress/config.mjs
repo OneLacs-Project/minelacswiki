@@ -9,7 +9,7 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/mlwiki-logo.svg' }],
     ['link', { rel: 'icon', type: 'image/png', href: '/mlwiki-logo.png' }],
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/base/favicon.ico' }]
   ],
   cleanUrls: true,
 
@@ -39,7 +39,14 @@ export default defineConfig({
 
     nav: [
       { text: 'Главная', link: '/' },
-      { text: 'Вики', link: '/wiki/how-to-join' }
+      { text: 'Вики', link: '/wiki/how-to-join', activeMatch: '/wiki/'},
+      { text: 'Наши ссылки', activeMatch: '/wiki/about-us/project', items: [
+          { text: 'Discord', link: 'https://discord.gg/B6ywHB7ftP'},
+          { text: 'Telegram', link: 'https://t.me/minelacs'},
+          { text: 'Boosty', link: 'https://boosty.to/minelacs'},
+          { text: 'Сайт', link: 'https://minelacs.ru/'}
+        ]
+      }
     ],
 
     sidebar: { 
