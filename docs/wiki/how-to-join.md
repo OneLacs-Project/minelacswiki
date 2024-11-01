@@ -3,7 +3,7 @@
 outline: deep
 lastUpdated: false
 next: 
-    text: 'ML Magic'
+    text: '🔮 ML Magic'
     link: '/wiki/season/ml-magic'
 ---
 # ❓ Как зайти?

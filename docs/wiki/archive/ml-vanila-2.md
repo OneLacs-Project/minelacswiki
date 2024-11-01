@@ -19,6 +19,15 @@ lastUpdated: true
 - Загрузка ресурспаков
 
 ## Документации / Ресурсы
+> [!NOTE] ⚙️ <a href="sub-ml-vanila-2/sub-docs-and-resources/additional-mechanics">Доп Механики</a>
+
+> [!NOTE] 🎨 <a href="sub-ml-vanila-2/sub-docs-and-resources/resourcepack-load">Загрузка Ресурспаков</a>
+
+> [!NOTE] ✏️ <a href="sub-ml-vanila-2/sub-docs-and-resources/images-on-maps">Изображения на мапах</a>
+
+> [!NOTE] 🎵 <a href="sub-ml-vanila-2/sub-docs-and-resources/music-discs">Пластинки</a>
+
+> [!NOTE] 💬 <a href="sub-ml-vanila-2/sub-docs-and-resources/flectone-chat">FlectoneChat</a>
 
 
 ## История
@@ -73,9 +82,11 @@ lastUpdated: true
 `10 Октября:` **Объявлены <span style="color: orange;">тех работы</span>**
 
 `12 Октября:` После <span style="color: orange;">тех работ</span> веб карта сервера была отключена из-за битых данных
+
+`28 Октября:` **<span style="color: #EE0000;">Сервер был завершен</span>**
 :::
 ### Предыдущий сезон
-пусто
+> [!NOTE] 🗃️ <a href="ml-vanila">ML Vanila </a>
 
 ## Участники
 **Общее количество: `17`**

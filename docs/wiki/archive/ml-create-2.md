@@ -16,9 +16,9 @@ lastUpdated: true
 
 ## Документации / Ресурсы
 
-::: info 💸Валюта [Create:Numismatics](https://modrinth.com/mod/numismatics)
+> [!NOTE] 💸Валюта <a href="https://modrinth.com/mod/numismatics">Create:Numismatics</a>
 
-:::
+
 
 ## История
 
@@ -81,8 +81,8 @@ lastUpdated: true
 :::
 
 ### Предыдущий сезон ML Create
->
-> [!NOTE] <a href="/wiki/archive/ml-create"> ML Create </a>
+
+> [!NOTE] 🗃️ <a href="ml-create">ML Create </a>
 
 ## Участники
 

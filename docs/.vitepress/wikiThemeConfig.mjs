@@ -15,20 +15,6 @@ export const wikiThemeConfig = {
           text: 'Сезон',
           items: [
             { text: '🔮 ML Magic', link: '/wiki/season/ml-magic'},
-            { 
-              text: '🌿 ML Ванила 2', 
-              link: '/wiki/season/ml-vanila-2', 
-              collapsed: true,
-              items: [
-                { text: '⚙️ Доп Механики', link: '/wiki/season/sub-ml-vanila-2/additional-mechanics' },
-                { text: '🎨 Загрузка Ресурспаков', link: '/wiki/season/sub-ml-vanila-2/resourcepack-load' },
-                { text: '✏️ Изображения на мапах', link: '/wiki/season/sub-ml-vanila-2/images-on-maps' },
-                { text: '🎵 Пластинки', link: '/wiki/season/sub-ml-vanila-2/music-discs' },
-                { text: '💬 FlectoneChat', link: '/wiki/season/sub-ml-vanila-2/flectone-chat' },
-                // { text: 'Онлайн Карта', link: '' },
-                { text: '🍷 Brewery', link: '' },
-              ]
-            },
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},
             { text: '🥩 Саварубка', link: '/wiki/season/sawarubka'}
           ]
@@ -43,6 +29,21 @@ export const wikiThemeConfig = {
         { // Категория архив
           text: 'Архив',
           items: [
+            { text: '🗃️ ML Ванила 2', 
+              link: '/wiki/archive/ml-vanila-2', 
+              collapsed: true,
+              items: [
+                { text: '🖼️ Галерея', link: '/wiki/archive/sub-ml-vanila-2/gallery'},
+                { text: '📑 Документации / Ресурсы', collapsed: true, items: [
+                  { text: '⚙️ Доп Механики', link: '/wiki/archive/sub-ml-vanila-2/sub-docs-and-resources/additional-mechanics' },
+                  { text: '🎨 Загрузка Ресурспаков', link: '/wiki/archive/sub-ml-vanila-2/sub-docs-and-resources/resourcepack-load' },
+                  { text: '✏️ Изображения на мапах', link: '/wiki/archive/sub-ml-vanila-2/sub-docs-and-resources/images-on-maps' },
+                  { text: '🎵 Пластинки', link: '/wiki/archive/sub-ml-vanila-2/sub-docs-and-resources/music-discs' },
+                  { text: '💬 FlectoneChat', link: '/wiki/archive/sub-ml-vanila-2/sub-docs-and-resources/flectone-chat' },
+                  ]
+                }
+              ]
+            },
             { text: '🗃️ ML Create 2', link: '/wiki/archive/ml-create-2', collapsed: true, items: [
                 { text: '📥 Карта Сервера', link: '/wiki/archive/sub-ml-create-2/server-map'},
                 { text: '🖼️ Галерея', link: '/wiki/archive/sub-ml-create-2/gallery'},

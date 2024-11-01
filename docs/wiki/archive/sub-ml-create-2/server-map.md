@@ -15,8 +15,8 @@ lastUpdated: true
 |Карта Мира| [Google Drive](https://drive.google.com/file/d/1Wyc2fnjgLtJnY4jkefteVBas_PbVCRHX/view?usp=sharing) |
 |Сборка FORGE 1.20.1| [Файл](https://cdn.discordapp.com/attachments/1147016520128528435/1254861242540232745/mods.rar?ex=66a883da&is=66a7325a&hm=2480704ecd489e63e3fc02b9e4fa0023aad33bcb0d0246f7d9c51df52613aff5&) |
 
-::: info [Сборка](/wiki/archive/sub-ml-create-2/modpack.md) 
-:::
+> [!NOTE] <a href="modpack">Сборка</a>
+
 ## Неполадки?
 > Мой инвентарь и статистика не загрузились!
 
