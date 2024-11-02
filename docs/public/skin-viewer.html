@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://unpkg.com/skinview3d@3.0.0-alpha.1/bundles/skinview3d.bundle.js"></script>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: transparent;
+        }
+        #skin_container {
+            width: 300px;
+            height: 300px;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="skin_container"></canvas>
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const playerName = urlParams.get('player');
+
+        let skinViewer = new skinview3d.SkinViewer({
+            canvas: document.getElementById("skin_container"),
+            width: 300,
+            height: 300,
+            skin: `https://mc-heads.net/skin/${playerName}`
+        });
+
+        skinViewer.camera.position.set(30, 30, -35);
+        skinViewer.camera.lookAt(0, 15, 0);
+        
+        let rotate = skinViewer.animations.add(skinview3d.RotatingAnimation);
+        rotate.speed = 0.3;
+
+        // Добавляем анимацию ходьбы
+        let walk = skinViewer.animations.add(skinview3d.WalkingAnimation);
+        walk.speed = 0.5;
+
+        window.addEventListener('load', () => {
+            skinViewer.render();
+        });
+    </script>
+</body>
+</html>
