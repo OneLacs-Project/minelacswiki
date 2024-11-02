@@ -14,7 +14,7 @@ import { onMounted } from 'vue'
 
 const members = [
   {
-    avatar: '/skin-viewer.html?player=SawaDawa177_',
+    avatar: '/minelacswiki/skin-viewer.html?player=SawaDawa177_',
     name: 'SawaDawa177_',
     title: 'Создатель',
     links: [
@@ -23,7 +23,7 @@ const members = [
     ]
   },
   {
-    avatar: '/skin-viewer.html?player=GreatShow6102',
+    avatar: '/minelacswiki/skin-viewer.html?player=GreatShow6102',
     name: 'GreatShow6102',
     title: 'Администратор, Редактор Вики',
     links: [
@@ -32,7 +32,7 @@ const members = [
     ]
   },
   {
-    avatar: '/skin-viewer.html?player=Nub4ik1',
+    avatar: '/minelacswiki/skin-viewer.html?player=Nub4ik1',
     name: 'Nub4ik1',
     title: 'Модератор',
     links: [
@@ -57,10 +57,15 @@ onMounted(() => {
 
 <style>
 :deep(.VPTeamMembersItem .avatar) {
-  border-radius: 50%;
-  overflow: hidden;
+  border-radius: 0 !important;
+  overflow: visible !important;
   width: 100px !important;
   height: 100px !important;
+  background: transparent !important;
+}
+
+:deep(.VPTeamMembersItem .avatar::before) {
+  display: none !important;
 }
 
 :deep(.VPTeamMembersItem .avatar img) {
@@ -72,6 +77,11 @@ onMounted(() => {
   height: 100px !important;
   border: none;
   transform: scale(1.0);
+  pointer-events: none;
+}
+
+:deep(.VPTeamMembersItem .profile) {
+  padding-top: 0 !important;
 }
 </style>
 
