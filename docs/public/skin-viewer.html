@@ -9,8 +9,8 @@
             background: transparent;
         }
         #skin_container {
-            width: 100px;
-            height: 100px;
+            width: 300px;
+            height: 300px;
             display: block;
         }
     </style>
@@ -23,16 +23,20 @@
 
         let skinViewer = new skinview3d.SkinViewer({
             canvas: document.getElementById("skin_container"),
-            width: 100,
-            height: 100,
+            width: 300,
+            height: 300,
             skin: `https://mc-heads.net/skin/${playerName}`
         });
 
-        skinViewer.camera.position.set(15, 25, -30);
-        skinViewer.camera.lookAt(0, 10, 0);
+        skinViewer.camera.position.set(30, 30, -35);
+        skinViewer.camera.lookAt(0, 15, 0);
         
         let rotate = skinViewer.animations.add(skinview3d.RotatingAnimation);
         rotate.speed = 0.3;
+
+        // Добавляем анимацию ходьбы
+        let walk = skinViewer.animations.add(skinview3d.WalkingAnimation);
+        walk.speed = 0.5;
 
         window.addEventListener('load', () => {
             skinViewer.render();
