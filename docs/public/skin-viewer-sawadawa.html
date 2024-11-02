@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://unpkg.com/skinview3d@3.0.0-alpha.1/bundles/skinview3d.bundle.js"></script>
+    <style>
+        body { margin: 0; }
+        canvas { width: 100%; height: 100%; }
+    </style>
+</head>
+<body>
+    <canvas id="skin_container"></canvas>
+    <script>
+        let skinViewer = new skinview3d.SkinViewer({
+            canvas: document.getElementById("skin_container"),
+            width: 300,
+            height: 300,
+            skin: `https://minecraft-api.com/api/skins/SawaDawa177_/skin.png`
+        });
+
+        skinViewer.camera.position.set(30, 30, -35);
+        skinViewer.camera.lookAt(0, 15, 0);
+        
+        // Анимация вращения
+        skinViewer.animations.add(skinview3d.RotatingAnimation);
+        
+        // Анимация ходьбы
+        let walk = skinViewer.animations.add(skinview3d.WalkingAnimation);
+        walk.speed = 0.5;
+    </script>
+</body>
+</html>
