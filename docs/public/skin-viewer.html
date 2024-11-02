@@ -28,13 +28,12 @@
             skin: `https://mc-heads.net/skin/${playerName}`
         });
 
-        skinViewer.camera.position.set(0, 15, 25);
-        skinViewer.camera.lookAt(0, 15, 0);
+        skinViewer.camera.position.set(15, 25, -30);
+        skinViewer.camera.lookAt(0, 10, 0);
         
         let rotate = skinViewer.animations.add(skinview3d.RotatingAnimation);
         rotate.speed = 0.3;
 
-        // Фикс для корректного отображения в iframe
         window.addEventListener('load', () => {
             skinViewer.render();
         });
