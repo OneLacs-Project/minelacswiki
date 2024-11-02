@@ -14,7 +14,7 @@ import { onMounted } from 'vue'
 
 const members = [
   {
-    avatar: '/skin-viewer-sawadawa.html',
+    avatar: '/skin-viewer.html?player=SawaDawa177_',
     name: 'SawaDawa177_',
     title: 'Создатель',
     links: [
@@ -23,7 +23,7 @@ const members = [
     ]
   },
   {
-    avatar: '/skin-viewer-greatshow.html',
+    avatar: '/skin-viewer.html?player=GreatShow6102',
     name: 'GreatShow6102',
     title: 'Администратор, Редактор Вики',
     links: [
@@ -32,7 +32,7 @@ const members = [
     ]
   },
   {
-    avatar: '/skin-viewer-nub4ik.html',
+    avatar: '/skin-viewer.html?player=Nub4ik1',
     name: 'Nub4ik1',
     title: 'Модератор',
     links: [
@@ -43,15 +43,25 @@ const members = [
 </script>
 
 <style>
-.avatar-container {
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  overflow: hidden;
+:deep(.medium-zoom-overlay) {
+  z-index: 20;
 }
 
-.vp-doc iframe {
+:deep(.medium-zoom-image--opened) {
+  z-index: 21;
+}
+
+:deep(.VPTeamMembersItem .avatar) {
   border-radius: 50%;
+  overflow: hidden;
+  width: 100px !important;
+  height: 100px !important;
+}
+
+:deep(.VPTeamMembersItem .avatar iframe) {
+  width: 100px !important;
+  height: 100px !important;
+  border: none;
 }
 </style>
 
