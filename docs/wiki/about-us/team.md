@@ -40,17 +40,22 @@ const members = [
     ]
   },
 ]
+
+onMounted(() => {
+  // Заменяем img на iframe для каждой аватарки
+  const avatars = document.querySelectorAll('.VPTeamMembersItem .avatar img')
+  avatars.forEach(img => {
+    const iframe = document.createElement('iframe')
+    iframe.src = img.src
+    iframe.style.width = '100px'
+    iframe.style.height = '100px'
+    iframe.style.border = 'none'
+    img.parentNode.replaceChild(iframe, img)
+  })
+})
 </script>
 
 <style>
-:deep(.medium-zoom-overlay) {
-  z-index: 20;
-}
-
-:deep(.medium-zoom-image--opened) {
-  z-index: 21;
-}
-
 :deep(.VPTeamMembersItem .avatar) {
   border-radius: 50%;
   overflow: hidden;
@@ -58,10 +63,15 @@ const members = [
   height: 100px !important;
 }
 
+:deep(.VPTeamMembersItem .avatar img) {
+  display: none;
+}
+
 :deep(.VPTeamMembersItem .avatar iframe) {
   width: 100px !important;
   height: 100px !important;
   border: none;
+  transform: scale(1.0);
 }
 </style>
 
