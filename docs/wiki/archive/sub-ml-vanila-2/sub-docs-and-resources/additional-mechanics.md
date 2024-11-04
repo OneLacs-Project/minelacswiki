@@ -29,8 +29,8 @@ lastUpdated: true
 - Чинятся на 25% больше
 
 ## Координаты смерти [^](#top-list) {#2}
-Как только вы умрете, в чате отобразится измерение и координаты места вашей смерти
-![](/greatshow-death-coordinates-preview.png)
+Как только вы умрете, в чате отобразится измерение и координаты места вашей смерти <br/>
+<img src="/WIKI/ML-Vanila-2/Additional-Mechanics/demo_img_1.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 300px; height: 33px;" />
 
 ## Репутация [^](#top-list) {#3}
 На нашем сервере теперь есть репутация. Вы можете поднимать или понижать репутацию игрокам.
@@ -54,7 +54,8 @@ lastUpdated: true
 ## Скрытие брони [^](#top-list) {#4}
 Игроки могут визуально скрыть свою броню для себя и других игроков сохраняя защиту.
 Это полезно для того чтобы показывать свой скин не снимая брони = защита + 4 слота инвентаря не занято.
-![](/sawadawa-invisible-armor-preview.png)
+
+<img src="/WIKI/ML-Vanila-2/Additional-Mechanics/demo_img_2.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 178px; height: 181px;" />
 
 ```
 /ha toggle
@@ -92,19 +93,24 @@ lastUpdated: true
 :::
 
 ## Узоры и пиглины [^](#top-list) {#9}
+Теперь при использовании **золотых** узоров на броне будет работать так-же как и обычная золотая броня. 
+> [!WARNING] ВАМ НУЖНО ИСПОЛЬЗОВАТЬ УЗОРЫ НА ПОЛНОМ СЕТЕ БРОНИ А НЕ ТОЛЬКО ОДИН ЭЛЕМЕНТ!
+
+> [!CAUTION] ЕСЛИ ВАС ЗАМЕТИЛ ПИГЛИН БЕЗ БРОНИ С УЗОРОМ ТО НАДЕВ ЕЕ ОНА НЕ СРАБОТАЕТ
+
 ## Перенос чар в книгу [^](#top-list) {#10}
 Вы теперь можете перенести чары с предметов или брони на книгу.
 Вам нужно положить простую книгу в первый слот.
 > [!CAUTION] ПРИ ПЕРЕНОСЕ ВАШ ПРЕДМЕТ ЛОМАЕТСЯ
 
-![](/enchant-transfer-anvil-preview.png)
+<img src="/WIKI/ML-Vanila-2/Additional-Mechanics/demo_img_3.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 347px; height: 168px;" />
 
 ## Мяч [^](#top-list) {#11}
 > [!WARNING] Перестал работать при переходе 1.21.1
 
 ::: details Описание
 
-В игре теперь присутствует интерактивный мяч 
+В игре теперь присутствует интерактивный мяч <img src="/WIKI/ML-Vanila-2/Additional-Mechanics/demo_img_4.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 169px; height: 76px;" />
 
 ### Крафт 
 Крафтится из живого иглобрюха  , нажав по нему 8 единицами кожи , после чего он скукожится в форму мяча, который можно подобрать нажав Шифт.
@@ -119,7 +125,12 @@ lastUpdated: true
 ``` 
 /ballskin
 ```
-![](/ball-on-the-ground-preview.avif)
+
+<img src="/WIKI/ML-Vanila-2/Additional-Mechanics/demo_img_5.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 300px; height: 124px;" />
+
+<img src="/WIKI/ML-Vanila-2/Additional-Mechanics/demo_img_6.avif" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 300px; height: 154px;" /> <img src="/WIKI/ML-Vanila-2/Additional-Mechanics/demo_img_7.avif" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 300px; height: 154px;" /> 
+
+<img src="/WIKI/ML-Vanila-2/Additional-Mechanics/demo_img_8.avif" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 300px; height: 154px;" />  <img src="/WIKI/ML-Vanila-2/Additional-Mechanics/demo_img_9.avif" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 300px; height: 154px;" /> 
 
 :::
 

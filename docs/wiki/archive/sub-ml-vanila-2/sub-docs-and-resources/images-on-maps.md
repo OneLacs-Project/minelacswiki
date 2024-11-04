@@ -4,7 +4,8 @@ lastUpdated: true
 ---
 
 # Изображение на мапах
-<img src="/image-on-map-in-frame-preview.avif" alt="Description of the image" width="368" height="76" >
+
+<img src="/WIKI/ML-Vanila-2/Images-on-maps/demo_img_1.avif" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 375px; height: 196px;" /> 
 
 ## Плагин
 Теперь вы можете закинуть картинку на пустые карты при помощи  DrMap
