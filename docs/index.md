@@ -10,7 +10,7 @@ hero:
     src: /wikihomepagelogo.png
   actions:
     - theme: brand
-      text: MineLacs Magic
+      text: MineLacs Magic 🔮
       link: /wiki/season/ml-magic
     - theme: alt
       text: Вики
