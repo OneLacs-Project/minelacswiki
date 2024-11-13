@@ -23,7 +23,7 @@ lastUpdated: true
 
 ## Моды
 
-<BoxCube
+<!-- <BoxCube
   :items="[
     //FontAwesome图标
     { name: 'fontawesome', link: '', icon: 'fas fa-font-awesome', color: '#538DD7' },
@@ -51,4 +51,4 @@ lastUpdated: true
     { name: 'Vue.js', link: '', icon: 'fab fa-vuejs', desc: 'v3.4.31' },
     { name: 'Vue.js', link: '', icon: 'fab fa-vuejs', desc: 'v3.4.31' },
     { name: 'Vue.js', link: '', icon: 'fab fa-vuejs', desc: 'v3.4.31' },]"
-/>
+/> -->
