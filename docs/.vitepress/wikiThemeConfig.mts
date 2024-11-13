@@ -14,7 +14,13 @@ export const wikiThemeConfig = {
         { // Категория сезонов
           text: 'Сезон',
           items: [
-            { text: '🔮 ML Magic', link: '/wiki/season/ml-magic'},
+            { text: '🔮 ML Magic', 
+              link: '/wiki/season/ml-magic',
+              colapsed: true,
+              items: [
+                { text: '📦 Сборка', link: '/wiki/season/sub-ml-magic/modpack'},
+              ]
+            },
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},
             { text: '🥩 Саварубка', link: '/wiki/season/sawarubka'}
           ]

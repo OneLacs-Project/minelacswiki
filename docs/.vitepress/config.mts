@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
-import { wikiThemeConfig } from './wikiThemeConfig.mjs'
-import { breweryThemeConfig } from './breweryThemeCofig.mjs'
+import { wikiThemeConfig } from './wikiThemeConfig.mts'
+import { breweryThemeConfig } from './breweryThemeConfig.mts'
+// import '@theojs/lumen/theme'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -17,7 +18,7 @@ export default defineConfig({
 
 
   themeConfig: {
-    sitetitle: "MineLacs Wiki",
+    // sitetitle: "MineLacs Wiki",
 
     logo: { src: '/mlwiki-logo.svg'},
 
