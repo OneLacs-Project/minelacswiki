@@ -8,7 +8,7 @@ export default defineConfig({
   lastUpdated: true,
   title: "MineLacs Wiki",
   description: "Вики Сервера MineLacs",
-  //base: '/minelacswiki/',
+  base: '/minelacswiki/',
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/mlwiki-logo.svg' }],
     ['link', { rel: 'icon', type: 'image/png', href: '/mlwiki-logo.png' }],
