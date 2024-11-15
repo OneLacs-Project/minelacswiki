@@ -9,7 +9,14 @@ lastUpdated: true
 
 ## Плагин
 Теперь вы можете закинуть картинку на пустые карты при помощи  DrMap
-https://modrinth.com/plugin/drmap
+<Links :items="[
+    { 
+        name: 'DrMap', 
+        link: 'https://modrinth.com/plugin/drmap', 
+        image: 'https://cdn.modrinth.com/data/MCEWz23F/a8b3940cc7e574e3b70ab5575e04cc1e6e1c7ccd_96.webp'
+    },
+  ]"
+/>
 
 ## Команды
 ### Создание картинки

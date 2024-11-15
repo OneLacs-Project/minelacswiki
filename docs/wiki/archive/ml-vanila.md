@@ -16,16 +16,29 @@ lastUpdated: true
 
 ### Документации / Ресурсы
 
-<!-- ::: info 
-:::
-::: info 
-:::
-::: info 
-:::
-::: info 
-:::
-::: info 
-::: -->
+<Links :items="[
+    { 
+        name: 'FlectoneChat', 
+        link: 'sub-ml-vanila/sub-docs0and-resources/flectone-chat', 
+        icon: 'fas fa-comment-dots'
+    },
+    { 
+        name: 'Пластинки', 
+        link: 'sub-ml-vanila/sub-docs0and-resources/music-discs', 
+        icon: 'fas fa-music'
+    },
+    { 
+        name: 'Мап Арты', 
+        link: 'sub-ml-vanila/sub-docs0and-resources/map-arts', 
+        icon: 'fas fa-paintbrush'
+    },
+    { 
+        name: 'Поделится ресурспаком', 
+        link: 'sub-ml-vanila/sub-docs0and-resources/share-resourcepack', 
+        icon: 'fas fa-puzzle-piece'
+    },
+  ]"
+/>
 
 
 ## История

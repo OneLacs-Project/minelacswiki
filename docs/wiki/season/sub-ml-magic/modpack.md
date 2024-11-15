@@ -6,11 +6,11 @@ lastUpdated: true
 # 🔮 Сборка
 ## Параметры 
 
-**Версия игры: 1.20.1**
+**Версия игры: <Badge type="info" text="1.20.1" />**
 
 Версия сборки: <Badge type="tip" text="v1.0" />
 
-Загрузчик модов: 1.20.1 Forge
+Загрузчик модов: <Badge type="info" text="1.20.1 Forge" />
 
 Ссылка на скачивание: [Сборка](https://drive.google.com/uc?export=download&id=1ik3YZgSejkZ0Xn84N-8m9gf3tpHJ7pu7) 
 
@@ -23,7 +23,7 @@ lastUpdated: true
 ## Моды
 *<span style="color: gray;"><sup>Это не полный и не динамичный список модов сборки, библиотеки и некоторые моды не указаны. </sup></span>*
 <br/>
-<BoxCube :items="[
+<Box :items="[
   //d
     { 
       name: 'Tetra', 
@@ -199,7 +199,7 @@ lastUpdated: true
 ### Клиентские
 <br/>
 
-<BoxCube :items="[
+<Box :items="[
     { 
       name: 'JEI', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/jei', 

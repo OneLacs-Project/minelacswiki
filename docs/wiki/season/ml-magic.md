@@ -11,10 +11,17 @@ prev:
 <img src="/WIKI/ML-Magic/demo_img_1.png" style="display: inline; vertical-align: middle; display: block; margin-left: auto; margin-right: auto; width: 320px; height: 260px;" />
 
 ## Описание
-*<span style="color: gray;"><sup>будет добавлено позже</sup></span>*
+**Версия Игры:** <Badge type="info" text="1.20.1 Forge" />
 
 ## Документации / Ресурсы
-*<span style="color: gray;"><sup>будет добавлено позже</sup></span>*
+<Links :items="[
+    { 
+        name: 'Сборка', 
+        link: 'sub-ml-magic/modpack', 
+        icon: 'fas fa-box-open', color: '#538DD7' 
+    },
+  ]"
+/>
 
 ## История
 

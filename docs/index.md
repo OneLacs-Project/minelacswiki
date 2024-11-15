@@ -6,6 +6,10 @@ footer: true
 hero:
   name: "MineLacs" 
   text: "Википедия"
+  # prelink:
+  #   title: '<i class="fas fa-bolt" style="color: #63E6BE;"></i> Test <p>pnpm add @theojs/lumen</p>'
+  #   link: /minelacswiki/wiki/season/ml-magic
+  #   target: _blank
   image:
     src: /wikihomepagelogo.png
   actions:
