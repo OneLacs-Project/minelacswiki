@@ -15,7 +15,14 @@ lastUpdated: true
 |Карта Мира| [Google Drive](https://drive.google.com/file/d/1Wyc2fnjgLtJnY4jkefteVBas_PbVCRHX/view?usp=sharing) |
 |Сборка FORGE 1.20.1| [Файл](https://cdn.discordapp.com/attachments/1147016520128528435/1254861242540232745/mods.rar?ex=66a883da&is=66a7325a&hm=2480704ecd489e63e3fc02b9e4fa0023aad33bcb0d0246f7d9c51df52613aff5&) |
 
-> [!NOTE] <a href="modpack">Сборка</a>
+<Links :items="[
+    { 
+        name: 'Сборка', 
+        link: 'modpack', 
+        icon: 'fas fa-box-open', color: '#538DD7' 
+    },
+  ]"
+/>
 
 ## Неполадки?
 > Мой инвентарь и статистика не загрузились!
@@ -31,4 +38,4 @@ lastUpdated: true
 Скопируйте все папки внутри. Вернитесь в папку `data` и зайдите в папку `sp`. Далее найдите папку с названием скачаного мира сервера (вам нужно будет в него зайти один раз предварительно). Вставьте с заменой те скопированные папки в папку мира. Заходите в мир и у вас должно все быть на своих местах.
 
 
-### Если у вас есть другие вопросы, задавайте их на нашем [Дискорд сервере](https://discord.com/invite/B6ywHB7ftP)
+#### Если у вас есть другие вопросы, задавайте их на нашем [Дискорд сервере](https://discord.com/invite/B6ywHB7ftP)
