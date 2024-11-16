@@ -1,7 +1,9 @@
-import { defineConfig } from 'vitepress'
-import { wikiThemeConfig } from './wikiThemeConfig.mts'
-import { breweryThemeConfig } from './breweryThemeConfig.mts'
+import { defineConfig } from 'vitepress';
+import { wikiThemeConfig } from './wikiThemeConfig.mts';
+import { breweryThemeConfig } from './breweryThemeConfig.mts';
 // import '@theojs/lumen/theme'
+
+import { figure } from '@mdit/plugin-figure';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -16,6 +18,15 @@ export default defineConfig({
   ],
   cleanUrls: true,
 
+  markdown: {
+    config: (md) => { 
+      md.use(figure, { figcaption: 'alt', copyAttrs: '^class$', lazy: true }) 
+    },
+    image: {
+      // image lazy loading is disabled by default
+      lazyLoading: true
+    }
+  },
 
   themeConfig: {
     // sitetitle: "MineLacs Wiki",
