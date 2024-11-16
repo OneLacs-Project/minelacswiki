@@ -89,10 +89,25 @@ Nub4ik1  <img src="https://api.mineatar.io/face/d2b496f0-c2b0-4849-8dee-a6bda731
 ## Lacs - Газета 
 
 <!-- место для скринов -->
+|<img src="/WIKI/ML-Create-2/Gallery/demo_img_30.avif" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 340px; height: auto;" />|<img src="/WIKI/ML-Create-2/Gallery/demo_img_31.avif" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 340px; height: auto;" />|
+|---|---|
+| Ультра-мега-гига-супер-пупер бур готов до прошествия суток с начала сезона! DVD corp. развивается семимильными шагами! - DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> | DVD corp. начал обустраивать торговую зону. Первый магазин предоставляет шестерни и валы, а так же покупает медь, цинк и алмазы - DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> | 
+
+
+|<img src="/WIKI/ML-Create-2/Gallery/demo_img_32.avif" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 340px; height: auto;" />|<img src="/WIKI/ML-Create-2/Gallery/demo_img_33.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 340px; height: auto;" />|
+|---|---|
+| DVD corp. объявляет об успешной постройке фермы опыта! Ждите магазин опыта на спавне в течение ближайших пары дней!  - DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> | DVD corp. открыла магазин опыта на спавне! - DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> |
+
+|<img src="/WIKI/ML-Create-2/Gallery/demo_img_34.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 340px; height: auto;" />|<img src="/WIKI/ML-Create-2/Gallery/demo_img_35.avif" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 340px; height: auto;" />|
+|---|---|
+| Энд свободен .. Я убил эндер дракона и яйцо находится у меня - **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> |...Так вот, внимание вопрос: Сколько верстаков на этом скриншоте? - phonexr <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/> |
+
 
 
 ## Логотипы 
 
-###### *в процессе добавления*
-
 <!-- место для скринов -->
+
+|<img src="/WIKI/ML-Create-2/Gallery/demo_img_36.avif" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 340px; height: auto;" />|
+|---|
+|Ребрендинг логотипа DVD corp. <br/> DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> (основатель)  |

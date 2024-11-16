@@ -29,7 +29,10 @@ prev:
 ::: details Ноябрь 2024
 `11 Ноября:` - Объявлено открытие сезона на `12 ноября`
 
-`12 Ноября` - **<span style="color: green;">Сезон начался</span>**
+`12 Ноября:` - **<span style="color: green;">Сезон начался</span>**
+
+`16 Ноября:` - Обновление принесло 30 модов, кнопку к этой википедии в меню игры, русифицированый **[Embedium](https://www.curseforge.com/minecraft/mc-mods/embeddium)**, удален **[Seamless Loading Screen](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen-forge)**. <br/>
+Подробнее в **[Сборке](sub-ml-magic/modpack)**
 :::
 
 ## Участники

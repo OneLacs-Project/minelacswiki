@@ -8,23 +8,41 @@ lastUpdated: true
 
 **Версия игры: <Badge type="info" text="1.20.1" />**
 
-Версия сборки: <Badge type="tip" text="v1.0" />
+Версия сборки: <Badge type="tip" text="v2.12" />
 
 Загрузчик модов: <Badge type="info" text="1.20.1 Forge" />
 
-Ссылка на скачивание: [Сборка](https://drive.google.com/uc?export=download&id=1ik3YZgSejkZ0Xn84N-8m9gf3tpHJ7pu7) 
+Ссылка на скачивание: [Сборка](https://drive.google.com/uc?export=download&id=1aG8czBV8oGXpzmeVNt7AoMiv6D9K18zM) 
 
 *Следите за новостями сервера на канале `📰│lacsnews` чтобы узнавать про новую сборку и прочую  информацию быстрее чем тут.*
 
 ::: details Лог
 `12 Ноября:` Релизная сборка 
+
+`16 Ноября:` **Обновление принесло изменения в сборке:** <br/>
+**<span style="color: red;">- удален</span>** [Seamless Loading Screen](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen-forge) <br/>
+🗺️ **<span style="color: yellow;">переведен на русский</span>** [Embedium](https://www.curseforge.com/minecraft/mc-mods/embeddium) <br/>
+
+**<span style="color: green;">+ добавлен</span>** [Subtle Effects](https://modrinth.com/mod/subtle-effects) <br/>
+**<span style="color: green;">+ добавлен</span>** [Damage Numbers](https://modrinth.com/mod/damagenumbers) <br/>
+**<span style="color: green;">+ добавлен</span>** [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) <br/>
+**<span style="color: green;">+ добавлен</span>** [Item Highlighter](https://modrinth.com/mod/item-highlighter) <br/>
+**<span style="color: green;">+ добавлен</span>** [Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier) <br/>
+**<span style="color: green;">+ добавлен</span>** [Chat Impressive Animation](https://modrinth.com/mod/chat-impressive-animation) <br/>
+\- предложены от Kosinys <img src="https://api.mineatar.io/face/58650faf-08ae-438a-a1ce-ec99ba38c4e6?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+
+**<span style="color: green;">+ добавлены</span>** [When Dungeons Arise](https://modrinth.com/mod/when-dungeons-arise) + [аддон](https://modrinth.com/mod/when-dungeons-arise-seven-seas) <br/>
+**<span style="color: green;">+ добавлены</span>** Аддоны для мода [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra) <br/>
+**<span style="color: green;">+ добавлен</span>** [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis) <br/>
+**<span style="color: green;">+ добавлен</span>** [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) <br/>
+\- предложены от DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 :::
 
 ## Моды
 *<span style="color: gray;"><sup>Это не полный и не динамичный список модов сборки, библиотеки и некоторые моды не указаны. </sup></span>*
-<br/>
+
+### Tetra
 <Box :items="[
-  //d
     { 
       name: 'Tetra', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/tetra', 
@@ -37,6 +55,91 @@ lastUpdated: true
       image: 'https://media.forgecdn.net/avatars/thumbnails/798/825/256/256/638160739358634114.png', 
       color: '#FF0000', desc: 'Curseforge', //icon: 'simple-icons:curseforge'
     },
+    { 
+      name: 'Tetra Extras', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/tetra-extras', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/892/921/256/256/638335602446424383.jpeg', 
+      color: '#FF0000', desc: 'Curseforge', //icon: 'simple-icons:curseforge'
+    },
+    { 
+      name: 'Tetranomicon', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/tetranomicon', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/342/136/256/256/637485806201591590.png', 
+      color: '#FF0000', desc: 'Curseforge', //icon: 'simple-icons:curseforge'
+    },
+    { 
+      name: 'Tetratic Combat Expanded', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/tetratic-combat-expanded', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/923/383/256/256/638390001570626488.png', 
+      color: '#FF0000', desc: 'Curseforge', //icon: 'simple-icons:curseforge'
+    },
+    { 
+      name: 'Art of Forging', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/560/606/256/256/637911791439744041.png', 
+      color: '#FF0000', desc: 'Curseforge', //icon: 'simple-icons:curseforge'
+    },
+    { 
+      name: 'tetracelium', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/tetracelium', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/896/866/256/256/638341965915537559.png', 
+      color: '#FF0000', desc: 'Curseforge', //icon: 'simple-icons:curseforge'
+    },
+    ]"
+/>
+
+### Origins
+<Box :items="[
+  { 
+    name: 'Origins', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/origins-forge', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/373/582/256/256/637546267631048138.png', 
+    color: '#FF0000', desc: 'Curseforge', 
+  },
+  { 
+    name: 'Origins: Classes', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/origins-classes-forge', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/531/506/256/256/637853705659037696.png', 
+    color: '#FF0000', desc: 'Curseforge', 
+  },
+  ]"
+/>
+
+### Farmer's delight
+<Box :items="[
+  { 
+    name: 'Farmer\'s Delight', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/farmers-delight', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png', 
+    color: '#FF0000', desc: 'Curseforge', 
+  },
+  { 
+    name: 'Nether\'s Delight', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/nethers-delight', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/397/613/256/256/637598857629083481.png', 
+    color: '#FF0000', desc: 'Curseforge', 
+  },
+]"
+/>
+
+### When Dungeon Arises
+<Box :items="[
+  { 
+      name: 'When Dungeons Arise', 
+      link: 'https://modrinth.com/mod/when-dungeons-arise', 
+      image: 'https://cdn.modrinth.com/data/8DfbfASn/4240773f6aa5f8c69f44a5e2e0ff313f98ff3389_96.webp', 
+      color: '#00FF00', desc: 'Modrinth', //icon: 'simple-icons:modrinth'
+    },
+    {
+      name: 'Seven Seas', 
+      link: 'https://modrinth.com/mod/when-dungeons-arise-seven-seas', 
+      image: 'https://cdn.modrinth.com/data/ZsrrjDbP/dde6d034253f027dad87ffb06e2f047b0b5c96a0_96.webp', 
+      color: '#00FF00', desc: 'Modrinth', //icon: 'simple-icons:modrinth'
+    },
+]"/>
+
+### Остальные
+<Box :items="[
     { 
       name: 'Stellarity', 
       link: 'https://modrinth.com/datapack/stellarity', 
@@ -98,18 +201,6 @@ lastUpdated: true
       color: '#FF0000', desc: 'Curseforge', 
     },
     { 
-      name: 'Farmer\'s Delight', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/farmers-delight', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png', 
-      color: '#FF0000', desc: 'Curseforge', 
-    },
-    { 
-      name: 'Nether\'s Delight', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/nethers-delight', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/397/613/256/256/637598857629083481.png', 
-      color: '#FF0000', desc: 'Curseforge', 
-    },
-    { 
       name: 'Better Combat', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/566/413/256/256/637925434672465483.png', 
@@ -143,18 +234,6 @@ lastUpdated: true
       name: 'Ribbits', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/ribbits', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/1013/839/256/256/638538895773776677.png', 
-      color: '#FF0000', desc: 'Curseforge', 
-    },
-    { 
-      name: 'Origins', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/origins-forge', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/373/582/256/256/637546267631048138.png', 
-      color: '#FF0000', desc: 'Curseforge', 
-    },
-    { 
-      name: 'Origins: Classes', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/origins-classes-forge', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/531/506/256/256/637853705659037696.png', 
       color: '#FF0000', desc: 'Curseforge', 
     },
     { 
@@ -192,6 +271,18 @@ lastUpdated: true
       link: 'https://www.curseforge.com/minecraft/mc-mods/ob-aquamirae', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/464/755/256/256/637744772991786976.png', 
       color: '#FF0000', desc: 'Curseforge', 
+    },
+    { 
+      name: 'Apotheosis', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/apotheosis', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/806/643/256/256/638174667713250064.png', 
+      color: '#FF0000', desc: 'Curseforge', 
+    },
+    { 
+      name: 'L_Ender\'s Cataclysm', 
+      link: 'https://modrinth.com/mod/l_enders-cataclysm', 
+      image: 'https://cdn.modrinth.com/data/46KJle7n/4de43b519c4b4ce09c5a3155e908da446dbf455a_96.webp', 
+      color: '#00FF00', desc: 'Modrinth', //icon: 'simple-icons:modrinth'
     },
     ]"
 />
@@ -253,6 +344,42 @@ lastUpdated: true
       link: 'https://www.curseforge.com/minecraft/mc-mods/appleskin', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png', 
       color: '#FF0000', desc: 'Curseforge', //icon: 'simple-icons:curseforge'
+    },
+    { 
+      name: 'Subtle Effects', 
+      link: 'https://modrinth.com/mod/subtle-effects', 
+      image: 'https://cdn.modrinth.com/data/4q8UOK1d/8a5d3febe9a9badba435a3f66a49668d04ada01f_96.webp', 
+      color: '#00FF00', desc: 'Modrinth', //icon: 'simple-icons:modrinth'
+    },
+    { 
+      name: 'Damage Numbers', 
+      link: 'https://modrinth.com/mod/damagenumbers', 
+      image: 'https://cdn.modrinth.com/data/iWdXs2dQ/a267af77da4c8380e57bfa8258a5abd3b98547cc.png', 
+      color: '#00FF00', desc: 'Modrinth', //icon: 'simple-icons:modrinth'
+    },
+    { 
+      name: 'Mouse Tweaks', 
+      link: 'https://modrinth.com/mod/mouse-tweaks', 
+      image: 'https://cdn.modrinth.com/data/aC3cM3Vq/6c0eaa4e60a9c87f4766f222ff63286f09da32c0_96.webp', 
+      color: '#00FF00', desc: 'Modrinth', //icon: 'simple-icons:modrinth'
+    },
+    { 
+      name: 'Item Highlighter', 
+      link: 'https://modrinth.com/mod/item-highlighter', 
+      image: 'https://cdn.modrinth.com/data/cVNW5lr6/5e15f8c53ea36ca5391cdd9bbdea33261fa4c18d_96.webp', 
+      color: '#00FF00', desc: 'Modrinth', //icon: 'simple-icons:modrinth'
+    },
+    { 
+      name: 'Pick Up Notifier', 
+      link: 'https://modrinth.com/mod/pick-up-notifier', 
+      image: 'https://cdn.modrinth.com/data/ZX66K16c/8005a3a223dde914bebce0639db1127950cc6c1b_96.webp', 
+      color: '#00FF00', desc: 'Modrinth', //icon: 'simple-icons:modrinth'
+    },
+    { 
+      name: 'Chat Impressive Animation', 
+      link: 'https://modrinth.com/mod/chat-impressive-animation', 
+      image: 'https://cdn.modrinth.com/data/DnL1AGAI/94dc7f885aff308e6af79d12f8f3d9923a413d09_96.webp', 
+      color: '#00FF00', desc: 'Modrinth', //icon: 'simple-icons:modrinth'
     },
     ]"
 />
