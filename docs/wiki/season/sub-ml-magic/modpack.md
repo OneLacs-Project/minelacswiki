@@ -74,12 +74,6 @@ lastUpdated: true
       color: '#FF0000', desc: 'Curseforge', //icon: 'simple-icons:curseforge'
     },
     { 
-      name: 'Art of Forging', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/560/606/256/256/637911791439744041.png', 
-      color: '#FF0000', desc: 'Curseforge', //icon: 'simple-icons:curseforge'
-    },
-    { 
       name: 'tetracelium', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/tetracelium', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/896/866/256/256/638341965915537559.png', 
