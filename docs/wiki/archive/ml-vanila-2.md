@@ -23,31 +23,31 @@ lastUpdated: true
 <Links :items="[
     { 
         name: 'Доп Механики', 
-        link: 'sub-ml-vanila-2/sub-docs-and-resources/additional-mechanics', 
+        link: 'ml-vanila-2/docs-and-resources/additional-mechanics', 
         // icon: 'fas fa-gear', color: '#538DD7' 
     },
     //
     { 
         name: 'Загрузка Ресурспаков', 
-        link: 'sub-ml-vanila-2/sub-docs-and-resources/resourcepack-load', 
+        link: 'ml-vanila-2/docs-and-resources/resourcepack-load', 
         // icon: 'fas fa-palette', color: '#538DD7' 
     },
     //
     {
         name: 'Изображения на мапах',
-        link: 'sub-ml-vanila-2/sub-docs-and-resources/images-on-maps',
+        link: 'ml-vanila-2/docs-and-resources/images-on-maps',
         // image: 'fas fa-pencil', color: '#538DD7'  
     },
     //
     {
         name: 'Пластинки',
-        link: 'sub-ml-vanila-2/sub-docs-and-resources/music-discs',
+        link: 'ml-vanila-2/docs-and-resources/music-discs',
         // image: 'fas fa-compact-disc', color: '#538DD7'
     },
     //
     { 
         name: 'FlectoneChat', 
-        link: 'sub-ml-vanila-2/sub-docs-and-resources/flectone-chat', 
+        link: 'ml-vanila-2/docs-and-resources/flectone-chat', 
         // image: 'fas fa-comment-dots', color: '#538DD7'
     }
   ]"

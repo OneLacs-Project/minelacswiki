@@ -18,17 +18,17 @@ lastUpdated: true
 <Links :items="[
     { 
         name: 'Карта Сервера', 
-        link: 'sub-ml-create-2/server-map', 
+        link: 'ml-create-2/server-map', 
         icon: 'fas fa-inbox'
     },
     { 
         name: 'Сборка', 
-        link: 'sub-ml-create-2/modpack', 
+        link: 'ml-create-2/modpack', 
         icon: 'fas fa-box-open'
     },
     { 
         name: 'FlectoneChat', 
-        link: 'sub-ml-create-2/flectone-chat', 
+        link: 'ml-create-2/flectone-chat', 
         icon: 'fas fa-comment-dots'
     },
   ]"

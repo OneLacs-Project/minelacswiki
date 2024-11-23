@@ -7,9 +7,15 @@ lastUpdated: true
 ## Плагин
 Для создания Мап-Артов на сервере присутствует плагин ImageFrame <img src="/minecraft/icons/imageFramePluginIcon.png" style="display: inline; margin: 0 2px; vertical-align: middle; width: 26px; height: 26px" />
 
-::: info  <!-- -->
-##### [ImageFrame](https://modrinth.com/plugin/imageframe)
-:::
+<Links :items="[
+    { 
+      name: 'ImageFrame', 
+      link: 'https://modrinth.com/plugin/imageframe', 
+      image: 'https://cdn.modrinth.com/data/lJFOpcEj/042a7acf702b707ccc076d587ee712d00cd90c50.png', 
+      color: '#FF0000', desc: 'Modrinth', 
+    },
+    ]"
+    />
 
 ## Создание арта
 Для создания арта вам нужны пустые карты  и прямая ссылка на файл картинки/гифки <br />

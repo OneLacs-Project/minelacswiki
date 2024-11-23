@@ -15,12 +15,13 @@ prev:
 **Версия Игры:** <Badge type="info" text="1.20.1 Forge" />
 
 ## Документации / Ресурсы
+
 <Links :items="[
     { 
         name: 'Сборка', 
-        link: 'sub-ml-magic/modpack', 
+        link: 'ml-magic/modpack', 
         icon: 'fas fa-box-open'
-    },
+    }
   ]"
 />
 
@@ -32,9 +33,40 @@ prev:
 `12 Ноября:` - **<span style="color: green;">Сезон начался</span>**
 
 `16 Ноября:` - Обновление принесло 30 модов, кнопку к этой википедии в меню игры, русифицированый **[Embedium](https://www.curseforge.com/minecraft/mc-mods/embeddium)**, удален **[Seamless Loading Screen](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen-forge)**. <br/>
-Подробнее в **[Сборке](sub-ml-magic/modpack)**
+Подробнее в **[Сборке](ml-magic/modpack)**
 :::
-
+<!-- Я попытался добавить квадратики с инфой как было в прошлом вики -->
+<!-- <BlockCard :cards="[ 
+        { 
+            field1: 'https://via.placeholder.com/150', // This will render as an image 
+            field2: 'Text 2', // This will render as text 
+            field3: 'Text 3', // This will render as text 
+            field4: 'https://via.placeholder.com/150', // This will render as an image 
+            link: 'https://example.com' 
+        }, 
+        { 
+            field1: 'Text 1', // This will render as text 
+            field2: 'https://via.placeholder.com/150', // This will render as an image 
+            field3: 'Text 3', // This will render as text 
+            field4: 'https://via.placeholder.com/150', // This will render as an image 
+            link: 'https://example.com' 
+        } ,
+        // { 
+        //     field1: 'Text 1', // This will render as text 
+        //     field2: 'https://via.placeholder.com/150', // This will render as an image 
+        //     field3: 'Text 3', // This will render as text 
+        //     field4: 'https://via.placeholder.com/150', // This will render as an image 
+        //     link: 'https://example.com' 
+        // },
+        // { 
+        //     field1: 'Text 1', // This will render as text 
+        //     field2: 'https://via.placeholder.com/150', // This will render as an image 
+        //     field3: 'Text 3', // This will render as text 
+        //     field4: 'https://via.placeholder.com/150', // This will render as an image 
+        //     link: 'https://example.com' 
+        // },
+        ]" size="medium" /> -->
+ 
 ## Участники
 **Общее количество: `6`**
 

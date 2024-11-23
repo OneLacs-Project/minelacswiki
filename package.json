@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@theojs/lumen": "^4.1.0",
+    "markdown-it": "^14.1.0",
+    "marked": "^15.0.2",
     "vitepress-plugin-image-viewer": "^1.1.5"
   }
 }

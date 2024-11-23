@@ -19,22 +19,22 @@ lastUpdated: true
 <Links :items="[
     { 
         name: 'FlectoneChat', 
-        link: 'sub-ml-vanila/sub-docs0and-resources/flectone-chat', 
+        link: 'ml-vanila/docs-and-resources/flectone-chat', 
         icon: 'fas fa-comment-dots'
     },
     { 
         name: 'Пластинки', 
-        link: 'sub-ml-vanila/sub-docs0and-resources/music-discs', 
+        link: 'ml-vanila/docs-and-resources/music-discs', 
         icon: 'fas fa-music'
     },
     { 
         name: 'Мап Арты', 
-        link: 'sub-ml-vanila/sub-docs0and-resources/map-arts', 
+        link: 'ml-vanila/docs-and-resources/map-arts', 
         icon: 'fas fa-paintbrush'
     },
     { 
         name: 'Поделится ресурспаком', 
-        link: 'sub-ml-vanila/sub-docs0and-resources/share-resourcepack', 
+        link: 'ml-vanila/docs-and-resources/share-resourcepack', 
         icon: 'fas fa-puzzle-piece'
     },
   ]"

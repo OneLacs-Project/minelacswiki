@@ -19,6 +19,9 @@ import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
 // import VPLTheme from '@lando/vitepress-theme-default-plus';
 // export default VPLTheme;
 
+// import BlockCard from './components/LEGACYBlockCard.vue'
+import BlockCard from './components/BlockCard.vue'
+
 export default {
   extends: DefaultTheme,
   Layout: () => {
@@ -39,6 +42,8 @@ export default {
     app.component('Box', DocBox)
     app.component('Links', DocLinks)
     app.component('BoxCube', DocBoxCube)
+    
+    app.component('BlockCard', BlockCard)
     enhanceAppWithTabs(app)
     // ...
   },
