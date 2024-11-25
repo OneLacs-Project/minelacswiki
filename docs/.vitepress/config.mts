@@ -5,6 +5,8 @@ import { breweryThemeConfig } from './breweryThemeConfig.mts';
 
 import { figure } from '@mdit/plugin-figure';
 
+import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lastUpdated: true,
@@ -20,7 +22,8 @@ export default defineConfig({
 
   markdown: {
     config: (md) => { 
-      md.use(figure, { figcaption: 'alt', copyAttrs: '^class$', lazy: true }) 
+      md.use(figure, { figcaption: 'alt', copyAttrs: '^class$', lazy: true }),
+      md.use(tabsMarkdownPlugin)
     },
     image: {
       // image lazy loading is disabled by default
@@ -31,7 +34,7 @@ export default defineConfig({
   themeConfig: {
     // sitetitle: "MineLacs Wiki",
 
-    logo: { src: '/mlwiki-logo.svg'},
+    logo:'/mlwiki-logo.svg',
 
     // https://vitepress.dev/reference/default-theme-config
     outline: { label: 'Содержание страницы' },

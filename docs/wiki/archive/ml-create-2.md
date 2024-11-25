@@ -113,7 +113,14 @@ lastUpdated: true
 
 ### Предыдущий сезон ML Create
 
-> [!NOTE] 🗃️ <a href="ml-create">ML Create </a>
+<Links :items="[
+    { 
+        name: 'ML Create', 
+        link: 'ml-create', 
+        icon: 'fas fa-archive'
+    }
+  ]"
+/>
 
 ## Участники
 

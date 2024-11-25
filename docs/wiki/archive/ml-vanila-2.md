@@ -112,7 +112,7 @@ lastUpdated: true
 ### Предыдущий сезон
 
 <Links :items="[
-    { name: 'ML Vanila', link: 'ml-vanila', }
+    { name: 'ML Vanila', icon: 'fas fa-archive' link: 'ml-vanila', }
 ]"/>
 
 ## Участники
