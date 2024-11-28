@@ -22,6 +22,8 @@ import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
 // import BlockCard from './components/LEGACYBlockCard.vue'
 import BlockCard from './components/BlockCard.vue'
 
+import YouTube from './components/VPLYouTube.vue'
+
 export default {
   extends: DefaultTheme,
   Layout: () => {
@@ -45,6 +47,8 @@ export default {
     
     app.component('BlockCard', BlockCard)
     enhanceAppWithTabs(app)
+
+    app.component('YouTube', YouTube);
     // ...
   },
   // markdown: {

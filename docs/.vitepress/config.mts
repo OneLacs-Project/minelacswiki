@@ -6,6 +6,7 @@ import { figure } from '@mdit/plugin-figure';
 
 import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
 
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lastUpdated: true,
@@ -32,7 +33,7 @@ export default defineConfig({
 
   themeConfig: {
     // sitetitle: "MineLacs Wiki",
-
+    
     logo:'/mlwiki-logo.svg',
 
     // https://vitepress.dev/reference/default-theme-config

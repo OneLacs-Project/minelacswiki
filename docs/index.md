@@ -6,10 +6,10 @@ footer: true
 hero:
   name: "MineLacs" 
   text: "Википедия"
-  # prelink:
-  #   title: '<i class="fas fa-bolt" style="color: #63E6BE;"></i> Test <p>pnpm add @theojs/lumen</p>'
-  #   link: /minelacswiki/wiki/season/ml-magic
-  #   target: _blank
+  prelink:
+    title: '<i class="fas fa-hat-wizard" style="color: #855B8D;"></i> ML Magic <p>Добавлено 30 новых...</p>'
+    link: /wiki/season/ml-magic#история
+    target: _self
   image:
     src: /wikihomepagelogo.png
   actions:
@@ -30,5 +30,4 @@ features:
   - icon: 🗺️
     title: Гайды
     details: Вики предоставляет гайды на игру, моды и плагины которые используются на наших 
-  
 ---
