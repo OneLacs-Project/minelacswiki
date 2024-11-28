@@ -1,6 +1,5 @@
 import { defineConfig } from 'vitepress';
 import { wikiThemeConfig } from './wikiThemeConfig.mts';
-import { breweryThemeConfig } from './breweryThemeConfig.mts';
 // import '@theojs/lumen/theme'
 
 import { figure } from '@mdit/plugin-figure';
@@ -68,7 +67,6 @@ export default defineConfig({
 
     sidebar: { 
           ...wikiThemeConfig.themeConfig.sidebar,
-          ...breweryThemeConfig.themeConfig.sidebar
           
         },
 
