@@ -63,8 +63,6 @@ lastUpdated: true
 **<span style="color: green;">+ добавлены</span>** [Sinytra Connector](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector) <br/>
 **<span style="color: green;">+ добавлены</span>** + Другие, не указанные моды
 
-
-
 :::
 
 ## Моды
