@@ -29,7 +29,7 @@ lastUpdated: true
 **<span style="color: green;">+ добавлен</span>** [Item Highlighter](https://modrinth.com/mod/item-highlighter) <br/>
 **<span style="color: green;">+ добавлен</span>** [Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier) <br/>
 **<span style="color: green;">+ добавлен</span>** [Chat Impressive Animation](https://modrinth.com/mod/chat-impressive-animation) <br/>
-\- предложены от Kosinys <img src="https://api.mineatar.io/face/58650faf-08ae-438a-a1ce-ec99ba38c4e6?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+\- предложены от Kosinys <img src="https://api.mineatar.io/face/58650faf-08ae-438a-a1ce-ec99ba38c4e6?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> 
 
 **<span style="color: green;">+ добавлены</span>** [When Dungeons Arise](https://modrinth.com/mod/when-dungeons-arise) + [аддон](https://modrinth.com/mod/when-dungeons-arise-seven-seas) <br/>
 **<span style="color: green;">+ добавлены</span>** Аддоны для мода [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra) <br/>

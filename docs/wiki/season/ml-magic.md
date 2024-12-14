@@ -8,7 +8,7 @@ prev:
 
 # 🔮 ML Magic
 
-<img src="/WIKI/ML-Magic/demo_img_1.png" style="display: inline; vertical-align: middle; display: block; margin-left: auto; margin-right: auto; width: 320px; height: 260px;" />
+<img src="/WIKI/ML-Magic/demo_img_1.png" style="display: inline; vertical-align: middle; display: block; margin-left: auto; margin-right: auto; width: 320px; height: 260px;" /> 
 
 
 ## Описание
