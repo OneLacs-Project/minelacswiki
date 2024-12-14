@@ -36,6 +36,35 @@ lastUpdated: true
 **<span style="color: green;">+ добавлен</span>** [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis) <br/>
 **<span style="color: green;">+ добавлен</span>** [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) <br/>
 \- предложены от DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+
+`14 Декабря:` - **Обновление принесло изменения в сборке:** <br/>
+*<span style="color: gray;"><sup>Это не полный список удаленных или добавленых модов</sup></span>*<br/> 
+**<span style="color: red;">- удален</span>** [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis) <br/> 
+**<span style="color: red;">- удален</span>** [Botania](https://www.curseforge.com/minecraft/mc-mods/botania) <br/>
+**<span style="color: red;">- удален</span>** [Call of Yucatan](https://www.curseforge.com/minecraft/mc-mods/call-of-yucutan) <br/>
+**<span style="color: red;">- удален</span>** [Cold Sweat](https://www.curseforge.com/minecraft/mc-mods/cold-sweat) <br/>
+**<span style="color: red;">- удален</span>** [When Dungeon Arises](https://modrinth.com/mod/when-dungeons-arise) + Аддон <br/>
+**<span style="color: red;">- удален</span>** [Goblin Traders](https://mrcrayfish.com/mods/goblintraders/download/ec0ce31fa1f8e4d82bfcfc2a45f9f8092f9fc2df) <br/>
+**<span style="color: red;">- удален</span>** [Improvable Skills](https://modrinth.com/mod/improvable-skills) <br/>
+**<span style="color: red;">- удален</span>** [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) <br/>
+**<span style="color: red;">- удален</span>** [Orignins Classes](https://www.curseforge.com/minecraft/mc-mods/origins-classes-forge) <br/>
+**<span style="color: red;">- удален</span>** [Relics](https://www.curseforge.com/minecraft/mc-mods/relics-mod) <br/>
+**<span style="color: red;">- удалены</span>** [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra) + Аддоны<br/>
+**<span style="color: red;">- удален</span>** [Remastered Structures](https://www.curseforge.com/minecraft/mc-mods/remastered-structure) <br/>
+
+**<span style="color: green;">+ добавлены</span>** [YUNG's Mods](#yung-s-better) (Большинство) <br/>
+**<span style="color: green;">+ добавлены</span>** Больше аддонов к [Farmer's Delight](#farmer-s-delight) <br/>
+**<span style="color: green;">+ добавлены</span>** [Medieval Origins Revival](https://modrinth.com/mod/medieval-origins-revival) <br/>
+**<span style="color: green;">+ добавлены</span>** [Bountiful](https://modrinth.com/mod/bountiful) <br/>
+**<span style="color: green;">+ добавлены</span>** [Beans Backpacks](https://modrinth.com/mod/beans-backpacks) <br/>
+**<span style="color: green;">+ добавлены</span>** [Antique Atlas 4](https://modrinth.com/mod/antique-atlas-4) <br/>
+**<span style="color: green;">+ добавлены</span>** [Arts & Crafts](https://modrinth.com/mod/artsandcrafts) <br/>
+**<span style="color: green;">+ добавлены</span>** [Spells Gone Wrong](https://modrinth.com/mod/spells-gone-wrong) <br/>
+**<span style="color: green;">+ добавлены</span>** [Sinytra Connector](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector) <br/>
+**<span style="color: green;">+ добавлены</span>** + Другие, не указанные моды
+
+
+
 :::
 
 ## Моды
