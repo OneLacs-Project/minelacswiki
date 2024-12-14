@@ -17,12 +17,11 @@ import '@theojs/lumen/pic'
 import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
 
 // import VPLTheme from '@lando/vitepress-theme-default-plus';
-// export default VPLTheme;
-
+ 
 // import BlockCard from './components/LEGACYBlockCard.vue'
 import BlockCard from './components/BlockCard.vue'
 
-import YouTube from './components/VPLYouTube.vue'
+import YouTube from './components/vitepress-theme-default-plus/VPLYouTube.vue'
 
 export default {
   extends: DefaultTheme,

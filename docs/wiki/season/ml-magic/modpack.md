@@ -8,7 +8,7 @@ lastUpdated: true
 
 **Версия игры: <Badge type="info" text="1.20.1" />**
 
-Версия сборки: <Badge type="tip" text="v2.12" />
+Версия сборки: <Badge type="tip" text="v3.50" />
 
 Загрузчик модов: <Badge type="info" text="1.20.1 Forge" />
 
@@ -36,70 +36,100 @@ lastUpdated: true
 **<span style="color: green;">+ добавлен</span>** [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis) <br/>
 **<span style="color: green;">+ добавлен</span>** [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) <br/>
 \- предложены от DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+
+`14 Декабря:` - **Обновление принесло изменения в сборке:** <br/>
+*<span style="color: gray;"><sup>Это не полный список удаленных или добавленых модов</sup></span>*<br/> 
+**<span style="color: red;">- удален</span>** [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis) <br/> 
+**<span style="color: red;">- удален</span>** [Botania](https://www.curseforge.com/minecraft/mc-mods/botania) <br/>
+**<span style="color: red;">- удален</span>** [Call of Yucatan](https://www.curseforge.com/minecraft/mc-mods/call-of-yucutan) <br/>
+**<span style="color: red;">- удален</span>** [Cold Sweat](https://www.curseforge.com/minecraft/mc-mods/cold-sweat) <br/>
+**<span style="color: red;">- удален</span>** [When Dungeon Arises](https://modrinth.com/mod/when-dungeons-arise) + Аддон <br/>
+**<span style="color: red;">- удален</span>** [Goblin Traders](https://mrcrayfish.com/mods/goblintraders/download/ec0ce31fa1f8e4d82bfcfc2a45f9f8092f9fc2df) <br/>
+**<span style="color: red;">- удален</span>** [Improvable Skills](https://modrinth.com/mod/improvable-skills) <br/>
+**<span style="color: red;">- удален</span>** [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) <br/>
+**<span style="color: red;">- удален</span>** [Orignins Classes](https://www.curseforge.com/minecraft/mc-mods/origins-classes-forge) <br/>
+**<span style="color: red;">- удален</span>** [Relics](https://www.curseforge.com/minecraft/mc-mods/relics-mod) <br/>
+**<span style="color: red;">- удалены</span>** [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra) + Аддоны<br/>
+**<span style="color: red;">- удален</span>** [Remastered Structures](https://www.curseforge.com/minecraft/mc-mods/remastered-structure) <br/>
+
+**<span style="color: green;">+ добавлены</span>** [YUNG's Mods](#yung-s-better) (Большинство) <br/>
+**<span style="color: green;">+ добавлены</span>** Больше аддонов к [Farmer's Delight](#farmer-s-delight) <br/>
+**<span style="color: green;">+ добавлены</span>** [Medieval Origins Revival](https://modrinth.com/mod/medieval-origins-revival) <br/>
+**<span style="color: green;">+ добавлены</span>** [Bountiful](https://modrinth.com/mod/bountiful) <br/>
+**<span style="color: green;">+ добавлены</span>** [Beans Backpacks](https://modrinth.com/mod/beans-backpacks) <br/>
+**<span style="color: green;">+ добавлены</span>** [Antique Atlas 4](https://modrinth.com/mod/antique-atlas-4) <br/>
+**<span style="color: green;">+ добавлены</span>** [Arts & Crafts](https://modrinth.com/mod/artsandcrafts) <br/>
+**<span style="color: green;">+ добавлены</span>** [Spells Gone Wrong](https://modrinth.com/mod/spells-gone-wrong) <br/>
+**<span style="color: green;">+ добавлены</span>** [Sinytra Connector](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector) <br/>
+**<span style="color: green;">+ добавлены</span>** + Другие, не указанные моды
+
+
+
 :::
 
 ## Моды
 *<span style="color: gray;"><sup>Это не полный и не динамичный список модов сборки, библиотеки и некоторые моды не указаны. </sup></span>*
 
-### Tetra
-<Box :items="[
-    { 
-      name: 'Tetra', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/tetra', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/145/263/256/256/636561479419470125.png', 
-      color: '#FF0000', desc: 'Curseforge', //icon: 'simple-icons:curseforge'
-    },
-    { 
-      name: 'Tetra\'s Delight', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/tetras-delight', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/798/825/256/256/638160739358634114.png', 
-      color: '#FF0000', desc: 'Curseforge', //icon: 'simple-icons:curseforge'
-    },
-    { 
-      name: 'Tetra Extras', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/tetra-extras', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/892/921/256/256/638335602446424383.jpeg', 
-      color: '#FF0000', desc: 'Curseforge', //icon: 'simple-icons:curseforge'
-    },
-    { 
-      name: 'Tetranomicon', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/tetranomicon', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/342/136/256/256/637485806201591590.png', 
-      color: '#FF0000', desc: 'Curseforge', //icon: 'simple-icons:curseforge'
-    },
-    { 
-      name: 'Tetratic Combat Expanded', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/tetratic-combat-expanded', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/923/383/256/256/638390001570626488.png', 
-      color: '#FF0000', desc: 'Curseforge', //icon: 'simple-icons:curseforge'
-    },
-    { 
-      name: 'tetracelium', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/tetracelium', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/896/866/256/256/638341965915537559.png', 
-      color: '#FF0000', desc: 'Curseforge', //icon: 'simple-icons:curseforge'
-    },
-    ]"
-/>
-
-### Origins
+### YUNG's Better.. <Badge type="warning" text="Новое" />
 <Box :items="[
   { 
-    name: 'Origins', 
-    link: 'https://www.curseforge.com/minecraft/mc-mods/origins-forge', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/373/582/256/256/637546267631048138.png', 
-    color: '#FF0000', desc: 'Curseforge', 
+    name: 'Desert Temples', 
+    link: 'https://modrinth.com/mod/yungs-better-desert-temples', 
+    image: 'https://cdn.modrinth.com/data/XNlO7sBv/32fc82949e922ad9281ac9a8fe965afc04261848_96.webp', 
+    color: '#00FF00', desc: 'Modrinth', tag: 'New' //icon: 'simple-icons:modrinth'
   },
   { 
-    name: 'Origins: Classes', 
-    link: 'https://www.curseforge.com/minecraft/mc-mods/origins-classes-forge', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/531/506/256/256/637853705659037696.png', 
-    color: '#FF0000', desc: 'Curseforge', 
+    name: 'Dungeons', 
+    link: 'https://modrinth.com/mod/yungs-better-dungeons', 
+    image: 'https://cdn.modrinth.com/data/o1C1Dkj5/9b54b2d932a5a5b6565c93814935c04902f3179b_96.webp', 
+    color: '#00FF00', desc: 'Modrinth', tag: 'New' //icon: 'simple-icons:modrinth'
   },
-  ]"
+  { 
+    name: 'Jungle Temples', 
+    link: 'https://modrinth.com/mod/yungs-better-jungle-temples', 
+    image: 'https://cdn.modrinth.com/data/z9Ve58Ih/a142b7d112fe6812592de7db2d2badb1398100a7_96.webp', 
+    color: '#00FF00', desc: 'Modrinth', tag: 'New' //icon: 'simple-icons:modrinth'
+  },
+  { 
+    name: 'Mineshafts', 
+    link: 'https://modrinth.com/mod/yungs-better-mineshafts', 
+    image: 'https://cdn.modrinth.com/data/HjmxVlSr/4e41ef8344db48b8368cd3d6f35844c8a619f446_96.webp', 
+    color: '#00FF00', desc: 'Modrinth', tag: 'New' //icon: 'simple-icons:modrinth'
+  },
+  { 
+    name: 'Nether Fortresses', 
+    link: 'https://modrinth.com/mod/yungs-better-nether-fortresses', 
+    image: 'https://cdn.modrinth.com/data/Z2mXHnxP/3c88dd70c00b5e47addd9fdeba53a7c96076088d_96.webp', 
+    color: '#00FF00', desc: 'Modrinth', tag: 'New' //icon: 'simple-icons:modrinth'
+  },
+  { 
+    name: 'Ocean Monuments', 
+    link: 'https://modrinth.com/mod/yungs-better-ocean-monuments', 
+    image: 'https://cdn.modrinth.com/data/3dT9sgt4/05c04c64ab9e5bf523701fa7bc0ac54adec25337_96.webp', 
+    color: '#00FF00', desc: 'Modrinth',  tag: 'New'//icon: 'simple-icons:modrinth'
+  },
+  { 
+    name: 'Witch Huts', 
+    link: 'https://modrinth.com/mod/yungs-better-witch-huts', 
+    image: 'https://cdn.modrinth.com/data/t5FRdP87/20d3e930ec0a010723df61df091160104294e0b0_96.webp', 
+    color: '#00FF00', desc: 'Modrinth',  tag: 'New'//icon: 'simple-icons:modrinth'
+  },
+  { 
+    name: 'Bridges', 
+    link: 'https://modrinth.com/mod/yungs-bridges', 
+    image: 'https://cdn.modrinth.com/data/Ht4BfYp6/b465e98ac5f2742cf52292e6649b6abb76665e8f_96.webp', 
+    color: '#00FF00', desc: 'Modrinth', tag: 'New' //icon: 'simple-icons:modrinth'
+  },
+  { 
+    name: 'Extras', 
+    link: 'https://modrinth.com/mod/yungs-extras', 
+    image: 'https://cdn.modrinth.com/data/ZYgyPyfq/153c00f1d64b90c8b5fd0c5136df91a65efc1df2_96.webp', 
+    color: '#00FF00', desc: 'Modrinth', tag: 'New' //icon: 'simple-icons:modrinth'
+  },
+]"
 />
 
-### Farmer's delight
+### Farmer's delight <Badge type="tip" text="Обнова" />
 <Box :items="[
   { 
     name: 'Farmer\'s Delight', 
@@ -113,38 +143,158 @@ lastUpdated: true
     image: 'https://media.forgecdn.net/avatars/thumbnails/397/613/256/256/637598857629083481.png', 
     color: '#FF0000', desc: 'Curseforge', 
   },
+   { 
+    name: 'My Nether\'s Delight', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/my-nethers-delight', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/1036/230/256/256/638560666018816482.png', 
+    color: '#FF0000', desc: 'Curseforge', tag: 'New'
+  },
+  { 
+    name: 'Aquamirae Delight', 
+    link: 'https://modrinth.com/mod/aquamirae-delight', 
+    image: 'https://cdn.modrinth.com/data/cCXV545X/b5b15a5fdab90a6075408aae2ed1c204dbcf0043.png', 
+    color: '#00FF00', desc: 'Modrinth', tag: 'New'//icon: 'simple-icons:modrinth'
+  },
+  { 
+    name: 'Chef\'s Delight', 
+    link: 'https://modrinth.com/mod/chefs-delight', 
+    image: 'https://cdn.modrinth.com/data/pvcsfne4/4c31bd820651aaea721c87186a1007a415f1311e_96.webp', 
+    color: '#00FF00', desc: 'Modrinth', tag: 'New' //icon: 'simple-icons:modrinth'
+  },
+  { 
+    name: 'Corn Delight', 
+    link: 'https://modrinth.com/mod/corn-delight', 
+    image: 'https://cdn.modrinth.com/data/uxLAKWU8/cf30d49b57cd91cf2c06e850c8728151ce89a79a.png', 
+    color: '#00FF00', desc: 'Modrinth', tag: 'New'//icon: 'simple-icons:modrinth'
+  },
+  { 
+    name: 'Crabber\'s Delight', 
+    link: 'https://modrinth.com/mod/crabbers-delight', 
+    image: 'https://cdn.modrinth.com/data/gBGdVBJy/dda9137ec6e5a1abccbf921e100c20dcfa5cba2d.png', 
+    color: '#00FF00', desc: 'Modrinth', tag: 'New'//icon: 'simple-icons:modrinth'
+  },
+  { 
+    name: 'End\'s Delight', 
+    link: 'https://modrinth.com/mod/ends-delight', 
+    image: 'https://cdn.modrinth.com/data/yHN0njMr/bc333fa34161b1e4d3c2e185210bb558aa1d480a.png', 
+    color: '#00FF00', desc: 'Modrinth', tag: 'New'//icon: 'simple-icons:modrinth'
+  },
+  { 
+    name: 'Iron\'s Spells Delight', 
+    link: 'https://modrinth.com/mod/irons-spells-delight', 
+    image: 'https://cdn.modrinth.com/data/Ne9jukgU/dff6b43ae8b0148b2ab7cae12b14d4a0e19f59b6_96.webp', 
+    color: '#00FF00', desc: 'Modrinth', tag: 'New'//icon: 'simple-icons:modrinth'
+  },
+  { 
+    name: 'Miner\'s Delight', 
+    link: 'https://modrinth.com/mod/miners-delight', 
+    image: 'https://cdn.modrinth.com/data/qMxbM4BQ/0d6f967d3ad184dd296c62a9891e2b2b7d45f61d.png', 
+    color: '#00FF00', desc: 'Modrinth', tag: 'New' //icon: 'simple-icons:modrinth'
+  },
+  { 
+    name: 'More Delight', 
+    link: 'https://modrinth.com/mod/more-delight', 
+    image: 'https://cdn.modrinth.com/data/znHQQtuU/a0b97c0306ac9507bca7b81059fb146051596e08.gif', 
+    color: '#00FF00', desc: 'Modrinth', tag: 'New'//icon: 'simple-icons:modrinth'
+  },
 ]"
 />
 
-### When Dungeon Arises
+### Better Combat <Badge type="tip" text="Обнова" />
 <Box :items="[
   { 
-      name: 'When Dungeons Arise', 
-      link: 'https://modrinth.com/mod/when-dungeons-arise', 
-      image: 'https://cdn.modrinth.com/data/8DfbfASn/4240773f6aa5f8c69f44a5e2e0ff313f98ff3389_96.webp', 
-      color: '#00FF00', desc: 'Modrinth', //icon: 'simple-icons:modrinth'
-    },
-    {
-      name: 'Seven Seas', 
-      link: 'https://modrinth.com/mod/when-dungeons-arise-seven-seas', 
-      image: 'https://cdn.modrinth.com/data/ZsrrjDbP/dde6d034253f027dad87ffb06e2f047b0b5c96a0_96.webp', 
-      color: '#00FF00', desc: 'Modrinth', //icon: 'simple-icons:modrinth'
-    },
-]"/>
+    name: 'Better Combat', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/566/413/256/256/637925434672465483.png', 
+    color: '#FF0000', desc: 'Curseforge', 
+  },
+  { 
+    name: 'Aqua Combat', 
+    link: 'https://modrinth.com/mod/aqua-combat', 
+    image: 'https://cdn.modrinth.com/data/k9CzFr8q/dc9751a61cdb6e5e8764a8c44466d2781ae4085a_96.webp', 
+    color: '#00FF00', desc: 'Modrinth', tag: 'New'//icon: 'simple-icons:modrinth'
+  },
+]"
+/>
 
-### Остальные
+### Iron's Spells N Spellbooks <Badge type="tip" text="Обнова" />
 <Box :items="[
+  { 
+      name: 'Spellbooks', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/871/265/256/256/638288661913483053.png', 
+      color: '#FF0000', desc: 'Curseforge', 
+  },
+  { 
+    name: 'Spells Gone Wrong', 
+    link: 'https://modrinth.com/mod/spells-gone-wrong', 
+    image: 'https://cdn.modrinth.com/data/4ugLsKOh/8a1bdbfdcfad7fd4d4079c1e5388086555186441_96.webp', 
+    color: '#00FF00', desc: 'Modrinth', tag: 'New' //icon: 'simple-icons:modrinth'
+  },
+]"
+/>
+
+
+### Origins <Badge type="tip" text="Обнова" />
+<Box :items="[
+  { 
+    name: 'Origins', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/origins-forge', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/373/582/256/256/637546267631048138.png', 
+    color: '#FF0000', desc: 'Curseforge', 
+  },
+  { 
+    name: 'Medieval Origins Revival', 
+    link: 'https://modrinth.com/mod/medieval-origins-revival', 
+    image: 'https://cdn.modrinth.com/data/3FJ8AhW0/3de152ce3176f3dfabfccbb7210a3fca70fae013.png', 
+    color: '#FF0000', desc: 'Curseforge',  tag: 'New'
+  },
+]"
+/>
+
+### Остальные <Badge type="tip" text="Обнова" />
+<Box :items="[
+    { 
+      name: 'Geophilic', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/geophilic', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/648/354/256/256/638049857735165515.png', 
+      color: '#FF0000', desc: 'Curseforge', tag: 'New'
+    },
+    { 
+      name: 'Elytra Slot', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/elytra-slot', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/209/40/256/256/636979175379460863.png', 
+      color: '#FF0000', desc: 'Curseforge', tag: 'New'
+    },
+    { 
+      name: 'Bountiful', 
+      link: 'https://modrinth.com/mod/bountiful', 
+      image: 'https://cdn.modrinth.com/data/BpwWFOVM/icon.png', 
+      color: '#00FF00', desc: 'Modrinth', tag: 'New'//icon: 'simple-icons:modrinth'
+    },
+    { 
+      name: 'Beans Backpacks', 
+      link: 'https://modrinth.com/mod/beans-backpacks', 
+      image: 'https://cdn.modrinth.com/data/kYt0MSgT/a4f927da775f3cebb015026004ee6fb9a86f7592_96.webp', 
+      color: '#00FF00', desc: 'Modrinth', tag: 'New' //icon: 'simple-icons:modrinth' 
+    },
     { 
       name: 'Stellarity', 
       link: 'https://modrinth.com/datapack/stellarity', 
       image: 'https://cdn.modrinth.com/data/bZgeDzN8/29e68b62071c7a73e09c3ec8da8c0016d4582b55_96.webp', 
-      color: '#00FF00', desc: 'Modrinth', //icon: 'simple-icons:modrinth'
+      color: '#00FF00', desc: 'Modrinth', tag: 'New'//icon: 'simple-icons:modrinth'
     },
     { 
-      name: 'Goblin Traders', 
-      link: 'https://mrcrayfish.com/mods/goblintraders/download/ec0ce31fa1f8e4d82bfcfc2a45f9f8092f9fc2df', 
-      image: 'https://mrcrayfish.com/content/mods/goblintraders/icon.webp', 
-      color: '#FF0000', desc: 'Crayfish', //icon: 'simple-icons:modrinth'
+      name: 'Antique Atlas 4', 
+      link: 'https://modrinth.com/mod/antique-atlas-4', 
+      image: 'https://cdn.modrinth.com/data/Y5Ve4Ui4/afa76ec243b9fcfbbdc164f1d960747e99cab704.png', 
+      color: '#00FF00', desc: 'Modrinth', tag: 'New'//icon: 'simple-icons:modrinth'
+    },
+    { 
+      name: 'Arts & Crafts', 
+      link: 'https://modrinth.com/mod/artsandcrafts', 
+      image: 'https://cdn.modrinth.com/data/JI9mEkvq/ab8c87c86a7216bb8c064f1d9ebdbb00b56affc3.png', 
+      color: '#00FF00', desc: 'Modrinth', tag: 'New'//icon: 'simple-icons:modrinth'
     },
     { 
       name: 'Alex\'s Mobs', 
@@ -156,24 +306,6 @@ lastUpdated: true
       name: 'Artifacts', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/artifacts', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/444/622/256/256/637699815276651872.png', 
-      color: '#FF0000', desc: 'Curseforge', 
-    },
-    { 
-      name: 'Cobweb', 
-      link: 'https://modrinth.com/mod/cobweb', 
-      image: 'https://cdn.modrinth.com/data/dQcfqGbl/efabe366d357324b430892f41a6239e3d4fe9271_96.webp', 
-      color: '#00FF00', desc: 'Modrinth', 
-    },
-    { 
-      name: 'Call of Yucatán', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/call-of-yucutan', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1002/886/256/256/638523299285638581.png', 
-      color: '#FF0000', desc: 'Curseforge', 
-    },
-    { 
-      name: 'Relics', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/relics-mod', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/914/338/256/256/638371376399491795_animated.gif', 
       color: '#FF0000', desc: 'Curseforge', 
     },
     { 
@@ -195,45 +327,15 @@ lastUpdated: true
       color: '#FF0000', desc: 'Curseforge', 
     },
     { 
-      name: 'Better Combat', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/566/413/256/256/637925434672465483.png', 
-      color: '#FF0000', desc: 'Curseforge', 
-    },
-    { 
       name: 'Another Furniture', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/another-furniture', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/531/947/256/256/637854788299840042.png', 
       color: '#FF0000', desc: 'Curseforge', 
     },
     { 
-      name: 'Remastered Stru..', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/remastered-structure', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1053/629/256/256/638584247518896155.png', 
-      color: '#FF0000', desc: 'Curseforge', 
-    },
-    { 
-      name: 'Botania', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/botania', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/588/690/256/256/637958999552256716.png', 
-      color: '#FF0000', desc: 'Curseforge', 
-    },
-    { 
-      name: 'Improvable Skills', 
-      link: 'https://modrinth.com/mod/improvable-skills', 
-      image: 'https://cdn.modrinth.com/data/9fT7HUaI/1c437a0c5dbb4dc893ec6a91a7ac335e2a1772b8.png', 
-      color: '#00FF00', desc: 'Modrinth', 
-    },
-    { 
       name: 'Ribbits', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/ribbits', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/1013/839/256/256/638538895773776677.png', 
-      color: '#FF0000', desc: 'Curseforge', 
-    },
-    { 
-      name: 'Spellbooks', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/871/265/256/256/638288661913483053.png', 
       color: '#FF0000', desc: 'Curseforge', 
     },
     { 
@@ -249,42 +351,34 @@ lastUpdated: true
       color: '#FF0000', desc: 'Curseforge', 
     },
     { 
-      name: 'Cold Sweat', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/cold-sweat', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1108/699/256/256/638659111909074275.png', 
-      color: '#FF0000', desc: 'Curseforge', 
-    },
-    { 
-      name: 'Celestisynth', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/celestisynth', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1089/142/256/256/638632093186782305.png', 
-      color: '#FF0000', desc: 'Curseforge', 
-    },
-    { 
       name: 'Aquamirae', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/ob-aquamirae', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/464/755/256/256/637744772991786976.png', 
       color: '#FF0000', desc: 'Curseforge', 
     },
-    { 
-      name: 'Apotheosis', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/apotheosis', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/806/643/256/256/638174667713250064.png', 
-      color: '#FF0000', desc: 'Curseforge', 
-    },
-    { 
-      name: 'L_Ender\'s Cataclysm', 
-      link: 'https://modrinth.com/mod/l_enders-cataclysm', 
-      image: 'https://cdn.modrinth.com/data/46KJle7n/4de43b519c4b4ce09c5a3155e908da446dbf455a_96.webp', 
-      color: '#00FF00', desc: 'Modrinth', //icon: 'simple-icons:modrinth'
-    },
     ]"
 />
 
-### Клиентские
-<br/>
-
+### Клиентские <Badge type="tip" text="Обнова" />
 <Box :items="[
+    { 
+      name: 'Screenshot Viewer', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/screenshot-viewer', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/627/914/64/64/638023801589782702.png', 
+      color: '#FF0000', desc: 'Curseforge', tag: 'New'//icon: 'simple-icons:curseforge'
+    },
+    { 
+      name: 'CameraOverhaul', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/317/804/64/64/637422829433375470.png', 
+      color: '#FF0000', desc: 'Curseforge', tag: 'New'//icon: 'simple-icons:curseforge'
+    },
+    { 
+      name: 'Sinytra Connector', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/sinytra-connector', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/850/655/64/64/638252277608029851.png', 
+      color: '#FF0000', desc: 'Curseforge', tag: 'New'//icon: 'simple-icons:curseforge'
+    },
     { 
       name: 'JEI', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/jei', 
@@ -296,12 +390,6 @@ lastUpdated: true
       link: 'https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/547/853/256/256/637882438968201811.png', 
       color: '#FF0000', desc: 'Curseforge', //icon: 'simple-icons:curseforge'
-    },
-    { 
-      name: 'Dynamic Lights', 
-      link: 'https://modrinth.com/datapack/dynamic-lights', 
-      image: 'https://cdn.modrinth.com/data/7YjclEGc/0b491b5a8bfd478037f1392f1d3effc773758ef9.png', 
-      color: '#00FF00', desc: 'Modrinth', //icon: 'simple-icons:modrinth'
     },
     { 
       name: 'Plasmo Voice', 
