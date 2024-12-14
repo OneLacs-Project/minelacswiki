@@ -6,14 +6,12 @@ import { figure } from '@mdit/plugin-figure';
 
 import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
 
-// import {defineConfig} from '@lando/vitepress-theme-default-plus/config';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lastUpdated: true,
   title: "MineLacs Wiki",
   description: "Вики Сервера MineLacs",
-  lang: 'ru',
   base: '/',
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/mlwiki-logo.svg' }],
@@ -47,12 +45,7 @@ export default defineConfig({
     },
 
     lastUpdated: {
-      text: 'Обновлено',
-      formatOptions: {
-        // dateStyle: 'short',
-        timeStyle: 'short',
-        forceLocale: true
-      }
+      text: 'Обновлено'
     },
 
     darkModeSwitchLabel: 'Оформление',

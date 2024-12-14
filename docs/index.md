@@ -7,7 +7,7 @@ hero:
   name: "MineLacs" 
   text: "Википедия"
   prelink:
-    title: '<i class="fas fa-hat-wizard" style="color: #855B8D;"></i> ML Magic <p>REBORN Обновление</p>'
+    title: '<i class="fas fa-hat-wizard" style="color: #855B8D;"></i> ML Magic <p>Добавлено 30 новых...</p>'
     link: /wiki/season/ml-magic#история
     target: _self
   image:

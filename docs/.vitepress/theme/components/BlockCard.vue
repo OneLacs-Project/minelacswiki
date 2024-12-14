@@ -59,7 +59,7 @@ export default {
   flex-direction: column;
   align-items: flex-start; /* Align text to the left */
   justify-content: flex-start;
-  aspect-ratio: 3 / 2; /* Maintain 1:1 aspect ratio */
+  aspect-ratio: 1 / 1; /* Maintain 1:1 aspect ratio */
   height: auto; /* Allow vertical stretching */
 }
 .block-card.has-link:hover {

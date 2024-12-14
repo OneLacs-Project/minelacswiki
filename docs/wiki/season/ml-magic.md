@@ -37,14 +37,37 @@ prev:
 `16 Ноября:` - Обновление принесло 30 модов, кнопку к этой википедии в меню игры, русифицированый **[Embedium](https://www.curseforge.com/minecraft/mc-mods/embeddium)**, удален **[Seamless Loading Screen](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen-forge)**. <br/>
 Подробнее в **[Сборке](ml-magic/modpack)**
 :::
-::: details Декабрь 2024 
-`14 Декабря` - Обновление **REBORN** принесло на сервер 
-- Удаление **[Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra)** и других модов 
-- Много рецептов к **[Farmer's Delight](ml-magic/modpack#farmer-s-delight)** 
-- Множество **[улучшений структур от YUNG](ml-magic/modpack#yung-s-better)** 
-- Другие моды --> **[Сборка](ml-magic/modpack)** <br/>  
-
-:::
+<!-- Я попытался добавить квадратики с инфой как было в прошлом вики -->
+<!-- <BlockCard :cards="[ 
+        { 
+            field1: 'https://via.placeholder.com/150', // This will render as an image 
+            field2: 'Text 2', // This will render as text 
+            field3: 'Text 3', // This will render as text 
+            field4: 'https://via.placeholder.com/150', // This will render as an image 
+            link: 'https://example.com' 
+        }, 
+        { 
+            field1: 'Text 1', // This will render as text 
+            field2: 'https://via.placeholder.com/150', // This will render as an image 
+            field3: 'Text 3', // This will render as text 
+            field4: 'https://via.placeholder.com/150', // This will render as an image 
+            link: 'https://example.com' 
+        } ,
+        // { 
+        //     field1: 'Text 1', // This will render as text 
+        //     field2: 'https://via.placeholder.com/150', // This will render as an image 
+        //     field3: 'Text 3', // This will render as text 
+        //     field4: 'https://via.placeholder.com/150', // This will render as an image 
+        //     link: 'https://example.com' 
+        // },
+        // { 
+        //     field1: 'Text 1', // This will render as text 
+        //     field2: 'https://via.placeholder.com/150', // This will render as an image 
+        //     field3: 'Text 3', // This will render as text 
+        //     field4: 'https://via.placeholder.com/150', // This will render as an image 
+        //     link: 'https://example.com' 
+        // },
+        ]" size="medium" /> -->
  
 ## Участники
 **Общее количество: `6`**
