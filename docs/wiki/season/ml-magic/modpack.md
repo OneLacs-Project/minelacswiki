@@ -12,7 +12,7 @@ lastUpdated: true
 
 Загрузчик модов: <Badge type="info" text="1.20.1 Forge" />
 
-Ссылка на скачивание: [Сборка](https://drive.google.com/uc?export=download&id=1aG8czBV8oGXpzmeVNt7AoMiv6D9K18zM) 
+Ссылка на скачивание: [Сборка](https://drive.google.com/file/d/1a2ajPFHnhpH2cg8sdpt8TYtMswWOzvTc/view?usp=sharing) 
 
 *Следите за новостями сервера на канале `📰│lacsnews` чтобы узнавать про новую сборку и прочую  информацию быстрее чем тут.*
 
