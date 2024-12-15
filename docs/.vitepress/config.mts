@@ -47,12 +47,7 @@ export default defineConfig({
     },
 
     lastUpdated: {
-      text: 'Обновлено',
-      formatOptions: {
-        // dateStyle: 'short',
-        timeStyle: 'short',
-        forceLocale: true
-      }
+      text: 'Обновлено'
     },
 
     darkModeSwitchLabel: 'Оформление',
