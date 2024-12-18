@@ -19,6 +19,7 @@ export const wikiThemeConfig = {
               collapsed: true,
               items: [
                 { text: '📦 Сборка', link: '/wiki/season/ml-magic/modpack'},
+                { text: '🎨 Arts & Crafts', link: '/wiki/season/ml-magic/artsncrafts'},
               ]
             },
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},
