@@ -16,7 +16,7 @@ outline: deep
 
 Так что на этой странице вы найдете полезную и переведенную на русский язык информациб по жтому прикольному моду.
 
-*<span style="color: gray;"><sup>Мод добавлен в <a href='modpack#остальные'>сборке</a> версии <Badge type="tip" text="v3.50" /> </sup></span>*
+*<span style="color: gray;"><sup>Мод добавлен в <a href='modpack#остальные'>сборке</a> версии <Badge type="info" text="v3.50" /> </sup></span>*
 
 Credits: [Keke's Creations Website](https://kekecreations.boomla.net/mods/minecraft-java-edition/arts-and-crafts)
 
