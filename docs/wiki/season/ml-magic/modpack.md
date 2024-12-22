@@ -12,14 +12,18 @@ lastUpdated: true
 
 Загрузчик модов: <Badge type="info" text="1.20.1 Forge" />
 
-Ссылка на скачивание: [Сборка](https://drive.google.com/file/d/1a2ajPFHnhpH2cg8sdpt8TYtMswWOzvTc/view?usp=sharing) 
+Ссылка на скачивание: [Сборка](https://drive.google.com/file/d/1qy0IGGJ6GhVHn7jXblAfygMCSS-ONirL/view?usp=sharing) 
 
 *Следите за новостями сервера на канале `📰│lacsnews` чтобы узнавать про новую сборку и прочую  информацию быстрее чем тут.*
 
-::: details Лог
-`12 Ноября:` Релизная сборка <Badge type="info" text="v1.0" />
 
-`16 Ноября:` **Обновление принесло изменения в сборке:** <Badge type="info" text="v2.11" /> <br/>
+:::tabs box-brand
+
+=== 1.0
+<Badge type="info" text="v1.0" /> `12 Ноября:` Релизная сборка 
+
+=== 2.11
+<Badge type="info" text="v2.11" /> `16 Ноября:` **Обновление принесло изменения в сборке:**  <br/>
 **<span style="color: red;">- удален</span>** [Seamless Loading Screen](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen-forge) <br/>
 🗺️ **<span style="color: yellow;">переведен на русский</span>** [Embedium](https://www.curseforge.com/minecraft/mc-mods/embeddium) <br/>
 
@@ -37,7 +41,8 @@ lastUpdated: true
 **<span style="color: green;">+ добавлен</span>** [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) <br/>
 \- предложены от DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
-`14 Декабря:` - **Обновление принесло изменения в сборке:** <Badge type="info" text="v3.50"/> <br/>
+=== 3.50 
+<Badge type="info" text="v3.50"/>  `14 Декабря:` - **Обновление принесло изменения в сборке:** <br/> 
 *<span style="color: gray;"><sup>Это не полный список удаленных или добавленых модов</sup></span>*<br/> 
 **<span style="color: red;">- удален</span>** [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis) <br/> 
 **<span style="color: red;">- удален</span>** [Botania](https://www.curseforge.com/minecraft/mc-mods/botania) <br/>
@@ -63,7 +68,8 @@ lastUpdated: true
 **<span style="color: green;">+ добавлены</span>** [Sinytra Connector](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector) <br/>
 **<span style="color: green;">+ добавлены</span>** + Другие, не указанные моды
 
-`21 Декабря` - **Обновление принесло изменения в сборке:** <Badge type="tip" text="v4.12"/> <br/>
+=== 4.12 ✨
+<Badge type="tip" text="v4.12"/> `21 Декабря` - **Обновление принесло изменения в сборке:**  <br/> 
 *<span style="color: gray;"><sup>Это не полный список удаленных или добавленых модов</sup></span>*<br/> 
 **<span style="color: red;">- удален</span>** [Beans Backpacks](https://modrinth.com/mod/beans-backpacks) <br/>
 **<span style="color: red;">- удален</span>** [Rainbows](https://modrinth.com/mod/rainboows) <br/>
@@ -76,6 +82,7 @@ lastUpdated: true
 **<span style="color: green;">+ добавлены</span>** [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)<br/>
 
 :::
+
 
 ## Моды
 *<span style="color: gray;"><sup>Это не полный и не динамичный список модов сборки, библиотеки и некоторые моды не указаны. </sup></span>*
