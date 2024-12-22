@@ -17,29 +17,21 @@ lastUpdated: true
 *Следите за новостями сервера на канале `📰│lacsnews` чтобы узнавать про новую сборку и прочую  информацию быстрее чем тут.*
 
 
-:::tabs box-brand
+:::tabs 
 
-=== 1.0
-<Badge type="info" text="v1.0" /> `12 Ноября:` Релизная сборка 
+=== 4.12 ✨
+<Badge type="tip" text="v4.12"/> `21 Декабря` - **Обновление принесло изменения в сборке:**  <br/> 
+*<span style="color: gray;"><sup>Это не полный список удаленных или добавленых модов</sup></span>*<br/> 
+**<span style="color: red;">- удален</span>** [Beans Backpacks](https://modrinth.com/mod/beans-backpacks) <br/>
+**<span style="color: red;">- удален</span>** [Rainbows](https://modrinth.com/mod/rainboows) <br/>
 
-=== 2.11
-<Badge type="info" text="v2.11" /> `16 Ноября:` **Обновление принесло изменения в сборке:**  <br/>
-**<span style="color: red;">- удален</span>** [Seamless Loading Screen](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen-forge) <br/>
-🗺️ **<span style="color: yellow;">переведен на русский</span>** [Embedium](https://www.curseforge.com/minecraft/mc-mods/embeddium) <br/>
+**<span style="color: green;">+ добавлены</span>** [Аддоны на Plasmovoice](#plasmovoice) Группы и Скалки <br/>
+**<span style="color: green;">+ добавлены</span>** [Alex\'s Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight) + [Bamboo Delight](https://www.curseforge.com/minecraft/mc-mods/bamboo-delight) <br/>
+**<span style="color: green;">+ добавлены</span>** [Cuffed](https://www.curseforge.com/minecraft/mc-mods/cuffed)<br/>
+**<span style="color: green;">+ добавлены</span>** [DisguiseHeads](https://www.curseforge.com/minecraft/mc-mods/disguiseheads)<br/>
+**<span style="color: green;">+ добавлены</span>** [ExtraSounds Next](https://www.curseforge.com/minecraft/mc-mods/extrasounds-forge)<br/>
+**<span style="color: green;">+ добавлены</span>** [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)<br/>
 
-**<span style="color: green;">+ добавлен</span>** [Subtle Effects](https://modrinth.com/mod/subtle-effects) <br/>
-**<span style="color: green;">+ добавлен</span>** [Damage Numbers](https://modrinth.com/mod/damagenumbers) <br/>
-**<span style="color: green;">+ добавлен</span>** [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) <br/>
-**<span style="color: green;">+ добавлен</span>** [Item Highlighter](https://modrinth.com/mod/item-highlighter) <br/>
-**<span style="color: green;">+ добавлен</span>** [Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier) <br/>
-**<span style="color: green;">+ добавлен</span>** [Chat Impressive Animation](https://modrinth.com/mod/chat-impressive-animation) <br/>
-\- предложены от Kosinys <img src="https://api.mineatar.io/face/58650faf-08ae-438a-a1ce-ec99ba38c4e6?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> 
-
-**<span style="color: green;">+ добавлены</span>** [When Dungeons Arise](https://modrinth.com/mod/when-dungeons-arise) + [аддон](https://modrinth.com/mod/when-dungeons-arise-seven-seas) <br/>
-**<span style="color: green;">+ добавлены</span>** Аддоны для мода [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra) <br/>
-**<span style="color: green;">+ добавлен</span>** [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis) <br/>
-**<span style="color: green;">+ добавлен</span>** [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) <br/>
-\- предложены от DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
 === 3.50 
 <Badge type="info" text="v3.50"/>  `14 Декабря:` - **Обновление принесло изменения в сборке:** <br/> 
@@ -68,18 +60,28 @@ lastUpdated: true
 **<span style="color: green;">+ добавлены</span>** [Sinytra Connector](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector) <br/>
 **<span style="color: green;">+ добавлены</span>** + Другие, не указанные моды
 
-=== 4.12 ✨
-<Badge type="tip" text="v4.12"/> `21 Декабря` - **Обновление принесло изменения в сборке:**  <br/> 
-*<span style="color: gray;"><sup>Это не полный список удаленных или добавленых модов</sup></span>*<br/> 
-**<span style="color: red;">- удален</span>** [Beans Backpacks](https://modrinth.com/mod/beans-backpacks) <br/>
-**<span style="color: red;">- удален</span>** [Rainbows](https://modrinth.com/mod/rainboows) <br/>
+=== 2.11
+<Badge type="info" text="v2.11" /> `16 Ноября:` **Обновление принесло изменения в сборке:**  <br/>
+**<span style="color: red;">- удален</span>** [Seamless Loading Screen](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen-forge) <br/>
+🗺️ **<span style="color: yellow;">переведен на русский</span>** [Embedium](https://www.curseforge.com/minecraft/mc-mods/embeddium) <br/>
 
-**<span style="color: green;">+ добавлены</span>** [Аддоны на Plasmovoice](#plasmovoice) Группы и Скалки <br/>
-**<span style="color: green;">+ добавлены</span>** [Alex\'s Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight) + [Bamboo Delight](https://www.curseforge.com/minecraft/mc-mods/bamboo-delight) <br/>
-**<span style="color: green;">+ добавлены</span>** [Cuffed](https://www.curseforge.com/minecraft/mc-mods/cuffed)<br/>
-**<span style="color: green;">+ добавлены</span>** [DisguiseHeads](https://www.curseforge.com/minecraft/mc-mods/disguiseheads)<br/>
-**<span style="color: green;">+ добавлены</span>** [ExtraSounds Next](https://www.curseforge.com/minecraft/mc-mods/extrasounds-forge)<br/>
-**<span style="color: green;">+ добавлены</span>** [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)<br/>
+**<span style="color: green;">+ добавлен</span>** [Subtle Effects](https://modrinth.com/mod/subtle-effects) <br/>
+**<span style="color: green;">+ добавлен</span>** [Damage Numbers](https://modrinth.com/mod/damagenumbers) <br/>
+**<span style="color: green;">+ добавлен</span>** [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) <br/>
+**<span style="color: green;">+ добавлен</span>** [Item Highlighter](https://modrinth.com/mod/item-highlighter) <br/>
+**<span style="color: green;">+ добавлен</span>** [Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier) <br/>
+**<span style="color: green;">+ добавлен</span>** [Chat Impressive Animation](https://modrinth.com/mod/chat-impressive-animation) <br/>
+\- предложены от Kosinys <img src="https://api.mineatar.io/face/58650faf-08ae-438a-a1ce-ec99ba38c4e6?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> 
+
+**<span style="color: green;">+ добавлены</span>** [When Dungeons Arise](https://modrinth.com/mod/when-dungeons-arise) + [аддон](https://modrinth.com/mod/when-dungeons-arise-seven-seas) <br/>
+**<span style="color: green;">+ добавлены</span>** Аддоны для мода [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra) <br/>
+**<span style="color: green;">+ добавлен</span>** [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis) <br/>
+**<span style="color: green;">+ добавлен</span>** [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) <br/>
+\- предложены от DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+
+
+=== 1.0
+<Badge type="info" text="v1.0" /> `12 Ноября:` Релизная сборка 
 
 :::
 
