@@ -20,6 +20,7 @@ export const wikiThemeConfig = {
               items: [
                 { text: '📦 Сборка', link: '/wiki/season/ml-magic/modpack'},
                 { text: '🎨 Arts & Crafts', link: '/wiki/season/ml-magic/artsncrafts'},
+                { text: '💿 Etched', link: '/wiki/season/ml-magic/etched'},
               ]
             },
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},

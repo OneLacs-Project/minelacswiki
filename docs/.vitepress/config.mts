@@ -38,6 +38,10 @@ export default defineConfig({
     
     logo:'/mlwiki-logo.svg',
 
+    // search: {
+    //   provider: 'local'
+    // },
+
     // https://vitepress.dev/reference/default-theme-config
     outline: { label: 'Содержание страницы' },
 
