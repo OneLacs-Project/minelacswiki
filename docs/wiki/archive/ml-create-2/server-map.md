@@ -13,7 +13,7 @@ lastUpdated: true
 || Ссылки |
 |---|---|
 |Карта Мира| [Google Drive](https://drive.google.com/file/d/1Wyc2fnjgLtJnY4jkefteVBas_PbVCRHX/view?usp=sharing) |
-|Сборка FORGE 1.20.1| [Файл](https://cdn.discordapp.com/attachments/1147016520128528435/1254861242540232745/mods.rar?ex=66a883da&is=66a7325a&hm=2480704ecd489e63e3fc02b9e4fa0023aad33bcb0d0246f7d9c51df52613aff5&) |
+|Сборка FORGE 1.20.1| [Файл](https://cdn.discordapp.com/attachments/1147016520128528435/1254861242540232745/mods.rar?ex=6768feda&is=6767ad5a&hm=7fe7cc3c8eee3587971a0573b0b34f646d46a4426fd69fe5da7a1be72dd7979f&) |
 
 <Links :items="[
     { 
