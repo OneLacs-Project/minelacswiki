@@ -27,6 +27,23 @@ export const wikiThemeConfig = {
             { text: '🥩 Саварубка', link: '/wiki/season/sawarubka'}
           ]
         },
+        { // Категория о PLAY
+          text: '🪄 PLAY',
+          items: [
+            {
+              text: 'ЧЁ?',
+              link: '/wiki/play/che'
+            },
+            { 
+              text: 'PLAY 2023',
+              link: '/wiki/play/play23'
+            },
+            {
+              text: 'PLAY 2024',
+              link: '/wiki/play/play24'
+            }
+          ]
+        },
         { // Категория о нас
           text: 'О нас',
           items: [

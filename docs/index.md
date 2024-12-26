@@ -7,8 +7,8 @@ hero:
   name: "MineLacs" 
   text: "Википедия"
   prelink:
-    title: '<i class="fas fa-hat-wizard" style="color: #855B8D;"></i> ML Magic <p>Небольшое обновление</p>'
-    link: /wiki/season/ml-magic#история
+    title: '🪄 PLAY 2024 <p>Голосование началось!</p>'
+    link: /wiki/play/play24
     target: _self
   image:
     src: /wikihomepagelogo.png

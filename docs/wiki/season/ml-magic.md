@@ -23,6 +23,16 @@ prev:
         name: 'Сборка', 
         link: 'ml-magic/modpack', 
         icon: 'fas fa-box-open'
+    },
+    { 
+        name: 'Arts & Crafts', 
+        link: 'ml-magic/artsncrafts', 
+        icon: 'fas fa-palette'
+    },
+    { 
+        name: 'Etched', 
+        link: 'ml-magic/etched', 
+        icon: 'fas fa-compact-disc'
     }
   ]"
 />
