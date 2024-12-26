@@ -31,7 +31,7 @@ lastUpdated: true
 <BlockCard size="medium" :cards="[
   { content: '![img-4](/WIKI/Play/Play2023/demo_img_4.avif) \n\n **Помогатор**    \n\n *Награждается игрок который даёт идеи, помогает игрокам да и в целом человек швейцарский нож.*'},
   { content: '![img-5](/WIKI/Play/Play2023/demo_img_5.avif) \n\n **Ашан**  \n\n *Награждается игрок который больше всего вошёл в торговлю.* '},
-  { content: '![img-6](/WIKI/Play/Play2023/demo_img_6.avif) \n\n **Задрот**  \n\n *Награждается игрок который больше много времени наиграл на сервере.* '},
+  { content: '![img-6](/WIKI/Play/Play2023/demo_img_6.avif) \n\n **Задрот**  \n\n *Награждается игрок который больше всего времени наиграл на сервере.* '},
 ]"/>
 
 ### DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> 
