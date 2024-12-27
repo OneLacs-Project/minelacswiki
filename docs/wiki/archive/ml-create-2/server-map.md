@@ -19,7 +19,8 @@ lastUpdated: true
     { 
         name: 'Сборка', 
         link: 'modpack', 
-        icon: 'fas fa-box-open'
+        icon: 'solar:box-bold-duotone',
+        color: '#868dcc'
     },
   ]"
 />

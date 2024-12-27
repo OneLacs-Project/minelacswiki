@@ -5,14 +5,17 @@ import DefaultTheme from 'vitepress/theme'
 import './style.css'
 
 // import '@theojs/lumen/theme'
-import { DocBox, DocLinks, DocBoxCube } from '@theojs/lumen'
-import { ShareButton } from '@theojs/lumen'
-import { Announcement } from '@theojs/lumen'
 import '@theojs/lumen/badge' /* 徽章样式 */
 import '@theojs/lumen/doc' /* 文档样式 */
 import '@theojs/lumen/doc-blocks' /* 容器(默认):左侧阴影样式 */
 import '@theojs/lumen/doc-blocks-border' /* 容器:边框样式 */
 import '@theojs/lumen/pic' 
+import '@theojs/lumen/icon'
+import '@theojs/lumen/button'
+import { DocBox, DocBoxCube, DocLinks, /*DocPill*/ } from '@theojs/lumen'
+import { ShareButton } from '@theojs/lumen'
+import { Announcement } from '@theojs/lumen'
+import { DocVideoLink } from '@theojs/lumen'
 
 import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
 
@@ -20,9 +23,9 @@ import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
  
 // import BlockCard from './components/LEGACYBlockCard.vue'
 import BlockCard from './components/BlockCard.vue'
-import ProgressBar from './components/ProgressBar.vue';
+// import ProgressBar from './components/ProgressBar.vue';
 
-import YouTube from './components/vitepress-theme-default-plus/VPLYouTube.vue'
+// import YouTube from './components/vitepress-theme-default-plus/VPLYouTube.vue'
 
 export default {
   extends: DefaultTheme,
@@ -42,14 +45,16 @@ export default {
   enhanceApp({ app, router, siteData}) {
     // DefaultTheme.enhanceApp(ctx);
     app.component('Box', DocBox)
+    // app.component('Pill', DocPill)
     app.component('Links', DocLinks)
     app.component('BoxCube', DocBoxCube)
+    app.component('Vid', DocVideoLink) 
     
     app.component('BlockCard', BlockCard)
-    app.component('ProgressBar', ProgressBar);
+    // app.component('ProgressBar', ProgressBar);
     enhanceAppWithTabs(app)
 
-    app.component('YouTube', YouTube);
+    // app.component('YouTube', YouTube);
     // ...
   },
   // markdown: {

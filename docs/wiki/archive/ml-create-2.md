@@ -19,17 +19,20 @@ lastUpdated: true
     { 
         name: 'Карта Сервера', 
         link: 'ml-create-2/server-map', 
-        icon: 'fas fa-inbox'
+        icon: 'solar:map-bold-duotone',
+        color: '#868dcc'
     },
     { 
         name: 'Сборка', 
         link: 'ml-create-2/modpack', 
-        icon: 'fas fa-box-open'
+        icon: 'solar:box-bold-duotone',
+        color: '#868dcc'
     },
     { 
         name: 'FlectoneChat', 
         link: 'ml-create-2/flectone-chat', 
-        icon: 'fas fa-comment-dots'
+        icon: 'solar:chat-round-dots-bold-duotone',
+        color: '#868dcc'
     },
   ]"
 />
@@ -117,7 +120,8 @@ lastUpdated: true
     { 
         name: 'ML Create', 
         link: 'ml-create', 
-        icon: 'fas fa-archive'
+        icon: 'solar:archive-bold-duotone',
+        color: '#868dcc'
     }
   ]"
 />

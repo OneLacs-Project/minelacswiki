@@ -112,7 +112,7 @@ lastUpdated: true
 ### Предыдущий сезон
 
 <Links :items="[
-    { name: 'ML Vanila', icon: 'fas fa-archive', link: 'ml-vanila', }
+    { name: 'ML Vanila', icon: 'fas fa-archive', link: 'ml-vanila', icon: 'solar:archive-bold-duotone', color: '#868dcc'}
 ]"/>
 
 ## Участники

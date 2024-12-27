@@ -20,22 +20,26 @@ lastUpdated: true
     { 
         name: 'FlectoneChat', 
         link: 'ml-vanila/docs-and-resources/flectone-chat', 
-        icon: 'fas fa-comment-dots'
+        icon: 'solar:chat-round-dots-bold-duotone',
+        color: '#868dcc'
     },
     { 
         name: 'Пластинки', 
         link: 'ml-vanila/docs-and-resources/music-discs', 
-        icon: 'fas fa-music'
+        icon: 'solar:music-note-bold-duotone',
+        color: '#868dcc'
     },
     { 
         name: 'Мап Арты', 
         link: 'ml-vanila/docs-and-resources/map-arts', 
-        icon: 'fas fa-paintbrush'
+        icon: 'solar:paint-roller-bold-duotone',
+        color: '#868dcc'
     },
     { 
         name: 'Поделится ресурспаком', 
         link: 'ml-vanila/docs-and-resources/share-resourcepack', 
-        icon: 'fas fa-puzzle-piece'
+        icon: 'solar:archive-up-bold-duotone',
+        color: '#868dcc'
     },
   ]"
 />
