@@ -8,19 +8,31 @@ lastUpdated: true
 
 **Версия игры: <Badge type="info" text="1.20.1" />**
 
-Версия сборки: <Badge type="tip" text="v4.12" />
+Версия сборки: <Badge type="tip" text="v5.09" />
 
 Загрузчик модов: <Badge type="info" text="1.20.1 Forge" />
 
-Ссылка на скачивание: [Сборка](https://drive.google.com/file/d/1qy0IGGJ6GhVHn7jXblAfygMCSS-ONirL/view?usp=sharing) 
+Ссылка на скачивание: [Сборка](https://drive.google.com/file/d/1a8K8X5782bNDVQzNSt-erKd7aEdRItTZ/view?usp=sharing) 
 
 *Следите за новостями сервера на канале `📰│lacsnews` чтобы узнавать про новую сборку и прочую  информацию быстрее чем тут.*
 
 
 :::tabs 
 
-=== 4.12 ✨
-<Badge type="tip" text="v4.12"/> `21 Декабря` - **Обновление принесло изменения в сборке:**  <br/> 
+=== 5.09 ✨
+<Badge type="tip" text="v5.09"/> `28 Декабря` - **Обновление принесло изменения в сборке:**  <br/> 
+**<span style="color: green;">+ добавлены</span>** [Astrocraft](https://www.curseforge.com/minecraft/mc-mods/astrocraft-mod) <br/>
+**<span style="color: green;">+ добавлены</span>** [Call of Yucatán](https://www.curseforge.com/minecraft/mc-mods/call-of-yucutan) <br/>
+**<span style="color: green;">+ добавлены</span>** [Crawl on Demand](https://www.curseforge.com/minecraft/mc-mods/crawl-on-demand) <br/>
+**<span style="color: green;">+ добавлены</span>** [Cataclysmic Combat](https://www.curseforge.com/minecraft/mc-mods/cataclysmic-combat) <br/>
+**<span style="color: green;">+ добавлены</span>** [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders) <br/>
+**<span style="color: green;">+ добавлены</span>** [L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm) <br/>
+**<span style="color: green;">+ добавлены</span>** [Relics](https://www.curseforge.com/minecraft/mc-mods/relics-mod) <br/>
+**<span style="color: green;">+ добавлены</span>** [Trofers](https://www.curseforge.com/minecraft/mc-mods/trofers) <br/>
+**<span style="color: green;">+ добавлены</span>** [Villager Transportation](https://modrinth.com/datapack/villager-transportation) <br/>
+
+=== 4.12 
+<Badge type="info" text="v4.12"/> `21 Декабря` - **Обновление принесло изменения в сборке:**  <br/> 
 *<span style="color: gray;"><sup>Это не полный список удаленных или добавленых модов</sup></span>*<br/> 
 **<span style="color: red;">- удален</span>** [Beans Backpacks](https://modrinth.com/mod/beans-backpacks) <br/>
 **<span style="color: red;">- удален</span>** [Rainbows](https://modrinth.com/mod/rainboows) <br/>
@@ -89,7 +101,30 @@ lastUpdated: true
 ## Моды
 *<span style="color: gray;"><sup>Это не полный и не динамичный список модов сборки, библиотеки и некоторые моды не указаны. </sup></span>*
 
-### Plasmovoice <Badge type="tip" text="Обнова"/>
+### Better Combat <Badge type="tip" text="Обнова"/>
+<Box :items="[
+  { 
+    name: 'Better Combat', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/566/413/256/256/637925434672465483.png', 
+    color: '#FF0000',  
+  },
+  { 
+    name: 'Aqua Combat', 
+    link: 'https://modrinth.com/mod/aqua-combat', 
+    image: 'https://cdn.modrinth.com/data/k9CzFr8q/dc9751a61cdb6e5e8764a8c44466d2781ae4085a_96.webp', 
+    color: '#00FF00', 
+  },
+  { 
+    name: 'Cataclysmic Combat', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/cataclysmic-combat', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/1004/913/64/64/638526147223016276.png', 
+    color: '#00FF00', tag: 'New',
+  },
+]"
+/>
+
+### Plasmovoice 
 <Box :items="[
     { 
       name: 'Plasmo Voice', 
@@ -101,18 +136,18 @@ lastUpdated: true
       name: 'pv-addon-groups', 
       link: 'https://modrinth.com/plugin/pv-addon-groups', 
       image: 'https://cdn.modrinth.com/data/g2HFPeCl/5513482ddde5ca75effa3237131f89c603c600db.png', 
-      color: '#00FF00',  tag: 'New' 
+      color: '#00FF00',   
     },
     { 
       name: 'pv-addon-sculk', 
       link: 'https://modrinth.com/plugin/pv-addon-sculk', 
       image: 'https://cdn.modrinth.com/data/7dI2zrDy/d4ebf35b0364a3d3851c382cc4c8125afbeec3b1.png', 
-      color: '#00FF00',  tag: 'New' 
+      color: '#00FF00',   
     },
   ]"
 />
 
-### Farmer's delight <Badge type="tip" text="Обнова"/>
+### Farmer's delight 
 <Box :items="[
   { 
     name: 'Farmer\'s Delight', 
@@ -184,13 +219,13 @@ lastUpdated: true
     name: 'Alex\'s Delight', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/alexs-delight', 
     image: 'https://media.forgecdn.net/avatars/thumbnails/467/198/64/64/637748653028908201.png', 
-    color: '#FF0000',  tag: 'New'
+    color: '#FF0000',  
   },
   { 
     name: 'Bamboo Delight', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/bamboo-delight', 
     image: 'https://media.forgecdn.net/avatars/thumbnails/1031/712/64/64/638554579078308519.png', 
-    color: '#FF0000',  tag: 'New'
+    color: '#FF0000',  
   },
 ]"
 />
@@ -256,30 +291,15 @@ lastUpdated: true
 
 
 
-### Better Combat 
-<Box :items="[
-  { 
-    name: 'Better Combat', 
-    link: 'https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/566/413/256/256/637925434672465483.png', 
-    color: '#FF0000',  
-  },
-  { 
-    name: 'Aqua Combat', 
-    link: 'https://modrinth.com/mod/aqua-combat', 
-    image: 'https://cdn.modrinth.com/data/k9CzFr8q/dc9751a61cdb6e5e8764a8c44466d2781ae4085a_96.webp', 
-    color: '#00FF00', 
-  },
-]"
-/>
+
 
 ### Iron's Spells N Spellbooks 
 <Box :items="[
   { 
-      name: 'Spellbooks', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/871/265/256/256/638288661913483053.png', 
-      color: '#FF0000',  
+    name: 'Spellbooks', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/871/265/256/256/638288661913483053.png', 
+    color: '#FF0000',  
   },
   { 
     name: 'Spells Gone Wrong', 
@@ -310,132 +330,179 @@ lastUpdated: true
 
 ### Остальные <Badge type="tip" text="Обнова"/>
 <Box :items="[
-    { 
-      name: 'Sophisticated Backpacks', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/375/56/64/64/637549610342642859.png', 
-      color: '#FF0000',  tag: 'New'  
-    },
-    { 
-      name: 'ExtraSounds Next', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/extrasounds-forge', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/915/603/64/64/638373740617344566.png', 
-      color: '#FF0000',  tag: 'New'  
-    },
-    { 
-      name: 'DisguiseHeads', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/disguiseheads', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/509/623/64/64/637827899248994972.png', 
-      color: '#FF0000',  tag: 'New'  
-    },
-    { 
-      name: 'Cuffed', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/cuffed', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/861/843/64/64/638269835732271886.png', 
-      color: '#FF0000',  tag: 'New'  
-    },
-    { 
-      name: 'Geophilic', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/geophilic', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/648/354/256/256/638049857735165515.png', 
-      color: '#FF0000',  
-    },
-    { 
-      name: 'Elytra Slot', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/elytra-slot', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/209/40/256/256/636979175379460863.png', 
-      color: '#FF0000',  
-    },
-    { 
-      name: 'Bountiful', 
-      link: 'https://modrinth.com/mod/bountiful', 
-      image: 'https://cdn.modrinth.com/data/BpwWFOVM/icon.png', 
-      color: '#00FF00', 
-    },
-    { 
-      name: 'Stellarity', 
-      link: 'https://modrinth.com/datapack/stellarity', 
-      image: 'https://cdn.modrinth.com/data/bZgeDzN8/29e68b62071c7a73e09c3ec8da8c0016d4582b55_96.webp', 
-      color: '#00FF00', 
-    },
-    { 
-      name: 'Antique Atlas 4', 
-      link: 'https://modrinth.com/mod/antique-atlas-4', 
-      image: 'https://cdn.modrinth.com/data/Y5Ve4Ui4/afa76ec243b9fcfbbdc164f1d960747e99cab704.png', 
-      color: '#00FF00', 
-    },
-    { 
-      name: 'Arts & Crafts', 
-      link: 'https://modrinth.com/mod/artsandcrafts', 
-      image: 'https://cdn.modrinth.com/data/JI9mEkvq/ab8c87c86a7216bb8c064f1d9ebdbb00b56affc3.png', 
-      color: '#00FF00', 
-    },
-    { 
-      name: 'Alex\'s Mobs', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/alexs-mobs', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/543/777/256/256/637874731161865623.jpeg', 
-      color: '#FF0000',  
-    },
-    { 
-      name: 'Artifacts', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/artifacts', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/444/622/256/256/637699815276651872.png', 
-      color: '#FF0000',  
-    },
-    { 
-      name: 'Exposure', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/exposure', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1029/426/256/256/638551434733696364_animated.gif', 
-      color: '#FF0000',  
-    },
-    { 
-      name: 'Target Dummy', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/727/100/256/256/638080208599452100.png', 
-      color: '#FF0000',  
-    },
-    { 
-      name: 'Etched', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/etched', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/939/472/256/256/638419301379970746.png', 
-      color: '#FF0000',  
-    },
-    { 
-      name: 'Another Furniture', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/another-furniture', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/531/947/256/256/637854788299840042.png', 
-      color: '#FF0000',  
-    },
-    { 
-      name: 'Ribbits', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/ribbits', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1013/839/256/256/638538895773776677.png', 
-      color: '#FF0000',  
-    },
-    { 
-      name: 'Mob Variants', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/more-mob-variants', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/629/271/256/256/638027075824799126.png', 
-      color: '#FF0000',  
-    },
-    { 
-      name: 'Lootr', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/lootr', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/337/5/256/256/637473842688195004.png', 
-      color: '#FF0000',  
-    },
-    { 
-      name: 'Aquamirae', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/ob-aquamirae', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/464/755/256/256/637744772991786976.png', 
-      color: '#FF0000',  
-    },
-    ]"
-/>
+  { 
+    name: 'Call of Yucatán', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/call-of-yucutan', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/1002/886/64/64/638523299285638581.png', 
+    color: '#FF0000', tag: 'New',
+  },
+  { 
+    name: 'Crawl on Demand', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/crawl-on-demand', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/834/590/64/64/638225436318096980.jpeg', 
+    color: '#FF0000', tag: 'New',
+  },
+  { 
+    name: 'Villager Transportation', 
+    link: 'https://modrinth.com/datapack/villager-transportation', 
+    image: 'https://cdn.modrinth.com/data/vLUPqRLH/359e802ab9fcae30836b59c5943ae061f5059b50_96.webp', 
+    color: '#FF0000', tag: 'New',
+  },
+  { 
+    name: 'Trofers', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/trofers', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/382/156/64/64/637566129446964304.png', 
+    color: '#FF0000', tag: 'New',
+  },
+  { 
+    name: 'Relics', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/relics-mod', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/1124/47/64/64/638680710071253437_animated.gif', 
+    color: '#FF0000', tag: 'New',
+  },
+  { 
+    name: 'L_Ender \'s Cataclysm', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/lendercataclysm', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/460/870/64/64/637739722679428303.png', 
+    color: '#FF0000', tag: 'New',
+  },
+  { 
+    name: 'Goblin Traders', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/goblin-traders', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/871/321/64/64/638288811545199466.png', 
+    color: '#FF0000', tag: 'New',
+  },
+  { 
+    name: 'Sophisticated Backpacks', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/375/56/64/64/637549610342642859.png', 
+    color: '#FF0000',    
+  },
+  { 
+    name: 'ExtraSounds Next', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/extrasounds-forge', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/915/603/64/64/638373740617344566.png', 
+    color: '#FF0000',    
+  },
+  { 
+    name: 'DisguiseHeads', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/disguiseheads', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/509/623/64/64/637827899248994972.png', 
+    color: '#FF0000',    
+  },
+  { 
+    name: 'Cuffed', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/cuffed', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/861/843/64/64/638269835732271886.png', 
+    color: '#FF0000',    
+  },
+  { 
+    name: 'Geophilic', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/geophilic', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/648/354/256/256/638049857735165515.png', 
+    color: '#FF0000',  
+  },
+  { 
+    name: 'Elytra Slot', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/elytra-slot', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/209/40/256/256/636979175379460863.png', 
+    color: '#FF0000',  
+  },
+  { 
+    name: 'Bountiful', 
+    link: 'https://modrinth.com/mod/bountiful', 
+    image: 'https://cdn.modrinth.com/data/BpwWFOVM/icon.png', 
+    color: '#00FF00', 
+  },
+  { 
+    name: 'Stellarity', 
+    link: 'https://modrinth.com/datapack/stellarity', 
+    image: 'https://cdn.modrinth.com/data/bZgeDzN8/29e68b62071c7a73e09c3ec8da8c0016d4582b55_96.webp', 
+    color: '#00FF00', 
+  },
+  { 
+    name: 'Antique Atlas 4', 
+    link: 'https://modrinth.com/mod/antique-atlas-4', 
+    image: 'https://cdn.modrinth.com/data/Y5Ve4Ui4/afa76ec243b9fcfbbdc164f1d960747e99cab704.png', 
+    color: '#00FF00', 
+  },
+  { 
+    name: 'Arts & Crafts', 
+    link: 'https://modrinth.com/mod/artsandcrafts', 
+    image: 'https://cdn.modrinth.com/data/JI9mEkvq/ab8c87c86a7216bb8c064f1d9ebdbb00b56affc3.png', 
+    color: '#00FF00', 
+  },
+  { 
+    name: 'Alex\'s Mobs', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/alexs-mobs', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/543/777/256/256/637874731161865623.jpeg', 
+    color: '#FF0000',  
+  },
+  { 
+    name: 'Artifacts', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/artifacts', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/444/622/256/256/637699815276651872.png', 
+    color: '#FF0000',  
+  },
+  { 
+    name: 'Exposure', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/exposure', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/1029/426/256/256/638551434733696364_animated.gif', 
+    color: '#FF0000',  
+  },
+  { 
+    name: 'Target Dummy', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/727/100/256/256/638080208599452100.png', 
+    color: '#FF0000',  
+  },
+  { 
+    name: 'Etched', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/etched', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/939/472/256/256/638419301379970746.png', 
+    color: '#FF0000',  
+  },
+  { 
+    name: 'Another Furniture', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/another-furniture', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/531/947/256/256/637854788299840042.png', 
+    color: '#FF0000',  
+  },
+  { 
+    name: 'Ribbits', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/ribbits', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/1013/839/256/256/638538895773776677.png', 
+    color: '#FF0000',  
+  },
+  { 
+    name: 'Mob Variants', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/more-mob-variants', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/629/271/256/256/638027075824799126.png', 
+    color: '#FF0000',  
+  },
+  { 
+    name: 'Lootr', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/lootr', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/337/5/256/256/637473842688195004.png', 
+    color: '#FF0000',  
+  },
+  { 
+    name: 'Aquamirae', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/ob-aquamirae', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/464/755/256/256/637744772991786976.png', 
+    color: '#FF0000',  
+  },
+]"/>
 
 
-### Клиентские 
+### Клиентские <Badge type="tip" text="Обнова"/>
 <Box :items="[
+    { 
+    name: 'Astrocraft: Realistic Night Skies', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/astrocraft-mod', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/1072/388/64/64/638608219619134457.webp', 
+    color: '#FF0000', tag: 'New',
+    },
     { 
       name: 'Screenshot Viewer', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/screenshot-viewer', 
