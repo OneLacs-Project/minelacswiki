@@ -7,7 +7,7 @@ hero:
   name: "MineLacs" 
   text: "Википедия"
   prelink:
-    title: '🪄 PLAY 2024 <p>Голосование началось!</p>'
+    title: '🪄 PLAY 2024 <p>Итоги Года</p>'
     link: /wiki/play/play24
     target: _self
   image:
