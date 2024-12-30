@@ -87,7 +87,7 @@ prev:
 
  
 ## Участники
-**Общее количество: `9`**
+**Общее количество: `10`**
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -98,3 +98,4 @@ prev:
 - BobaButcher <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - KelperToro <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - LinuxUser69 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- m1chigang <img src="https://api.mineatar.io/face/566bac65-6941-4454-9d50-7a4339fc433a?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
