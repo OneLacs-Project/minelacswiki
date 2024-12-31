@@ -18,7 +18,7 @@
         image: '/WIKI/Play/Che/play2023logo.png'
     },
     { 
-        name: 'PLAY 2024 | Голосование идет', 
+        name: 'PLAY 2024', 
         link: 'play24', 
         image: '/WIKI/Play/Che/play2024logo.png' 
     },
