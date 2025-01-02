@@ -2,6 +2,7 @@
 outline: deep
 lastUpdated: true
 ---
+
 # ML Pixel
 
 ## Пиксель Батл

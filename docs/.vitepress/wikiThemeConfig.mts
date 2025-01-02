@@ -23,25 +23,9 @@ export const wikiThemeConfig = {
                 { text: '💿 Etched', link: '/wiki/season/ml-magic/etched'},
               ]
             },
+            { text: '🟫 ML OneBlock', link: '/wiki/season/ml-oneblock'},
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},
-            { text: '🥩 Саварубка', link: '/wiki/season/sawarubka'}
-          ]
-        },
-        { // Категория о PLAY
-          text: '🪄 PLAY',
-          items: [
-            {
-              text: 'ЧЁ?',
-              link: '/wiki/play/che'
-            },
-            { 
-              text: 'PLAY 2023',
-              link: '/wiki/play/play23'
-            },
-            {
-              text: 'PLAY 2024',
-              link: '/wiki/play/play24'
-            }
+            { text: '🥩 Саварубка', link: '/wiki/season/sawarubka'},
           ]
         },
         { // Категория о нас
@@ -96,7 +80,25 @@ export const wikiThemeConfig = {
               ]
             },
           ]
-        }
+        },
+        { // Категория о PLAY
+          text: '🪄 PLAY EVENT',
+          collapsed: true,
+          items: [
+            {
+              text: 'ЧЁ?',
+              link: '/wiki/play/che'
+            },
+            { 
+              text: 'PLAY 2023',
+              link: '/wiki/play/play23'
+            },
+            {
+              text: 'PLAY 2024',
+              link: '/wiki/play/play24'
+            }
+          ]
+        },
       ],
     },
   }
