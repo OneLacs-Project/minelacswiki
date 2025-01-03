@@ -1,6 +1,6 @@
 // https://vitepress.dev/guide/custom-theme
 import { h } from 'vue'
-import Theme from 'vitepress'
+import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
 
@@ -26,8 +26,13 @@ import BlockCard from './components/BlockCard.vue'
 
 // import YouTube from './components/vitepress-theme-default-plus/VPLYouTube.vue'
 
+import 'viewerjs/dist/viewer.min.css';
+import imageViewer from 'vitepress-plugin-image-viewer';
+// import vImageViewer from 'vitepress-plugin-image-viewer/lib/vImageViewer.vue';
+import { useRoute } from 'vitepress';
+
 export default {
-  extends: DefaultTheme,
+  ...DefaultTheme,
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
@@ -41,7 +46,7 @@ export default {
         })
     })
   },
-  enhanceApp({ app, router, siteData}) {
+  enhanceApp({ app, router, siteData, ctx}) {
     // DefaultTheme.enhanceApp(ctx);
     app.component('Box', DocBox)
     app.component('Pill', DocPill)
@@ -52,13 +57,17 @@ export default {
     app.component('BlockCard', BlockCard)
     // app.component('ProgressBar', ProgressBar);
     enhanceAppWithTabs(app)
+    // ctx.app.component('vImageViewer', vImageViewer);
 
     // app.component('YouTube', YouTube);
     // ...
   },
-  // markdown: {
-  //   config(md) {
-  //     md.use(tabsMarkdownPlugin)
-  //   }
-  // }
+
+  setup() {
+    // Get route
+    const route = useRoute();
+    // Using
+    imageViewer(route);
+  },
+
 } /*satisfies Theme*/
