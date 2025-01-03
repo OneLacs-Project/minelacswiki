@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress';
-import { wikiThemeConfig } from './wikiThemeConfig.mts';
+import { wikiThemeConfig } from './wikiThemeConfig.mjs';
 // import '@theojs/lumen/theme'
 
 import { figure } from '@mdit/plugin-figure';
