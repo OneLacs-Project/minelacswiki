@@ -27,7 +27,7 @@ import BlockCard from './components/BlockCard.vue'
 // import YouTube from './components/vitepress-theme-default-plus/VPLYouTube.vue'
 
 export default {
-  // extends: DefaultTheme,
+  extends: DefaultTheme,
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
