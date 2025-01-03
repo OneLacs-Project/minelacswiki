@@ -11,7 +11,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "@theojs/lumen": "^5.2.1",
+    "@theojs/lumen": "^5.1.1",
     "markdown-it": "^14.1.0",
     "marked": "^15.0.2",
     "timeago.js": "^4.0.2",
