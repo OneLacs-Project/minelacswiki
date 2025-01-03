@@ -17,7 +17,6 @@
     "marked": "^15.0.2",
     "rollup": "^4.29.1",
     "timeago.js": "^4.0.2",
-    "vitepress-plugin-image-viewer": "^1.1.5",
-    "type": "module"
+    "vitepress-plugin-image-viewer": "^1.1.5"
   }
 }
