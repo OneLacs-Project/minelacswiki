@@ -7,6 +7,7 @@ import { figure } from '@mdit/plugin-figure';
 import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
 
 // import {defineConfig} from '@lando/vitepress-theme-default-plus/config';
+// import tabsMarkdownPlugin from '@lando/vitepress-theme-default-plus/';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({

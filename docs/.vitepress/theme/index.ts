@@ -29,24 +29,25 @@ import BlockCard from './components/BlockCard.vue'
 import 'viewerjs/dist/viewer.min.css';
 import imageViewer from 'vitepress-plugin-image-viewer';
 // import vImageViewer from 'vitepress-plugin-image-viewer/lib/vImageViewer.vue';
+
 import { useRoute } from 'vitepress';
 
 export default {
-  ...DefaultTheme,
+  extends: DefaultTheme,
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
       'home-hero-info-before': () => h(Announcement),
       'aside-outline-before': () =>
         h(ShareButton, {
-          buttonIcon: 'fas fa-share-alt', 
+          buttonIcon: 'solar:share-bold-duotone', 
           buttonText: 'Поделится', 
-          copiedIcon: 'fas fa-link', 
+          copiedIcon: 'solar:square-share-line-bold-duotone', 
           copiedText: 'Скопировано!' 
         })
     })
   },
-  enhanceApp({ app, router, siteData, ctx}) {
+  enhanceApp({ app, router, siteData}) {
     // DefaultTheme.enhanceApp(ctx);
     app.component('Box', DocBox)
     app.component('Pill', DocPill)
@@ -70,4 +71,4 @@ export default {
     imageViewer(route);
   },
 
-} /*satisfies Theme*/
+} satisfies Theme
