@@ -3,6 +3,8 @@ outline: deep
 lastUpdated: true
 ---
 
+<Pill name="ML Ванила" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+ 
 # 🖼️ Галерея
 <span style="color: gray;"><sub>Передать вайб сезона</sub></span>
 

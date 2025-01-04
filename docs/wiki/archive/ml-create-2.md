@@ -3,7 +3,7 @@ outline: deep
 lastUpdated: true
 ---
 
-# 🗃️ ML Create 2
+# <iconify-icon icon="solar:archive-bold-duotone" style="color: #868dcc" ></iconify-icon> ML Create 2
 
 **Версия: 1.20.1 Forgе**
 

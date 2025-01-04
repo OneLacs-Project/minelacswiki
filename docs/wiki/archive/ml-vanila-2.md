@@ -2,7 +2,7 @@
 outline: deep
 lastUpdated: true
 ---
-# ML Ванила 2
+# <iconify-icon icon="solar:archive-bold-duotone" style="color: #868dcc" ></iconify-icon> ML Ванила 2
 ###### Все старое - хорошо заезженное новое
 
 **Версия: 1.21.1**

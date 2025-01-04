@@ -3,12 +3,14 @@ outline: deep
 lastUpdated: true
 ---
 
-# 🔮 Сборка
+<Pill name="ML Create 2" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+ 
+# 📦 Сборка
 ## Параметры 
 
 Версия игры: <Badge type="info" text="1.20.1" />
 
-Версия сборки: <Badge type="tip" text="v4" /> (24.06.2024) 
+Версия сборки: <Badge type="info" text="v4" /> (24.06.2024) 
 
 Загрузчик модов: <Badge type="info" text="1.20.1 Forge" />
 

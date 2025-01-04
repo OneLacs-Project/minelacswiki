@@ -3,10 +3,12 @@ outline: deep
 lastUpdated: true
 ---
 
+<Pill name="ML Create 2" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+ 
 # 🖼️ Галерея
 ## Карта Сервера <iconify-icon icon="vscode-icons:file-type-minecraft" width=30px ></iconify-icon> 
 
-> [!WARNING] Может включать не все базы или места
+> [!WARNING] Может включать не все базы или локации
 
 ### Обычный Мир
 JourneyMap  исследованновано игроком **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />  `31/07/2024` 

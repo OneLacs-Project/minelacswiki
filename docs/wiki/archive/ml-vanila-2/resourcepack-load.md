@@ -3,6 +3,8 @@ outline: deep
 lastUpdated: true
 ---
 
+<Pill name="ML Ванила 2" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+ 
 # Загрузка Ресурспаков
 ### Это документация по плагину на ресурспаки PackStacker
 Тут описаны команды плагина, его фишки, наши настройки, и все остальное что касается обычного игрока.

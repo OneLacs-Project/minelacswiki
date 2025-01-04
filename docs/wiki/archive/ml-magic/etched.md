@@ -1,4 +1,6 @@
 
+<Pill name="ML Magic" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+ 
 # Etched
 
 На нашем сервере есть мод, позволяющий новые способы для прослушивания музыки в игре.<br/>

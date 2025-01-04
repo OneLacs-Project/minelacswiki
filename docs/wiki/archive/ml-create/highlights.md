@@ -3,6 +3,8 @@ outline: deep
 lastUpdated: true
 ---
 
+<Pill name="ML Create" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+ 
 # ✨ Хайлайты
 
 ## PLAY 2023

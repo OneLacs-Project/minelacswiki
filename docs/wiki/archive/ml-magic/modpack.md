@@ -3,24 +3,24 @@ outline: deep
 lastUpdated: true
 ---
 
-# 🔮 Сборка
+<Pill name="ML Magic" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+ 
+# 📦 Сборка
 ## Параметры 
 
 **Версия игры: <Badge type="info" text="1.20.1" />**
 
-Версия сборки: <Badge type="tip" text="v5.09" />
+Версия сборки: <Badge type="info" text="v5.09" />
 
-Загрузчик модов: <Badge type="info" text="1.20.1 Forge" />
+Загрузчик модов: <Badge type="info" text="Forge" />
 
 Ссылка на скачивание: [Сборка](https://drive.google.com/file/d/1a8K8X5782bNDVQzNSt-erKd7aEdRItTZ/view?usp=sharing) 
-
-*Следите за новостями сервера на канале `📰│lacsnews` чтобы узнавать про новую сборку и прочую  информацию быстрее чем тут.*
 
 
 :::tabs 
 
-=== 5.09 ✨
-<Badge type="tip" text="v5.09"/> `28 Декабря` - **Обновление принесло изменения в сборке:**  <br/> 
+=== 5.09 
+<Badge type="info" text="v5.09"/> `28 Декабря` - **Обновление принесло изменения в сборке:**  <br/> 
 **<span style="color: green;">+ добавлены</span>** [Astrocraft](https://www.curseforge.com/minecraft/mc-mods/astrocraft-mod) <br/>
 **<span style="color: green;">+ добавлены</span>** [Call of Yucatán](https://www.curseforge.com/minecraft/mc-mods/call-of-yucutan) <br/>
 **<span style="color: green;">+ добавлены</span>** [Crawl on Demand](https://www.curseforge.com/minecraft/mc-mods/crawl-on-demand) <br/>
@@ -101,7 +101,7 @@ lastUpdated: true
 ## Моды
 *<span style="color: gray;"><sup>Это не полный и не динамичный список модов сборки, библиотеки и некоторые моды не указаны. </sup></span>*
 
-### Better Combat <Badge type="tip" text="Обнова"/>
+### Better Combat 
 <Box :items="[
   { 
     name: 'Better Combat', 
@@ -119,7 +119,7 @@ lastUpdated: true
     name: 'Cataclysmic Combat', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/cataclysmic-combat', 
     image: 'https://media.forgecdn.net/avatars/thumbnails/1004/913/64/64/638526147223016276.png', 
-    color: '#00FF00', tag: 'New',
+    color: '#00FF00', 
   },
 ]"
 />
@@ -328,49 +328,49 @@ lastUpdated: true
 ]"
 />
 
-### Остальные <Badge type="tip" text="Обнова"/>
+### Остальные 
 <Box :items="[
   { 
     name: 'Call of Yucatán', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/call-of-yucutan', 
     image: 'https://media.forgecdn.net/avatars/thumbnails/1002/886/64/64/638523299285638581.png', 
-    color: '#FF0000', tag: 'New',
+    color: '#FF0000', 
   },
   { 
     name: 'Crawl on Demand', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/crawl-on-demand', 
     image: 'https://media.forgecdn.net/avatars/thumbnails/834/590/64/64/638225436318096980.jpeg', 
-    color: '#FF0000', tag: 'New',
+    color: '#FF0000', 
   },
   { 
     name: 'Villager Transportation', 
     link: 'https://modrinth.com/datapack/villager-transportation', 
     image: 'https://cdn.modrinth.com/data/vLUPqRLH/359e802ab9fcae30836b59c5943ae061f5059b50_96.webp', 
-    color: '#FF0000', tag: 'New',
+    color: '#FF0000', 
   },
   { 
     name: 'Trofers', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/trofers', 
     image: 'https://media.forgecdn.net/avatars/thumbnails/382/156/64/64/637566129446964304.png', 
-    color: '#FF0000', tag: 'New',
+    color: '#FF0000', 
   },
   { 
     name: 'Relics', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/relics-mod', 
     image: 'https://media.forgecdn.net/avatars/thumbnails/1124/47/64/64/638680710071253437_animated.gif', 
-    color: '#FF0000', tag: 'New',
+    color: '#FF0000', 
   },
   { 
     name: 'L_Ender \'s Cataclysm', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/lendercataclysm', 
     image: 'https://media.forgecdn.net/avatars/thumbnails/460/870/64/64/637739722679428303.png', 
-    color: '#FF0000', tag: 'New',
+    color: '#FF0000', 
   },
   { 
     name: 'Goblin Traders', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/goblin-traders', 
     image: 'https://media.forgecdn.net/avatars/thumbnails/871/321/64/64/638288811545199466.png', 
-    color: '#FF0000', tag: 'New',
+    color: '#FF0000', 
   },
   { 
     name: 'Sophisticated Backpacks', 
@@ -417,7 +417,7 @@ lastUpdated: true
   { 
     name: 'Stellarity', 
     link: 'https://modrinth.com/datapack/stellarity', 
-    image: 'https://cdn.modrinth.com/data/bZgeDzN8/29e68b62071c7a73e09c3ec8da8c0016d4582b55_96.webp', 
+    image: 'https://cdn.modrinth.com/data/bZgeDzN8/334f13776890a2b288269a3bbdbd6719719524fe_96.webp', 
     color: '#00FF00', 
   },
   { 
@@ -495,13 +495,13 @@ lastUpdated: true
 ]"/>
 
 
-### Клиентские <Badge type="tip" text="Обнова"/>
+### Клиентские 
 <Box :items="[
     { 
     name: 'Astrocraft: Realistic Night Skies', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/astrocraft-mod', 
     image: 'https://media.forgecdn.net/avatars/thumbnails/1072/388/64/64/638608219619134457.webp', 
-    color: '#FF0000', tag: 'New',
+    color: '#FF0000', 
     },
     { 
       name: 'Screenshot Viewer', 

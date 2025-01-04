@@ -3,6 +3,8 @@ outline: deep
 lastUpdated: true
 ---
 
+<Pill name="ML Create" link="./" icon="solar:archive-bold-duotone" color="#868dcc" />  <br/>
+ 
 # MineMusic Mod
 
 <img src="/WIKI/ML-Create/MineMusicMod/demo_img_1.png" style="display: inline; vertical-align: middle; display: block; margin-left: auto; margin-right: auto; width: 256px; height: 256px;" />

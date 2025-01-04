@@ -3,6 +3,8 @@ outline: deep
 lastUpdated: true
 ---
 
+<Pill name="ML Create 2" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+ 
 # FlectoneChat
 <sub> Элегантная рукопись </sub>
 

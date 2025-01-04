@@ -3,6 +3,9 @@ outline: deep
 lastUpdated: true
 ---
 
+<Pill name="ML Ванила 2" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+ 
+
 # Изображение на мапах
 
 <img src="/WIKI/ML-Vanila-2/Images-on-maps/demo_img_1.avif" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 375px; height: 196px;" /> 

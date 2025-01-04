@@ -2,7 +2,7 @@
 outline: deep
 lastUpdated: true
 ---
-# 🗃️ ML Create
+# <iconify-icon icon="solar:archive-bold-duotone" style="color: #868dcc" ></iconify-icon> ML Create
 **<sup> Хорошая получилась история </sup>**
 
 **Версия: 1.20.1**

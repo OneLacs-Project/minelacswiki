@@ -3,10 +3,9 @@ outline: deep
 lastUpdated: true
 ---
 
+<Pill name="ML Ванила" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+ 
 # Пластинки
-<br/>
-<img src="/WIKI/ML-Vanila-2/Music-discs/demo_img_1.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 507px; height: 200px;" /> 
-
 На нашем сервере можно слушать любую музыку через пластинки используя плагин
 [pv-addon-discs](https://modrinth.com/plugin/pv-addon-discs) на мод [PlasmoVoice](https://www.curseforge.com/minecraft/mc-mods/plasmo-voice)
 
@@ -25,9 +24,6 @@ lastUpdated: true
 ```
 После вам выведет в чат список вариантов на основе вашего запроса
 Нажмите в чате на подходящий чтобы записать на диск мелодию
-<img src="/WIKI/ML-Vanila-2/Music-discs/demo_img_2.avif" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 300px; height: 50px;" /> <img src="/WIKI/ML-Vanila-2/Music-discs/demo_img_3.avif" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 300px; height: 57px;" /> <br/>
-<img src="/WIKI/ML-Vanila-2/Music-discs/demo_img_4.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 266px; height: 63px;" /> <img src="/WIKI/ML-Vanila-2/Music-discs/demo_img_5.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 314px; height: 19px;" /> <br/>
-<img src="/WIKI/ML-Vanila-2/Music-discs/demo_img_6.avif" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 300px; height: 62px;" /> 
 
 ### 2. Ссылкой
 Держа пластинку в руке пропишите команду 
@@ -35,8 +31,6 @@ lastUpdated: true
 ```
 /disc burn
 ```
-
-<img src="/WIKI/ML-Vanila-2/Music-discs/demo_img_7.avif" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 611px; height: 39px;" /> <img src="/WIKI/ML-Vanila-2/Music-discs/demo_img_8.webp" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 300px; height: 14px;" /> <br/> <img src="/WIKI/ML-Vanila-2/Music-discs/demo_img_9.avif" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 300px; height: 118px;" /> 
 
 #### Поддерживаемые ссылки
 
@@ -64,12 +58,10 @@ lastUpdated: true
 /disc burn WiszAsVY-pg
 ```
 :::
-<img src="/WIKI/ML-Vanila-2/Music-discs/demo_img_10.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 265px; height: 66px;" /> 
 
 ## Стереть {#erase}
 Чтобы вернуть пластинку  в руке в исходное состояние нужно прописать команду 
-`/disc erase`
+`/disc erase``
 ```
 /disc erase
 ```
-<img src="/WIKI/ML-Vanila-2/Music-discs/demo_img_11.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 141px; height: 18px;" />

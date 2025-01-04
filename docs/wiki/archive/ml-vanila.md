@@ -3,7 +3,7 @@ outline: deep
 lastUpdated: true
 ---
 
-# 🗃️ ML Ванила
+# <iconify-icon icon="solar:archive-bold-duotone" style="color: #868dcc" ></iconify-icon> ML Ванила
 ###### Всё новое - хорошо забытое старое
 
 **Версия: 1.20.1**

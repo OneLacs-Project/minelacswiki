@@ -7,15 +7,18 @@ hero:
   name: "MineLacs" 
   text: "Википедия"
   prelink:
-    title: '🪄 PLAY 2024 <p>Итоги Года</p>'
-    link: /wiki/play/play24
+    title: '<iconify-icon icon="solar:archive-bold-duotone" style="color: #868dcc" ></iconify-icon> ML Magic <p> Сезон Окончен</p>'
+    link: /wiki/archive/ml-magic
     target: _self
   image:
     src: /wikihomepagelogo.png
   actions:
     - theme: brand
-      text: MineLacs Magic 🔮
-      link: /wiki/season/ml-magic
+      text: 📥 Карта сервера
+      link: /wiki/archive/ml-magic/server-map
+    - theme: alt
+      text: 🔮 ML Magic 
+      link: /wiki/archive/ml-magic
     - theme: alt
       text: Вики
       link: /wiki/how-to-join
@@ -29,5 +32,5 @@ features:
     details: Тут вы сможете узнать обо всем подробнее 
   - icon: 🗺️
     title: Гайды
-    details: Вики предоставляет гайды на игру, моды и плагины которые используются на наших 
+    details: Вики предоставляет гайды на игру, моды и плагины которые используются на наших серверах
 ---

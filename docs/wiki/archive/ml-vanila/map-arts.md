@@ -3,6 +3,8 @@ outline: deep
 lastUpdated: true
 ---
 
+<Pill name="ML Ванила" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+ 
 # 🖌️ Мап Арты
 ## Плагин
 Для создания Мап-Артов на сервере присутствует плагин ImageFrame <img src="/minecraft/icons/imageFramePluginIcon.png" style="display: inline; margin: 0 2px; vertical-align: middle; width: 26px; height: 26px" />
