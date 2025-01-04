@@ -6,10 +6,10 @@ lastUpdated: true
 # 🖼️ Галерея
 <span style="color: gray;"><sub>Передать вайб сезона</sub></span>
 
-## Карта Сервера
+## Карта Сервера <iconify-icon icon="vscode-icons:file-type-minecraft" width=30px ></iconify-icon> 
 > [!WARNING] Карту сервера не удалось сохранить
 
-## Чат Сервера
+## Чат Сервера <iconify-icon icon="logos:discord-icon"></iconify-icon>
 
 <BlockCard size="big" :cards="[
   { content: '![img-](/WIKI/ML-Create/Gallery/demo_img_1.avif) \n *Пусто* \n |DVD314|![head](https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3)|\n|-|-|'},
@@ -21,7 +21,7 @@ lastUpdated: true
   { content: '![img-](/WIKI/ML-Create/Gallery/demo_img_7.avif) \n я ракету 1 уровня скрафтил \n |Babfter|![head](/minecraft/playerHeads/steveHead.png)|\n|-|-|'},
 ]"/>
 
-### По запросу
+### По запросу <iconify-icon icon="logos:discord-icon"></iconify-icon>
 
 **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
@@ -29,7 +29,7 @@ lastUpdated: true
 
 <img src="/WIKI/ML-Create/Gallery/demo_img_8.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 133px; height: auto;" /><img src="/WIKI/ML-Create/Gallery/demo_img_9.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 133px; height: auto;" /><img src="/WIKI/ML-Create/Gallery/demo_img_10.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 133px; height: auto;" /><img src="/WIKI/ML-Create/Gallery/demo_img_11.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 133px; height: auto;" /><img src="/WIKI/ML-Create/Gallery/demo_img_12.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 133px; height: auto;" />
 
-## Lacs - Газета
+## Lacs - Газета <iconify-icon icon="logos:discord-icon"></iconify-icon>
 <BlockCard size="big" :cards="[
   { content: '![img-13](/WIKI/ML-Create/Gallery/demo_img_13.avif) \n *Наполеон?* \n |Adolif_gitler|![head](/minecraft/playerHeads/steveHead.png)|\n|-|-|'},
   { content: '![img-14](/WIKI/ML-Create/Gallery/demo_img_14.avif) \n *ОНО ЖИВОЕЕ!!!* \n |Adolif_gitler|![head](/minecraft/playerHeads/steveHead.png)|\n|-|-|'},
@@ -43,7 +43,7 @@ lastUpdated: true
   { content: '![img-22](/WIKI/ML-Create/Gallery/demo_img_22.png) \n Картина *Поезд-Вода* \n |Babfter|![head](/minecraft/playerHeads/steveHead.png)|\n|-|-|'},
 ]"/>
 
-## Логотипы
+## Логотипы <iconify-icon icon="logos:discord-icon"></iconify-icon>
 <BlockCard size="big" :cards="[
   { content: '![img-23](/WIKI/ML-Create/Gallery/demo_img_23.png) \n *Метро Lacs - Ваше будущее!* \n |SawaDawa177|![head](https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3)|\n|-|-|'},
   { content: '![img-24](/WIKI/ML-Create/Gallery/demo_img_24.png) \n *Логотип DVD corp.* \n |DVD314|![head](https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3)|\n|-|-|'},

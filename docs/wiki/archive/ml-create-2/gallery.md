@@ -4,7 +4,7 @@ lastUpdated: true
 ---
 
 # 🖼️ Галерея
-## Карта Сервера 
+## Карта Сервера <iconify-icon icon="vscode-icons:file-type-minecraft" width=30px ></iconify-icon> 
 
 > [!WARNING] Может включать не все базы или места
 
@@ -65,14 +65,14 @@ vxdqqqq <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; 
 <!-- место для скринов -->
 <img src="/WIKI/ML-Create-2/Gallery/demo_img_20.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 130px; height: auto;" /><img src="/WIKI/ML-Create-2/Gallery/demo_img_21.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 130px; height: auto;" /><img src="/WIKI/ML-Create-2/Gallery/demo_img_22.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 130px; height: auto;" /><img src="/WIKI/ML-Create-2/Gallery/demo_img_23.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 130px; height: auto;" /><img src="/WIKI/ML-Create-2/Gallery/demo_img_24.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 130px; height: auto;" />
 
-## Чат Сервера 
+## Чат Сервера <iconify-icon icon="logos:discord-icon"></iconify-icon>
 
 <BlockCard size="big" :cards="[
   { content: '![img-25](/WIKI/ML-Create-2/Gallery/demo_img_25.avif) \n *я что не зайду на сервер у меня тавер дефенс на базе* \n |vxdqqqq|![head](/minecraft/playerHeads/steveHead.png)|\n|-|-|'}
 ]"/>
 <!-- место для скринов -->
 
-### По Запросу 
+### По Запросу <iconify-icon icon="logos:discord-icon"></iconify-icon>
 
 **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
@@ -84,7 +84,7 @@ Nub4ik1  <img src="https://api.mineatar.io/face/d2b496f0-c2b0-4849-8dee-a6bda731
 <!-- место для скринов -->
 <img src="/WIKI/ML-Create-2/Gallery/demo_img_28.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 340px; height: auto;" /><img src="/WIKI/ML-Create-2/Gallery/demo_img_29.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 340px; height: auto;" />
 
-## Lacs - Газета 
+## Lacs - Газета <iconify-icon icon="logos:discord-icon"></iconify-icon>
 
 <BlockCard size="big" :cards="[
   { content: '![img-30](/WIKI/ML-Create-2/Gallery/demo_img_30.avif) \n *Ультра-мега-гига-супер-пупер бур готов до прошествия суток с начала сезона! DVD corp. развивается семимильными шагами!* \n |DVD314|![head](https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3)|\n|-|-|'},
@@ -97,7 +97,7 @@ Nub4ik1  <img src="https://api.mineatar.io/face/d2b496f0-c2b0-4849-8dee-a6bda731
 <!-- место для скринов -->
 
 
-## Логотипы 
+## Логотипы <iconify-icon icon="logos:discord-icon"></iconify-icon>
 
 <!-- место для скринов -->
 <BlockCard size="big" :cards="[

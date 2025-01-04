@@ -6,11 +6,11 @@ lastUpdated: true
 # 🖼️ Галерея
 <span style="color: gray;"><sub>Передать вайб сезона</sub></span>
 
-## Карта Сервера
+## Карта Сервера <iconify-icon icon="vscode-icons:file-type-minecraft" width=30px ></iconify-icon> 
 
 > [!WARNING] Карту сервера не удалось сохранить
 
-## Чат Сервера
+## Чат Сервера <iconify-icon icon="logos:discord-icon"></iconify-icon>
 
 <BlockCard size="big" :cards="[
   { content: '![img-1](/WIKI/ML-Vanila/Gallery/demo_img_1.avif) \n*он бежит на меня в моей голове(* \nKosinys | ![image](https://api.mineatar.io/face/58650faf-08ae-438a-a1ce-ec99ba38c4e6?scale=3) | \n |:---:|:---:|'},
@@ -20,7 +20,7 @@ lastUpdated: true
 ]"/>
 
 
-## По Запросу
+### По Запросу <iconify-icon icon="logos:discord-icon"></iconify-icon>
 
 **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
