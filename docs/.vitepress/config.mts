@@ -62,7 +62,7 @@ export default defineConfig({
            */
           searchOptions: {
             /* ... */
-            prefix: false,
+            // prefix: false,
             fuzzy: 0.2,
             
           }
