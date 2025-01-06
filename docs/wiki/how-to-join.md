@@ -3,8 +3,8 @@
 outline: deep
 lastUpdated: false
 next: 
-    text: '🔮 ML Magic'
-    link: '/wiki/season/ml-magic'
+    text: '🟫 ML OneBlock'
+    link: '/wiki/season/ml-oneblock'
 ---
 # ❓ Как зайти?
 ## Требования 

@@ -1,9 +1,6 @@
 ---
 outline: deep
 lastUpdated: true
-prev: 
-    text: '❓ Как зайти?'
-    link: '/wiki/how-to-join'
 ---
 
 # <iconify-icon icon="solar:archive-bold-duotone" style="color: #868dcc" ></iconify-icon> ML Magic

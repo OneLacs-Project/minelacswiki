@@ -13,6 +13,7 @@ import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lastUpdated: true,
+
   title: "MineLacs Wiki",
   description: "Вики Сервера MineLacs",
   lang: 'ru',
@@ -29,10 +30,11 @@ export default defineConfig({
       md.use(figure, { figcaption: 'alt', copyAttrs: '^class$', lazy: true }),
       md.use(tabsMarkdownPlugin)
     },
-    image: {
-      // image lazy loading is disabled by default
-      lazyLoading: true
-    }
+
+    // image: {
+    //   // image lazy loading is disabled by default
+    //   lazyLoading: false
+    // }
   },
   
   
