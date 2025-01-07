@@ -1,5 +1,5 @@
 ---
-outline: deep
+outline: 2
 lastUpdated: true
 ---
 
@@ -10,7 +10,7 @@ lastUpdated: true
 **Сезон завершен 04.01.2025**
 
 ## Описание
-**Версия Игры:** <Badge type="info" text="1.20.1 Forge" />
+**Версия Игры: 1.20.1 Forge**
 
 Сезон с упором на магические моды и генерацию.
 
@@ -51,7 +51,7 @@ lastUpdated: true
 Подробнее в **[Сборке](ml-magic/modpack)**
 :::
 ::: details Декабрь 2024 
-`14 Декабря` - Обновление **REBORN** принесло на сервер 
+`14 Декабря` - Обновление **REBORN** принесло на сервер {#REBORN}
 - Удаление **[Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra)** и других модов 
 - Много рецептов к **[Farmer's Delight](ml-magic/modpack#farmer-s-delight)** 
 - Множество **[улучшений структур от YUNG](ml-magic/modpack#yung-s-better)** 

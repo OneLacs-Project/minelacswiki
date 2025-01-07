@@ -29,7 +29,7 @@ export default defineConfig({
     config: (md) => { 
       md.use(figure, { figcaption: 'alt', copyAttrs: '^class$', lazy: true }),
       md.use(tabsMarkdownPlugin)
-    },
+    }
 
     // image: {
     //   // image lazy loading is disabled by default

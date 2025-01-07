@@ -5,8 +5,7 @@ lastUpdated: true
 
 <Pill name="ML Create" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
  
-# 🖼️ Галерея
-<span style="color: gray;"><sub>Передать вайб сезона</sub></span>
+# 🖼️ Галерея <br/> <span style="color: gray;"><sup>Передать вайб сезона</sup></span>
 
 ## Карта Сервера <iconify-icon icon="vscode-icons:file-type-minecraft" width=30px ></iconify-icon> 
 > [!WARNING] Карту сервера не удалось сохранить

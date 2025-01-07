@@ -58,6 +58,7 @@ export default {
     app.component('BlockCard', BlockCard)
     // app.component('ProgressBar', ProgressBar);
     enhanceAppWithTabs(app)
+
     // ctx.app.component('vImageViewer', vImageViewer);
 
     // app.component('YouTube', YouTube);
@@ -70,5 +71,7 @@ export default {
     // Using
     imageViewer(route);
   },
+
+  
 
 } satisfies Theme

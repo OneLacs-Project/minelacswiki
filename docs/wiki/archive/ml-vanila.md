@@ -3,8 +3,7 @@ outline: deep
 lastUpdated: true
 ---
 
-# <iconify-icon icon="solar:archive-bold-duotone" style="color: #868dcc" ></iconify-icon> ML Ванила
-###### Всё новое - хорошо забытое старое
+# <iconify-icon icon="solar:archive-bold-duotone" style="color: #868dcc" ></iconify-icon> ML Ванила <br/> <span style="color: gray;"><sup> Всё новое - хорошо забытое старое </sup></span>
 
 **Версия: 1.20.1**
 
@@ -19,25 +18,25 @@ lastUpdated: true
 <Links :items="[
     { 
         name: 'FlectoneChat', 
-        link: 'ml-vanila/docs-and-resources/flectone-chat', 
+        link: 'ml-vanila/flectone-chat', 
         icon: 'solar:chat-round-dots-bold-duotone',
         color: '#868dcc'
     },
     { 
         name: 'Пластинки', 
-        link: 'ml-vanila/docs-and-resources/music-discs', 
+        link: 'ml-vanila/music-discs', 
         icon: 'solar:music-note-bold-duotone',
         color: '#868dcc'
     },
     { 
         name: 'Мап Арты', 
-        link: 'ml-vanila/docs-and-resources/map-arts', 
+        link: 'ml-vanila/map-arts', 
         icon: 'solar:paint-roller-bold-duotone',
         color: '#868dcc'
     },
     { 
         name: 'Поделится ресурспаком', 
-        link: 'ml-vanila/docs-and-resources/share-resourcepack', 
+        link: 'ml-vanila/share-resourcepack', 
         icon: 'solar:archive-up-bold-duotone',
         color: '#868dcc'
     },

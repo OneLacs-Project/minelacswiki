@@ -5,8 +5,8 @@ lastUpdated: true
 
 <Pill name="ML Ванила" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
  
-# FlectoneChat
-<sub> Элегантная рукопись </sub>
+# FlectoneChat <br/> <span style="color: gray;"><sup>Элегантная рукопись</sup></span>
+
 
 ## Это документация по плагину на чат FlectoneChat
 Тут описаны команды плагина, его фишки, наши настройки, и все остальное что касается обычного игрока.

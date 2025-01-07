@@ -14,6 +14,9 @@ hero:
     src: /wikihomepagelogo.png
   actions:
     - theme: brand
+      text: 🖼️ Карта сервера
+      link: /wiki/archive/ml-magic/gallery
+    - theme: brand
       text: 📥 Карта сервера
       link: /wiki/archive/ml-magic/server-map
     - theme: alt

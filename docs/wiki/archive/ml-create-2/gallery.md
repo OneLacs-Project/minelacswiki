@@ -5,7 +5,9 @@ lastUpdated: true
 
 <Pill name="ML Create 2" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
  
-# 🖼️ Галерея
+# 🖼️ Галерея <br/> <span style="color: gray;"><sup>Передать вайб сезона</sup></span>
+
+
 ## Карта Сервера <iconify-icon icon="vscode-icons:file-type-minecraft" width=30px ></iconify-icon> 
 
 > [!WARNING] Может включать не все базы или локации
