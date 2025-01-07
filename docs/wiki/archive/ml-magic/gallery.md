@@ -47,14 +47,14 @@ DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78
 
 ## Lacs - Газета <iconify-icon icon="logos:discord-icon"></iconify-icon>
 
-#### Pre-[REBORN](./#REBORN)
+#### Pre-[REBORN](/wiki/archive/ml-magic#REBORN)
 
 <BlockCard size="big" :cards="[
   { content: '![](/WIKI/ML-Magic/Gallery/gazette-2.png) \n *Нашел эту поеботу в пустыне* \n|GreatShow6102|![head](https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3)| \n |:---:|:---:|'},
   { content: '![](/WIKI/ML-Magic/Gallery/gazette-4.png)[Видео](https://youtu.be/WlMDZdoneBE)\n *лягушкочелики* \n|DVD314|![head](https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3)| \n |:---:|:---:|'},
 ]"/>
 
-#### Post-[REBORN](./#REBORN)
+#### Post-[REBORN](/wiki/archive/ml-magic#REBORN)
 
 <BlockCard size="big" :cards="[
   { content: '![](/WIKI/ML-Magic/Gallery/gazette-5.png) \n *Блять* \n|GreatShow6102|![head](https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3)| \n |:---:|:---:|'},
