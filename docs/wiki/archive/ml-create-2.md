@@ -5,7 +5,7 @@ lastUpdated: true
 
 # <iconify-icon icon="solar:archive-bold-duotone" style="color: #868dcc" ></iconify-icon> ML Create 2
 
-**Версия: 1.20.1 Forgе**
+**<span style="color: gray;">Версия Игры:</span> 1.20.1 Forgе**
 
 **Сезон окончен 29.07.2024**
 

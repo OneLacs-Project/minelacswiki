@@ -5,7 +5,7 @@ lastUpdated: true
 
 # <iconify-icon icon="solar:archive-bold-duotone" style="color: #868dcc" ></iconify-icon> ML Ванила <br/> <span style="color: gray;"><sup> Всё новое - хорошо забытое старое </sup></span>
 
-**Версия: 1.20.1**
+**<span style="color: gray;">Версия Игры:</span> 1.20.1**
 
 **Сезон окончен 19.05.2024**
 

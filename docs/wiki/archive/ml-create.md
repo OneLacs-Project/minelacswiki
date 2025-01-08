@@ -4,7 +4,7 @@ lastUpdated: true
 ---
 # <iconify-icon icon="solar:archive-bold-duotone" style="color: #868dcc" ></iconify-icon> ML Create <br/> <span style="color: gray;"><sup> Хорошая получилась история </sup></span>
 
-**Версия: 1.20.1 Forge**
+**<span style="color: gray;">Версия Игры:</span> 1.20.1 Forge**
 
 **Сезон окончен 28.01.2024**
 

@@ -76,7 +76,7 @@ export const wikiThemeConfig = {
           ]
         },
         { // Категория о PLAY
-          text: '🪄 PLAY EVENT',
+          text: '🪄 <span style="color: #e381ff;">PLAY</span> EVENT',
           collapsed: true,
           items: [
             {

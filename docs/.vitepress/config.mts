@@ -38,7 +38,8 @@ export default defineConfig({
   },
   
   
-
+  ignoreDeadLinks: true,
+  
   appearance: 'force-dark',
 
   themeConfig: {

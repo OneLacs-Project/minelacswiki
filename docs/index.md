@@ -7,21 +7,15 @@ hero:
   name: "MineLacs" 
   text: "Википедия"
   prelink:
-    title: '<iconify-icon icon="solar:archive-bold-duotone" style="color: #868dcc" ></iconify-icon> ML Magic <p> Сезон Окончен</p>'
+    title: '🟫 ML OneBlock <p> Межсезонье </p>'
     link: /wiki/archive/ml-magic
     target: _self
   image:
     src: /wikihomepagelogo.png
   actions:
     - theme: brand
-      text: 🖼️ Карта сервера
-      link: /wiki/archive/ml-magic/gallery
-    - theme: brand
-      text: 📥 Карта сервера
-      link: /wiki/archive/ml-magic/server-map
-    - theme: alt
-      text: 🔮 ML Magic 
-      link: /wiki/archive/ml-magic
+      text: 🟫 ML OneBlock
+      link: /wiki/season/ml-oneblock
     - theme: alt
       text: Вики
       link: /wiki/how-to-join

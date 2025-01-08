@@ -4,7 +4,7 @@ lastUpdated: true
 ---
 # <iconify-icon icon="solar:archive-bold-duotone" style="color: #868dcc" ></iconify-icon> ML Ванила 2 <br/> <span style="color: gray;"><sup> Все старое - хорошо заезженное новое </sup></span>
 
-**Версия: 1.21.1**
+**<span style="color: gray;">Версия Игры:</span> 1.21.1**
 
 ## Описание
 Продолжение ванильного выживания на сервере. Сезон формата ВанилаПлюс где игровой процесс дополняется плагинами вместо модов.
