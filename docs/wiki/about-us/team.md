@@ -13,7 +13,7 @@ layout: page
 
   const members = [
     {
-      avatar: 'https://cdn.discordapp.com/avatars/803639665960681502/129f9e3a33e14ebc7e7f0e9bc60f757f.webp?size=4096',
+      avatar: 'https://cdn.discordapp.com/avatars/803639665960681502/1e07cfc4ba8cf7d35f959557e141ac78.webp?size=1024&format=webp&width=428&height=428',
       name: 'SawaDawa177_',
       title: 'Создатель',
       links: [
