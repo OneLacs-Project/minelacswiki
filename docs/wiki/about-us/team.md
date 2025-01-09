@@ -31,7 +31,7 @@ layout: page
       ]
     },
     {
-      avatar: 'https://cdn.discordapp.com/avatars/733200455324401676/523a3cdb706df3bc7a302438519b6a2f.webp?size=1024&format=webp&width=428&height=428',
+      avatar: 'https://cdn.discordapp.com/avatars/733200455324401676/7a7c34a3bb0fa3e1d730b82087625cb2.webp?size=1024&format=webp&width=428&height=428',
       name: 'Nub4ik1',
       title: 'Модератор',
       links: [
