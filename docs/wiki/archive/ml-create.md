@@ -2,7 +2,7 @@
 outline: deep
 lastUpdated: true
 ---
-# <iconify-icon icon="solar:archive-bold-duotone" style="color: #868dcc" ></iconify-icon> ML Create <br/> <span style="color: gray;"><sup> Хорошая получилась история </sup></span>
+# <iconify-icon icon="solar:archive-bold-duotone" style="margin-bottom:-0.3rem;margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Create <br/> <span style="color: gray;"><sup> Хорошая получилась история </sup></span>
 
 **<span style="color: gray;">Версия Игры:</span> 1.20.1 Forge**
 

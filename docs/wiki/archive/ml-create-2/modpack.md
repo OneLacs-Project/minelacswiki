@@ -6,7 +6,6 @@ lastUpdated: true
 <Pill name="ML Create 2" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
  
 # 📦 Сборка
-## Параметры 
 
 Версия игры: <Badge type="info" text="1.20.1" />
 

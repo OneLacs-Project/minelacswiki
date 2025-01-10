@@ -3,7 +3,7 @@ outline: deep
 lastUpdated: true
 ---
 
-# <iconify-icon icon="solar:archive-bold-duotone" style="color: #868dcc" ></iconify-icon> ML Ванила <br/> <span style="color: gray;"><sup> Всё новое - хорошо забытое старое </sup></span>
+# <iconify-icon icon="solar:archive-bold-duotone" style="margin-bottom:-0.3rem;margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Ванила <br/> <span style="color: gray;"><sup> Всё новое - хорошо забытое старое </sup></span>
 
 **<span style="color: gray;">Версия Игры:</span> 1.20.1**
 

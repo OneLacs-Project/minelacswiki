@@ -3,9 +3,9 @@ outline: 2
 lastUpdated: true
 ---
 
-<img src="/WIKI/ML-Magic/demo_img_1.png" style="display: inline; vertical-align: middle; display: block; margin-left: auto; margin-right: auto; width: 256px; height: 208px;" /> 
+![](/WIKI/ML-Magic/banner.png)
 
-# <iconify-icon icon="solar:archive-bold-duotone" style="color: #868dcc" ></iconify-icon> ML Magic
+# <iconify-icon icon="solar:archive-bold-duotone" style="margin-bottom:-0.3rem;margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Magic
 
 **<span style="color: gray;">Версия Игры:</span> 1.20.1 Forge**
 
