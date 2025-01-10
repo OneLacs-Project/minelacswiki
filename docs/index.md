@@ -8,7 +8,7 @@ hero:
   text: "Википедия"
   prelink:
     title: '🟫 ML OneBlock <p> Межсезонье </p>'
-    link: /wiki/archive/ml-magic
+    link: /wiki/season/ml-oneblock
     target: _self
   image:
     src: /wikihomepagelogo.png
