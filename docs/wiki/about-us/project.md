@@ -13,4 +13,6 @@ lastUpdated: true
 Сервер имеет сезоны которые в основном меняются в зависимости от выхода новой стабильной версии игры или по другим причинам.
 
 ---
-<a style="color: lightblue;" href="https://discord.com/invite/B6ywHB7ftP"> Discord Server </a>  | <a style="color: skyblue;" href="https://t.me/minelacs"> Telegram Channel </a> | <a style="color: orange;" href="https://boosty.to/minelacs"> Boosty Page </a>
+
+<Pill name="Discord Server" link="https://discord.com/invite/B6ywHB7ftP" icon="logos:discord-icon" color="#5865f2" />
+<Pill name="Telegram Channel" link="https://t.me/minelacs" icon="logos:telegram" color="#25a4e2" />

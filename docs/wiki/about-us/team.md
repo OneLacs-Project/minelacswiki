@@ -1,6 +1,6 @@
 ---
 outline: deep
-lastUpdated: true
+lastUpdated: false
 layout: page
 ---
 
@@ -13,7 +13,7 @@ layout: page
 
   const members = [
     {
-      avatar: 'https://cdn.discordapp.com/avatars/803639665960681502/1e07cfc4ba8cf7d35f959557e141ac78.webp?size=1024&format=webp&width=428&height=428',
+      avatar: 'https://cdn.discordapp.com/avatars/803639665960681502/4d4e3df8ded89d6e3e4aeaac8723b8a7.webp?size=1024&format=webp&width=428&height=428',
       name: 'SawaDawa177_',
       title: 'Создатель',
       links: [
