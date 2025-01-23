@@ -1,5 +1,7 @@
 {
+  "type": "module",
   "devDependencies": {
+    "@lando/vitepress-theme-default-plus": "^1.1.0-beta.19",
     "@mdit/plugin-figure": "^0.13.1",
     "vitepress": "^1.5.0",
     "vitepress-plugin-tabs": "^0.5.0"
@@ -10,11 +12,10 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "@theojs/lumen": "^5.1.1",
+    "@theojs/lumen": "^5.3.5",
     "markdown-it": "^14.1.0",
     "marked": "^15.0.2",
     "timeago.js": "^4.0.2",
     "vitepress-plugin-image-viewer": "^1.1.6"
-  },
-  "type": "module"
+  }
 }

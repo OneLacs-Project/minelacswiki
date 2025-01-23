@@ -7,15 +7,15 @@ hero:
   name: "MineLacs" 
   text: "Википедия"
   prelink:
-    title: '🟫 ML OneBlock <p> Межсезонье </p>'
-    link: /wiki/season/ml-oneblock
+    title: '<iconify-icon icon="game-icons:steampunk-goggles"  style="margin-right:0.10rem;margin:center;color: #d77b57"></iconify-icon>  ML Create & Magic <p> Create И Магия!? </p>'
+    link: /wiki/season/ml-createmagic
     target: _self
   image:
     src: /wikihomepagelogo.png
   actions:
     - theme: brand
-      text: 🟫 ML OneBlock
-      link: /wiki/season/ml-oneblock
+      text: ML Create & Magic
+      link: /wiki/season/ml-createmagic
     - theme: alt
       text: Вики
       link: /wiki/how-to-join

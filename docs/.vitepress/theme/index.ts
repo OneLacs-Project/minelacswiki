@@ -18,7 +18,8 @@ import { DocVideoLink } from '@theojs/lumen'
 
 import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
 
-// import VPLTheme from '@lando/vitepress-theme-default-plus';
+// import VPLTheme from '@lando/vitepress-theme-default-plus'
+
  
 // import BlockCard from './components/LEGACYBlockCard.vue'
 import BlockCard from './components/BlockCard.vue'

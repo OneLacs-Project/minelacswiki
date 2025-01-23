@@ -3,8 +3,8 @@
 outline: deep
 lastUpdated: false
 next: 
-    text: '🟫 ML OneBlock'
-    link: '/wiki/season/ml-oneblock'
+    text: '<iconify-icon icon="game-icons:steampunk-goggles"  style="margin-right:0.10rem;margin:center;color: #d77b57"></iconify-icon> ML Create & Magic'
+    link: '/wiki/season/ml-createmagic'
 ---
 # ❓ Как зайти?
 ## Требования 

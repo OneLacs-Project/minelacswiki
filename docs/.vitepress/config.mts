@@ -1,8 +1,11 @@
 import { defineConfig } from 'vitepress';
-import { wikiThemeConfig } from './wikiThemeConfig.mts';
+import { wikiSidebar } from './wikiSidebar.mts';
 // import '@theojs/lumen/theme'
 
+// import {defineConfig} from '@lando/vitepress-theme-default-plus/config';
+
 import { figure } from '@mdit/plugin-figure';
+import { format } from 'timeago.js';
 
 import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
 
@@ -10,9 +13,8 @@ import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
 // import {defineConfig} from '@lando/vitepress-theme-default-plus/config';
 // import tabsMarkdownPlugin from '@lando/vitepress-theme-default-plus/';
 
-// https://vitepress.dev/reference/site-config
+// https://vitepress.dev/reference/site-config 
 export default defineConfig({
-  lastUpdated: true,
 
   title: "MineLacs Wiki",
   description: "Вики Сервера MineLacs",
@@ -27,7 +29,7 @@ export default defineConfig({
 
   markdown: {
     config: (md) => { 
-      md.use(figure, { figcaption: 'alt', copyAttrs: '^class$', lazy: true }),
+      md.use(figure, { figcaption: 'alt', copyAttrs: '^class$', lazy: false }),
       md.use(tabsMarkdownPlugin)
     }
 
@@ -36,6 +38,7 @@ export default defineConfig({
     //   lazyLoading: false
     // }
   },
+
   
   
   ignoreDeadLinks: true,
@@ -44,6 +47,7 @@ export default defineConfig({
 
   themeConfig: {
     // sitetitle: "MineLacs Wiki",
+    // contributors: false,
     
     logo:'/mlwiki-logo.svg',
 
@@ -85,8 +89,13 @@ export default defineConfig({
     },
 
     lastUpdated: {
+      formatOptions: { dateStyle: 'short', forceLocale: true},
       text: 'Обновлено'
     },
+
+    // robots: {
+    //   allowAll: false,
+    // },
 
     externalLinkIcon: true,
 
@@ -110,7 +119,7 @@ export default defineConfig({
     ],
 
     sidebar: { 
-          ...wikiThemeConfig.themeConfig.sidebar,
+          ...wikiSidebar.themeConfig.sidebar,
           
         },
 
