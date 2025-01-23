@@ -28,7 +28,7 @@ export const wikiSidebar = {
               ]},
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},
             { text: '🥩 Саварубка', link: '/wiki/season/sawarubka'},
-            { text: '🟫 <span style="color: gray;">ML OneBlock</span>', link: '/wiki/season/ml-oneblock'},
+            { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},
           ]
         },
         { // Категория о нас
