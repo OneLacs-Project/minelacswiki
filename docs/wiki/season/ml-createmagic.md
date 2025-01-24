@@ -9,7 +9,7 @@ prev:
 ![](/WIKI/ML-Create-N-Magic/banner.png)
 
 # <iconify-icon icon="game-icons:steampunk-goggles"  style="margin-bottom:-0.3rem;margin-right:0.10rem;margin:center;color: #d77b57"></iconify-icon> ML Create & Magic <br/> <span style="color: gray;"><sup></sup></span>
-**<span style="color: gray;">Версия Игры:</span> N/A**
+**<span style="color: gray;">Версия Игры:</span> 1.20.1 Forge**
 
 
 ::: details Трейлер
