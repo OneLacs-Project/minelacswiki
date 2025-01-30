@@ -97,7 +97,7 @@ export default defineConfig({
     //   allowAll: false,
     // },
 
-    externalLinkIcon: true,
+    // externalLinkIcon: true,
 
 
     darkModeSwitchLabel: 'Оформление',

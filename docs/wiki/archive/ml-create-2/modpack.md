@@ -44,8 +44,7 @@ lastUpdated: true
 
 ## Create
 <br/>
-<Box 
-    :items="[
+<Box :items="[
     { 
       name: 'Create', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/create', 

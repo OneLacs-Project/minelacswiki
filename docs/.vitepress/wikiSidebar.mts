@@ -25,6 +25,8 @@ export const wikiSidebar = {
             { text: '<iconify-icon icon="game-icons:steampunk-goggles"  style="margin-right:0.10rem;margin:center;color: #d77b57"></iconify-icon> ML Create & Magic', link: '/wiki/season/ml-createmagic', 
               collapsed: true, items: [
                 { text: '📦 Сборка', link: '/wiki/season/ml-createmagic/modpack'},
+                { text: '🎖️ Значки', link: '/wiki/season/ml-createmagic/nickname-custom'},
+                { text: '💬 FlectoneChat', link: '/wiki/season/ml-createmagic/flectone-chat' },
               ]},
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},
             { text: '🥩 Саварубка', link: '/wiki/season/sawarubka'},

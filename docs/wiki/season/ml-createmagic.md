@@ -13,6 +13,8 @@ prev:
 **<span style="color: gray;">Версия Игры:</span> 1.20.1 Forge** <br/>
 **<span style="color: gray;">Трейлер:</span> [Смотреть](https://youtu.be/jEi3TTYrKgI)**
 
+Сезон который совмещает моды <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/64/64/638598725500886388.png" /> и Магические моды
+
 <!-- ::: details Трейлер
 
 <Vid id="jEi3TTYrKgI" to="youtube" />
@@ -30,6 +32,25 @@ prev:
         icon: 'solar:box-bold-duotone',
         color: '#868dcc'
     },
+    { 
+        name: 'Значки', 
+        link: 'ml-createmagic/nickname-custom', 
+        icon: 'solar:medal-star-circle-bold-duotone',
+        color: '#868dcc'
+    },
+    { 
+        name: 'FlectoneChat', 
+        link: 'ml-vanila/flectone-chat', 
+        icon: 'solar:chat-round-dots-bold-duotone',
+        color: '#868dcc'
+    },
+    {
+      name: 'Подписка Plus',
+      desc: 'Boosty',
+      link: '/wiki/minelacs-plus',
+      icon: 'simple-icons:boosty',
+      color: '#f0662a'
+    },
   ]"
 />
 
@@ -40,10 +61,19 @@ prev:
 
 `24 Января` - **<span style="color: green;">Сезон начался</span>**
 
+`26 Января` - **TPS Обновление:** <br/>
+\- Удален мод Alex Mobs из-за нагрузки сервера<br/>
+\- Naturalist пришел на замену к Alex Mobs<br/>
+\- Добавлен декоративный мод Heart & Home<br/>
+\- Мод на карту Antique Atlas 4 был удален из-за нестабильности работы<br/>
+Изменения сборки -> **[Сборка](ml-createmagic/modpack)**<br/> 
+
+\- Были добавлены [значки](ml-createmagic/nickname-custom) Подписчиков <Pill name="Plus" link="/wiki/minelacs-plus" icon="simple-icons:boosty" color="#f0662a" /> и стримеров Twitch
+
 :::
 
 ## Участники
-**<span style="color: gray;">Общее количество:</span> `13`**
+**<span style="color: gray;">Общее количество:</span> `33`**
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -58,8 +88,27 @@ prev:
 - FlandenT1me <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - V0Golop7 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - nerinoc <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
-
-
-
-<!-- - m1chigang <img src="https://api.mineatar.io/face/566bac65-6941-4454-9d50-7a4339fc433a?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
-- Kosinys <img src="https://api.mineatar.io/face/58650faf-08ae-438a-a1ce-ec99ba38c4e6?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> -->
+- Foxyandet <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Mr_Frying <img src="https://api.mineatar.io/face/8a587fdf-a714-42db-b460-cac37bfaaaeb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- GGYandex <img src="https://api.mineatar.io/face/cc0c068e-8242-490b-9e1e-68dd925ebdb3?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Lenfair <img src="https://api.mineatar.io/face/d36339eb-2d45-4c50-a1d9-06be69c1321e?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- manow228 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- spafis <img src="https://api.mineatar.io/face/24c076a7-aecc-4934-9d95-19ccc5860bc2?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- ZXCOVOCH <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- FaKToR_ <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- S1ngl <img src="https://api.mineatar.io/face/cd017093-8033-4045-8204-fec3b17a9e69?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- m1chigang <img src="https://api.mineatar.io/face/566bac65-6941-4454-9d50-7a4339fc433a?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- NESKAJY <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- MAY_12 <img src="https://api.mineatar.io/face/119df178-117b-48c3-8eeb-4727ead662ed?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- rerorfasti <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- TorentsTirfiys <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Pz_Kpfw_III <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- m1nus1k <img src="https://api.mineatar.io/face/2b4b6a4e-dfc1-41b4-926a-6cd0e18fb786?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- samirabxxl <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- expeeze <img src="https://api.mineatar.io/face/cdd3d3eb-57a9-46a2-961c-e52d2f1219f3?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- NEXT_Garus <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Gurman <img src="https://api.mineatar.io/face/373d97b1-de94-4a6c-a71c-0cee5277e0b1?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- InteLoger <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- kilerPerdyn128 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- SomirS <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+   
