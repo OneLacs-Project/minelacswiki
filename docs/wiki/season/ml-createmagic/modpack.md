@@ -45,7 +45,7 @@ lastUpdated: false
 
 === Create
 
-<Box :items="[ 
+<BoxCube :items="[ 
   { 
       name: 'Create', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/create', 
@@ -156,6 +156,16 @@ lastUpdated: false
       link: 'https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/1065/286/64/64/638598847906933576_animated.gif', 
     },
+    { 
+      name: 'Trackwork', 
+      link: 'https://modrinth.com/mod/trackwork', 
+      image: 'https://cdn.modrinth.com/data/FXDpZRJG/7bac8282c170ff9841ffb4715b8912e6305dddbb_96.webp', 
+    },
+    { 
+      name: 'Clockwork', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/create-clockwork', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/925/381/64/64/638393946266044506_animated.gif', 
+    },
 ]"/>
 
 === 
@@ -171,14 +181,58 @@ lastUpdated: false
 
 === Магия
 > [!IMPORTANT] В процессе добавления...
-
+#### Iron's
 <Box :items="[ 
-//   { 
-//     name: 'Desert Temples', 
-//     link: 'https://modrinth.com/mod/yungs-better-desert-temples', 
-//     image: 'https://cdn.modrinth.com/data/XNlO7sBv/32fc82949e922ad9281ac9a8fe965afc04261848_96.webp', 
-//     color: '#00FF00', 
-//   },
+  { 
+    name: 'Spells \'n Spellbooks', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/871/265/64/64/638288661913483053.png', 
+    color: '#00FF00', 
+  },
+  { 
+    name: 'Spells Gone Wrong ', 
+    link: 'https://modrinth.com/mod/spells-gone-wrong', 
+    image: 'https://cdn.modrinth.com/data/4ugLsKOh/8a1bdbfdcfad7fd4d4079c1e5388086555186441_96.webp', 
+    color: '#00FF00', 
+  },
+]"/>
+
+#### Relics
+<Box :items="[ 
+  { 
+    name: 'Relics', 
+    link: 'https://modrinth.com/mod/relics-mod', 
+    image: 'https://cdn.modrinth.com/data/OCJRPujW/abd5b9d7ed74ec3260e5807cfa1e9c7e28285450.gif', 
+    color: '#00FF00', 
+  },
+  { 
+    name: 'Artifacts Compat', 
+    link: 'https://modrinth.com/mod/rar-compat', 
+    image: 'https://cdn.modrinth.com/data/GnU07giL/df819c4f12475b0df8ca7399baf556f1cfa072fe.gif', 
+    color: '#00FF00', 
+  },
+]"/>
+
+#### Другие
+<Box :items="[ 
+  { 
+    name: 'L_Ender\'s Cataclysm', 
+    link: 'https://modrinth.com/mod/l_enders-cataclysm', 
+    image: 'https://cdn.modrinth.com/data/46KJle7n/4de43b519c4b4ce09c5a3155e908da446dbf455a_96.webp', 
+    color: '#00FF00', 
+  },
+  { 
+    name: 'Artifacts', 
+    link: 'https://modrinth.com/mod/artifacts', 
+    image: 'https://cdn.modrinth.com/data/P0Mu4wcQ/icon.png', 
+    color: '#00FF00', 
+  },
+  { 
+    name: 'Ribbits', 
+    link: 'https://modrinth.com/mod/ribbits', 
+    image: 'https://cdn.modrinth.com/data/8YcE8y4T/428a4dda4085df0e7e078c69da853740f4294117_96.webp', 
+    color: '#00FF00', 
+  },
 ]"/>
 
 ::::
@@ -195,7 +249,7 @@ lastUpdated: false
 <Pill name="YUNGNICKYOUNG" link="https://modrinth.com/user/YUNGNICKYOUNG" image="https://cdn.modrinth.com/user/HCGwycZf/f4ec4b86f9778f12367fbd3a3e9f9e6af6830bee.png" /> <br/>
 
 
-<Box :items="[ 
+<BoxCube :items="[ 
   { 
     name: 'Desert Temples', 
     link: 'https://modrinth.com/mod/yungs-better-desert-temples', 
@@ -264,17 +318,78 @@ lastUpdated: false
   },
 ]"/>
 
-=== ...
-> [!IMPORTANT] В процессе добавления...
+=== Другие
+<!-- > [!IMPORTANT] В процессе добавления... -->
+#### When Dungeons Arise
+<Box :items="[
+    { 
+      name: 'When Dungeons Arise', 
+      link: 'https://modrinth.com/mod/when-dungeons-arise', 
+      image: 'https://cdn.modrinth.com/data/8DfbfASn/4240773f6aa5f8c69f44a5e2e0ff313f98ff3389_96.webp', 
+      color: '#FF0000', 
+    },
+    { 
+      name: 'Seven Seas', 
+      link: 'https://modrinth.com/mod/when-dungeons-arise-seven-seas', 
+      image: 'https://cdn.modrinth.com/data/ZsrrjDbP/dde6d034253f027dad87ffb06e2f047b0b5c96a0_96.webp', 
+      color: '#FF0000', 
+    },
+]"/>
+
+#### Tectonic
+<Box :items="[
+    { 
+      name: 'Tectonic', 
+      link: 'https://modrinth.com/datapack/tectonic', 
+      image: 'https://cdn.modrinth.com/data/lWDHr9jE/c7a4e685e92e64d07860ecee7b8669022fd0985d_96.webp', 
+      color: '#FF0000', 
+    },
+]"/>
+
+#### Dungeons and Taverns
+<Box :items="[
+    { 
+      name: 'Stronghold Overhaul', 
+      link: 'https://modrinth.com/datapack/dungeons-and-taverns-stronghold-overhaul', 
+      image: 'https://cdn.modrinth.com/data/rYocd2LE/5494b7d3fae40e7909129ddd209ac43f2ed94547_96.webp', 
+      color: '#FF0000', 
+    },
+    { 
+      name: 'Pillager Outpost Overhaul', 
+      link: 'https://modrinth.com/datapack/dungeons-and-taverns-pillager-outpost-overhaul', 
+      image: 'https://cdn.modrinth.com/data/QIt10I7z/5d53bfb8d8b863b0dba40fdeae12bd9e5914b755_96.webp', 
+      color: '#FF0000', 
+    },
+]"/>
 
 ::::
 
 
+### Вайб
+:::: tabs 
 
+=== ℹ️
 
+ℹ️ Моды которые добавляют вайб типа декоративных блоков или еффекты там всякие крч похуй
 
+=== Анимации
+> [!IMPORTANT] В процессе добавления...
+<Box :items="[
+    { 
+      name: 'Better Combat', 
+      link: 'https://modrinth.com/mod/better-combat', 
+      image: 'https://cdn.modrinth.com/data/5sy6g3kz/4d59a2a1ddd25f977b39c89e391edc4cdc7c71ba_96.webp', 
+      color: '#FF0000', 
+    },
+    { 
+      name: 'Cataclysmic Combat', 
+      link: 'https://modrinth.com/mod/cataclysmic-combat', 
+      image: 'https://cdn.modrinth.com/data/MehxyiU4/bfca017772e57975605df4983208ab38c42fe6c0_96.webp', 
+      color: '#FF0000', 
+    },
+]"/>
 
-
+::::
 
 
 ### Клиентские 
@@ -297,5 +412,7 @@ lastUpdated: false
     // },
 ]"/>
 
+
+::::
 
 
