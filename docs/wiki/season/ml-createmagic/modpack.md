@@ -391,6 +391,18 @@ lastUpdated: false
 > [!IMPORTANT] В процессе добавления...
 <Box :items="[
     { 
+      name: 'Emotecraft', 
+      link: 'https://modrinth.com/plugin/emotecraft', 
+      image: 'https://cdn.modrinth.com/data/pZ2wrerK/eed7e2c9851392e5879c7d7cb763f142f124e6d2_96.webp', 
+      color: '#FF0000', 
+    },
+    { 
+      name: 'Online Emotes', 
+      link: 'https://modrinth.com/mod/online-emotes', 
+      image: 'https://cdn.modrinth.com/data/Dc4g4seU/6313f6f4f772d8e75c9f0cb601ea2aa003a2fb9b_96.webp', 
+      color: '#FF0000', 
+    },
+    { 
       name: 'Better Combat', 
       link: 'https://modrinth.com/mod/better-combat', 
       image: 'https://cdn.modrinth.com/data/5sy6g3kz/4d59a2a1ddd25f977b39c89e391edc4cdc7c71ba_96.webp', 
@@ -400,6 +412,18 @@ lastUpdated: false
       name: 'Cataclysmic Combat', 
       link: 'https://modrinth.com/mod/cataclysmic-combat', 
       image: 'https://cdn.modrinth.com/data/MehxyiU4/bfca017772e57975605df4983208ab38c42fe6c0_96.webp', 
+      color: '#FF0000', 
+    },
+    { 
+      name: 'Creeper Overhaul', 
+      link: 'https://modrinth.com/mod/creeper-overhaul', 
+      image: 'https://cdn.modrinth.com/data/MI1LWe93/d42fb7a69f1e7a86584fa1ed43520af98acec065.png', 
+      color: '#FF0000', 
+    },
+    { 
+      name: 'Not Enough Animations', 
+      link: 'https://modrinth.com/mod/not-enough-animations', 
+      image: 'https://cdn.modrinth.com/data/MPCX6s5C/b97fd5f7a893165052408b747286d6eb38d57abb_96.webp', 
       color: '#FF0000', 
     },
 ]"/>
