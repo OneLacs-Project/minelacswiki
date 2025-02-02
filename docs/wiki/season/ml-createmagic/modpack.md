@@ -9,14 +9,30 @@ lastUpdated: false
 
 **Версия игры: <Badge type="info" text="1.20.1" />** 
 
-Версия сборки: <Badge type="tip" text="v2.4" />
+Версия сборки: <Badge type="tip" text="v4.5" />
 
 Загрузчик модов: <Badge type="info" text="Forge" />
 
-Ссылка на скачивание: [Сборка](https://drive.google.com/uc?export=download&id=1d9Sxa9fzpd9COCMlFxOFD_0Apmqg4wC9) 
+Ссылка на скачивание: [Сборка](https://drive.google.com/uc?export=download&id=1C5QKAK040gfJRBVnZZ9AEqW7X31_uqOL) 
 
 
 :::tabs 
+=== 4.5 ✨
+`1 Февраля`<br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Cuffed" link="https://www.curseforge.com/minecraft/mc-mods/cuffed" image="https://media.forgecdn.net/avatars/thumbnails/861/843/64/64/638269835732271886.png" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="MmmMmmMmmMmm" link="https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm" image="https://media.forgecdn.net/avatars/thumbnails/727/100/64/64/638080208599452100.png" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Nature's Compass" link="https://www.curseforge.com/minecraft/mc-mods/natures-compass" image="https://media.forgecdn.net/avatars/thumbnails/54/102/64/64/636131217371752080.png" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Drink Beer Refill" link="https://www.curseforge.com/minecraft/mc-mods/drink-beer-refill" image="https://media.forgecdn.net/avatars/thumbnails/667/615/64/64/638062005137304376.png" /> <br/>
+
+
+=== 3.6
+`31 Января`<br/>
+**<span style="color: red;">- удален</span>** <Pill name="Pekhui" link="https://www.curseforge.com/minecraft/mc-mods/pehkui" image="https://media.forgecdn.net/avatars/thumbnails/199/987/64/64/636910482436953576.png" /> <br/>
+
+**<span style="color: green;">+ добавлен</span>** <Pill name="Etched" link="https://www.curseforge.com/minecraft/mc-mods/etched" image="https://media.forgecdn.net/avatars/thumbnails/939/472/64/64/638419301379970746.png" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Refined Storage" link="https://www.curseforge.com/minecraft/mc-mods/refined-storage" image="https://media.forgecdn.net/avatars/thumbnails/51/695/64/64/636106666531773282.png" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Xaero's Minimap" link="https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap" image="https://media.forgecdn.net/avatars/thumbnails/92/854/64/64/636258666554688823.png" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Double Doors" link="https://www.curseforge.com/minecraft/mc-mods/double-doors" image="https://media.forgecdn.net/avatars/thumbnails/233/519/64/64/637072440646369425.png" /> <br/>
 
 === 2.4
 `26 Января`<br/>
@@ -245,7 +261,6 @@ lastUpdated: false
 ℹ️ Коллекции модов которые изменяют генерацию мира
 
 === YUNG's
-####
 <Pill name="YUNGNICKYOUNG" link="https://modrinth.com/user/YUNGNICKYOUNG" image="https://cdn.modrinth.com/user/HCGwycZf/f4ec4b86f9778f12367fbd3a3e9f9e6af6830bee.png" /> <br/>
 
 
@@ -319,7 +334,7 @@ lastUpdated: false
 ]"/>
 
 === Другие
-<!-- > [!IMPORTANT] В процессе добавления... -->
+> [!IMPORTANT] В процессе добавления...
 #### When Dungeons Arise
 <Box :items="[
     { 

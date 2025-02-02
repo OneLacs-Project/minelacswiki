@@ -40,8 +40,14 @@ prev:
     },
     { 
         name: 'FlectoneChat', 
-        link: 'ml-vanila/flectone-chat', 
+        link: 'ml-createmagic/flectone-chat', 
         icon: 'solar:chat-round-dots-bold-duotone',
+        color: '#868dcc'
+    },
+    { 
+        name: 'Etched', 
+        link: 'ml-createmagic/etched', 
+        icon: 'solar:play-circle-bold-duotone',
         color: '#868dcc'
     },
     {
@@ -70,15 +76,34 @@ prev:
 
 \- Были добавлены [значки](ml-createmagic/nickname-custom) Подписчиков <Pill name="Plus" link="/wiki/minelacs-plus" icon="simple-icons:boosty" color="#f0662a" /> и стримеров Twitch
 
+`31 Января` - **TPS+ Обновление:** <br/>
+\- Pehkui был удален из-за нагрузки на сервер <br/>
+\- Добавлен мод [Etched](/wiki/season/ml-createmagic/etched) с пластинками<br/>
+\- Добавлен мод Refined Storage для удобного управления ресурсами<br/>
+\- Добавлен мод Double Doors чтобы двойные двери открывались вместе<br/>
+\- Добавлен мод Xaero's Minimap как новая миникарта<br/>
+\- Исправлен баг где торты всполоха не давали синий огонь<br/>
+
+:::
+::: details Февраль 2025 ✨
+
+✨ `1 Февраля` - **MineLacs Create & Magic - Fix+Gameplay обновление:**<br/> 
+\- Немного улучшены передачи пакетов на сервер<br/>
+\- Добавлен мод на наручники Cuffed <br/>
+\- Добавлен мод Drink Beer Refill для алкоголя<br/>
+\- Добавлен мод на тренировочные манекены MmmmMmmmMmmmMmmm <br/>
+\- Добавлен мод Nature's Compass для поиска биомов <br/>
+\- Исправлены проблемы с просадкой ТПС, и проблемы с появлением структур некоторых модов<br/>
+
 :::
 
 ## Участники
-**<span style="color: gray;">Общее количество:</span> `36`**
+**<span style="color: gray;">Общее количество:</span> `42`**
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Nub4ik1  <img src="https://api.mineatar.io/face/d2b496f0-c2b0-4849-8dee-a6bda731a7eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
-- DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- <span style="color: gray;">DVD314</span> <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> 
 - bruuhhh_ <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> 
 - zerostar279 <img src="https://api.mineatar.io/face/cfc33bd0-b49d-4b65-99d8-92ee7090a011?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> 
 - Volkov_Dmitry <img src="https://api.mineatar.io/face/fb7aeb5d-4397-48de-ac23-c1785034ef21?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> 
@@ -112,3 +137,9 @@ prev:
 - kilerPerdyn128 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - SomirS <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - V0GoLops <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- M_K_P_M <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- lampochka_  <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Wers_orig <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- gomixxx_YT <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- AngelOf0laf <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- I_a_GOOSE <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>

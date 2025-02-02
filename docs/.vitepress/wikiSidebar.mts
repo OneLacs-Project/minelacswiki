@@ -27,6 +27,7 @@ export const wikiSidebar = {
                 { text: '📦 Сборка', link: '/wiki/season/ml-createmagic/modpack'},
                 { text: '🎖️ Значки', link: '/wiki/season/ml-createmagic/nickname-custom'},
                 { text: '💬 FlectoneChat', link: '/wiki/season/ml-createmagic/flectone-chat' },
+                { text: '💿 Etched', link: '/wiki/season/ml-createmagic/etched'},
               ]},
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},
             { text: '🥩 Саварубка', link: '/wiki/season/sawarubka'},
