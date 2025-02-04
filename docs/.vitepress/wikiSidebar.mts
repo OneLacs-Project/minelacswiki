@@ -7,8 +7,8 @@ export const wikiSidebar = {
         {
           text: '',
           items: [
-            { text: '❓ Как зайти?', link: '/wiki/how-to-join'},
             { text: '🌐 Сайт', link: 'https://minelacs.ru'},
+            { text: '❓ Как зайти?', link: '/wiki/how-to-join'},
             { //<iconify-icon icon="fluent-color:premium-32"  style="margin-right:0.10rem;margin:center;color: #d77b57"></iconify-icon>
               text: 'MineLacs Plus',
               link: '/wiki/minelacs-plus'

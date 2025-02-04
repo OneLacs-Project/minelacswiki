@@ -61,7 +61,7 @@ lastUpdated: false
 
 === Create
 
-<BoxCube :items="[ 
+<Box :items="[ 
   { 
       name: 'Create', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/create', 
@@ -428,6 +428,17 @@ lastUpdated: false
     },
 ]"/>
 
+=== d
+> [!IMPORTANT] В процессе добавления...
+<Box :items="[
+    { 
+      name: 'Emotecraft', 
+      link: 'https://modrinth.com/plugin/emotecraft', 
+      image: 'https://cdn.modrinth.com/data/pZ2wrerK/eed7e2c9851392e5879c7d7cb763f142f124e6d2_96.webp', 
+      color: '#FF0000', 
+    },
+]"/>
+
 ::::
 
 
@@ -438,17 +449,223 @@ lastUpdated: false
 === ℹ️
 
 ℹ️ Моды утилиты, декор, расширенная информацию, оптимизация и другие которые не влияют на игровой процесс мира или других игроков. 
-
+=== JEI
+<Box :items="[
+    {
+      name: 'Just Enough Breeding (JEBr)',
+      link: 'https://modrinth.com/mod/9Pk89J3g',
+      image: 'https://cdn.modrinth.com/data/9Pk89J3g/86043395c6a9e34380d3604e0c9cbbebc23b0b7a.png',
+    },
+    {
+      name: 'Just Enough Effect Descriptions (JEED)',
+      link: 'https://modrinth.com/mod/EO27GKs1',
+      image: 'https://cdn.modrinth.com/data/EO27GKs1/0cae90cd5fbb858e267777ef965a499a83b7ddcb_96.webp',
+    },
+    {
+      name: 'Just Enough Resources (JER)',
+      link: 'https://modrinth.com/mod/uEfK2CXF',
+      image: 'https://cdn.modrinth.com/data/uEfK2CXF/ca8130fd80167a798d6bfa489dd87fbb871dce94_96.webp',
+    },
+]"/>
 
 === ...
 > [!IMPORTANT] В процессе добавления...
 <Box :items="[
-    // { 
-    //   name: 'Astrocraft: Realistic Night Skies', 
-    //   link: 'https://www.curseforge.com/minecraft/mc-mods/astrocraft-mod', 
-    //   image: 'https://media.forgecdn.net/avatars/thumbnails/1072/388/64/64/638608219619134457.webp', 
-    //   color: '#FF0000', 
-    // },
+    {
+      name: 'ImmediatelyFast',
+      link: 'https://modrinth.com/mod/5ZwdcRci',
+      image: 'https://cdn.modrinth.com/data/5ZwdcRci/e57b6b451425692ac17ad322d5e14bea686a383a_96.webp',
+    },
+    {
+      name: 'Ok Zoomer',
+      link: 'https://modrinth.com/mod/aXf2OSFU',
+      image: 'https://cdn.modrinth.com/data/aXf2OSFU/6bb42db9ff3dba778257ccc33452c338a7690aba_96.webp',
+    },
+    {
+      name: '[EMF] Entity Model Features',
+      link: 'https://modrinth.com/mod/4I1XuqiY',
+      image: 'https://cdn.modrinth.com/data/4I1XuqiY/6e5bbd0d06b1741bfdab6c0cfab6de8fdaf0064c_96.webp',
+    },
+    {
+      name: 'Controlling',
+      link: 'https://modrinth.com/mod/xv94TkTM',
+      image: 'https://cdn.modrinth.com/data/xv94TkTM/bdb6feb3d04ca37da4ed5aa73fef062a39d8b3e5_96.webp',
+    },
+    {
+      name: 'Shulker Box Tooltip',
+      link: 'https://modrinth.com/mod/2M01OLQq',
+      image: 'https://cdn.modrinth.com/data/2M01OLQq/bb490716cf2590cf84100a495931c3d4743bce43_96.webp',
+    },
+    {
+      name: 'Sodium Options API',
+      link: 'https://modrinth.com/mod/Es5v4eyq',
+      image: 'https://cdn.modrinth.com/data/Es5v4eyq/7bff17babb498584c0edd74211d97435b651c11f_96.webp',
+    },
+    {
+      name: 'Item Borders',
+      link: 'https://modrinth.com/mod/b1fMg6sH',
+      image: 'https://cdn.modrinth.com/data/b1fMg6sH/8d57c0d614101a1ebaa9c6cebb90bd1940fb1083.png',
+    },
+    {
+      name: 'Embeddium',
+      link: 'https://modrinth.com/mod/sk9rgfiA',
+      image: 'https://cdn.modrinth.com/data/sk9rgfiA/55f9c50284f8abbbe2a485abfd6a16209201e451_96.webp',
+    },
+    {
+      name: 'Tool Stats',
+      link: 'https://modrinth.com/mod/vuGFx44e',
+      image: 'https://cdn.modrinth.com/data/vuGFx44e/192346136bf85057e4602adade6eae5a324f7323.png',
+    },
+    {
+      name: 'Dynamic FPS',
+      link: 'https://modrinth.com/mod/LQ3K71Q1',
+      image: 'https://cdn.modrinth.com/data/LQ3K71Q1/5056368d0d87c1a9f3efead0cb48ab39a4ea87bf_96.webp',
+    },
+    {
+      name: 'Dynamic Crosshair',
+      link: 'https://modrinth.com/mod/ZcR9weSm',
+      image: 'https://cdn.modrinth.com/data/ZcR9weSm/8da8af58ca961f937bd05d41dcefa26be7b5c182.png',
+    },
+    {
+      name: 'Forge Config Screens',
+      link: 'https://modrinth.com/mod/5WeWGLoJ',
+      image: 'https://cdn.modrinth.com/data/5WeWGLoJ/218f26d9a3c3fd683c2cc6aaa4a5c04f597cb434_96.webp',
+    },
+    {
+      name: 'Particle Core',
+      link: 'https://modrinth.com/mod/RSeLon5O',
+      image: 'https://cdn.modrinth.com/data/RSeLon5O/147110a6a4457b2f287f68fc626771f0f8ef2cde_96.webp',
+    },
+    {
+      name: 'Chat Heads',
+      link: 'https://modrinth.com/mod/Wb5oqrBJ',
+      image: 'https://cdn.modrinth.com/data/Wb5oqrBJ/icon.png',
+    },
+    {
+      name: 'Advancement Plaques',
+      link: 'https://modrinth.com/mod/9NM0dXub',
+      image: 'https://cdn.modrinth.com/data/9NM0dXub/bb63f53585dd34679781c9964874dce8acdf6d26_96.webp',
+    },
+    {
+      name: 'Embeddium++',
+      link: 'https://modrinth.com/mod/yD9qW65f',
+      image: 'https://cdn.modrinth.com/data/yD9qW65f/0f3c3528382cf0830210389266273455e6fd6eeb_96.webp',
+    },
+    {
+      name: 'AmbientSounds',
+      link: 'https://modrinth.com/mod/fM515JnW',
+      image: 'https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp',
+    },
+    {
+      name: 'Panorama Screens',
+      link: 'https://modrinth.com/mod/4k0QM1rC',
+      image: 'https://cdn.modrinth.com/data/4k0QM1rC/b6627629ad2f5433cd28f870f1bec7e0ea530a08_96.webp',
+    },
+    {
+      name: 'Seamless Loading Screen ',
+      link: 'https://modrinth.com/mod/TyTPFOiF',
+      image: 'https://cdn.modrinth.com/data/TyTPFOiF/f475bd8fd316e8361b164b7bfa3f803a2a9cd82f_96.webp',
+    },
+    {
+      name: 'Embeddium (Rubidium) Extra',
+      link: 'https://modrinth.com/mod/oY2B1pjg',
+      image: 'https://cdn.modrinth.com/data/oY2B1pjg/e21509d986b82e5a09e46682afd7644ce119cc26_96.webp',
+    },
+    {
+      name: 'Online Emotes',
+      link: 'https://modrinth.com/mod/Dc4g4seU',
+      image: 'https://cdn.modrinth.com/data/Dc4g4seU/6313f6f4f772d8e75c9f0cb601ea2aa003a2fb9b_96.webp',
+    },
+    {
+      name: 'Drippy Loading Screen',
+      link: 'https://modrinth.com/mod/v3CYg2V9',
+      image: 'https://cdn.modrinth.com/data/v3CYg2V9/819ef4e386c8dcd5bd4f5a00bb365d4aeaa28679.png',
+    },
+    {
+      name: 'Mouse Tweaks',
+      link: 'https://modrinth.com/mod/aC3cM3Vq',
+      image: 'https://cdn.modrinth.com/data/aC3cM3Vq/6c0eaa4e60a9c87f4766f222ff63286f09da32c0_96.webp',
+    },
+    {
+      name: 'Xaero\'s Minimap',
+      link: 'https://modrinth.com/mod/1bokaNcj',
+      image: 'https://cdn.modrinth.com/data/1bokaNcj/354080f65407e49f486fcf9c4580e82c45ae63b8_96.webp',
+    },
+    {
+      name: 'ResourcePackCached',
+      link: 'https://modrinth.com/mod/d4phKsx2',
+      image: 'https://cdn.modrinth.com/data/d4phKsx2/5ca543437d937f9f8098c82e5b8a523062d2836e_96.webp',
+    },
+    {
+      name: 'Sodium Dynamic Lights',
+      link: 'https://modrinth.com/mod/PxQSWIcD',
+      image: 'https://cdn.modrinth.com/data/PxQSWIcD/a5ab5515213391934e18baaf487c87e4b24ebfa3_96.webp',
+    },
+    {
+      name: 'Equipment Compare',
+      link: 'https://modrinth.com/mod/CYSUVOdj',
+      image: 'https://cdn.modrinth.com/data/CYSUVOdj/1cadab9c3d8eacc48ec422b7a08e12c144700a2f_96.webp',
+    },
+    {
+      name: 'FastQuit',
+      link: 'https://modrinth.com/mod/x1hIzbuY',
+      image: 'https://cdn.modrinth.com/data/x1hIzbuY/930154d1ed3e855079c5f6ee63faeb9bcbe87cfd_96.webp',
+    },
+    {
+      name: 'Cull Less Leaves Reforged',
+      link: 'https://modrinth.com/mod/qthuEuVy',
+      image: 'https://cdn.modrinth.com/data/qthuEuVy/c89e3ec490b4999fda762b996c59cbdc8b76834f_96.webp',
+    },
+    {
+      name: 'Item Highlighter',
+      link: 'https://modrinth.com/mod/cVNW5lr6',
+      image: 'https://cdn.modrinth.com/data/cVNW5lr6/5e15f8c53ea36ca5391cdd9bbdea33261fa4c18d_96.webp',
+    },
+    {
+      name: 'Enchantment Descriptions',
+      link: 'https://modrinth.com/mod/UVtY3ZAC',
+      image: 'https://cdn.modrinth.com/data/UVtY3ZAC/1f857baf3d1f78e40343925176c084838c91a891_96.webp',
+    },
+    {
+      name: 'Sound Physics Remastered',
+      link: 'https://modrinth.com/mod/qyVF9oeo',
+      image: 'https://cdn.modrinth.com/data/qyVF9oeo/798fbfae58ec95ad51f3e1d522b43227306c326c.png',
+    },
+    {
+      name: 'Entity Culling',
+      link: 'https://modrinth.com/mod/NNAgCjsB',
+      image: 'https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp',
+    },
+    {
+      name: 'ItemPhysic Lite',
+      link: 'https://modrinth.com/mod/OuyCgP8t',
+      image: 'https://cdn.modrinth.com/data/OuyCgP8t/0b6af647b8bd2f5b7230b86566311692273f3360_96.webp',
+    },
+    {
+      name: 'Pick Up Notifier',
+      link: 'https://modrinth.com/mod/ZX66K16c',
+      image: 'https://cdn.modrinth.com/data/ZX66K16c/8005a3a223dde914bebce0639db1127950cc6c1b_96.webp',
+    },
+    {
+      name: 'Enhanced Block Entities',
+      link: 'https://modrinth.com/mod/OVuFYfre',
+      image: 'https://cdn.modrinth.com/data/OVuFYfre/7313d540ef9514d8680acd5b3feb6a5a079f20fe_96.webp',
+    },
+    {
+      name: 'Traveler\'s Titles',
+      link: 'https://modrinth.com/mod/JtifUr64',
+      image: 'https://cdn.modrinth.com/data/JtifUr64/e7743f2d78a52a1af0ebe5aacbfa940094c63dff_96.webp',
+    },
+    {
+      name: '[ETF] Entity Texture Features',
+      link: 'https://modrinth.com/mod/BVzZfTc1',
+      image: 'https://cdn.modrinth.com/data/BVzZfTc1/af683d206d50b05258d865b0d6e4aa2f2cee12f2_96.webp',
+    },
+    {
+      name: 'Model Gap Fix',
+      link: 'https://modrinth.com/mod/QdG47OkI',
+      image: 'https://cdn.modrinth.com/data/QdG47OkI/5a8203e120985d11616614e11ad7b888997000d8.png',
+    },
 ]"/>
 
 

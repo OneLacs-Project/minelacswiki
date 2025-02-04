@@ -1,9 +1,6 @@
 ---
 lastUpdated: true
 outline: 2
-prev: 
-    text: '❓ Как зайти?'
-    link: '/wiki/how-to-join'
 ---
 
 ![](/WIKI/ML-Create-N-Magic/banner.png)

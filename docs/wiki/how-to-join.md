@@ -2,9 +2,6 @@
 # ![mnlogo](./imgs/minenetLOGO.png)
 outline: deep
 lastUpdated: false
-next: 
-    text: '<iconify-icon icon="game-icons:steampunk-goggles"  style="margin-right:0.10rem;margin:center;color: #d77b57"></iconify-icon> ML Create & Magic'
-    link: '/wiki/season/ml-createmagic'
 ---
 # ❓ Как зайти?
 ## Требования 
