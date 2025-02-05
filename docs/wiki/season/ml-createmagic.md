@@ -95,7 +95,7 @@ outline: 2
 :::
 
 ## Участники
-**<span style="color: gray;">Общее количество:</span> `45`**
+**<span style="color: gray;">Общее количество:</span> `46`**
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -143,3 +143,4 @@ outline: 2
 - MrSpudya <img src="https://api.mineatar.io/face/a994dc62-c45a-4674-a61b-1bf9bcddf402?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - DOki56 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - tishkinss <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Therel <img src="https://api.mineatar.io/face/4701fc38-40b6-4cb8-86a7-7af88c0881cb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
