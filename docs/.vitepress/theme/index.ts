@@ -4,7 +4,6 @@ import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
 
-import 'amu-ui/es/style.css'
 
 // import '@theojs/lumen/theme'
 import '@theojs/lumen/badge' /* 徽章样式 */
