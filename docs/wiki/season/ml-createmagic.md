@@ -20,6 +20,9 @@ outline: 2
 ::: -->
 
 
+
+
+
 ## Документации / Ресурсы
 
 <Links :items="[
@@ -144,3 +147,4 @@ outline: 2
 - DOki56 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - tishkinss <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - Therel <img src="https://api.mineatar.io/face/4701fc38-40b6-4cb8-86a7-7af88c0881cb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- cjcfk <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>

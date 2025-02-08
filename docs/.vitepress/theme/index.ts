@@ -4,6 +4,8 @@ import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
 
+import 'amu-ui/es/style.css'
+
 // import '@theojs/lumen/theme'
 import '@theojs/lumen/badge' /* 徽章样式 */
 import '@theojs/lumen/doc' /* 文档样式 */
@@ -33,6 +35,10 @@ import vImageViewer from 'vitepress-plugin-image-viewer/lib/vImageViewer.vue';
 
 import { useRoute } from 'vitepress';
 
+import AmuUI from 'amu-ui'
+import 'amu-ui/es/style.css'
+
+
 export default {
   extends: DefaultTheme,
   Layout: () => {
@@ -59,6 +65,9 @@ export default {
     app.component('BlockCard', BlockCard)
     // app.component('ProgressBar', ProgressBar);
     enhanceAppWithTabs(app)
+
+    // app.use(AmuUI);
+    // app.mount("#app");
 
     // ctx.app.component('vImageViewer', vImageViewer);
 
