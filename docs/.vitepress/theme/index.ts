@@ -35,8 +35,6 @@ import vImageViewer from 'vitepress-plugin-image-viewer/lib/vImageViewer.vue';
 
 import { useRoute } from 'vitepress';
 
-import AmuUI from 'amu-ui'
-import 'amu-ui/es/style.css'
 
 
 export default {
