@@ -589,11 +589,6 @@ lastUpdated: false
       image: 'https://cdn.modrinth.com/data/ZcR9weSm/8da8af58ca961f937bd05d41dcefa26be7b5c182.png',
     },
     {
-      name: 'Chat Heads',
-      link: 'https://modrinth.com/mod/Wb5oqrBJ',
-      image: 'https://cdn.modrinth.com/data/Wb5oqrBJ/icon.png',
-    },
-    {
       name: 'Mouse Tweaks',
       link: 'https://modrinth.com/mod/aC3cM3Vq',
       image: 'https://cdn.modrinth.com/data/aC3cM3Vq/6c0eaa4e60a9c87f4766f222ff63286f09da32c0_96.webp',
@@ -623,16 +618,26 @@ lastUpdated: false
       link: 'https://modrinth.com/mod/OVuFYfre',
       image: 'https://cdn.modrinth.com/data/OVuFYfre/7313d540ef9514d8680acd5b3feb6a5a079f20fe_96.webp',
     },
-]"/>
-
-=== Другие
-<!-- > [!IMPORTANT] В процессе добавления... -->
-<Box :items="[
     {
       name: 'Controlling',
       link: 'https://modrinth.com/mod/xv94TkTM',
       image: 'https://cdn.modrinth.com/data/xv94TkTM/bdb6feb3d04ca37da4ed5aa73fef062a39d8b3e5_96.webp',
     },
+    {
+      name: 'Item Highlighter',
+      link: 'https://modrinth.com/mod/cVNW5lr6',
+      image: 'https://cdn.modrinth.com/data/cVNW5lr6/5e15f8c53ea36ca5391cdd9bbdea33261fa4c18d_96.webp',
+    },
+    {
+      name: 'Enchantment Descriptions',
+      link: 'https://modrinth.com/mod/UVtY3ZAC',
+      image: 'https://cdn.modrinth.com/data/UVtY3ZAC/1f857baf3d1f78e40343925176c084838c91a891_96.webp',
+    },
+]"/>
+
+=== Другие
+<!-- > [!IMPORTANT] В процессе добавления... -->
+<Box :items="[
     {
       name: 'Item Borders',
       link: 'https://modrinth.com/mod/b1fMg6sH',
@@ -659,19 +664,14 @@ lastUpdated: false
       image: 'https://cdn.modrinth.com/data/v3CYg2V9/819ef4e386c8dcd5bd4f5a00bb365d4aeaa28679.png',
     },
     {
-      name: 'Item Highlighter',
-      link: 'https://modrinth.com/mod/cVNW5lr6',
-      image: 'https://cdn.modrinth.com/data/cVNW5lr6/5e15f8c53ea36ca5391cdd9bbdea33261fa4c18d_96.webp',
-    },
-    {
-      name: 'Enchantment Descriptions',
-      link: 'https://modrinth.com/mod/UVtY3ZAC',
-      image: 'https://cdn.modrinth.com/data/UVtY3ZAC/1f857baf3d1f78e40343925176c084838c91a891_96.webp',
-    },
-    {
       name: 'ItemPhysic Lite',
       link: 'https://modrinth.com/mod/OuyCgP8t',
       image: 'https://cdn.modrinth.com/data/OuyCgP8t/0b6af647b8bd2f5b7230b86566311692273f3360_96.webp',
+    },
+    {
+      name: 'Chat Heads',
+      link: 'https://modrinth.com/mod/Wb5oqrBJ',
+      image: 'https://cdn.modrinth.com/data/Wb5oqrBJ/icon.png',
     },
 ]"/>
 

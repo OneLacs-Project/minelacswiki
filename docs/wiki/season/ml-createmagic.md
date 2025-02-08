@@ -12,16 +12,6 @@ outline: 2
 
 Сезон который совмещает моды <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/64/64/638598725500886388.png" /> и Магические моды
 
-<!-- ::: details Трейлер
-
-<Vid id="jEi3TTYrKgI" to="youtube" />
-
-Премьера состоялась 23 Января в 4:30 по МСК
-::: -->
-
-
-
-
 
 ## Документации / Ресурсы
 
@@ -97,8 +87,15 @@ outline: 2
 
 :::
 
+
+
+
+
+
+
+
 ## Участники
-**<span style="color: gray;">Общее количество:</span> `46`**
+**<span style="color: gray;">Общее количество:</span> `48`**
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -148,3 +145,4 @@ outline: 2
 - tishkinss <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - Therel <img src="https://api.mineatar.io/face/4701fc38-40b6-4cb8-86a7-7af88c0881cb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - cjcfk <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- NedoKey <img src="https://api.mineatar.io/face/56700259-f755-4753-89c2-e19fc588b98d?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
