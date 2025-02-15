@@ -105,7 +105,7 @@ outline: 2
 
 
 ## Участники
-**<span style="color: gray;">Общее количество:</span> `49`**
+**<span style="color: gray;">Общее количество:</span> `50`**
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -157,3 +157,5 @@ outline: 2
 - cjcfk <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - NedoKey <img src="https://api.mineatar.io/face/56700259-f755-4753-89c2-e19fc588b98d?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Voz_duh <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- LeoVinchi454 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+
