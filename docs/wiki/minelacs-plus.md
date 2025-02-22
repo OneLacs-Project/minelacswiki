@@ -19,7 +19,7 @@
 
 Преобрести подписку можно на <Pill name="Boosty" link="https://boosty.to/minelacs" icon="simple-icons:boosty" color="#f0662a" />
 
-На данный момент эксклюзивом является:
+Примеры эксклюзива:
 - Специальная роль на нашем [**Дискорд Сервере**](https://discord.com/invite/6u47fz6dCP)
-- Значки возле ника <Pill name="ML Create & Magic" link="/wiki/season/ml-createmagic/nickname-custom" icon="game-icons:steampunk-goggles" color="#d77b57" />
-- Перекраска никнейма <Pill name="ML Create & Magic" link="/wiki/season/ml-createmagic/nickname-custom#colors" icon="game-icons:steampunk-goggles" color="#d77b57" />
+- Значки возле ника <Pill name="ML Create & Magic" link="/wiki/archive/ml-createmagic/nickname-custom" icon="solar:archive-bold-duotone" color="#868dcc"  />
+- Перекраска никнейма <Pill name="ML Create & Magic" link="/wiki/archive/ml-createmagic/nickname-custom#colors" icon="solar:archive-bold-duotone" color="#868dcc"  />

@@ -7,9 +7,8 @@ lastUpdated: true
 
 # <iconify-icon icon="solar:archive-bold-duotone" style="margin-bottom:-0.3rem;margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Magic
 
-**<span style="color: gray;">Версия Игры:</span> 1.20.1 Forge**
-
-**Сезон завершен 04.01.2025**
+**<span style="color: gray;">Версия Игры:</span> 1.20.1 Forge**<br/>
+**<span style="color: gray;">Статус:</span> Завершен**<br/><span style="color: gray;"><sub>12.11.2024 - 04.01.2025</sub></span><br/>
 
 ## Описание
 

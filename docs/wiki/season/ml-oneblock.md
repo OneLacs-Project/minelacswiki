@@ -23,7 +23,7 @@ lastUpdated: true
 :::: tabs
 
 === Magic - CreateMagic
-<Pill name="ML Magic" link="/wiki/archive/ml-magic" icon="solar:archive-bold-duotone" color="#868dcc" /> -> <Pill name="ML Create & Magic" link="/wiki/season/ml-createmagic" icon="game-icons:steampunk-goggles" color="#d77b57" />
+<Pill name="ML Magic" link="/wiki/archive/ml-magic" icon="solar:archive-bold-duotone" color="#868dcc" /> -> <Pill name="ML Create & Magic" link="/wiki/season/ml-createmagic" icon="solar:archive-bold-duotone" color="#868dcc" />
 
 `2025` `7 Января` - `13 Января` 
 

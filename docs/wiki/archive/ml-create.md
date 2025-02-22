@@ -1,12 +1,13 @@
 ---
 outline: deep
 lastUpdated: true
+title: ML Create
 ---
 # <iconify-icon icon="solar:archive-bold-duotone" style="margin-bottom:-0.3rem;margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Create <br/> <span style="color: gray;"><sup> Хорошая получилась история </sup></span>
 
-**<span style="color: gray;">Версия Игры:</span> 1.20.1 Forge**
+**<span style="color: gray;">Версия Игры:</span> 1.20.1 Forge**<br/>
+**<span style="color: gray;">Статус:</span> Завершен**<br/><span style="color: gray;"><sub>25.10.2023 - 29.01.2024</sub></span><br/>
 
-**Сезон окончен 28.01.2024**
 
 ## Описание
 **M<span style="color: orange;">L</span> Create** - это сервер выживания с модом [Create](https://www.curseforge.com/minecraft/mc-mods/create) , его аддонами, а так-же несколькими другими модами. 

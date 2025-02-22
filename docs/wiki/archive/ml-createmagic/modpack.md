@@ -3,13 +3,13 @@ outline: [2,3]
 lastUpdated: false
 ---
 
-<Pill name="ML Create & Magic" link="./" icon="game-icons:steampunk-goggles" color="#d77b57" /> <br/>
+<Pill name="ML Create & Magic" link="./" icon="solar:archive-bold-duotone" color="#868dcc"  /> <br/>
  
 # 📦 Сборка 
 
 **Версия игры: <Badge type="info" text="1.20.1" />** 
 
-Версия сборки: <Badge type="tip" text="v5.11" />
+Версия сборки: <Badge type="info" text="v5.11" />
 
 Загрузчик модов: <Badge type="info" text="Forge" />
 
@@ -17,7 +17,7 @@ lastUpdated: false
 
 
 :::tabs 
-=== 5.11✨
+=== 5.11
 `9 Февраля`<br/>
 **<span style="color: green;">+ добавлен</span>** <Pill name="Create Cobblestone" link="https://modrinth.com/mod/ihpnEd80" image="https://cdn.modrinth.com/data/ihpnEd80/3b04d5b3830e1f685d78fa765f928d94f11f5d65_96.webp" /> <br/>
 **<span style="color: green;">+ добавлен</span>** <Pill name="Create: Food" link="https://modrinth.com/mod/4HnO3el1" image="https://cdn.modrinth.com/data/4HnO3el1/83b7a516998acc6394c9990671eb3fd0e0dee164.gif" /> <br/>
@@ -72,7 +72,7 @@ lastUpdated: false
 
 ℹ️ Моды с тематикой мода <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/64/64/638598725500886388.png" />
 
-=== Create ✨
+=== Create 
 
 <Box :items="[ 
     { 
@@ -84,49 +84,41 @@ lastUpdated: false
       name: 'Create Cobblestone',
       link: 'https://modrinth.com/mod/ihpnEd80',
       image: 'https://cdn.modrinth.com/data/ihpnEd80/3b04d5b3830e1f685d78fa765f928d94f11f5d65_96.webp',
-      tag: 'New',
     },
     {
       name: 'Create: Food',
       link: 'https://modrinth.com/mod/4HnO3el1',
       image: 'https://cdn.modrinth.com/data/4HnO3el1/83b7a516998acc6394c9990671eb3fd0e0dee164.gif',
-      tag: 'New',
     },
     {
       name: 'Create: Factory',
       link: 'https://modrinth.com/mod/j6Zt3N7W',
       image: 'https://cdn.modrinth.com/data/j6Zt3N7W/7695e7967fd8386954b8b2f13e579b99c7839650.png',
-      tag: 'New',
     },
     {
       name: 'Create: Ultimate Factory [Forge/Fabric]',
       link: 'https://modrinth.com/mod/N9QToVpw',
       image: 'https://cdn.modrinth.com/data/N9QToVpw/973e6f8a59b52aa91236d2fd54dd92d953148a5f_96.webp',
-      tag: 'New',
     },
     {
       name: 'Create Railways Navigator',
       link: 'https://modrinth.com/mod/Dq3STxps',
       image: 'https://cdn.modrinth.com/data/Dq3STxps/10e1b3796f2fcf5b70bb77110e68b59c750310ac_96.webp',
-      tag: 'New',
     },
     {
       name: 'Create: Trading floor',
       link: 'https://modrinth.com/mod/WROfLLvn',
       image: 'https://cdn.modrinth.com/data/WROfLLvn/4573807702d15fb8529af62a393c85fd5b62b486_96.webp',
-      tag: 'New',
     },
     {
       name: 'Create: High Pressure',
       link: 'https://modrinth.com/mod/Mn8ziD0c',
       image: 'https://cdn.modrinth.com/data/Mn8ziD0c/0a52c693eb09fb52f90244c7deeafec1f7b6a69f_96.webp',
-      tag: 'New',
     },
     {
       name: 'Create: Framed',
       link: 'https://modrinth.com/mod/15fFZ3f4',
       image: 'https://cdn.modrinth.com/data/15fFZ3f4/d4b1d8df190742e464afc64333cfa81614a28ae3_96.webp',
-      tag: 'New',
     },
     { 
       name: 'Create: Gravity', 
@@ -257,7 +249,6 @@ lastUpdated: false
 ℹ️ Моды относящиеся к <span style="color: violet;">Магии</span>: способности, предметы, структуры, и тд
 
 === Магия
-> [!IMPORTANT] В процессе добавления...
 #### Iron's
 <Box :items="[ 
   { 
@@ -404,7 +395,6 @@ lastUpdated: false
 ]"/>
 
 === Другие
-> [!IMPORTANT] В процессе добавления...
 #### When Dungeons Arise
 <Box :items="[
     { 
@@ -458,7 +448,6 @@ lastUpdated: false
 ℹ️ Моды которые добавляют вайб типа декоративных блоков или еффекты там всякие крч похуй
 
 === Анимации
-> [!IMPORTANT] В процессе добавления...
 <Box :items="[
     { 
       name: 'Emotecraft', 
@@ -499,7 +488,6 @@ lastUpdated: false
 ]"/>
 
 === Атмосфера
-> [!IMPORTANT] В процессе добавления...
 <Box :items="[
     {
       name: 'Particle Core',
@@ -739,7 +727,4 @@ lastUpdated: false
 
 ::::
 
-
-<Box :items="[
-]"/>
 

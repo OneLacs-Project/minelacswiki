@@ -5,9 +5,9 @@ lastUpdated: true
 
 # <iconify-icon icon="solar:archive-bold-duotone" style="margin-bottom:-0.3rem;margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Create 2
 
-**<span style="color: gray;">Версия Игры:</span> 1.20.1 Forgе**
+**<span style="color: gray;">Версия Игры:</span> 1.20.1 Forgе**<br/>
+**<span style="color: gray;">Статус:</span> Завершен**<br/><span style="color: gray;"><sub>25.05.2024 - 29.07.2024</sub></span><br/>
 
-**Сезон окончен 29.07.2024**
 
 ## Описание
 

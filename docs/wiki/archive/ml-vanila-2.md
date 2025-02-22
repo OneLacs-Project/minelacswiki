@@ -1,10 +1,12 @@
 ---
 outline: deep
 lastUpdated: true
+title: ML Ванила 2
 ---
 # <iconify-icon icon="solar:archive-bold-duotone" style="margin-bottom:-0.3rem;margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Ванила 2 <br/> <span style="color: gray;"><sup> Все старое - хорошо заезженное новое </sup></span>
 
-**<span style="color: gray;">Версия Игры:</span> 1.21.1**
+**<span style="color: gray;">Версия Игры:</span> 1.21.1**<br/>
+**<span style="color: gray;">Статус:</span> Завершен**<br/><span style="color: gray;"><sub>22.08.2024 - 28.10.2024</sub></span><br/>
 
 ## Описание
 Продолжение ванильного выживания на сервере. Сезон формата ВанилаПлюс где игровой процесс дополняется плагинами вместо модов.

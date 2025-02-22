@@ -1,9 +1,10 @@
 ---
 outline: deep
 lastUpdated: true
+title: FlectoneChat
 ---
 
-<Pill name="ML Ванила 2" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+<Pill name="ML Create & Magic" link="./" icon="solar:archive-bold-duotone" color="#868dcc"  /> <br/>
  
 # FlectoneChat <br/> <span style="color: gray;"><sup>Элегантная рукопись</sup></span>
 

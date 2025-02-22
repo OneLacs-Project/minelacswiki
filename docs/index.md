@@ -7,8 +7,8 @@ hero:
   name: "MineLacs" 
   text: "Википедия"
   prelink:
-    title: '<iconify-icon icon="game-icons:steampunk-goggles"  style="margin-right:0.10rem;margin:center;color: #d77b57"></iconify-icon>  ML Create & Magic <p> Create И Магия!? </p>'
-    link: /wiki/season/ml-createmagic
+    title: '<iconify-icon icon="game-icons:steampunk-goggles"  style="margin-right:0.10rem;margin:center;color: #d77b57"></iconify-icon>  ML Create & Magic <p> Сезон Завершен </p>'
+    link: /wiki/archive/ml-createmagic
     target: _self
     # date: '2025Y2M12D23H59M'
     # dateIcon: 'mdi:calendar-star'
@@ -18,8 +18,8 @@ hero:
     src: /wikihomepagelogo.png
   actions:
     - theme: brand
-      text: ML Create & Magic
-      link: /wiki/season/ml-createmagic
+      text: 📥 Карта Сервера
+      link: /wiki/archive/ml-createmagic/server-map
     - theme: alt
       text: Вики
       link: /wiki/how-to-join

@@ -22,13 +22,6 @@ export const wikiSidebar = {
         { // Категория сезонов
           text: 'Сезон',
           items: [
-            { text: '<iconify-icon icon="game-icons:steampunk-goggles"  style="margin-right:0.10rem;margin:center;color: #d77b57"></iconify-icon> ML Create & Magic', link: '/wiki/season/ml-createmagic', 
-              collapsed: true, items: [
-                { text: '📦 Сборка', link: '/wiki/season/ml-createmagic/modpack'},
-                { text: '🎖️ Значки', link: '/wiki/season/ml-createmagic/nickname-custom'},
-                { text: '💬 FlectoneChat', link: '/wiki/season/ml-createmagic/flectone-chat' },
-                { text: '💿 Etched', link: '/wiki/season/ml-createmagic/etched'},
-              ]},
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},
             { text: '🥩 Саварубка', link: '/wiki/season/sawarubka'},
             { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},
@@ -45,6 +38,16 @@ export const wikiSidebar = {
           text: 'Архив',
           collapsed: false,
           items: [
+            { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Create & Magic', link: '/wiki/archive/ml-createmagic', 
+              collapsed: true, items: [
+                { text: '🖼️ Галерея', link: '/wiki/archive/ml-createmagic/gallery'},
+                { text: '📥 Карта Сервера', link: '/wiki/archive/ml-createmagic/server-map'},
+                { text: '📦 Сборка', link: '/wiki/archive/ml-createmagic/modpack'},
+                { text: '🎖️ Значки', link: '/wiki/archive/ml-createmagic/nickname-custom'},
+                { text: '💬 FlectoneChat', link: '/wiki/archive/ml-createmagic/flectone-chat' },
+                { text: '💿 Etched', link: '/wiki/archive/ml-createmagic/etched'},
+              ]
+            },
             { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Magic', 
               link: '/wiki/archive/ml-magic',
               collapsed: true,

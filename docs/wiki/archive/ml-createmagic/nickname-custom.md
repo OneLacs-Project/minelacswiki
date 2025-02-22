@@ -1,9 +1,10 @@
 ---
 outline: deep
 lastUpdated: true
+title: 🎖️ Значки
 ---
 
-<Pill name="ML Create & Magic" link="./" icon="game-icons:steampunk-goggles" color="#d77b57" />
+<Pill name="ML Create & Magic" link="./" icon="solar:archive-bold-duotone" color="#868dcc"  />
 
 # 🎖️ Значки <br/> <span style="color: gray;"><sup> Кастомизация </sup></span>
 

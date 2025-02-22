@@ -3,7 +3,8 @@ outline: deep
 lastUpdated: true
 ---
 
-<Pill name="ML Magic" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+<Pill name="ML Create & Magic" link="./" icon="solar:archive-bold-duotone" color="#868dcc"  /> <br/>
+
  
 # 📥 Карта Сервера
 Вы можете локально у себя посетить последнее актуальное сохранение мира сервера. <br />
@@ -14,12 +15,12 @@ lastUpdated: true
 
 || Ссылки |
 |---|---|
-|Карта Мира| <Badge type="warning" text="НЕДОСТУПНО" /> |
-|Сборка <Badge type="info" text="1.20.1 Forge" /> | [Файл](https://drive.google.com/file/d/1a8K8X5782bNDVQzNSt-erKd7aEdRItTZ/view?usp=sharing) |
+|Карта Мира| [Google Drive](https://drive.google.com/file/d/18HE4y1CGfi9bO9oGFVNC15A4ZgHI44uY/view?usp=sharing) |
+|Сборка <Badge type="info" text="1.20.1 Forge" /> | [Файл](https://drive.google.com/uc?export=download&id=1Sk18AP-rt9n3ibYLVBVtTllHNcjMWEh7) |
 
 <Links :items="[
     { 
-        name: 'Сборка 5.09', 
+        name: 'Сборка 5.11', 
         link: 'modpack', 
         icon: 'solar:box-bold-duotone',
         color: '#868dcc'
