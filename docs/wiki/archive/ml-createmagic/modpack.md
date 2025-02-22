@@ -65,7 +65,7 @@ lastUpdated: false
 *<span style="color: gray;"><sup>Это не полный и не динамичный список модов сборки, библиотеки и некоторые моды могут быть не указаны. </sup></span>*
 
 
-### Create <Badge type="warning" text="New" />
+### Create
 :::: tabs 
 
 === ℹ️

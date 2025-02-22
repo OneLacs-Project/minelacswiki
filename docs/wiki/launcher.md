@@ -1,3 +1,7 @@
+---
+title: MLauncher
+---
+
 # MLauncher<br/> <span style="color: gray;"><sup> AKA MineLacs Launcher </sup></span>
 
 > [!TIP] Установка НЕ обязательна

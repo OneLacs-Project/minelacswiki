@@ -1,4 +1,7 @@
-<!-- <iconify-icon icon="fluent-color:premium-32"  style="margin-right:0.10rem;margin:center;color: #d77b57"></iconify-icon> -->
+---
+title: MineLacs Plus
+---
+
 # MineLacs Plus <br/><span style="color: gray;"> AKA Фрагмент Куба Активности </span>
 <br/>
 <Links

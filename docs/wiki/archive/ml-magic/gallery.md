@@ -1,6 +1,7 @@
 ---
 outline: [2,3]
 lastUpdated: true
+title: 🖼️ Галерея
 ---
 
 <Pill name="ML Magic" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>

@@ -1,5 +1,6 @@
 ---
 lastUpdated: true
+title: ML OneBlock
 ---
 
 ![](/WIKI/ML-OneBlock/banner.png)
