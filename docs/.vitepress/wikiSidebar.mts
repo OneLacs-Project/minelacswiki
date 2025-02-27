@@ -71,8 +71,8 @@ export const wikiSidebar = {
               ]
             },
             { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Create 2', link: '/wiki/archive/ml-create-2', collapsed: true, items: [
-                { text: '📥 Карта Сервера', link: '/wiki/archive/ml-create-2/server-map'},
                 { text: '🖼️ Галерея', link: '/wiki/archive/ml-create-2/gallery'},
+                { text: '📥 Карта Сервера', link: '/wiki/archive/ml-create-2/server-map'},
                 { text: '📦 Сборка', link: '/wiki/archive/ml-create-2/modpack'},
                 { text: '💬 FlectoneChat', link: '/wiki/archive/ml-create-2/flectone-chat'},
               ]
