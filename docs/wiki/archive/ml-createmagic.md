@@ -44,15 +44,9 @@ title: ML Create & Magic
         icon: 'solar:play-circle-bold-duotone',
         color: '#868dcc'
     },
-    {
-        name: 'Подписка Plus',
-        desc: 'Boosty',
-        link: '/wiki/minelacs-plus',
-        icon: 'simple-icons:boosty',
-        color: '#f0662a'
-    },
   ]"
 />
+
 
 ## История
 ::: details Январь 2025
@@ -79,7 +73,7 @@ title: ML Create & Magic
 \- Исправлен баг где торты всполоха не давали синий огонь<br/>
 
 :::
-::: details Февраль 2025 ✨
+::: details Февраль 2025
 
 `1 Февраля` - **Fix+Gameplay обновление:**<br/> 
 \- Немного улучшены передачи пакетов на сервер<br/>
@@ -101,15 +95,33 @@ title: ML Create & Magic
 \- Добавлен мод Create: Framed - Новые стекла для Create <br/>
 \- Добавлен мод Tetra's Delight и Tetratic Combat Expanded - Еда и боевые анимации для Tetra<br/>
 
-✨ `22 Февраля` - **Причины быстрого завершения сезона:**<br/>
+`22 Февраля` - **Причины быстрого завершения сезона:**<br/>
 \- Нестабильное ядро, большое количество модов, и однопоточность игры привело к низкому **ТПС** <br/>
 \- Большое количество критических неисправимых **Багов** которые приводили к потере ресурсов, поломке ферм, и багоюза.  <br/>
 \- Причины выше негативно повлияли на **Онлайн** сервера. <br/>
 
 
-✨ `22 Февраля` - **<span style="color: red;">Сезон завершен</span>**
+`22 Февраля` - **<span style="color: red;">Сезон завершен</span>**
 :::
 
+
+### Предыдущие-связаные сезоны
+
+<Links :items="[
+    { 
+        name: 'ML Magic', 
+        link: './ml-magic', 
+        icon: 'solar:archive-bold-duotone',
+        color: '#868dcc'
+    },
+    { 
+        name: 'ML Create 2', 
+        link: './ml-create-2', 
+        icon: 'solar:archive-bold-duotone',
+        color: '#868dcc'
+    },
+  ]"
+/>
 
 
 

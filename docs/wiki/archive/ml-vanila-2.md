@@ -25,31 +25,36 @@ title: ML Ванила 2
     { 
         name: 'Доп Механики', 
         link: 'ml-vanila-2/additional-mechanics', 
-        // icon: 'fas fa-gear', color: '#538DD7' 
+        icon: 'solar:cpu-bold-duotone', 
+        color: '#868dcc' 
     },
     //
     { 
         name: 'Загрузка Ресурспаков', 
-        link: 'ml-vanila-2/resourcepack-load', 
-        // icon: 'fas fa-palette', color: '#538DD7' 
+        link: 'ml-vanila-2/resourcepack-load',
+        icon: 'solar:pallete-2-bold-duotone', 
+        color: '#868dcc' 
     },
     //
     {
         name: 'Изображения на мапах',
         link: 'ml-vanila-2/images-on-maps',
-        // image: 'fas fa-pencil', color: '#538DD7'  
+        icon: 'solar:pen-bold-duotone', 
+        color: '#868dcc' 
     },
     //
     {
         name: 'Пластинки',
         link: 'ml-vanila-2/music-discs',
-        // image: 'fas fa-compact-disc', color: '#538DD7'
+        icon: 'solar:music-note-bold-duotone', 
+        color: '#868dcc' 
     },
     //
     { 
         name: 'FlectoneChat', 
         link: 'ml-vanila-2/flectone-chat', 
-        // image: 'fas fa-comment-dots', color: '#538DD7'
+        icon: 'solar:chat-round-dots-bold-duotone', 
+        color: '#868dcc' 
     }
   ]"
 />

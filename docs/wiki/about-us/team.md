@@ -38,6 +38,14 @@ layout: page
         { icon: 'discord', link: 'https://discord.com/users/733200455324401676' }
       ]
     },
+    {
+      avatar: 'https://cdn.discordapp.com/avatars/791373241549586443/455753fb239e4f6aa7bcd8a6e90a5eed.webp?size=1024&format=webp&width=410&height=410',
+      name: 'Mr_Frying',
+      title: 'Модератор',
+      links: [
+        { icon: 'discord', link: 'https://discord.com/users/791373241549586443' }
+      ]
+    },
   ]
 </script>
 
