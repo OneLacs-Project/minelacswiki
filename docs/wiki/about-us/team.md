@@ -1,7 +1,7 @@
 ---
-outline: deep
 lastUpdated: false
-layout: page
+aside: false
+layout: doc
 ---
 
 <script setup>
@@ -11,7 +11,7 @@ layout: page
     VPTeamMembers
   } from 'vitepress/theme'
 
-  const members = [
+  const admins = [
     {
       avatar: 'https://cdn.discordapp.com/avatars/803639665960681502/4d4e3df8ded89d6e3e4aeaac8723b8a7.webp?size=1024&format=webp&width=428&height=428',
       name: 'SawaDawa177_',
@@ -30,6 +30,9 @@ layout: page
         { icon: 'discord', link: 'https://discord.com/users/508385398666297383' }
       ]
     },
+  ]
+
+  const moderators = [
     {
       avatar: 'https://cdn.discordapp.com/avatars/733200455324401676/7a7c34a3bb0fa3e1d730b82087625cb2.webp?size=1024&format=webp&width=428&height=428',
       name: 'Nub4ik1',
@@ -46,16 +49,64 @@ layout: page
         { icon: 'discord', link: 'https://discord.com/users/791373241549586443' }
       ]
     },
+    {
+      avatar: 'https://cdn.discordapp.com/avatars/780060596456390706/a4cea1a98d812c6a33be6cdad09348d9.webp?size=1024&format=webp&width=410&height=410',
+      name: 'bruuhhh_',
+      title: 'Хелпер',
+      links: [
+        { icon: 'discord', link: 'https://discord.com/users/780060596456390706' }
+      ]
+    },
+  ]
+
+  const beta_testers = [
+    {
+      avatar: 'https://cdn.discordapp.com/avatars/1025547812945006592/96c579d8c701244247a3d5b29add4379.webp?size=1024&format=webp&width=410&height=410',
+      name: 'Gurman',
+      title: 'Бета-тестер',
+      links: [
+        { icon: 'discord', link: 'https://discord.com/users/1025547812945006592' }
+      ]
+    },
+    {
+      avatar: 'https://cdn.discordapp.com/avatars/677146664657485840/39411aeaef2292ec8833dd50a106c5b8.webp?size=1024&format=webp&width=410&height=410',
+      name: 'LeoVinchi454',
+      title: 'Бета-тестер',
+      links: [
+        { icon: 'discord', link: 'https://discord.com/users/677146664657485840' }
+      ]
+    },
+    {
+      avatar: 'https://discord.com/assets/320d5a40d309f942.png?size=1024&format=webp&quality=lossless&width=410&height=410',
+      name: 'spafis',
+      title: 'Бета-тестер',
+      links: [
+        { icon: 'discord', link: 'https://discord.com/users/1246851449024151598' }
+      ]
+    },
   ]
 </script>
 
 <VPTeamPage>
   <VPTeamPageTitle>
-    <template #title> Наша команда </template>
-    <!-- <template #lead>
-      Разработкой VitePress руководит международная команда, некоторые члены
-      которой представлены ниже.
-    </template> -->
+    <template #title> Администрация  </template>
   </VPTeamPageTitle>
-  <VPTeamMembers :members="members" />
+  <VPTeamMembers size="medium" :members="admins" />
+<br/>
+<center>
+
+# Модерация
+
+</center>
+<VPTeamMembers size="small" :members="moderators" />
+<br/>
+<center>
+
+# Бета-тестеры 
+</center>
+<VPTeamMembers size="small" :members="beta_testers" />
 </VPTeamPage>
+
+
+
+
