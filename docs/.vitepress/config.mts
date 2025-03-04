@@ -95,12 +95,6 @@ export default defineConfig({
       text: 'Обновлено'
     },
 
-    // robots: {
-    //   allowAll: false,
-    // },
-
-    // externalLinkIcon: true,
-
 
     darkModeSwitchLabel: 'Оформление',
     lightModeSwitchTitle: 'Переключить на светлую тему',
