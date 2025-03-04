@@ -48,7 +48,13 @@ export default {
           buttonText: 'Поделится', 
           copiedIcon: 'solar:square-share-line-bold-duotone', 
           copiedText: 'Скопировано!' 
-        })
+        }),
+      // 'nav-bar-content-after': () => h(ShareButton, {
+      //   buttonIcon: 'solar:share-bold-duotone', 
+      //   buttonText: 'Поделится', 
+      //   copiedIcon: 'solar:square-share-line-bold-duotone', 
+      //   copiedText: 'Скопировано!' 
+      // })
     })
   },
   enhanceApp({ app, router, siteData}) {

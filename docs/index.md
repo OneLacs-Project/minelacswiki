@@ -21,9 +21,6 @@ hero:
     - theme: brand
       text: 🖼️ Галерея
       link: /wiki/archive/ml-createmagic/gallery
-    - theme: brand
-      text: 📥 Карта Сервера
-      link: /wiki/archive/ml-createmagic/server-map
     - theme: alt
       text: Вики
       link: /wiki/how-to-join

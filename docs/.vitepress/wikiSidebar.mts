@@ -17,6 +17,10 @@ export const wikiSidebar = {
               text: ' MLauncher',
               link: '/wiki/launcher'
             },
+            // {
+            //   text: '⚖️ Правила',
+            //   link: '/rules/intropage'
+            // },
           ]
         },
         { // Категория сезонов
