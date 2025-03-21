@@ -13,7 +13,7 @@ layout: doc
 
   const admins = [
     {
-      avatar: 'https://cdn.discordapp.com/avatars/803639665960681502/4d4e3df8ded89d6e3e4aeaac8723b8a7.webp?size=1024&format=webp&width=428&height=428',
+      avatar: 'https://cdn.discordapp.com/avatars/803639665960681502/b21fff4420698f25db6b8eb663ad2928.webp?size=1024&format=webp&width=410&height=410',
       name: 'SawaDawa177_',
       title: 'Создатель',
       links: [
@@ -50,7 +50,7 @@ layout: doc
       ]
     },
     {
-      avatar: 'https://cdn.discordapp.com/avatars/780060596456390706/a4cea1a98d812c6a33be6cdad09348d9.webp?size=1024&format=webp&width=410&height=410',
+      avatar: 'https://cdn.discordapp.com/avatars/780060596456390706/557bd0ee53cee65160c92cdc7d1af56c.webp?size=1024&format=webp&width=410&height=410',
       name: 'bruuhhh_',
       title: 'Хелпер',
       links: [
