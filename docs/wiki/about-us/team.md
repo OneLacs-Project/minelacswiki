@@ -76,14 +76,6 @@ layout: doc
         { icon: 'discord', link: 'https://discord.com/users/677146664657485840' }
       ]
     },
-    {
-      avatar: 'https://discord.com/assets/320d5a40d309f942.png?size=1024&format=webp&quality=lossless&width=410&height=410',
-      name: 'spafis',
-      title: 'Бета-тестер',
-      links: [
-        { icon: 'discord', link: 'https://discord.com/users/1246851449024151598' }
-      ]
-    },
   ]
 </script>
 

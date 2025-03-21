@@ -20,6 +20,7 @@ export const rulesSidebar = {
             { text: '3. Взаимодействие', link: '/rules/categories/3-interactions'},
             { text: '4. Аккаунт', link: '/rules/categories/4-account'},
             { text: '5. Администрация', link: '/rules/categories/5-administration'},
+            { text: '6. Правила Суда', link: '/rules/categories/6-court-rules'},
           ]
         },
         {
