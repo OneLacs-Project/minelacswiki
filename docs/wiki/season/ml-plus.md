@@ -21,10 +21,11 @@ title: ML Плюс
     - `Обычный мир` - Начало `2к`, Конец `10к`
     - `Ад (Незер)` - Начало `433`, Конец `1,3к`
     - `Энд` - Начало `2к`, Конец `10к`
-- Возвращение **Brewery** `pending...`
+- Возвращение [**Brewery**](#документации-ресурсы)
 - <Pill name="Палка отладки" link="https://ru.minecraft.wiki/w/%D0%9F%D0%B0%D0%BB%D0%BA%D0%B0_%D0%BE%D1%82%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8" image="https://minecraft.wiki/images/Debug_Stick.gif?c7249"/> доступна игрокам 
 - [Скрытие брони](ml-plus/additional-mechanics#1)
 - [Мячик](ml-plus/additional-mechanics#2)
+- [Другие механики](ml-plus/additional-mechanics)
 - Смена роста `pending...`
 - Много ачивок
 
@@ -42,6 +43,18 @@ title: ML Плюс
         link: 'ml-plus/flectone-pulse', 
         icon: 'solar:chat-round-dots-bold-duotone',
         color: '#868dcc'
+    },
+    {
+        name: 'Пластинки',
+        link: 'ml-plus/music-discs',
+        icon: 'solar:music-note-bold-duotone', 
+        color: '#868dcc' 
+    },
+    {
+        name: 'Brewery',
+        link: '/brewery/intropage',
+        icon: 'solar:wineglass-bold-duotone', 
+        color: '#868dcc' 
     },
     ]"
 />

@@ -30,7 +30,8 @@ export const wikiSidebar = {
               collapsed: true, items: [
                 { text: '⚙️ Доп Механики ✨', link: '/wiki/season/ml-plus/additional-mechanics' },
                 { text: '💬 FlectonePulse ✨', link: '/wiki/season/ml-plus/flectone-pulse' },
-
+                { text: '🎵 Пластинки ✨', link: '/wiki/season/ml-plus/music-discs' },
+                { text: '🍷 Brewery ✨', link: '/brewery/intropage' },
 
               ]
             },
