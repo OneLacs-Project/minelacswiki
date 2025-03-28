@@ -7,9 +7,9 @@ hero:
   name: "MineLacs" 
   text: "Википедия"
   prelink:
-    title: '<iconify-icon icon="game-icons:steampunk-goggles"  style="margin-right:0.10rem;margin:center;color: #d77b57"></iconify-icon>  ML Create & Magic <p> Сезон Завершен </p>'
+    title: ' ML Plus <p> Сезон Начался </p>'
     content: 
-    link: /wiki/archive/ml-createmagic
+    link: /wiki/season/ml-plus
     target: _self
     date: '2025年1月7日23时59分'
     dateIcon: 'mdi:calendar-star'
@@ -19,8 +19,8 @@ hero:
     src: /wikihomepagelogo.png
   actions:
     - theme: brand
-      text: 🖼️ Галерея
-      link: /wiki/archive/ml-createmagic/gallery
+      text: ML Плюс
+      link: /wiki/season/ml-plus
     - theme: alt
       text: Вики
       link: /wiki/how-to-join

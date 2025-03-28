@@ -10,7 +10,7 @@ title: 🎖️ Значки
 
 Теперь вы можете установить возле ника значёк который будет виден в табе и чате.
 
-Есть <span style="color: green;">**Бесплатные**</span>, <span style="color: gold;">**Платные<sup>[Plus<iconify-icon icon="simple-icons:boosty"  style="margin-bottom:-0.3rem;margin-right:0.10rem;margin:center;color: #f0662a"></iconify-icon>](/wiki/minelacs-plus)  </sup>**</span>, <span style="color: purple;">**Эксклюзивные**</span> и <span style="color: purple;">**Стримерские**</span> значки
+Есть <span style="color: green;">**Бесплатные**</span>, <span style="color: gold;">**Платные<sup>[Plus<iconify-icon icon="simple-icons:boosty"  style="margin-bottom:-0.3rem;margin-right:0.10rem;margin:center;color: #f0662a"></iconify-icon>](/wiki/minelacs-ultimate)  </sup>**</span>, <span style="color: purple;">**Эксклюзивные**</span> и <span style="color: purple;">**Стримерские**</span> значки
 
 <sup><span style="color: purple;">**Эксклюзивные**</span> <span style="color: gray;">можно получить во время ивентов</span> </sup><br/>
 <sup><span style="color: purple;">**Стримерские**</span> <span style="color: gray;">можно получить будучи стримером сервера</span> </sup>
@@ -41,7 +41,7 @@ title: 🎖️ Значки
 
 ## Перекраска ника {#colors}
 
-*<span style="color: gray;"><sup> Доступно только подписчикам [Plus](/wiki/minelacs-plus) <iconify-icon icon="simple-icons:boosty"  style="margin-bottom:-0.3rem;margin-right:0.10rem;margin:center;color: #f0662a"></iconify-icon> </sup></span>*
+*<span style="color: gray;"><sup> Доступно только подписчикам [Plus](/wiki/minelacs-ultimate) <iconify-icon icon="simple-icons:boosty"  style="margin-bottom:-0.3rem;margin-right:0.10rem;margin:center;color: #f0662a"></iconify-icon> </sup></span>*
 
 ```
 /nickcolor

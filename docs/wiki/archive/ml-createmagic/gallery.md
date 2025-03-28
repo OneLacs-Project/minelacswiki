@@ -11,10 +11,11 @@ title: 🖼️ Галерея
 > [!TIP] Для удобства используйте `Содержание страницы` справа
 
 ## Карта Сервера <iconify-icon icon="vscode-icons:file-type-minecraft" width=30px ></iconify-icon> 
+> [!WARNING] Может включать не все базы или локации
 
 ### Спавн
 
-Координаты: `x:166, y:192, z:27` `Обычный мир`
+<span style="color: gray;">Координаты:</span> `x:166, y:192, z:27` `Обычный мир`
 
 <!-- место для скринов -->
 <span style="color: gray;"><sub>Фонтан</sub></span><br/>
@@ -77,13 +78,18 @@ title: 🖼️ Галерея
 <!-- место для скринов -->
 <!-- > [!IMPORTANT] В процессе добавления... -->
 
-<!-- ### LeoVinchi454 -->
+### LeoVinchi454
 
-<!-- Координаты: `x:156, y:55, z:-795` `Обычный мир` -->
+<span style="color: gray;">Координаты:</span> `x:156, y:55, z:-795` `Обычный мир` <br/>
+<span style="color: gray;">Жители базы:</span> LeoVinchi454 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 
 <!-- место для скринов -->
-<!-- > [!IMPORTANT] В процессе добавления... -->
+<img src="/WIKI/ML-Create-N-Magic/Gallery/Map/LeoVinchi454/map-leovinchi454-1.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 160px; height: auto;" /><img src="/WIKI/ML-Create-N-Magic/Gallery/Map/LeoVinchi454/map-leovinchi454-2.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 160px; height: auto;" /><img src="/WIKI/ML-Create-N-Magic/Gallery/Map/LeoVinchi454/map-leovinchi454-3.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 160px; height: auto;" /><img src="/WIKI/ML-Create-N-Magic/Gallery/Map/LeoVinchi454/map-leovinchi454-4.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 160px; height: auto;" /> <br/>
+<img src="/WIKI/ML-Create-N-Magic/Gallery/Map/LeoVinchi454/map-leovinchi454-5.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 160px; height: auto;" /><img src="/WIKI/ML-Create-N-Magic/Gallery/Map/LeoVinchi454/map-leovinchi454-6.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 160px; height: auto;" /><img src="/WIKI/ML-Create-N-Magic/Gallery/Map/LeoVinchi454/map-leovinchi454-7.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 160px; height: auto;" /><img src="/WIKI/ML-Create-N-Magic/Gallery/Map/LeoVinchi454/map-leovinchi454-8.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 160px; height: auto;" /><br/>
  
+
+
+
 
 
 ## Фотографии Exposure <img src="/minecraft/icons/ExposureModIconGif.webp " style="display: inline; margin: 0 2px; vertical-align: middle;  width: 36px; height: 36px;" />

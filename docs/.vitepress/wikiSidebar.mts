@@ -9,13 +9,13 @@ export const wikiSidebar = {
           items: [
             { text: '🌐 Сайт', link: 'https://minelacs.ru'},
             { text: '❓ Как зайти?', link: '/wiki/how-to-join'},
-            // {
-            //   text: '📑 Правила',
-            //   link: '/rules/intropage'
-            // },
+            {
+              text: '📑 Правила ✨',
+              link: '/rules/intropage'
+            },
             { 
-              text: 'MineLacs Plus',
-              link: '/wiki/minelacs-plus'
+              text: 'MineLacs Ultimate',
+              link: '/wiki/minelacs-ultimate'
             },
             {
               text: ' MLauncher',
@@ -26,7 +26,14 @@ export const wikiSidebar = {
         { // Категория сезонов
           text: 'Сезон',
           items: [
-            // { text: '🌶️ ML Ванила 3', link: '/wiki/season/ml-vanila-3'},
+            { text: '🍨 ML Плюс ✨', link: '/wiki/season/ml-plus',
+              collapsed: true, items: [
+                { text: '⚙️ Доп Механики ✨', link: '/wiki/season/ml-plus/additional-mechanics' },
+                { text: '💬 FlectonePulse ✨', link: '/wiki/season/ml-plus/flectone-pulse' },
+
+
+              ]
+            },
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},
             { text: '🥩 Саварубка', link: '/wiki/season/sawarubka'},
             { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},
