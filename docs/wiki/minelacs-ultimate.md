@@ -1,16 +1,16 @@
 ---
-title: MineLacs Ultim,ate
+title: MineLacs Ultimate
 ---
 
-# MineLacs Ultim,ate <br/><span style="color: gray;"> AKA Фрагмент Куба Активности </span>
+# MineLacs Ultimate <br/><span style="color: gray;"> AKA Фрагмент Куба Активности </span>
 <br/>
 <Links
   :items="[
     {
-      name: 'Подписка Ultim,ate',
-      desc: 'Boosty',
-      link: 'https://boosty.to/minelacs',
-      icon: 'simple-icons:boosty',
+      name: 'Подписка Ultimate',
+      desc: 'shop.minelacs.ru/',
+      link: 'https://shop.minelacs.ru/',
+      image: 'https://easydonate.s3.easyx.ru/images/logos/30b46096ecbbb5230d763a396cebb547a2d9d908876962f64a3f1d7f248fcf4a.png',
       color: '#f0662a'
     },
   ]"
@@ -20,7 +20,7 @@ title: MineLacs Ultim,ate
 
 Покупая подписку вы поддерживаете дальнейшее развитие сервера, a так-же вы получаете дополнительные фишки сервера как эксклюзивные функции.
 
-Преобрести подписку можно на <Pill name="Boosty" link="https://boosty.to/minelacs" icon="simple-icons:boosty" color="#f0662a" />
+Преобрести подписку можно в нашем <Pill name="Магазине" link="https://shop.minelacs.ru/" image="https://easydonate.s3.easyx.ru/images/logos/30b46096ecbbb5230d763a396cebb547a2d9d908876962f64a3f1d7f248fcf4a.png" color="#f0662a" />
 
 Примеры эксклюзива:
 - Специальная роль на нашем [**Дискорд Сервере**](https://discord.com/invite/6u47fz6dCP)
