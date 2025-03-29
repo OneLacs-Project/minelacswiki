@@ -10,6 +10,6 @@ title: ❔Что это такое
 
 # Brewery - это плагин который добавляет на сервер  <span style="color: #3b82f6;">Пивоварение</span>
 
-**Ссылка на Bukkit** -> https://dev.bukkit.org/projects/brewery
+**Ссылка на Modrinth** -> https://modrinth.com/plugin/breweryx
 
-**Ссылка на Spigot** -> https://www.spigotmc.org/resources/brewery.3082/
+**Ссылка на GitHub** -> https://github.com/BreweryTeam/BreweryX
