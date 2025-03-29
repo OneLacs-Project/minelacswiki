@@ -5,7 +5,7 @@
 ## 
 |Цвет|Рецепт|Свойства|
 |-|-|-|
-| <MCBottle color="#000000" size="big" /> | Состав: `n` <br/>Время приготовления: `n` <br/>Циклы дистилляции: `n` <br/>Выдержка: `n` <br/>Бочка: `n`|Выдает эффект |
+| <MCBottle color="#000000" size="big" /> | Состав: `n` <br/>Время приготовления: `n` <br/>Циклы дистилляции: `n` <br/>Выдержка: `n` <br/>Бочка: `n`| Опьяняет <br/> Выдает эффект |
  
 -->
 <!-- <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> -->
@@ -67,6 +67,12 @@
 | <MCBottle color="#ffa500" size="big" /> | Состав: `10 Пшеницы` <br/>Время приготовления: `10 минут ` <br/>Циклы дистилляции: `2 по 50 секунд ` <br/>Выдержка: `18 лет ` <br/>Бочка: `Ель `| Опьяняет |
  
 
+## Горячий виски
+|Цвет|Рецепт|Свойства|
+|-|-|-|
+| <MCBottle color="#e56f15" size="big" /> | Состав: `10 Пшеницы, 2 Огненных порошка` <br/>Время приготовления: `12 минут` <br/>Циклы дистилляции: `3 по 55 секунд` <br/>Выдержка: `18` <br/>Бочка: `Ель`| Опьяняет |
+
+
 ## Пряный ром
 |Цвет|Рецепт|Свойства|
 |-|-|-|
@@ -77,7 +83,13 @@
 |Цвет|Рецепт|Свойства|
 |-|-|-|
 | <MCBottle color="#ffffff" size="big" /> | Состав: `10 Картошки` <br/>Время приготовления: `15 минут` <br/>Циклы дистилляции: `3` <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>|Опьяняет<br/> Выдает эффекты:<br/> `Слабости на 15 секунд`<br/>  `Отравления на 10 секунд` |
- 
+
+
+## Золотая Водка
+|Цвет|Рецепт|Свойства|
+|-|-|-|
+| <MCBottle color="#BA6015" size="big" /> | Состав: `10 Картошки, 2 Кусочка Золота` <br/>Время приготовления: `18 минут` <br/>Циклы дистилляции: `3` <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>| Опьяняет<br/> Выдает эффекты:<br/> `Слабости на 20 секунд`<br/>  `Отравления на 4 секунд` |
+
 
 ## Грибная водка
 |Цвет|Рецепт|Свойства|
@@ -113,4 +125,7 @@
 |Цвет|Рецепт|Свойства|
 |-|-|-|
 | <MCBottle color="#ffe681" size="big" /> | Состав: `5 Яиц , 2 Сахара, 1 Ведро молока` <br/>Время приготовления: `2 минуты` <br/>Циклы дистилляции: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Выдержка: `3 года` <br/>Бочка: `Любая древесина `|Опьяняет |
+ 
+
+
  
