@@ -24,6 +24,7 @@ import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
  
 // import BlockCard from './components/LEGACYBlockCard.vue'
 import BlockCard from './components/BlockCard.vue'
+import MCBottle from './components/MCBottle.vue'
 // import ProgressBar from './components/ProgressBar.vue';
 
 // import YouTube from './components/vitepress-theme-default-plus/VPLYouTube.vue'
@@ -66,6 +67,7 @@ export default {
     app.component('Vid', DocVideoLink) 
     
     app.component('BlockCard', BlockCard)
+    app.component('MCBottle', MCBottle);
     // app.component('ProgressBar', ProgressBar);
     enhanceAppWithTabs(app)
 

@@ -10,7 +10,7 @@ export const wikiSidebar = {
             { text: '🌐 Сайт', link: 'https://minelacs.ru'},
             { text: '❓ Как зайти?', link: '/wiki/how-to-join'},
             {
-              text: '📑 Правила ✨',
+              text: '📑 Правила',
               link: '/rules/intropage'
             },
             { 
@@ -26,12 +26,12 @@ export const wikiSidebar = {
         { // Категория сезонов
           text: 'Сезон',
           items: [
-            { text: '🍨 ML Плюс ✨', link: '/wiki/season/ml-plus',
+            { text: '🍨 ML Плюс ', link: '/wiki/season/ml-plus',
               collapsed: true, items: [
                 { text: '⚙️ Доп Механики ✨', link: '/wiki/season/ml-plus/additional-mechanics' },
-                { text: '💬 FlectonePulse ✨', link: '/wiki/season/ml-plus/flectone-pulse' },
-                { text: '🎵 Пластинки ✨', link: '/wiki/season/ml-plus/music-discs' },
-                { text: '🍷 Brewery ✨', link: '/brewery/intropage' },
+                { text: '💬 FlectonePulse ', link: '/wiki/season/ml-plus/flectone-pulse' },
+                { text: '🎵 Пластинки ', link: '/wiki/season/ml-plus/music-discs' },
+                { text: '🍷 Brewery ', link: '/brewery/intropage' },
 
               ]
             },
