@@ -11,7 +11,6 @@ title: MineLacs Ultimate
       desc: 'shop.minelacs.ru/',
       link: 'https://shop.minelacs.ru/',
       image: 'https://easydonate.s3.easyx.ru/images/logos/30b46096ecbbb5230d763a396cebb547a2d9d908876962f64a3f1d7f248fcf4a.png',
-      color: '#f0662a'
     },
   ]"
 />

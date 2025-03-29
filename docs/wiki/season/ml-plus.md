@@ -65,6 +65,13 @@ title: ML Плюс
 
 `28 Марта` - **<span style="color: green;">Сезон начался</span>**
 
+`29 Марта` - Обновление принесло:
+- Поддержку PlasmoVoice и его аддоном, хотя пока без пластинок
+- Плагин Brewery который продолжили разрабатывать другие ребята теперь в работе и актуален с игрой
+- Система регистрации акаунтов для защиты
+- Подписка <Pill name="Ultimate" link="/minelacs-ultimate" image="https://easydonate.s3.easyx.ru/images/logos/30b46096ecbbb5230d763a396cebb547a2d9d908876962f64a3f1d7f248fcf4a.png"/> уже доступка к покупке
+<!-- - Возможность [переноса жителей в ведре](ml-plus/additional-mechanics#7) -->
+
 :::
 
 ### Предыдущий сезон
@@ -75,7 +82,7 @@ title: ML Плюс
 
 
 ## Участники
-**Общее количество: `12`**
+**Общее количество: `14`**
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -89,3 +96,5 @@ title: ML Плюс
 - AngelOf0laf <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - Lenfair <img src="https://api.mineatar.io/face/d36339eb-2d45-4c50-a1d9-06be69c1321e?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - spafis <img src="https://api.mineatar.io/face/24c076a7-aecc-4934-9d95-19ccc5860bc2?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Foxyandet <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- may12 <img src="https://api.mineatar.io/face/0f39239d-84f6-44ba-a624-f008016ada77?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />

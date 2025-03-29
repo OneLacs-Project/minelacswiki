@@ -12,7 +12,7 @@ export const brewerySidebar = {
             { text: 'Основны', link: '/brewery/mechanics/basics'},
             { text: 'Ферментация', link: '/brewery/mechanics/fermentation'},
             { text: 'Дистилляция', link: '/brewery/mechanics/distillation'},
-            { text: 'Настойка', link: '/brewery/mechanics/infusion', collapsed: true,
+            { text: 'Настойка✨', link: '/brewery/mechanics/infusion', collapsed: true,
               items: [
                 { text: 'Процесс настойки', link: '/brewery/mechanics/infusion-process'},
               ]
