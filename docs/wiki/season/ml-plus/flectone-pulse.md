@@ -331,13 +331,13 @@ title: FlectonePulse
 Позволяет кинуть от 1 до 6 кубиков в чате<br/>
 <img src="/WIKI/FlectonePulse/demo_img_42.gif" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 300px; height: 91px;" />
 
-`/spit`
+<!-- `/spit`
 ```
 /spit
 ```
 Плюнуть в игрока
 При попадании игроку высвечивается сообщение<br/>
-<img src="/WIKI/FlectonePulse/demo_img_43.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 399px; height: 24px;" />
+<img src="/WIKI/FlectonePulse/demo_img_43.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 399px; height: 24px;" /> -->
 
 ## Дополнительно
 
