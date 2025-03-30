@@ -28,6 +28,7 @@ export const wikiSidebar = {
           items: [
             { text: '🍨 ML Плюс ', link: '/wiki/season/ml-plus',
               collapsed: true, items: [
+                { text: '🗺️ Веб Карта ', link: 'http://minelacs.online:12345/' },
                 { text: '⚙️ Доп Механики ', link: '/wiki/season/ml-plus/additional-mechanics' },
                 { text: '💬 FlectonePulse ', link: '/wiki/season/ml-plus/flectone-pulse' },
                 { text: '🎵 Пластинки ', link: '/wiki/season/ml-plus/music-discs' },

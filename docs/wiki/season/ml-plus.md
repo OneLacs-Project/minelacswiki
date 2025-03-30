@@ -32,6 +32,12 @@ title: ML Плюс
 ## Документации / Ресурсы
 
 <Links :items="[
+    {
+        name: 'Веб Карта',
+        link: 'http://minelacs.online:12345/',
+        icon: 'solar:map-bold-duotone', 
+        color: '#868dcc' 
+    },
     { 
         name: 'Доп Механики', 
         link: 'ml-plus/additional-mechanics', 
