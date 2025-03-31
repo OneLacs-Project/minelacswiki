@@ -16,7 +16,7 @@ lastUpdated: true
 4. **[Головы с игроков](#4)**
 5. **[Рамки](#5)**
 6. **[Палка отладки](#6)** 
-<!-- 7. **[Перенос жителей](#7)** ✨ -->
+7. **[Рыбалка](#7)** ✨
 
 ## Скрытие брони  {#1}
 Игроки могут визуально скрыть свою броню для себя и других игроков сохраняя защиту.
@@ -70,7 +70,7 @@ lastUpdated: true
 
 ## Палка отладки  {#6} 
 
-На сервере вы отныне можете скрафтить <Pill name="Палку отладки" link="https://ru.minecraft.wiki/w/%D0%9F%D0%B0%D0%BB%D0%BA%D0%B0_%D0%BE%D1%82%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8" image="https://minecraft.wiki/images/Debug_Stick.gif?c7249"/>
+Отныне на сервере вы можете скрафтить <Pill name="Палку отладки" link="https://ru.minecraft.wiki/w/%D0%9F%D0%B0%D0%BB%D0%BA%D0%B0_%D0%BE%D1%82%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8" image="https://minecraft.wiki/images/Debug_Stick.gif?c7249"/>
 
 Конечно-же она имеет свои лимиты, к примеру вы не можете ускорить рост посевов, или создать воду в незере.
 
@@ -79,6 +79,11 @@ lastUpdated: true
 |-|-|
 |![](/WIKI/ML-Plus/Additional-Mechanics/demo_img_3.png)|![](/WIKI/ML-Plus/Additional-Mechanics/demo_img_4.png)|
 
-<!-- ## Перенос жителя✨  {#7}  -->
+## Рыбалка ✨  {#7} 
 
+Теперь когда рыба села вам на кручек, удочку нужно вытянуть на зеленой зоне. <br/>
+Если же вы вытянули на красной зоне то вы не получите ничего.
 
+|Полоска|Сообщение о поимке|
+|-|-|
+|![](/WIKI/ML-Plus/Additional-Mechanics/demo_img_5.png)|![](/WIKI/ML-Plus/Additional-Mechanics/demo_img_6.png)|
