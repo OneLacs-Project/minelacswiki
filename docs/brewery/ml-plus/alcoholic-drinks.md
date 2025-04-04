@@ -71,7 +71,7 @@
 | <MCBottle color="#99defe" size="big" /> | Состав: `9 Пшеницы, 6 Синих орхидей ИЛИ 6 Васильков,`<br/>` 1 Яблоко` <br/>Время приготовления: `6 минут ` <br/>Циклы дистилляции: `2` <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>|Опьяняет `20`|
 
 
-## Квас ✨
+## Квас 
 |Цвет|Рецепт|Свойства|
 |-|-|-|
 | <MCBottle color="#854b00" size="big" /> | Состав: `5 Хлеба, 5 Пшеницы` <br/>Время приготовления: `6 минут` <br/>Циклы дистилляции: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Выдержка: `2 года` <br/>Бочка: `Тёмный дуб`| Опьяняет `10`|
@@ -127,6 +127,10 @@
 |-|-|-|
 | <MCBottle color="#f5ef7e" size="big" /> | Состав: `8 Кактусов` <br/>Время приготовления: `15 минут` <br/>Циклы дистилляции: `2` <br/>Выдержка: `12 лет` <br/>Бочка: `Берёза`|Опьяняет `20`|
 
+## Чача ✨
+|Цвет|Рецепт|Свойства|
+|-|-|-|
+| <MCBottle color="#bb805e" size="big" /><br/><sup>Че за поебота</sup>  | Состав: `8 Сладких Ягод, 3 Гнилой плоти` <br/>Время приготовления: `5 минут` <br/>Циклы дистилляции: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Выдержка: `5 лет` <br/>Бочка: `Любая древесина`| Опьяняет `42`<br/> Выдает эффект:<br/>`Сила 1 на 20 секунд` | 
 
 ## Яблочный ликер
 |Цвет|Рецепт|Свойства|

@@ -31,6 +31,7 @@ title: ML Плюс
 - [Другие механики](ml-plus/additional-mechanics)
 - Смена роста `pending...`
 - Много ачивок
+- И многое другое
 
 ## Документации / Ресурсы
 
@@ -93,13 +94,22 @@ title: ML Плюс
 - При попытке активации портала в Энд вам отобразится таймер когда Энд будет доступен
 - Теперь после смерти сервер скажет где вы умерли
 - Теперь жителей можно перевозить на верблюдах и ламах
+
 :::
+
 ::: details Апрель 2025
 
 `2 Апреля` - Обновление принесло:
 - Невидимые рамки
 - Бетон можно теперь делать в котле с водой из сухого бетона
 - 3 Новых рецепта напитка в [Brewery](/brewery/intropage)
+- Багфиксы
+
+`3 Апреля` - Обновление принесло:
+- Премиум плевок `/spit`
+- Мини блоки (головы) можно делать из почти любых блоков в камнерезе
+- Из шалкера теперь выпадают 2 панциря вместо одного
+- 2 новых рецепта [Brewery](/brewery/intropage)
 - Багфиксы
 
 :::
@@ -112,7 +122,7 @@ title: ML Плюс
 
 
 ## Участники
-**Общее количество: `14`**
+**Общее количество: `16`**
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -128,3 +138,5 @@ title: ML Плюс
 - spafis <img src="https://api.mineatar.io/face/24c076a7-aecc-4934-9d95-19ccc5860bc2?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Foxyandet <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - may12 <img src="https://api.mineatar.io/face/0f39239d-84f6-44ba-a624-f008016ada77?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- FlandenT1me <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Mr_Frying <img src="https://api.mineatar.io/face/8a587fdf-a714-42db-b460-cac37bfaaaeb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
