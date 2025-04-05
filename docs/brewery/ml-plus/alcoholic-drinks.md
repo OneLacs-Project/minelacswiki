@@ -17,12 +17,12 @@
 === Абсент
 |Цвет|Рецепт|Свойства|
 |-|-|-|
-| <MCBottle color="#00ff02" size="big" /> | Состав: `15 Травы` <br/>Время приготовления: <br/>`3 минуты` <br/>Циклы дистилляции: `6 по 80 секунд` <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>|Опьяняет `42`<br/>Выдает эффект:<br/>  `Отравления на 15/25 секунд`<br/> (При Плохом / Хорошем качестве)|
+| <MCBottle color="#00ff02" size="big" /> | Состав: `15 Травы` <br/>Время приготовления: <br/>`3 минуты` <br/>Циклы дистилляции:<br/> `6 по 80 секунд` <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>|Опьяняет `42`<br/>Выдает эффект:<br/>  `Отравления на 15/25 секунд`<br/> (При Плохом / Хорошем качестве)|
 
 === Зеленый абсент
 |Цвет|Рецепт|Свойства|
 |-|-|-|
-| <MCBottle color="#c0ff00" size="big" /> | Состав: `17 Травы,`<br/>` 2 ядовитых картофеля ` <br/>Время приготовления:<br/> ` 5 минут ` <br/>Циклы дистилляции: <br/>`6 по 85 секунд` <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>|Опьяняет `46`<br/> Выдает эффекты:<br/>`Отравления на 25/40 секунд`<br/> (При Плохом / Хорошем качестве)<br/> `Моментального урона на 2 секунды`<br/> `Ночного зрения на 40/60 секунд`<br/> (При Плохом / Хорошем качестве)|
+| <MCBottle color="#c0ff00" size="big" /> | Состав: `17 Травы,`<br/>` 2 ядовитых картофеля ` <br/>Время приготовления:<br/> ` 5 минут ` <br/>Циклы дистилляции: <br/>`6 по 85 секунд` <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>|Опьяняет `46`<br/> Выдает эффекты:<br/>`Отравления на 25/40 секунд`<br/> (При Плохом / Хорошем качестве)<br/> `Моментального урона на 2 секунды`<br/> `Ночного зрения на 40/60 секунд`|
 :::
 
 ## Виски
@@ -69,6 +69,11 @@
 |Цвет|Рецепт|Свойства|
 |-|-|-|
 | <MCBottle color="#99defe" size="big" /> | Состав: `9 Пшеницы, 6 Синих орхидей ИЛИ 6 Васильков,`<br/>` 1 Яблоко` <br/>Время приготовления: `6 минут ` <br/>Циклы дистилляции: `2` <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>|Опьяняет `20`|
+
+## Кумыс ✨
+|Цвет|Рецепт|Свойства|
+|-|-|-|
+| <MCBottle color="#FFFFFF" size="big" /> | Состав: `2 Ведра Молока, 5 Пшеницы` <br/>Время приготовления: `3 минут` <br/>Циклы дистилляции: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Выдержка: `1 год` <br/>Бочка: `Любая древесина`| Опьяняет `8`|
 
 
 ## Квас 
@@ -121,13 +126,23 @@
 | <MCBottle color="#8c0001" size="big" /> | Состав: <br/>`18 Сахарный тростник` <br/>Время приготовления: <br/>`6 Минут` <br/>Циклы дистилляции: <br/>`2 по 30 секунд` <br/>Выдержка: `14 лет` <br/>Бочка: `Дуб`| Опьяняет `30`<br/> Выдает эффекты:<br/> `Огнестойкости 1 уровня` на `20/100 секунд` <br/>(При Плохом / Хорошем качестве)<br/>`Отравления 1 уровня` на `30 секунд`<br/> (При Плохом качестве) |
 
 
+## Спиритус ✨
+|Цвет|Рецепт|Свойства|
+|-|-|-|
+| <MCBottle color="#e8e8e8" size="big" /> | Состав: `10 картофеля` <br/>Время приготовления:<br/> `30 минут` <br/>Циклы дистилляции: <br/>`20 по 60 секунд` <br/>Выдержка: `15 лет` <br/>Бочка: `Дуб`| [Сложность](../mechanics/additional#сложность) `10` (масимум)<br/> Опьяняет `100`<br/> Выдает эффекты:<br/> `Огнестойкость 1 уровня` <br/>на `2 минуты`<br/> (Идеальном качестве) <br/> `Отравление уровня` на<br/> `20 секунд` <br/> (При Плохом / Хорошем качестве)|
+
+## Спритц ✨
+|Цвет|Рецепт|Свойства|
+|-|-|-|
+| <MCBottle color="#eba000" size="big" /> | Состав:<br/> `2 Снежка, 3 Блока Магмы,` [ `1 Водка,`](#водка)<br/> `1 Оранжевый Краситель`  <br/>Время приготовления: `8 минут` <br/>Циклы дистилляции: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>| Опьяняет `15`<br/> Выдает эффекты:<br/> `Насыщение 1 уровня` на<br/> `10 секунд` <br/> (При Хорошем качестве) <br/> `Отравление уровня` на<br/> `20 / 5 секунд` <br/> (При Плохом / Хорошем качестве)|
+
 
 ## Текила
 |Цвет|Рецепт|Свойства|
 |-|-|-|
 | <MCBottle color="#f5ef7e" size="big" /> | Состав: `8 Кактусов` <br/>Время приготовления: `15 минут` <br/>Циклы дистилляции: `2` <br/>Выдержка: `12 лет` <br/>Бочка: `Берёза`|Опьяняет `20`|
 
-## Чача ✨
+## Чача
 |Цвет|Рецепт|Свойства|
 |-|-|-|
 | <MCBottle color="#bb805e" size="big" /><br/><sup>Че за поебота</sup>  | Состав: `8 Сладких Ягод, 3 Гнилой плоти` <br/>Время приготовления: `5 минут` <br/>Циклы дистилляции: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Выдержка: `5 лет` <br/>Бочка: `Любая древесина`| Опьяняет `42`<br/> Выдает эффект:<br/>`Сила 1 на 20 секунд` | 

@@ -25,7 +25,7 @@
 ## Картофельный суп
 |Цвет|Рецепт|Свойства|
 |-|-|-|
-| <MCBottle color="#ffa600" size="big" /> | Состав: `5 Картошки, 3 Травы` <br/>Время приготовления:  <br/> `3 минуты` <br/>Циклы дистилляции: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>| Выдает эффект:<br/> `Мгновенного лечения на 1 секунду` (При Хорошем качестве)|
+| <MCBottle color="#ffa600" size="big" /> | Состав: `5 Картошки, 3 Травы` <br/>Время приготовления:  <br/> `3 минуты` <br/>Циклы дистилляции: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>| Выдает эффект:<br/> `Мгновенного лечения на 1 секунду`<br/> (При Хорошем качестве)|
  
 
 ## Кофе
@@ -42,7 +42,7 @@
 
 
 
-## Тархун ✨
+## Тархун 
 |Цвет|Рецепт|Свойства|
 |-|-|-|
 | <MCBottle color="#2d8c00" size="big" />  | Состав:<br/> `4 Короткой Травы, 4 Сахара,`<br/>` 2 Тростника` <br/>Время приготовления:<br/> `8 минут` <br/>Циклы дистилляции:<br/> `3 по 60 секунд` <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>|Выдает эффекты:<br/> `Герой Деревни 1 уровня на 60 секунд`<br/> (При Идеальном качестве)<br/> |

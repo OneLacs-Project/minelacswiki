@@ -15,7 +15,7 @@ title: ML Плюс
 <!-- <br/><span style="color: gray;"><sub>03.28.2025 - 00.00.202</sub></span><br/> -->
 **<span style="color: gray;">Обычный мир:</span> 5к <span style="color: gray;">/ 10к</span>** <br/>
 **<span style="color: gray;">Нижний мир:</span> 811 <span style="color: gray;">/ 1,3к</span>** <br/>
-**<span style="color: gray;">Энд:</span> Закрыт ⏳** <br/>
+**<span style="color: gray;">Энд:</span> 2к <span style="color: gray;">/ 10к</span>** ✨<br/>
 
 
 ## Описание
@@ -29,7 +29,7 @@ title: ML Плюс
 - [Скрытие брони](ml-plus/additional-mechanics#1)
 - [Мячик](ml-plus/additional-mechanics#2)
 - [Другие механики](ml-plus/additional-mechanics)
-- Смена роста `pending...`
+- [Смена роста](ml-plus/additional-mechanics#14)
 - Много ачивок
 - И многое другое
 
@@ -112,6 +112,11 @@ title: ML Плюс
 - 2 новых рецепта [Brewery](/brewery/intropage)
 - Багфиксы
 
+`5 Апреля` - Обновление принесло:
+- Энд официально открыт
+- Команда для [изменения роста](ml-plus/additional-mechanics#14)
+- 3 Новых рецепта напитка в [Brewery](/brewery/ml-plus/alcoholic-drinks)
+- Фикс подключения игроков был исправлен на стороне сервера
 :::
 
 ### Предыдущий сезон

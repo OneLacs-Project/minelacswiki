@@ -24,7 +24,7 @@ export const brewerySidebar = {
         },
         { text: '🍸 Свой рецепт', link: '/brewery/mechanics/your-recipe'},
         { text: '🍷 Алкогольные напитки ✨', link: '/brewery/ml-plus/alcoholic-drinks'},
-        { text: '📖 Не Алкогольные напитки ✨', link: '/brewery/ml-plus/non-alcoholic-drinks'},
+        { text: '📖 Не Алкогольные напитки', link: '/brewery/ml-plus/non-alcoholic-drinks'},
         { text: '🧪 Особые напитки ', link: '/brewery/ml-plus/special-drinks'},
       ],
     },
