@@ -17,12 +17,12 @@
 === Абсент
 |Цвет|Рецепт|Свойства|
 |-|-|-|
-| <MCBottle color="#00ff02" size="big" /> | Состав: `15 Травы` <br/>Время приготовления: <br/>`3 минуты` <br/>Циклы дистилляции:<br/> `6 по 80 секунд` <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>|Опьяняет `42`<br/>Выдает эффект:<br/>  `Отравления на 15/25 секунд`<br/> (При Плохом / Хорошем качестве)|
+| <MCBottle color="#00ff02" size="big" /> | Состав: `15 Травы` <br/>Время приготовления: <br/>`3 минуты` <br/>Циклы дистилляции:<br/> `6 по 80 секунд` <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>|Опьяняет `42`<br/>Выдает эффект:<br/>  `Отравления` на `15/25 секунд`<br/> (При Плохом / Хорошем качестве)|
 
 === Зеленый абсент
 |Цвет|Рецепт|Свойства|
 |-|-|-|
-| <MCBottle color="#c0ff00" size="big" /> | Состав: `17 Травы,`<br/>` 2 ядовитых картофеля ` <br/>Время приготовления:<br/> ` 5 минут ` <br/>Циклы дистилляции: <br/>`6 по 85 секунд` <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>|Опьяняет `46`<br/> Выдает эффекты:<br/>`Отравления на 25/40 секунд`<br/> (При Плохом / Хорошем качестве)<br/> `Моментального урона на 2 секунды`<br/> `Ночного зрения на 40/60 секунд`|
+| <MCBottle color="#c0ff00" size="big" /> | Состав: `17 Травы,`<br/>` 2 ядовитых картофеля ` <br/>Время приготовления:<br/> ` 5 минут ` <br/>Циклы дистилляции: <br/>`6 по 85 секунд` <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>|Опьяняет `46`<br/> Выдает эффекты:<br/>`Отравления` на `25/40 секунд`<br/> (При Плохом / Хорошем качестве)<br/> `Моментального урона` на `2 секунды`<br/> `Ночного зрения` на `40/60 секунд`|
 :::
 
 ## Виски
@@ -43,17 +43,17 @@
 === Водка
 |Цвет|Рецепт|Свойства|
 |-|-|-|
-| <MCBottle color="#ffffff" size="big" /> | Состав: `10 Картошки` <br/>Время приготовления: `15 минут` <br/>Циклы дистилляции: `3` <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>|Опьяняет `20`<br/> Выдает эффекты:<br/> `Слабости на 15 секунд`<br/>  `Отравления на 10 секунд` |
+| <MCBottle color="#ffffff" size="big" /> | Состав: `10 Картошки` <br/>Время приготовления: `15 минут` <br/>Циклы дистилляции: `3` <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>|Опьяняет `20`<br/> Выдает эффекты:<br/> `Слабости` на `15 секунд`<br/>  `Отравления` на `10 секунд` |
 
 === Золотая Водка
 |Цвет|Рецепт|Свойства|
 |-|-|-|
-| <MCBottle color="#BA6015" size="big" /> | Состав: `10 Картошки, 2 Кусочка Золота` <br/>Время приготовления: `18 минут` <br/>Циклы дистилляции: `3` <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>| Опьяняет `20`<br/> Выдает эффекты:<br/> `Слабости на 20 секунд`<br/>  `Отравления на 4 секунд` |
+| <MCBottle color="#BA6015" size="big" /> | Состав: `10 Картошки, 2 Кусочка Золота` <br/>Время приготовления: `18 минут` <br/>Циклы дистилляции: `3` <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>| Опьяняет `20`<br/> Выдает эффекты:<br/> `Слабости` на `20 секунд`<br/>  `Отравления` на `4 секунд` |
 
 === Грибная водка
 |Цвет|Рецепт|Свойства|
 |-|-|-|
-| <MCBottle color="#fe999a" size="big" /> | Состав: <br/>`10 Картошки, 3 Мухомора,`<br/> `3 Коричневых гриба ` <br/>Время приготовления:<br/> `18 минут` <br/>Циклы дистилляции: `5 ` <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>| Опьяняет `18`<br/> Выдает эффекты:<br/> `Слабости на 80 секунд`<br/>`Головокружения на 27 секунд`<br/>`Ночного зрения на 50/80 секунд`<br/> (При Плохом / Хорошем качестве)<br/>`Слепоты на 12/2 секунды`<br/> (При Плохом / Хорошем качестве)<br/>`Медлительности на 10/3 секунды`<br/> (При Плохом / Хорошем качестве)|
+| <MCBottle color="#fe999a" size="big" /> | Состав: <br/>`10 Картошки, 3 Мухомора,`<br/> `3 Коричневых гриба ` <br/>Время приготовления:<br/> `18 минут` <br/>Циклы дистилляции: `5 ` <br/>Выдержка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Бочка: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon>| Опьяняет `18`<br/> Выдает эффекты:<br/> `Слабости` на `80 секунд`<br/>`Головокружения` на `27 секунд`<br/>`Ночного зрения` на 5`0/80 секунд`<br/> (При Плохом / Хорошем качестве)<br/>`Слепоты` на `12/2 секунды`<br/> (При Плохом / Хорошем качестве)<br/>`Медлительности` на `10/3 секунды`<br/> (При Плохом / Хорошем качестве)|
 
 :::
 
@@ -145,7 +145,7 @@
 ## Чача
 |Цвет|Рецепт|Свойства|
 |-|-|-|
-| <MCBottle color="#bb805e" size="big" /><br/><sup>Че за поебота</sup>  | Состав: `8 Сладких Ягод, 3 Гнилой плоти` <br/>Время приготовления: `5 минут` <br/>Циклы дистилляции: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Выдержка: `5 лет` <br/>Бочка: `Любая древесина`| Опьяняет `42`<br/> Выдает эффект:<br/>`Сила 1 на 20 секунд` | 
+| <MCBottle color="#bb805e" size="big" /><br/><sup>Че за поебота</sup>  | Состав: `8 Сладких Ягод, 3 Гнилой плоти` <br/>Время приготовления: `5 минут` <br/>Циклы дистилляции: <iconify-icon icon="solar:close-square-bold-duotone" style="margin-right:0.10rem;margin:center;color: #FF0000" ></iconify-icon> <br/>Выдержка: `5 лет` <br/>Бочка: `Любая древесина`| Опьяняет `42`<br/> Выдает эффект:<br/>`Сила 1` на `20 секунд` | 
 
 ## Яблочный ликер
 |Цвет|Рецепт|Свойства|
