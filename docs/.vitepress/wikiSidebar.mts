@@ -30,7 +30,7 @@ export const wikiSidebar = {
               collapsed: true, items: [
                 { text: '🗺️ Веб Карта ', link: 'http://minelacs.online:12345/' },
                 { text: '⚙️ Доп Механики ✨', link: '/wiki/season/ml-plus/additional-mechanics' },
-                { text: '🎨 Загрузка Ресурспаков', link: '/wiki/season/ml-plus/resourcepack-load' },
+                // { text: '🎨 Загрузка Ресурспаков', link: '/wiki/season/ml-plus/resourcepack-load' },
                 { text: '💬 FlectonePulse ', link: '/wiki/season/ml-plus/flectone-pulse' },
                 { text: '🎵 Пластинки ', link: '/wiki/season/ml-plus/music-discs' },
                 { text: '🍷 Brewery', link: '/brewery/intropage' },

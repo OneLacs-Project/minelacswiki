@@ -47,5 +47,5 @@ lastUpdated: true
 | Название | Описание | Команда | Ссылка |
 |---|---|---|---|
 | MineLacs | Главный обязательный ресурспак сервера | Автоматическая загрузка | |
-| [KSEPSPv9](https://www.planetminecraft.com/texture-pack/ksepsp-v9-optifine-cit/) | Ресурспак добавляющий множество предметов и мобов на переименование со сменой текстур. | `/pack load ksepsp` | [тык](https://definitelyawhale.github.io/ksepsp_website/#renames) |
+| [KSEPSPv9LITE](https://www.planetminecraft.com/texture-pack/ksepsp-v9-optifine-cit/) | Ресурспак добавляющий множество предметов и мобов на переименование со сменой текстур. | `/pack load ksepsp` | [тык](https://definitelyawhale.github.io/ksepsp_website/#renames) |
 | LacsArt | Ресурспак который на данный момент добавляет картины связанные с MineLacs и прошлого нашего проекта Scam | `/pack load lacsart` | [тык](https://github.com/VGSS6102/LacsArt) |

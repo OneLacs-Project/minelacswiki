@@ -13,8 +13,8 @@ title: ML Плюс
 **<span style="color: gray;">Статус:</span> <span style="color: lime;">Активен</span>**
 <!-- **<span style="color: gray;">Трейлер:</span> [Смотреть](https://youtu.be/)**<br/> -->
 <!-- <br/><span style="color: gray;"><sub>03.28.2025 - 00.00.202</sub></span><br/> -->
-**<span style="color: gray;">Обычный мир:</span> 5к <span style="color: gray;">/ 10к</span>** <br/>
-**<span style="color: gray;">Нижний мир:</span> 811 <span style="color: gray;">/ 1,3к</span>** <br/>
+**<span style="color: gray;">Обычный мир:</span> 10к <span style="color: gray;">/ 10к</span>** ✨<br/>
+**<span style="color: gray;">Нижний мир:</span> 1,3к <span style="color: gray;">/ 1,3к</span>** ✨<br/>
 **<span style="color: gray;">Энд:</span> 4к <span style="color: gray;">/ 10к</span>** ✨<br/>
 
 
@@ -54,6 +54,12 @@ title: ML Плюс
         icon: 'solar:chat-round-dots-bold-duotone',
         color: '#868dcc'
     },
+    // { 
+    //     name: 'Загрузка Ресурспаков', 
+    //     link: 'ml-plus/resourcepack-load',
+    //     icon: 'solar:pallete-2-bold-duotone', 
+    //     color: '#868dcc' 
+    // },
     {
         name: 'Пластинки',
         link: 'ml-plus/music-discs',
@@ -61,7 +67,7 @@ title: ML Плюс
         color: '#868dcc' 
     },
     {
-        name: 'Brewery ✨',
+        name: 'Brewery',
         link: '/brewery/intropage',
         icon: 'solar:wineglass-bold-duotone', 
         color: '#868dcc' 
@@ -120,6 +126,7 @@ title: ML Плюс
 
 `11 Апреля` - Обновление принесло:
 - Границы Энда расширены до 4к координаты
+- Границы Обычного мира и Незера теперь на максимальных координатах
 - Вернулась [Репутация]()
 - Теперь после смерти [ваша душа]() остается караулить ваши предметы
 - Опыт теперь притягивается к вам с красивой анимацией
@@ -136,7 +143,7 @@ title: ML Плюс
 
 
 ## Участники
-**<span style="color: gray;">Общее количество:</span> `20` <span style="color: gray;"> (`19` + `1` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span> `21` <span style="color: gray;"> (`20` + `1` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -158,6 +165,8 @@ title: ML Плюс
 - Xryakes <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - DOLBAEB <img src="https://api.mineatar.io/face/f0c280e7-4280-4671-b216-0fedd8cac495?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />  [<iconify-icon icon="solar:user-check-bold-duotone"  style="margin:center;color: #00FF00"></iconify-icon>](https://discord.com/channels/1120257989874561066/1335366888255127603/1359065097720430594)
+- phonexr <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+
 
 #### Забанены: <br/><span style="color: gray;"><sup>Даные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned}
 
