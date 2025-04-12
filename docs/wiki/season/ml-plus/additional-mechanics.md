@@ -24,7 +24,7 @@ lastUpdated: true
 12. **[Мини блоки](#12)** ✨
 13. **[Плевок](#13)** ✨ -->
 
-|||
+<!-- |||
 |               -               |                     -                 |
 |1. **[Скрытие брони](#1)**     |8. **[Перенос жителя](#8)**            |
 |2. **[Мяч](#2)**               |9. **[Предметы в табличках](#9)**      |
@@ -32,7 +32,112 @@ lastUpdated: true
 |4. **[Головы с игроков](#4)**  |11. **[Шалкер из шалкера](#11)**       |
 |5. **[Рамки](#5)**             |12. **[Мини блоки](#12)**              |
 |6. **[Палка отладки](#6)**     |13. **[Плевок](#13)**                  |
-|7. **[Рыбалка](#7)**           |14. **[Изменение роста](#14)** ✨              |
+|7. **[Рыбалка](#7)**           |14. **[Изменение роста](#14)**         | -->
+
+<!-- 
+<Pill name="Скрытие брони" link="#1" image="https://minecraft.wiki/images/thumb/Enchanted_Chainmail_Chestplate_%28item%29.gif/120px-Enchanted_Chainmail_Chestplate_%28item%29.gif?9693a"/> 
+<Pill name="Мяч" link="#2" image="/WIKI/ML-Vanila-2/Additional-Mechanics/demo_img_7.avif"/> 
+<Pill name="Бетон в котле" link="#3" image="https://minecraft.wiki/images/thumb/Water_Cauldron_JE7.png/150px-Water_Cauldron_JE7.png?81610"/> 
+<Pill name="Головы с игроков" link="#4" image="https://minecraft.wiki/images/thumb/Player_Head_%28S%29_JE2.png/150px-Player_Head_%28S%29_JE2.png?6f81f"/> 
+<Pill name="Рамки" link="#5" image="https://minecraft.wiki/images/Invicon_Item_Frame.png?68f6f"/> 
+<Pill name="Палка отладки" link="#6" image="https://minecraft.wiki/images/Debug_Stick.gif?c7249"/> 
+<Pill name="Рыбалка" link="#7" image="https://minecraft.wiki/images/thumb/Enchanted_Fishing_Rod.gif/120px-Enchanted_Fishing_Rod.gif?f9296"/> 
+<Pill name="Перенос жителя" link="#8" image="https://minecraft.wiki/images/thumb/Desert_Villager_Base_JE2.png/80px-Desert_Villager_Base_JE2.png?744cf"/> 
+<Pill name="Предметы в табличках" link="#9" image="https://minecraft.wiki/images/Invicon_Oak_Sign.png?45ec7"/> 
+<Pill name="Формы порталов" link="#10" image="https://minecraft.wiki/images/Nether_portal_%28animated%29.png?26915"/> 
+<Pill name="Шалкер из шалкера" link="#11" image="https://minecraft.wiki/images/thumb/Shulker_Box_JE1_BE1.gif/94px-Shulker_Box_JE1_BE1.gif?d473a"/> 
+<Pill name="Мини блоки" link="#12" image="https://minecraft.wiki/images/Creeper_Head_%28S%29_JE1.png?14d9d"/> 
+<Pill name="Плевок" link="#13" image="https://minecraft.wiki/images/thumb/Llama_Spit.png/120px-Llama_Spit.png?280f9"/> 
+<Pill name="Изменение роста" link="#14" image="https://minecraft.wiki/images/thumb/Jungle_Baby_Villager_BE.png/60px-Jungle_Baby_Villager_BE.png?54631"/>  -->
+
+
+<Box :items="[ 
+{ 
+  name: 'Репутация',  
+  link: '#17',  
+  image: 'https://minecraft.wiki/images/thumb/Glint_%28texture%29_JE1_BE1.png/16px-Glint_%28texture%29_JE1_BE1.png?00d0a',  tag: 'NEW'
+},
+{ 
+  name: 'Привязанная душа',  
+  link: '#16',  
+  image: 'https://minecraft.wiki/images/thumb/Soul_%28texture_7%29_JE1_BE1.png/16px-Soul_%28texture_7%29_JE1_BE1.png?e6477',  tag: 'NEW'
+},
+{ 
+  name: 'Тотем в пустоте',  
+  link: '#15',  
+  image: 'https://minecraft.wiki/images/Totem_of_Undying_JE2_BE2.png?d56eb',  tag: 'NEW'
+},
+{ 
+  name: 'Скрытие брони',  
+  link: '#1',  
+  image: 'https://minecraft.wiki/images/thumb/Enchanted_Chainmail_Chestplate_%28item%29.gif/120px-Enchanted_Chainmail_Chestplate_%28item%29.gif?9693a',   
+},
+{ 
+  name: 'Мяч',  
+  link: '#2',  
+  image: '/WIKI/ML-Vanila-2/Additional-Mechanics/demo_img_7.avif',   
+},
+{ 
+  name: 'Бетон в котле',  
+  link: '#3',  
+  image: 'https://minecraft.wiki/images/thumb/Water_Cauldron_JE7.png/150px-Water_Cauldron_JE7.png?81610',   
+},
+{ 
+  name: 'Головы с игроков',  
+  link: '#4',  
+  image: 'https://minecraft.wiki/images/thumb/Player_Head_%28S%29_JE2.png/150px-Player_Head_%28S%29_JE2.png?6f81f',   
+},
+{ 
+  name: 'Рамки',  
+  link: '#5',  
+  image: 'https://minecraft.wiki/images/Invicon_Item_Frame.png?68f6f',   
+},
+{ 
+  name: 'Палка отладки',  
+  link: '#6',  
+  image: 'https://minecraft.wiki/images/Debug_Stick.gif?c7249',   
+},
+{ 
+  name: 'Рыбалка',  
+  link: '#7',  
+  image: 'https://minecraft.wiki/images/thumb/Enchanted_Fishing_Rod.gif/120px-Enchanted_Fishing_Rod.gif?f9296',   
+},
+{ 
+  name: 'Перенос жителя',  
+  link: '#8',  
+  image: 'https://minecraft.wiki/images/thumb/Desert_Villager_Base_JE2.png/80px-Desert_Villager_Base_JE2.png?744cf',   
+},
+{ 
+  name: 'Предметы в табличках',  
+  link: '#9',  
+  image: 'https://minecraft.wiki/images/Invicon_Oak_Sign.png?45ec7',   
+},
+{ 
+  name: 'Формы порталов',  
+  link: '#10',  
+  image: 'https://minecraft.wiki/images/Nether_portal_%28animated%29.png?26915',   
+},
+{ 
+  name: 'Шалкер из шалкера',  
+  link: '#11',  
+  image: 'https://minecraft.wiki/images/thumb/Shulker_Box_JE1_BE1.gif/94px-Shulker_Box_JE1_BE1.gif?d473a',   
+},
+{ 
+  name: 'Мини блоки',  
+  link: '#12',  
+  image: 'https://minecraft.wiki/images/Creeper_Head_%28S%29_JE1.png?14d9d',   
+},
+{ 
+  name: 'Плевок',  
+  link: '#13',  
+  image: 'https://minecraft.wiki/images/thumb/Llama_Spit.png/120px-Llama_Spit.png?280f9',   
+},
+{ 
+  name: 'Изменение роста',  
+  link: '#14',  
+  image: 'https://minecraft.wiki/images/thumb/Jungle_Baby_Villager_BE.png/60px-Jungle_Baby_Villager_BE.png?54631',   
+},
+]"/>
 
 ## Скрытие брони  {#1}
 Игроки могут визуально скрыть свою броню для себя и других игроков сохраняя защиту.
@@ -155,7 +260,7 @@ lastUpdated: true
 /spit
 ```
 
-## Изменение роста ✨ {#14}
+## Изменение роста {#14}
 
 Теперь вы можете изменять свой рост игрока командой. 
 
@@ -169,3 +274,33 @@ lastUpdated: true
 |:-|:-:|:-:|
 |Размеры|  `0.85` - `1.15` | `0.5` - `1.5` |
 |Перезарядка| `30 секунд` | `0 секунд` |
+
+## Тотем в пустоте ✨ {#15}
+
+Теперь если вы упадете в пустоту, то тотем безсмертия сработает и подбросит вас вверх и выдаст еффект медленного падения.
+
+## Привязанная душа ✨ {#16}
+
+Теперь на месте вашей смерти, или в безопастном месте неподалеку,<br/> останется ваша душа которая будет для вас караулить предметы в течении `3-х часов`, после чего выбросит предметы и не оставит опыта.
+
+Еще плюс в том что будет сохранено больше вашего опыта, больше чем в ванильной игре.
+
+
+## Репутация ✨ {#17}
+
+Теперь на сервере есть система репутации. <br/>Вам помог игрок? Респект. Игрок хуесос реально? Дисреспект. Все <u>просто!</u>
+
+Вы начинаете с репутации `0` 
+
+У вас есть возможность повысить или понизить при использовании команды и ника игрока каждые `24 часа`
+
+::: code-group
+``` [Повысить]
+/rep
+```
+``` [Понизить]
+/disrep
+```
+:::
+
+На себя не работает кста)
