@@ -13,7 +13,7 @@ layout: doc
 
   const admins = [
     {
-      avatar: 'https://cdn.discordapp.com/avatars/803639665960681502/b21fff4420698f25db6b8eb663ad2928.webp?size=1024&format=webp&width=410&height=410',
+      avatar: 'https://cdn.discordapp.com/avatars/803639665960681502/43cdffd361e37793f39e6b11206c736f.webp?size=1024&format=webp&width=410&height=410',
       name: 'SawaDawa177_',
       title: 'Создатель',
       links: [
@@ -34,7 +34,7 @@ layout: doc
 
   const moderators = [
     {
-      avatar: 'https://cdn.discordapp.com/avatars/733200455324401676/7a7c34a3bb0fa3e1d730b82087625cb2.webp?size=1024&format=webp&width=428&height=428',
+      avatar: 'https://cdn.discordapp.com/avatars/733200455324401676/76679a13266a76bd1ff8c0e8ae9e7456.webp?size=1024&format=webp&width=410&height=410',
       name: 'Nub4ik1',
       title: 'Модератор',
       links: [
@@ -69,11 +69,11 @@ layout: doc
       ]
     },
     {
-      avatar: 'https://cdn.discordapp.com/avatars/677146664657485840/39411aeaef2292ec8833dd50a106c5b8.webp?size=1024&format=webp&width=410&height=410',
-      name: 'LeoVinchi454',
+      avatar: 'https://cdn.discordapp.com/avatars/506820120694358036/304dd99ed01b8141ebade1394d5b8ee6.webp?size=1024&format=webp&width=410&height=410',
+      name: 'DVD314',
       title: 'Бета-тестер',
       links: [
-        { icon: 'discord', link: 'https://discord.com/users/677146664657485840' }
+        { icon: 'discord', link: 'https://discord.com/users/506820120694358036' }
       ]
     },
   ]
