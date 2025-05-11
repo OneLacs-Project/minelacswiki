@@ -3,19 +3,18 @@ outline: deep
 lastUpdated: true
 title: ML Плюс
 ---
-<!-- <iconify-icon icon="solar:archive-bold-duotone" style="margin-bottom:-0.3rem;margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon>  -->
 
 ![](/WIKI/ML-Plus/banner.png)
 
-# 🍨 ML Плюс <br/> <span style="color: gray;"><sup> Ваниль с шоколадной посыпкой </sup></span>
+# <iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Плюс <br/> <span style="color: gray;"><sup> Ваниль с шоколадной посыпкой </sup></span>
 
 **<span style="color: gray;">Версия Игры:</span> 1.21.4**<br/>
-**<span style="color: gray;">Статус:</span> <span style="color: lime;">Активен</span>**
+**<span style="color: gray;">Статус:</span> <span style="color: white;">Завершен</span>**
 <!-- **<span style="color: gray;">Трейлер:</span> [Смотреть](https://youtu.be/)**<br/> -->
-<!-- <br/><span style="color: gray;"><sub>03.28.2025 - 00.00.202</sub></span><br/> -->
-**<span style="color: gray;">Обычный мир:</span> 10к <span style="color: gray;">/ 10к</span>** ✨<br/>
-**<span style="color: gray;">Нижний мир:</span> 1,3к <span style="color: gray;">/ 1,3к</span>** ✨<br/>
-**<span style="color: gray;">Энд:</span> 4к <span style="color: gray;">/ 10к</span>** ✨<br/>
+<br/><span style="color: gray;"><sub>28.03.2025 - 11.05.2025</sub></span><br/>
+**<span style="color: gray;">Обычный мир:</span> 10к <span style="color: gray;"></span>**<br/>
+**<span style="color: gray;">Нижний мир:</span> 1,3к <span style="color: gray;"></span>**<br/>
+**<span style="color: gray;">Энд:</span> 4к <span style="color: gray;"></span>**<br/>
 
 
 ## Описание
@@ -43,7 +42,7 @@ title: ML Плюс
         color: '#868dcc' 
     },
     { 
-        name: 'Доп Механики ✨', 
+        name: 'Доп Механики', 
         link: 'ml-plus/additional-mechanics', 
         icon: 'solar:cpu-bold-duotone', 
         color: '#868dcc' 
@@ -54,12 +53,12 @@ title: ML Плюс
         icon: 'solar:chat-round-dots-bold-duotone',
         color: '#868dcc'
     },
-    // { 
-    //     name: 'Загрузка Ресурспаков', 
-    //     link: 'ml-plus/resourcepack-load',
-    //     icon: 'solar:pallete-2-bold-duotone', 
-    //     color: '#868dcc' 
-    // },
+    { 
+        name: 'Загрузка Ресурспаков', 
+        link: 'ml-plus/resourcepack-load',
+        icon: 'solar:pallete-2-bold-duotone', 
+        color: '#868dcc' 
+    },
     {
         name: 'Пластинки',
         link: 'ml-plus/music-discs',
@@ -133,6 +132,11 @@ title: ML Плюс
 - С урожая теперь тоже будет выдаваться опыт
 - Тотем теперь спасает от пустоты. Подкидывает и выдает замедленное падение.
 - Секретные механики которые будут добавлены на вики позже 
+:::
+:::details Май 2025
+
+`11 Мая` -  **<span style="color: red;">Сезон завершен</span>**
+
 :::
 
 ### Предыдущий сезон
