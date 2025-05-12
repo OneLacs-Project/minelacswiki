@@ -49,7 +49,7 @@ export const wikiSidebar = {
                 { text: '🎨 Загрузка Ресурспаков', link: '/wiki/archive/ml-plus/resourcepack-load' },
                 { text: '💬 FlectonePulse ', link: '/wiki/archive/ml-plus/flectone-pulse' },
                 { text: '🎵 Пластинки ', link: '/wiki/archive/ml-plus/music-discs' },
-                { text: '🍷 Brewery'},
+                { text: '🍷 Brewery', link: '/brewery/ml-plus/alcoholic-drinks'},
               ]
             },
             { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Create & Magic', link: '/wiki/archive/ml-createmagic', 

@@ -23,7 +23,7 @@ title: ML Плюс
     - `Ад (Незер)` - Начало `433`, Конец `1,3к`
     - `Энд` - Начало `2к`, Конец `10к` -->
 - Все измерения ограничены барьерами
-- Возвращение [**Brewery**](/brewery/intropage/)
+- Возвращение [**Brewery**](/brewery/ml-plus/alcoholic-drinks/)
 - <Pill name="Палка отладки" link="https://ru.minecraft.wiki/w/%D0%9F%D0%B0%D0%BB%D0%BA%D0%B0_%D0%BE%D1%82%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8" image="https://minecraft.wiki/images/Debug_Stick.gif?c7249"/> доступна игрокам [Крафт](ml-plus/additional-mechanics#6)
 - [Скрытие брони](ml-plus/additional-mechanics#1)
 - [Мячик](ml-plus/additional-mechanics#2)

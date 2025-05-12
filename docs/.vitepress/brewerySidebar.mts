@@ -4,7 +4,7 @@ export const brewerySidebar = {
 
     sidebar: {
       '/brewery/': [
-        { text: '🔙 Назад', link: '/wiki/'},
+        { text: '🔙 Назад', link: '/wiki/how-to-join'},
         { text: '❔ Что это такое', link: '/brewery/intropage'},
         {
           text: '⚙️ Механики',
@@ -25,7 +25,12 @@ export const brewerySidebar = {
         { text: '🍸 Свой рецепт', link: '/brewery/mechanics/your-recipe'},
         { text: '🍷 Алкогольные напитки', link: '/brewery/default/alcoholic-drinks'},
         { text: '📖 Не Алкогольные напитки', link: '/brewery/default/non-alcoholic-drinks'},
-        // { text: '🧪 Особые напитки ', link: '/brewery/ml-plus/special-drinks'},
+        { text: 'Рецепты ML-Plus', collapsed: true,
+          items: [
+            { text: '🍷 Алкогольные напитки', link: '/brewery/ml-plus/alcoholic-drinks'},
+            { text: '📖 Не Алкогольные напитки', link: '/brewery/ml-plus/non-alcoholic-drinks'},
+            { text: '🧪 Особые напитки ', link: '/brewery/ml-plus/special-drinks'},
+        ]}
       ],
     },
   }
