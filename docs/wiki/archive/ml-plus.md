@@ -10,7 +10,6 @@ title: ML Плюс
 
 **<span style="color: gray;">Версия Игры:</span> 1.21.4**<br/>
 **<span style="color: gray;">Статус:</span> <span style="color: white;">Завершен</span>**
-<!-- **<span style="color: gray;">Трейлер:</span> [Смотреть](https://youtu.be/)**<br/> -->
 <br/><span style="color: gray;"><sub>28.03.2025 - 11.05.2025</sub></span><br/>
 **<span style="color: gray;">Обычный мир:</span> 10к <span style="color: gray;"></span>**<br/>
 **<span style="color: gray;">Нижний мир:</span> 1,3к <span style="color: gray;"></span>**<br/>
