@@ -13,7 +13,7 @@ layout: doc
 
   const admins = [
     {
-      avatar: 'https://cdn.discordapp.com/avatars/803639665960681502/43cdffd361e37793f39e6b11206c736f.webp?size=1024&format=webp&width=410&height=410',
+      avatar: 'https://cdn.discordapp.com/avatars/803639665960681502/db48c7ceeef4191dc3946f8edcbc9fc1.webp?size=1024',
       name: 'SawaDawa177_',
       title: 'Создатель',
       links: [
@@ -34,7 +34,7 @@ layout: doc
 
   const moderators = [
     {
-      avatar: 'https://cdn.discordapp.com/avatars/733200455324401676/76679a13266a76bd1ff8c0e8ae9e7456.webp?size=1024&format=webp&width=410&height=410',
+      avatar: 'https://cdn.discordapp.com/avatars/733200455324401676/2633b9f1773259ec330f8b23072340de.webp?size=1024',
       name: 'Nub4ik1',
       title: 'Модератор',
       links: [
@@ -42,7 +42,7 @@ layout: doc
       ]
     },
     {
-      avatar: 'https://cdn.discordapp.com/avatars/791373241549586443/455753fb239e4f6aa7bcd8a6e90a5eed.webp?size=1024&format=webp&width=410&height=410',
+      avatar: 'https://cdn.discordapp.com/avatars/791373241549586443/455753fb239e4f6aa7bcd8a6e90a5eed.webp?size=1024',
       name: 'Mr_Frying',
       title: 'Модератор',
       links: [
@@ -50,8 +50,16 @@ layout: doc
       ]
     },
     {
-      avatar: 'https://cdn.discordapp.com/avatars/780060596456390706/557bd0ee53cee65160c92cdc7d1af56c.webp?size=1024&format=webp&width=410&height=410',
-      name: 'bruuhhh_',
+      avatar: 'https://cdn.discordapp.com/avatars/648913024031129615/a2bdfd26b847fcce1227420419ba9a37.webp?size=1024',
+      name: 'Inuki659',
+      title: 'Модератор',
+      links: [
+        { icon: 'discord', link: 'https://discord.com/users/648913024031129615' }
+      ]
+    },
+    {
+      avatar: 'https://cdn.discordapp.com/avatars/780060596456390706/557bd0ee53cee65160c92cdc7d1af56c.webp?size=1024',
+      name: 'qywyx',
       title: 'Хелпер',
       links: [
         { icon: 'discord', link: 'https://discord.com/users/780060596456390706' }
@@ -61,7 +69,7 @@ layout: doc
 
   const beta_testers = [
     {
-      avatar: 'https://cdn.discordapp.com/avatars/1025547812945006592/96c579d8c701244247a3d5b29add4379.webp?size=1024&format=webp&width=410&height=410',
+      avatar: 'https://cdn.discordapp.com/avatars/1025547812945006592/38eed200572baacacccd35cb4d9c6500.webp?size=1024',
       name: 'Gurman',
       title: 'Бета-тестер',
       links: [
@@ -69,7 +77,7 @@ layout: doc
       ]
     },
     {
-      avatar: 'https://cdn.discordapp.com/avatars/506820120694358036/304dd99ed01b8141ebade1394d5b8ee6.webp?size=1024&format=webp&width=410&height=410',
+      avatar: 'https://cdn.discordapp.com/avatars/506820120694358036/304dd99ed01b8141ebade1394d5b8ee6.webp?size=1024',
       name: 'DVD314',
       title: 'Бета-тестер',
       links: [
@@ -90,7 +98,7 @@ layout: doc
 # Модерация
 
 </center>
-<VPTeamMembers size="small" :members="moderators" />
+<VPTeamMembers size="medium" :members="moderators" />
 <br/>
 <center>
 

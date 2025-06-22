@@ -7,7 +7,7 @@ export const wikiSidebar = {
         {
           text: '',
           items: [
-            { text: '🌐 Сайт ✨', link: 'https://minelacs.ru'},
+            { text: '🌐 Сайт', link: 'https://minelacs.ru'},
             { text: '❓ Как зайти?', link: '/wiki/how-to-join'},
             {
               text: '📑 Правила',
@@ -26,7 +26,7 @@ export const wikiSidebar = {
         { // Категория сезонов
           text: 'Сезон',
           items: [
-            { text: '🏰 ML Dungeons ✨', link: '/wiki/season/ml-dungeons'},
+            { text: '🏰 ML Dungeons', link: '/wiki/season/ml-dungeons'},
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},
             { text: '🥩 Саварубка', link: '/wiki/season/sawarubka'},
             { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},

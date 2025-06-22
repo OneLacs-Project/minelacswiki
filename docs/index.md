@@ -6,19 +6,19 @@ footer: true
 hero:
   name: "MineLacs" 
   text: "Википедия"
-  # prelink:
-  #   title: ' ML Plus <p> Сезон Начался </p>'
-  #   content: 
-  #   link: /wiki/season/ml-plus
-  #   target: _self
+  prelink:
+    title: ' ML Dungeons <p> Сезон Начался </p>'
+    content: 
+    link: /wiki/season/ml-dungeons
+    target: _self
 
   image:
     src: /wikihomepagelogo.png
   actions:
-    # - theme: brand
-    #   text: ML Плюс
-    #   link: /wiki/season/ml-plus
     - theme: brand
+      text: ML Dungeons
+      link: /wiki/season/ml-dungeons
+    - theme: alt
       text: Вики
       link: /wiki/how-to-join
  
