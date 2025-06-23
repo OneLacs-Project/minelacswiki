@@ -8,7 +8,7 @@ export const rulesSidebar = {
           text: '',
           items: [
             { text: '🔙 Назад', link: '/wiki/how-to-join'},
-            { text: 'Вступление', link: '/rules/intropage'},
+            { text: 'Вступление', link: '/rules/index'},
             { text: 'Термины', link: '/rules/terms'},
           ]
         },

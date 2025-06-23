@@ -5,7 +5,7 @@ export const brewerySidebar = {
     sidebar: {
       '/brewery/': [
         { text: '🔙 Назад', link: '/wiki/how-to-join'},
-        { text: '❔ Что это такое', link: '/brewery/intropage'},
+        { text: '❔ Что это такое', link: '/brewery/index'},
         {
           text: '⚙️ Механики',
           items: [

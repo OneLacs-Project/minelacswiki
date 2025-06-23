@@ -11,7 +11,7 @@ export const wikiSidebar = {
             { text: '❓ Как зайти?', link: '/wiki/how-to-join'},
             {
               text: '📑 Правила',
-              link: '/rules/intropage'
+              link: '/rules/'
             },
             { 
               text: 'MineLacs Ultimate',
@@ -26,7 +26,10 @@ export const wikiSidebar = {
         { // Категория сезонов
           text: 'Сезон',
           items: [
-            { text: '🏰 ML Dungeons', link: '/wiki/season/ml-dungeons'},
+            { text: '🏰 ML Dungeons', link: '/wiki/season/ml-dungeons',
+              collapsed: true, items: [
+              ]
+            },
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},
             { text: '🥩 Саварубка', link: '/wiki/season/sawarubka'},
             { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},

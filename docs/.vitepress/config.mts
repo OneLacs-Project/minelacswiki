@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress';
 import { wikiSidebar } from './wikiSidebar.mts';
 import { rulesSidebar } from './rulesSidebar.mts';
-import { brewerySidebar } from './brewerySidebar.mjs';
+import { brewerySidebar } from './brewerySidebar.mts';
 // import '@theojs/lumen/theme'
 
 // import {defineConfig} from '@lando/vitepress-theme-default-plus/config';
