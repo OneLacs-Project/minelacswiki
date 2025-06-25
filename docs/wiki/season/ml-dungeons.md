@@ -51,8 +51,11 @@ title: ML Dungeons
 :::
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `21` <br/>
+**<span style="color: gray;">Общее количество:</span>** `22` <br/>
 <!-- <span style="color: gray;"> (`20` + `1` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
+
+
+
 
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -76,3 +79,4 @@ title: ML Dungeons
 - zerostar279 <img src="https://api.mineatar.io/face/cfc33bd0-b49d-4b65-99d8-92ee7090a011?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - TorentsTirfiys <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - PerdunKiller123 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- DOki56 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
