@@ -51,7 +51,7 @@ title: ML Dungeons
 :::
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `18` <br/>
+**<span style="color: gray;">Общее количество:</span>** `21` <br/>
 <!-- <span style="color: gray;"> (`20` + `1` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
 
 
@@ -73,3 +73,6 @@ title: ML Dungeons
 - may1766 <img src="https://api.mineatar.io/face/8d88b0f3-2c0b-43d8-aa60-1a963f816949?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Recfu <img src="https://api.mineatar.io/face/9d509b51-c804-4081-aaa0-41ef3ba72238?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Oleksandr25308 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- zerostar279 <img src="https://api.mineatar.io/face/cfc33bd0-b49d-4b65-99d8-92ee7090a011?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- TorentsTirfiys <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- PerdunKiller123 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
