@@ -7,7 +7,7 @@ title: ML Dungeons
 ![](/WIKI/ML-Dungeons/banner.png)
 
 
-# 🏰 ML Плюс <br/> <span style="color: gray;"><sup> Время приключений! </sup></span>
+# 🏰 ML Dungeons<br/> <span style="color: gray;"><sup> Время приключений! </sup></span>
 
 **<span style="color: gray;">Версия Игры:</span> 1.20.1 Farbic**<br/>
 **<span style="color: gray;">Статус:</span> <span style="color: green;">Активен</span>**
