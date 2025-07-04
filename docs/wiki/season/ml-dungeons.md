@@ -51,7 +51,7 @@ title: ML Dungeons
 :::
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `25` <br/>
+**<span style="color: gray;">Общее количество:</span>** `26` <br/>
 <!-- <span style="color: gray;"> (`20` + `1` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
 
 
@@ -83,3 +83,4 @@ title: ML Dungeons
 - Layts_foutes <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - Foxyandet <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - ne_faker1337 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- wanolx_1 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
