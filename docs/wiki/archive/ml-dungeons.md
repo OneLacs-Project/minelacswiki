@@ -3,15 +3,15 @@ outline: deep
 lastUpdated: true
 title: ML Dungeons
 ---
-<!-- <iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> -->
+
 ![](/WIKI/ML-Dungeons/banner.png)
 
 
-# 🏰 ML Dungeons<br/> <span style="color: gray;"><sup> Время приключений! </sup></span>
+# <iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Dungeons<br/> <span style="color: gray;"><sup> Время приключений! </sup></span>
 
 **<span style="color: gray;">Версия Игры:</span> 1.20.1 Farbic**<br/>
-**<span style="color: gray;">Статус:</span> <span style="color: green;">Активен</span>**
-<!-- <br/><span style="color: gray;"><sub>21.06.2025 - 00.00.2025</sub></span><br/> -->
+**<span style="color: gray;">Статус:</span> Завершен**
+<br/><span style="color: gray;"><sub>21.06.2025 - 10.07.2025</sub></span><br/>
 
 ## Описание
 *<span style="color: gray;">Из поста на <a href="http://dsc.gg/minelacs" style="color: gray;">Дискорд Сервере</a></span>*
@@ -49,7 +49,11 @@ title: ML Dungeons
 - Исправлен критический баг с компостницей и пришлось убрать мод-аддон<br/>
 
 :::
+::: details Июль 2025
 
+`10 Июля` - **<span style="color: red;">Сезон завершен</span>**
+
+:::
 ## Участники 
 **<span style="color: gray;">Общее количество:</span>** `26` <br/>
 <!-- <span style="color: gray;"> (`20` + `1` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
@@ -62,12 +66,8 @@ title: ML Dungeons
 - **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Nub4ik1  <img src="https://api.mineatar.io/face/d2b496f0-c2b0-4849-8dee-a6bda731a7eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> 
-- phonexr <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
-- GurmanFSD <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
-- Pz_Kpfw_III <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - Mr_Frying <img src="https://api.mineatar.io/face/8a587fdf-a714-42db-b460-cac37bfaaaeb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - spafis <img src="https://api.mineatar.io/face/24c076a7-aecc-4934-9d95-19ccc5860bc2?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
-- manow228 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - qywyx <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Phantom0387 <img src="https://api.mineatar.io/face/a0c9981e-5a1d-41ce-a449-ed5c016778af?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Lenfair <img src="https://api.mineatar.io/face/d36339eb-2d45-4c50-a1d9-06be69c1321e?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -75,8 +75,12 @@ title: ML Dungeons
 - Inuki659 <img src="https://api.mineatar.io/face/cbc9c20c-48fc-484d-ac58-b068865c936f?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - may1766 <img src="https://api.mineatar.io/face/8d88b0f3-2c0b-43d8-aa60-1a963f816949?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Recfu <img src="https://api.mineatar.io/face/9d509b51-c804-4081-aaa0-41ef3ba72238?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
-- Oleksandr25308 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - zerostar279 <img src="https://api.mineatar.io/face/cfc33bd0-b49d-4b65-99d8-92ee7090a011?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- phonexr <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- GurmanFSD <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Pz_Kpfw_III <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- manow228 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Oleksandr25308 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - TorentsTirfiys <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - PerdunKiller123 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - DOki56 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
