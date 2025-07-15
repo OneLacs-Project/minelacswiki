@@ -153,21 +153,21 @@ title: ML Плюс
 - **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Nub4ik1  <img src="https://api.mineatar.io/face/d2b496f0-c2b0-4849-8dee-a6bda731a7eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - b_r_u_h_ <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- zerostar279 <img src="https://api.mineatar.io/face/cfc33bd0-b49d-4b65-99d8-92ee7090a011?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <iconify-icon icon="solar:user-check-bold-duotone"  style="margin:center;color: #00FF00"></iconify-icon>
+- Lenfair <img src="https://api.mineatar.io/face/d36339eb-2d45-4c50-a1d9-06be69c1321e?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- spafis <img src="https://api.mineatar.io/face/24c076a7-aecc-4934-9d95-19ccc5860bc2?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- may12 <img src="https://api.mineatar.io/face/0f39239d-84f6-44ba-a624-f008016ada77?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Mr_Frying <img src="https://api.mineatar.io/face/8a587fdf-a714-42db-b460-cac37bfaaaeb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- DOLBAEB <img src="https://api.mineatar.io/face/f0c280e7-4280-4671-b216-0fedd8cac495?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />  [<iconify-icon icon="solar:user-check-bold-duotone"  style="margin:center;color: #00FF00"></iconify-icon>](https://discord.com/channels/1120257989874561066/1335366888255127603/1359065097720430594)
 - GurmanFSD <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - Pz_Kpfw_III <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
-- zerostar279 <img src="https://api.mineatar.io/face/cfc33bd0-b49d-4b65-99d8-92ee7090a011?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <iconify-icon icon="solar:user-check-bold-duotone"  style="margin:center;color: #00FF00"></iconify-icon>
 - kilerPerdyn128 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/> <iconify-icon icon="solar:user-check-bold-duotone"  style="margin:center;color: #00FF00"></iconify-icon>
 - Oleksandr25308 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - AngelOf0laf <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
-- Lenfair <img src="https://api.mineatar.io/face/d36339eb-2d45-4c50-a1d9-06be69c1321e?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
-- spafis <img src="https://api.mineatar.io/face/24c076a7-aecc-4934-9d95-19ccc5860bc2?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Foxyandet <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
-- may12 <img src="https://api.mineatar.io/face/0f39239d-84f6-44ba-a624-f008016ada77?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - FlandenT1me <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
-- Mr_Frying <img src="https://api.mineatar.io/face/8a587fdf-a714-42db-b460-cac37bfaaaeb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Xryakes <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
-- DOLBAEB <img src="https://api.mineatar.io/face/f0c280e7-4280-4671-b216-0fedd8cac495?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
-- DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />  [<iconify-icon icon="solar:user-check-bold-duotone"  style="margin:center;color: #00FF00"></iconify-icon>](https://discord.com/channels/1120257989874561066/1335366888255127603/1359065097720430594)
 - phonexr <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 
 

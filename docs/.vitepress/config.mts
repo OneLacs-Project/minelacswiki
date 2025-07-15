@@ -111,7 +111,7 @@ export default defineConfig({
           { text: 'Discord', link: 'https://discord.gg/B6ywHB7ftP'},
           { text: 'Telegram', link: 'https://t.me/minelacs'},
           { text: 'Boosty', link: 'https://boosty.to/minelacs'},
-          { text: 'Сайт', link: 'https://minelacs.ru/'}
+          { text: 'Сайт', link: 'https://minelacs.fun/'}
         ]
       }
     ],

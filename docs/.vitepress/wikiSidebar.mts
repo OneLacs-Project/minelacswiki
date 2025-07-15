@@ -7,7 +7,7 @@ export const wikiSidebar = {
         {
           text: '',
           items: [
-            { text: '🌐 Сайт', link: 'https://minelacs.ru'},
+            { text: '🌐 Сайт', link: 'https://minelacs.fun'},
             { text: '❓ Как зайти?', link: '/wiki/how-to-join'},
             {
               text: '📑 Правила',
@@ -45,7 +45,7 @@ export const wikiSidebar = {
             { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Dungeons', link: '/wiki/archive/ml-dungeons'},
             { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Плюс ', link: '/wiki/archive/ml-plus',
               collapsed: true, items: [
-                { text: '🗺️ Веб Карта ', link: 'http://minelacs.online:12345/' },
+                // { text: '🗺️ Веб Карта ', link: 'http://minelacs.online:12345/' },
                 { text: '⚙️ Доп Механики', link: '/wiki/archive/ml-plus/additional-mechanics' },
                 { text: '🎨 Загрузка Ресурспаков', link: '/wiki/archive/ml-plus/resourcepack-load' },
                 { text: '💬 FlectonePulse ', link: '/wiki/archive/ml-plus/flectone-pulse' },

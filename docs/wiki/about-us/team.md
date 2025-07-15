@@ -13,7 +13,7 @@ layout: doc
 
   const admins = [
     {
-      avatar: 'https://cdn.discordapp.com/avatars/803639665960681502/db48c7ceeef4191dc3946f8edcbc9fc1.webp?size=1024',
+      avatar: 'https://cdn.discordapp.com/avatars/803639665960681502/6381244118e36a468dae42fbb0cf02ee.webp?size=1024',
       name: 'SawaDawa177_',
       title: 'Создатель',
       links: [
