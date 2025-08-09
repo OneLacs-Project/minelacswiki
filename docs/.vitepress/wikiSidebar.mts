@@ -26,6 +26,11 @@ export const wikiSidebar = {
         { // Категория сезонов
           text: 'Сезон',
           items: [
+            { text: '☄️ ML Legacy', link: '/wiki/season/ml-legacy', 
+              collapsed: true, items: [
+                
+              ]
+            },
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},
             { text: '🥩 Саварубка', link: '/wiki/season/sawarubka'},
             { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},

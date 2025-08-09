@@ -10,10 +10,10 @@ hero:
   image:
     src: /wikihomepagelogo.png
   actions:
-    # - theme: brand
-    #   text: ML Dungeons
-    #   link: /wiki/season/ml-dungeons
     - theme: brand
+      text: ML Legacy
+      link: /wiki/season/ml-legacy
+    - theme: alt
       text: Вики
       link: /wiki/how-to-join
  
