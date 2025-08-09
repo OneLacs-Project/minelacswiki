@@ -23,8 +23,8 @@ export const brewerySidebar = {
           ]
         },
         { text: '🍸 Свой рецепт', link: '/brewery/mechanics/your-recipe'},
-        { text: '🍷 Алкогольные напитки', link: '/brewery/default/alcoholic-drinks'},
-        { text: '📖 Не Алкогольные напитки', link: '/brewery/default/non-alcoholic-drinks'},
+        { text: '🍷 Алкогольные напитки', link: '/brewery/ml-legacy/alcoholic-drinks'},
+        { text: '📖 Не Алкогольные напитки', link: '/brewery/ml-legacy/non-alcoholic-drinks'},
         { text: 'Рецепты ML-Plus', collapsed: true,
           items: [
             { text: '🍷 Алкогольные напитки', link: '/brewery/ml-plus/alcoholic-drinks'},

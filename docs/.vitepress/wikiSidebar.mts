@@ -28,7 +28,9 @@ export const wikiSidebar = {
           items: [
             { text: '☄️ ML Legacy', link: '/wiki/season/ml-legacy', 
               collapsed: true, items: [
-                
+                { text: '⚙️ Доп Механики', link: '/wiki/season/ml-legacy/additional-mechanics' },
+                { text: '💬 FlectonePulse ', link: '/wiki/season/ml-legacy/flectone-pulse' },
+                { text: '🍷 Brewery', link: '/brewery/ml-legacy/alcoholic-drinks'},
               ]
             },
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},

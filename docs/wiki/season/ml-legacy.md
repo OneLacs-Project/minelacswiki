@@ -18,20 +18,33 @@ title: ML Legacy
 Добавлениями этого сезона мы хотим немножко передать вайб прошлого проекта, с которого все началось, и все было как-то проще что-ли...
 
 Этот сезон добавляет:<br/> 
-\- Новые Механики и команды *<span style="color: gray;">Подробнее позже</span>* <br/> 
-\- Значки в табе *<span style="color: gray;">Подробнее позже</span>* <br/>
-\- Возвращение кланов (из *S.C.A.M*) *<span style="color: gray;">Подробнее позже</span>* <br/>
-\- Figura Mod *<span style="color: gray;">Подробнее позже</span>* <br/>
+\- Новые Механики и [команды](ml-legacy/additional-mechanics#1)  <br/> 
+\- [Значки](ml-legacy/additional-mechanics#2) в табе<br/>
+\- Возвращение [кланов](ml-legacy/additional-mechanics#3) (из *S.C.A.M*) <br/>
+\- [Figura Mod](https://modrinth.com/mod/figura) <br/>
 
-<!-- <Links :items="[
-    {
-        name: 'Веб Карта',
-        link: 'http://minelacs.online:12345/',
-        icon: 'solar:map-bold-duotone', 
+## Документации / Ресурсы
+<Links :items="[
+    { 
+        name: 'Доп Механики', 
+        link: 'ml-legacy/additional-mechanics', 
+        icon: 'solar:cpu-bold-duotone', 
         color: '#868dcc' 
-    }
+    },
+    { 
+        name: 'FlectonePulse', 
+        link: 'ml-legacy/flectone-pulse', 
+        icon: 'solar:chat-round-dots-bold-duotone',
+        color: '#868dcc'
+    },
+    {
+        name: 'Brewery',
+        link: '/brewery/intropage',
+        icon: 'solar:wineglass-bold-duotone', 
+        color: '#868dcc' 
+    },
     ]"
-/>  -->
+/> 
 
 ## История
 
@@ -42,10 +55,14 @@ title: ML Legacy
 :::
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `...` <br/>
-*<span style="color: gray;">Подробнее позже</span>* 
+**<span style="color: gray;">Общее количество:</span>** `7` <br/>
 <!-- <span style="color: gray;"> (`20` + `1` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
 
 
-<!-- - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
-- **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> -->
+- **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Nub4ik1  <img src="https://api.mineatar.io/face/d2b496f0-c2b0-4849-8dee-a6bda731a7eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Mr_Frying <img src="https://api.mineatar.io/face/8a587fdf-a714-42db-b460-cac37bfaaaeb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- b_r_u_h_ <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Foxyandet <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Fliki_men <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
