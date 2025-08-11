@@ -4,29 +4,22 @@ import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
 
-
-// import '@theojs/lumen/theme'
-import '@theojs/lumen/badge' /* 徽章样式 */
-import '@theojs/lumen/doc' /* 文档样式 */
-import '@theojs/lumen/doc-blocks' /* 容器(默认):左侧阴影样式 */
+import '@theojs/lumen/badge' 
+import '@theojs/lumen/doc'
+import '@theojs/lumen/doc-blocks' 
 import '@theojs/lumen/pic' 
 import '@theojs/lumen/icon'
 import { DocBoxCube, DocLinks, DocPill } from '@theojs/lumen'
-// import { ShareButton } from '@theojs/lumen'
+
 import { Announcement } from '@theojs/lumen'
 import { DocVideoLink } from '@theojs/lumen'
 
 import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
 
-// import VPLTheme from '@lando/vitepress-theme-default-plus'
-
- 
-// import BlockCard from './components/LEGACYBlockCard.vue'
 import BlockCard from './components/BlockCard.vue'
 import MCBottle from './components/MCBottle.vue'
-// import ProgressBar from './components/ProgressBar.vue';
 
-// import YouTube from './components/vitepress-theme-default-plus/VPLYouTube.vue'
+// import { format, formatDistance, formatRelative, subDays } from 'date-fns'
 
 import 'viewerjs/dist/viewer.min.css';
 import imageViewer from 'vitepress-plugin-image-viewer';
