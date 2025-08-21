@@ -110,7 +110,7 @@ export default defineConfig({
       { text: 'Наши ссылки', activeMatch: '/wiki/about-us/project', items: [
           { text: 'Discord', link: 'https://discord.gg/B6ywHB7ftP'},
           { text: 'Telegram', link: 'https://t.me/minelacs'},
-          { text: 'Boosty', link: 'https://boosty.to/minelacs'},
+          { text: 'YouTube', link: 'https://www.youtube.com/@MineLacs'},
           { text: 'Сайт', link: 'https://minelacs.fun/'}
         ]
       }
