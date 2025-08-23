@@ -55,8 +55,8 @@ title: ML Legacy
 :::
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `8` 
-**<span style="color: gray;"> (`7` + `1` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span>** `9` 
+**<span style="color: gray;"> (`8` + `1` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -66,6 +66,7 @@ title: ML Legacy
 - Foxyandet <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - Fliki_men <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - may1766 <img src="https://api.mineatar.io/face/8d88b0f3-2c0b-43d8-aa60-1a963f816949?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- 3jj63 <img src="https://api.mineatar.io/face/a6e01405-445e-42bf-8a16-3b33f9875d31?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned}
 
