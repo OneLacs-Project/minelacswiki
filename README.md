@@ -4,4 +4,4 @@
 https://notsawadawa177.github.io/minelacswiki 
 https://wiki.minelacs.fun/
 ## Platform
-![Vitepress](https://vitepress.dev/vitepress-logo-large.svg) [Vitepress](https://vitepress.dev/)
+<img src="https://vitepress.dev/vitepress-logo-large.svg" alt="Vitepress Logo" scale="0.1">
