@@ -9,8 +9,8 @@ title: ML Legacy
 
 # ML Legacy <br/> <span style="color: gray;"><sup>Возращение к истокам</sup></span>
 **<span style="color: gray;">Версия Игры:</span> 1.21.4 Farbic**<br/>
-**<span style="color: gray;">Статус:</span> <span style="color: green;">Активен</span>**
-<!-- <br/><span style="color: gray;"><sub>08.08.2025 - 00.00.2025</sub></span><br/> -->
+**<span style="color: gray;">Статус:</span> Завершен**
+<br/><span style="color: gray;"><sub>08.08.2025 - 00.00.2025</sub></span><br/>
 
 ## Описание
 
@@ -51,6 +51,11 @@ title: ML Legacy
 ::: details Август 2025
 
 `8 Августа` - **<span style="color: green;">Сезон начался</span>**
+
+:::
+::: details Сентябрь 2025
+
+`9 Сентября` - **<span style="color: red;">Сезон завершен</span>**
 
 :::
 
