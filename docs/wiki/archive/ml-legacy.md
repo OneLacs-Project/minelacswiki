@@ -52,11 +52,6 @@ title: ML Legacy
 `8 Августа` - **<span style="color: green;">Сезон начался</span>**
 
 :::
-::: details Сентябрь 2025
-
-` Сентября` - **<span style="color: red;">Сезон завершен</span>**
-
-:::
 
 ## Участники 
 **<span style="color: gray;">Общее количество:</span>** `9` 
