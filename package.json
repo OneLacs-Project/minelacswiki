@@ -13,7 +13,7 @@
     "@theojs/lumen": "^5.1.1",
     "date-fns": "^4.1.0",
     "dayjs": "^1.11.13",
-    "esbuild": "^0.25.5",
+    "esbuild": "^0.25.9",
     "markdown-it": "^14.1.0",
     "marked": "^15.0.2",
     "timeago.js": "^4.0.2",

@@ -6,11 +6,10 @@ title: ML Legacy
 
 <!-- ![](/WIKI/ML-OneBlock/banner.png) -->
 
-
-# ML Legacy <br/> <span style="color: gray;"><sup>Возращение к истокам</sup></span>
+# <iconify-icon icon="solar:archive-bold-duotone" style="margin-bottom:-0.3rem;margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon>  ML Legacy <br/> <span style="color: gray;"><sup>Возращение к истокам</sup></span>
 **<span style="color: gray;">Версия Игры:</span> 1.21.4 Farbic**<br/>
-**<span style="color: gray;">Статус:</span> <span style="color: green;">Активен</span>**
-<!-- <br/><span style="color: gray;"><sub>08.08.2025 - 00.00.2025</sub></span><br/> -->
+**<span style="color: gray;">Статус:</span> Завершен**
+<br/><span style="color: gray;"><sub>08.08.2025 - 08.09.2025</sub></span><br/>
 
 ## Описание
 
@@ -39,7 +38,7 @@ title: ML Legacy
     },
     {
         name: 'Brewery',
-        link: '/brewery/',
+        link: '/brewery/ml-legacy/alcoholic-drinks',
         icon: 'solar:wineglass-bold-duotone', 
         color: '#868dcc' 
     },
@@ -51,6 +50,11 @@ title: ML Legacy
 ::: details Август 2025
 
 `8 Августа` - **<span style="color: green;">Сезон начался</span>**
+
+:::
+::: details Сентябрь 2025
+
+` Сентября` - **<span style="color: red;">Сезон завершен</span>**
 
 :::
 

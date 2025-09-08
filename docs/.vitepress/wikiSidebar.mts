@@ -26,13 +26,14 @@ export const wikiSidebar = {
         { // Категория сезонов
           text: 'Сезон',
           items: [
-            { text: '☄️ ML Legacy', link: '/wiki/season/ml-legacy', 
-              collapsed: true, items: [
-                { text: '⚙️ Доп Механики', link: '/wiki/season/ml-legacy/additional-mechanics' },
-                { text: '💬 FlectonePulse ', link: '/wiki/season/ml-legacy/flectone-pulse' },
-                { text: '🍷 Brewery', link: '/brewery/ml-legacy/alcoholic-drinks'},
-              ]
-            },
+            // { text: '🏗️ ML Create 3', link: '/wiki/season/ml-create-3', 
+            //   collapsed: true, items: [
+            //     { text: '🤸‍♂️ ParCool', link: '/wiki/season/ml-create-3/parcool' },
+            //     // { text: '⚙️ Доп Механики', link: '/wiki/season/ml-create-3/additional-mechanics' },
+            //     // { text: '💬 FlectonePulse ', link: '/wiki/season/ml-create-3/flectone-pulse' },
+            //     // { text: '🍷 Brewery', link: '/brewery/ml-create-3/alcoholic-drinks'},
+            //   ]
+            // },
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},
             { text: '🥩 Саварубка', link: '/wiki/season/sawarubka'},
             { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},
@@ -49,6 +50,13 @@ export const wikiSidebar = {
           text: 'Архив',
           collapsed: false,
           items: [
+            { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Legacy', link: '/wiki/archive/ml-legacy', 
+              collapsed: true, items: [
+                { text: '⚙️ Доп Механики', link: '/wiki/archive/ml-legacy/additional-mechanics' },
+                { text: '💬 FlectonePulse ', link: '/wiki/archive/ml-legacy/flectone-pulse' },
+                { text: '🍷 Brewery', link: '/brewery/ml-legacy/alcoholic-drinks'},
+              ]
+            },
             { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Dungeons', link: '/wiki/archive/ml-dungeons'},
             { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Плюс ', link: '/wiki/archive/ml-plus',
               collapsed: true, items: [

@@ -1,4 +1,4 @@
-<Pill name="ML Плюс" link="/wiki/archive/ml-plus" icon="solar:archive-bold-duotone" color="#868dcc"  /> <br/>
+<Pill name="ML Legacy" link="/wiki/archive/ml-legacy" icon="solar:archive-bold-duotone" color="#868dcc"  /> <br/>
 
 
 # 🧪 Особые напитки

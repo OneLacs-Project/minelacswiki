@@ -1,9 +1,9 @@
-<Pill name="ML Плюс" link="/wiki/archive/ml-plus" icon="solar:archive-bold-duotone" color="#868dcc"  /> <br/>
+<Pill name="ML Legacy" link="/wiki/archive/ml-legacy" icon="solar:archive-bold-duotone" color="#868dcc"  /> <br/>
 
 
 # 🍷 Алкогольные напитки 
 
-> [!INFO] Список рецептов для напитков которые выдают опьянение выше 0
+> [!INFO] Список рецептов напитков которые выдают опьянение выше 0
 
 <!-- 
 

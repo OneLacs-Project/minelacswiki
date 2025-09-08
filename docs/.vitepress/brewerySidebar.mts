@@ -23,15 +23,24 @@ export const brewerySidebar = {
           ]
         },
         { text: '🍸 Свой рецепт', link: '/brewery/mechanics/your-recipe'},
-        { text: '🍷 Алкогольные напитки', link: '/brewery/ml-legacy/alcoholic-drinks'},
-        { text: '📖 Не Алкогольные напитки', link: '/brewery/ml-legacy/non-alcoholic-drinks'},
-        { text: '🧪 Особые напитки ', link: '/brewery/ml-legacy/special-drinks'},
-        { text: 'Рецепты ML-Plus', collapsed: true,
+        { text: '🍷 Алкогольные напитки', link: '/brewery/default/alcoholic-drinks'},
+        { text: '📖 Не Алкогольные напитки', link: '/brewery/default/non-alcoholic-drinks'},
+        // { text: '🧪 Особые напитки ', link: '/brewery/default/special-drinks'},
+        { text: 'Архив', // collapsed: false, 
           items: [
-            { text: '🍷 Алкогольные напитки', link: '/brewery/ml-plus/alcoholic-drinks'},
-            { text: '📖 Не Алкогольные напитки', link: '/brewery/ml-plus/non-alcoholic-drinks'},
-            { text: '🧪 Особые напитки ', link: '/brewery/ml-plus/special-drinks'},
-        ]}
+          { text: 'Рецепты ML-Plus', collapsed: true,
+            items: [
+              { text: '🍷 Алкогольные напитки', link: '/brewery/ml-plus/alcoholic-drinks'},
+              { text: '📖 Не Алкогольные ', link: '/brewery/ml-plus/non-alcoholic-drinks'},
+              { text: '🧪 Особые напитки ', link: '/brewery/ml-plus/special-drinks'},
+          ]},
+          { text: 'Рецепты ML-Legacy', collapsed: true,
+            items: [
+              { text: '🍷 Алкогольные напитки', link: '/brewery/ml-legacy/alcoholic-drinks'},
+              { text: '📖 Не Алкогольные ', link: '/brewery/ml-legacy/non-alcoholic-drinks'},
+              { text: '🧪 Особые напитки ', link: '/brewery/ml-legacy/special-drinks'},
+          ]}
+        ]},
       ],
     },
   }
