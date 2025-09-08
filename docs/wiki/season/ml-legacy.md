@@ -39,7 +39,7 @@ title: ML Legacy
     },
     {
         name: 'Brewery',
-        link: '/brewery/intropage',
+        link: '/brewery/',
         icon: 'solar:wineglass-bold-duotone', 
         color: '#868dcc' 
     },
