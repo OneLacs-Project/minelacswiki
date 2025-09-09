@@ -21,7 +21,7 @@ title: ML Create 3
 <Links :items="[
     { 
         name: 'ParCool!', 
-        link: 'ml-legacy/parcool', 
+        link: 'ml-create-3/parcool', 
         icon: 'solar:cpu-bold-duotone', 
         color: '#868dcc' 
     },

@@ -85,4 +85,6 @@ title: ParСool! Мод
 |Воздушный нырок| <span style="color: #a8b1ff;">Нырнуть в пропасть</span> + `Пробел` в полете.|
 |Спрятаться в блоке|На двух блоках ▨▨  -> `Shift` + Удерживайте `C`.<br/><span style="color: gray;"><sup> 2 блока *листьев*🍃 или *стога* *сена*🌾 </sup></span>|
 
-***<center> Вся суета выше использует [стамину](#стамина) и имеет кулдауны. <br/><span style="color: gray;"><sup> This is not a promotion of the mod "ParCool!" in any shape or form. All rights are reserved by  </sup></span></center>***
+> [!WARNING] Скользкие блоки по типу льда могут не работать с некоторыми приемами мода
+
+***<center> Вся суета выше использует [стамину](#стамина) и имеет кулдауны. <br/><span style="color: gray;"><sup> This is not a promotion of the mod "ParCool!" in any shape or form. All rights are reserved by [alRex-U](https://github.com/alRex-U) </sup></span></center>***
