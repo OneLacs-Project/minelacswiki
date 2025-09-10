@@ -7,7 +7,8 @@ title: ML OneBlock
 
 
 # ML OneBlock <br/> <span style="color: gray;"><sup>Межсезонье</sup></span>
-**<span style="color: gray;">Версия Игры:</span> Объявляется Администрацией**
+**<span style="color: gray;">Версия Игры:</span> Объявляется Администрацией**<br/>
+**<span style="color: gray;">Статус:</span> Неактивен**
 
 **OneBlock** - это мини сезон, или можно сказать даже отдельный режим, который активный во время **между сезонами**, после закрытия предыдущего и во время разработки следующего.
 
@@ -24,7 +25,7 @@ title: ML OneBlock
 :::: tabs
 
 === Magic - CreateMagic
-<Pill name="ML Magic" link="/wiki/archive/ml-magic" icon="solar:archive-bold-duotone" color="#868dcc" /> -> <Pill name="ML Create & Magic" link="/wiki/season/ml-createmagic" icon="solar:archive-bold-duotone" color="#868dcc" />
+<Pill name="ML Magic" link="/wiki/archive/ml-magic" icon="solar:archive-bold-duotone" color="#868dcc" /> -> <Pill name="ML Create & Magic" link="/wiki/archive/ml-createmagic" icon="solar:archive-bold-duotone" color="#868dcc" />
 
 `2025` `7 Января` - `13 Января` 
 
