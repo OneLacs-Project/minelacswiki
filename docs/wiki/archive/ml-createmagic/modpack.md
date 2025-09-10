@@ -74,7 +74,7 @@ lastUpdated: false
 
 === Create 
 
-<Box :items="[ 
+<BoxCube :items="[ 
     { 
       name: 'Create', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/create', 
@@ -250,7 +250,7 @@ lastUpdated: false
 
 === Магия
 #### Iron's
-<Box :items="[ 
+<BoxCube :items="[ 
   { 
     name: 'Spells \'n Spellbooks', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks', 
@@ -266,7 +266,7 @@ lastUpdated: false
 ]"/>
 
 #### Relics
-<Box :items="[ 
+<BoxCube :items="[ 
   { 
     name: 'Relics', 
     link: 'https://modrinth.com/mod/relics-mod', 
@@ -282,7 +282,7 @@ lastUpdated: false
 ]"/>
 
 #### Другие
-<Box :items="[ 
+<BoxCube :items="[ 
   { 
     name: 'L_Ender\'s Cataclysm', 
     link: 'https://modrinth.com/mod/l_enders-cataclysm', 
@@ -396,7 +396,7 @@ lastUpdated: false
 
 === Другие
 #### When Dungeons Arise
-<Box :items="[
+<BoxCube :items="[
     { 
       name: 'When Dungeons Arise', 
       link: 'https://modrinth.com/mod/when-dungeons-arise', 
@@ -412,7 +412,7 @@ lastUpdated: false
 ]"/>
 
 #### Tectonic
-<Box :items="[
+<BoxCube :items="[
     { 
       name: 'Tectonic', 
       link: 'https://modrinth.com/datapack/tectonic', 
@@ -422,7 +422,7 @@ lastUpdated: false
 ]"/>
 
 #### Dungeons and Taverns
-<Box :items="[
+<BoxCube :items="[
     { 
       name: 'Stronghold Overhaul', 
       link: 'https://modrinth.com/datapack/dungeons-and-taverns-stronghold-overhaul', 
@@ -448,7 +448,7 @@ lastUpdated: false
 ℹ️ Моды которые добавляют вайб типа декоративных блоков или еффекты там всякие крч похуй
 
 === Анимации
-<Box :items="[
+<BoxCube :items="[
     { 
       name: 'Emotecraft', 
       link: 'https://modrinth.com/plugin/emotecraft', 
@@ -488,7 +488,7 @@ lastUpdated: false
 ]"/>
 
 === Атмосфера
-<Box :items="[
+<BoxCube :items="[
     {
       name: 'Particle Core',
       link: 'https://modrinth.com/mod/RSeLon5O',
@@ -527,7 +527,7 @@ lastUpdated: false
 
 ℹ️ Моды утилиты, декор, расширенная информацию, оптимизация и другие которые не влияют на игровой процесс мира или других игроков. 
 === JEI
-<Box :items="[
+<BoxCube :items="[
     {
       name: 'Just Enough Breeding (JEBr)',
       link: 'https://modrinth.com/mod/9Pk89J3g',
@@ -547,7 +547,7 @@ lastUpdated: false
 
 
 === Оптимиз
-<Box :items="[
+<BoxCube :items="[
     {
       name: 'Embeddium',
       link: 'https://modrinth.com/mod/sk9rgfiA',
@@ -606,7 +606,7 @@ lastUpdated: false
 ]"/>
 
 === Утилиты
-<Box :items="[
+<BoxCube :items="[
     {
       name: '[EMF] Entity Model Features',
       link: 'https://modrinth.com/mod/4I1XuqiY',
@@ -686,7 +686,7 @@ lastUpdated: false
 
 === Другие
 <!-- > [!IMPORTANT] В процессе добавления... -->
-<Box :items="[
+<BoxCube :items="[
     {
       name: 'Item Borders',
       link: 'https://modrinth.com/mod/b1fMg6sH',

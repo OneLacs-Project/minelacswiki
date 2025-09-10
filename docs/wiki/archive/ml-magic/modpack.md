@@ -101,7 +101,7 @@ lastUpdated: true
 *<span style="color: gray;"><sup>Это не полный и не динамичный список модов сборки, библиотеки и некоторые моды не указаны. </sup></span>*
 
 ### Better Combat 
-<Box :items="[
+<BoxCube :items="[
   { 
     name: 'Better Combat', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus', 
@@ -124,7 +124,7 @@ lastUpdated: true
 />
 
 ### Plasmovoice 
-<Box :items="[
+<BoxCube :items="[
     { 
       name: 'Plasmo Voice', 
       link: 'https://modrinth.com/plugin/plasmo-voice', 
@@ -147,7 +147,7 @@ lastUpdated: true
 />
 
 ### Farmer's delight 
-<Box :items="[
+<BoxCube :items="[
   { 
     name: 'Farmer\'s Delight', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/farmers-delight', 
@@ -230,7 +230,7 @@ lastUpdated: true
 />
 
 ### YUNG's Better.. 
-<Box :items="[
+<BoxCube :items="[
   { 
     name: 'Desert Temples', 
     link: 'https://modrinth.com/mod/yungs-better-desert-temples', 
@@ -293,7 +293,7 @@ lastUpdated: true
 
 
 ### Iron's Spells N Spellbooks 
-<Box :items="[
+<BoxCube :items="[
   { 
     name: 'Spellbooks', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks', 
@@ -311,7 +311,7 @@ lastUpdated: true
 
 
 ### Origins 
-<Box :items="[
+<BoxCube :items="[
   { 
     name: 'Origins', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/origins-forge', 
@@ -328,7 +328,7 @@ lastUpdated: true
 />
 
 ### Остальные 
-<Box :items="[
+<BoxCube :items="[
   { 
     name: 'Call of Yucatán', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/call-of-yucutan', 
@@ -495,7 +495,7 @@ lastUpdated: true
 
 
 ### Клиентские 
-<Box :items="[
+<BoxCube :items="[
     { 
     name: 'Astrocraft: Realistic Night Skies', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/astrocraft-mod', 

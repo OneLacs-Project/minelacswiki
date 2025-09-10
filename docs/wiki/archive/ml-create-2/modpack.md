@@ -35,7 +35,7 @@ lastUpdated: true
 **<span style="color: green;">+ добавлен</span>** [Framework](https://www.curseforge.com/minecraft/mc-mods/framework)  (библиотека)<br/>
 **<span style="color: green;">+ добавлен</span>** [Mighty Mail (Forge)](https://www.curseforge.com/minecraft/mc-mods/mighty-mail) <br/>
 **<span style="color: green;">+ добавлен</span>** [More Mob Variants ](https://www.curseforge.com/minecraft/mc-mods/more-mob-variants)<br/>
-**<span style="color: green;">+ добавлен</span>** [Shulker Box Tooltip \[Fabric/Forge/NeoForge\]](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip) <br/>
+**<span style="color: green;">+ добавлен</span>** [Shulker BoxCube Tooltip \[Fabric/Forge/NeoForge\]](https://www.curseforge.com/minecraft/mc-mods/shulkerBoxCubetooltip) <br/>
 **<span style="color: green;">+ добавлен</span>** [Traveler's Titles (Forge) ](https://www.curseforge.com/minecraft/mc-mods/travelers-titles)<br/>
 **<span style="color: green;">+ добавлен</span>** [True Ending: Ender Dragon Overhaul ](https://modrinth.com/datapack/true-ending)<br/>
 :::
@@ -44,7 +44,7 @@ lastUpdated: true
 
 ## Create
 <br/>
-<Box :items="[
+<BoxCube :items="[
     { 
       name: 'Create', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/create', 
@@ -267,7 +267,7 @@ lastUpdated: true
 
 ## Остальные
 
-<Box :items="[
+<BoxCube :items="[
     { 
       name: 'Alex\'s Mobs', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/alexs-mobs', 
