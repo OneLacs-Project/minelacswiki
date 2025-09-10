@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-<Pill name="ML Magic" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+<Pill name="ML Magic" link="/wiki/archive/ml-magic" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
  
 # Arts & Crafts 
 На нашем сервере присутствует мод, который имеет интересные добавления, которые к сожалению сложно найти.

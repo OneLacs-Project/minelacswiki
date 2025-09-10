@@ -4,7 +4,8 @@ lastUpdated: true
 title: FlectoneChat
 ---
 
-<Pill name="ML Create & Magic" link="./" icon="solar:archive-bold-duotone" color="#868dcc"  /> <br/>
+<Pill name="ML Create & Magic" link="/wiki/archive/ml-createmagic" icon="solar:archive-bold-duotone" color="#868dcc"  /> <br/>
+
  
 # FlectoneChat <br/> <span style="color: gray;"><sup>Элегантная рукопись</sup></span>
 

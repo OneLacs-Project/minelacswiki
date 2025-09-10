@@ -3,8 +3,8 @@ outline: deep
 lastUpdated: true
 ---
 
-<Pill name="ML Magic" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
- 
+<Pill name="ML Magic" link="/wiki/archive/ml-magic" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+
 # 📥 Карта Сервера
 Вы можете локально у себя посетить последнее актуальное сохранение мира сервера. <br />
 Для этого **ниже** вам нужно **скачать** последнюю актуальную **сборку** сервера на версию <Badge type="info" text="1.20.1 Forge" /> <br />

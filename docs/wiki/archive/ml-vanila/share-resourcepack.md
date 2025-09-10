@@ -3,7 +3,8 @@ outline: deep
 lastUpdated: true
 ---
 
-<Pill name="ML Ванила" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+<Pill name="ML Ванила" link="/wiki/archive/ml-vanila" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+
  
 # 🧩 Поделится Ресурспаком
 [RPShare](https://github.com/plasmoapp/RPShare) - это клиентский мод который позволяет установить ресурспак прямо в игре. Так-же присутствует серверный плагин для того чтобы не использовать мод.

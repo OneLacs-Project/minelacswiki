@@ -4,7 +4,8 @@ lastUpdated: true
 title: 🖼️ Галерея
 ---
 
-<Pill name="ML Create 2" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+<Pill name="ML Create 2" link="/wiki/archive/ml-create-2" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+
  
 # 🖼️ Галерея <br/> <span style="color: gray;"><sup>Передать вайб сезона</sup></span>
 

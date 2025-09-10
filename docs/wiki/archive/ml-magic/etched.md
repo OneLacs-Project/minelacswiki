@@ -1,5 +1,6 @@
 
-<Pill name="ML Magic" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+<Pill name="ML Magic" link="/wiki/archive/ml-magic" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+
  
 # Etched
 

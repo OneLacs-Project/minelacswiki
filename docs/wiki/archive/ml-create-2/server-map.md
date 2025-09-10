@@ -3,7 +3,8 @@ outline: deep
 lastUpdated: true
 ---
 
-<Pill name="ML Create 2" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+<Pill name="ML Create 2" link="/wiki/archive/ml-create-2" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+
  
 # 📥 Карта Сервера
 Вы можете локально у себя посетить последнее актуальное сохранение мира сервера. <br />

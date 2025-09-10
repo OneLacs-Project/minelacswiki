@@ -3,7 +3,8 @@ outline: deep
 lastUpdated: true
 ---
 
-<Pill name="ML Ванила 2" link="./" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+<Pill name="ML Ванила 2" link="/wiki/archive/ml-vanila-2" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+
  
 # Загрузка Ресурспаков
 ### Это документация по плагину на ресурспаки PackStacker
