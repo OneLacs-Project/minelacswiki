@@ -4,7 +4,7 @@ lastUpdated: true
 title: ParСool! Мод 
 ---
 
-<Pill name="🏗️ ML Create 3" link="../ml-create-3" color="#868dcc"  /><br/>{#parcool!}
+<Pill name="🏗️ ML Create 3" link="/wiki/season/ml-create-3" color="#868dcc"  /><br/>{#parcool!}
 
 <!-- Заголовок + картинка  -->
 <div style="display: flex; align-items: center;"> 
