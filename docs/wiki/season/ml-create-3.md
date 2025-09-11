@@ -20,6 +20,12 @@ title: ML Create 3
 ## Документации / Ресурсы
 <Links :items="[
     { 
+        name: 'Сборка', 
+        link: 'ml-create-3/modpack', 
+        icon: 'solar:box-bold-duotone',
+        color: '#868dcc'
+    },
+    { 
         name: 'ParCool!', 
         link: 'ml-create-3/parcool', 
         icon: 'solar:cpu-bold-duotone', 
@@ -57,8 +63,8 @@ title: ML Create 3
 
 <Links :items="[
     { 
-        name: 'ML Create 2', 
-        link: '../archive/ml-create-2', 
+        name: 'ML Create & Magic', 
+        link: '../archive/ml-createmagic', 
         icon: 'solar:archive-bold-duotone',
         color: '#868dcc'
     }

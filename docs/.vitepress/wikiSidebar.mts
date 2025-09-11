@@ -29,9 +29,7 @@ export const wikiSidebar = {
             // { text: '🏗️ ML Create 3', link: '/wiki/season/ml-create-3', 
             //   collapsed: true, items: [
             //     { text: '🤸‍♂️ ParCool', link: '/wiki/season/ml-create-3/parcool' },
-            //     // { text: '⚙️ Доп Механики', link: '/wiki/season/ml-create-3/additional-mechanics' },
-            //     // { text: '💬 FlectonePulse ', link: '/wiki/season/ml-create-3/flectone-pulse' },
-            //     // { text: '🍷 Brewery', link: '/brewery/ml-create-3/alcoholic-drinks'},
+            //     { text: '📦 Сборка', link: '/wiki/archive/ml-create-3/modpack'},
             //   ]
             // },
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},
