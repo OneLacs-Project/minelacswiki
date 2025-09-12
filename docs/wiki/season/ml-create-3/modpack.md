@@ -15,11 +15,11 @@ lastUpdated: false
 
 Ссылка на скачивание: <Pill name="📦Скачать" link="https://minelacs.fun/download/" color="#868dcc"  />
 
-*Следите за новостями сервера на канале `📰│lacsnews` чтобы узнавать про новую сборку и прочую  информацию быстрее чем тут.*
+*Следите за новостями сервера на канале `🌐│новости` чтобы узнавать про новую сборку и прочую  информацию быстрее чем тут.*
 
 :::tabs 
 === 1.0
-`... ...`<br/>
+`19 Cентября`<br/>
 Релизная сборка
 
 :::
@@ -249,7 +249,7 @@ lastUpdated: false
 
 ℹ️ Моды которые добавляют вайб типа декоративных блоков или еффекты там всякие крч похуй
 
-=== Farmer's Delight 
+=== Farmer's Delight {#farmersdelight}
 <BoxCube :items="[
   { 
     name: 'Farmer\'s Delight', 
@@ -279,14 +279,28 @@ lastUpdated: false
 ]"
 />
 
-=== Функции
-<BoxCube :items="[
+=== Функции 
+|<Pill name="Etched Гайд" link="/wiki/season/ml-create-3/etched" image="https://media.forgecdn.net/avatars/thumbnails/939/472/64/64/638419301379970746.png" color="#868dcc"  />| <Pill name="ParCool! Гайд" link="/wiki/season/ml-create-3/parcool" image="https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png" color="#868dcc"  />||
+|:-:|:-:|:-:|
+|<BoxCube :items="[{name: 'Etched',link: 'https://www.curseforge.com/minecraft/mc-mods/etched', image: 'https://media.forgecdn.net/avatars/thumbnails/939/472/64/64/638419301379970746.png',},]"/>|<BoxCube :items="[{name: 'ParCool!',link: 'https://www.curseforge.com/minecraft/mc-mods/parcool', image: 'https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png',},]"/>|<BoxCube :items="[{ name: 'Exposure', link: 'https://www.curseforge.com/minecraft/mc-mods/exposure', image: 'https://media.forgecdn.net/avatars/thumbnails/1029/426/256/256/638551434733696364_animated.gif', },]"/>|
+<!-- <BoxCube :items="[
+    { 
+      name: 'Etched', 
+       link: 'https://www.curseforge.com/minecraft/mc-mods/etched', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/939/472/64/64/638419301379970746.png',
+    },
+    { 
+      name: 'ParCool!', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/parcool', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png', 
+    },
     { 
       name: 'Exposure', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/exposure', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/1029/426/256/256/638551434733696364_animated.gif', 
     },
-]"/>
+]"/> -->
+
 
 === Анимации
 <Pill name="ParCool! Гайд" link="/wiki/season/ml-create-3/parcool" image="https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png" color="#868dcc"  /><br/>

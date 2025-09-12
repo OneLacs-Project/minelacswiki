@@ -4,18 +4,20 @@ lastUpdated: true
 title: ML Create 3
 ---
 
-<!-- ![](/WIKI/ML-OneBlock/banner.png) -->
+![](/WIKI/ML-Create-3/banner.png)
 
-# ML Create 3 <br/> <span style="color: gray;"><sup></sup></span>
+# ML Create 3 <br/> <span style="color: gray;"><sup>AKA ML Create +</sup></span>
 **<span style="color: gray;">Версия Игры:</span> 1.20.1 Forge**<br/>
 **<span style="color: gray;">Статус:</span> <span style="color:green;">Активен</span>**
-<!-- <br/><span style="color: gray;"><sub>00.09.2025 - 00.00.2025</sub></span><br/> -->
+<!-- <br/><span style="color: gray;"><sub>19.09.2025 - 00.00.2025</sub></span><br/> -->
 
 ## Описание
 
-`...`
+Третий сезон с тематикой мода <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png" color="#868dcc"/> с множеством аддонов.<br/> 
+Невероятную физику и совместимость с модом  <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png" color="#868dcc"/><br/> представляют в сборке гиганты <Pill name="Valkyrien Skies" link="https://modrinth.com/mod/valkyrien-skies" image="https://cdn.modrinth.com/data/V5ujR2yw/d156dee2ce00ca6ce07343bf8db374a05893f376.png" color="#868dcc"/> и <Pill name="Clockwork" link="https://www.curseforge.com/minecraft/mc-mods/create-clockwork" image="https://media.forgecdn.net/avatars/thumbnails/925/381/64/64/638393946266044506_animated.gif" color="#868dcc"/>.
 
-Этот сезон добавляет:<br/> 
+Возвращение мода <Pill name="Etched" link="/wiki/season/ml-create-3/etched" image="https://media.forgecdn.net/avatars/thumbnails/939/472/64/64/638419301379970746.png" color="#868dcc"/> и новинка в виде мода на паркур <Pill name="ParCool!" link="/wiki/season/ml-create-3/parcool" image="https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png" color="#868dcc"  />. <br/>Сезон так-же включает другие моды для атмосферы, генерации, и оптимизации.
+
 
 ## Документации / Ресурсы
 <Links :items="[
@@ -28,8 +30,14 @@ title: ML Create 3
     { 
         name: 'ParCool!', 
         link: 'ml-create-3/parcool', 
-        icon: 'solar:cpu-bold-duotone', 
+        icon: 'solar:running-round-bold-duotone', 
         color: '#868dcc' 
+    },
+    { 
+        name: 'Etched', 
+        link: 'ml-create-3/etched', 
+        icon: 'solar:play-circle-bold-duotone',
+        color: '#868dcc'
     },
     // { 
     //     name: 'Доп Механики', 
@@ -54,9 +62,9 @@ title: ML Create 3
 
 ## История
 
-::: details ... 2025
+::: details Cентябрь 2025
 
-`00 ...` - **<span style="color: green;">Сезон начался</span>**
+`19 Cентября` - **<span style="color: green;">Сезон начался</span>**
 
 :::
 ### Предыдущий сезон ML Create
@@ -67,7 +75,13 @@ title: ML Create 3
         link: '../archive/ml-createmagic', 
         icon: 'solar:archive-bold-duotone',
         color: '#868dcc'
-    }
+    },
+    { 
+        name: 'ML Create 2', 
+        link: './ml-create-2', 
+        icon: 'solar:archive-bold-duotone',
+        color: '#868dcc'
+    },
   ]"
 />
 
@@ -76,8 +90,8 @@ title: ML Create 3
 <!-- **<span style="color: gray;"> (`...` + `...` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
 
 
-<!-- - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
-- **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> -->
+- **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 <!-- - Nub4ik1  <img src="https://api.mineatar.io/face/d2b496f0-c2b0-4849-8dee-a6bda731a7eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> -->
 <!-- - Mr_Frying <img src="https://api.mineatar.io/face/8a587fdf-a714-42db-b460-cac37bfaaaeb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> -->
 

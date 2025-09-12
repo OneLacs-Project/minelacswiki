@@ -30,6 +30,7 @@ export const wikiSidebar = {
             //   collapsed: true, items: [
             //     { text: '🤸‍♂️ ParCool', link: '/wiki/season/ml-create-3/parcool' },
             //     { text: '📦 Сборка', link: '/wiki/archive/ml-create-3/modpack'},
+            //     { text: '💿 Etched', link: '/wiki/archive/ml-create-3/etched'},
             //   ]
             // },
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},

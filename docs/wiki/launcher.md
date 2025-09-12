@@ -1,8 +1,9 @@
 ---
-title: MLauncher
+title: OneLauncher
+lastUpdated: false
 ---
 
-# MLauncher<br/> <span style="color: gray;"><sup> AKA MineLacs Launcher </sup></span>
+# OneLauncher<br/> <span style="color: gray;"><sup></sup></span>
 
 > [!TIP] Установка НЕ обязательна
 
