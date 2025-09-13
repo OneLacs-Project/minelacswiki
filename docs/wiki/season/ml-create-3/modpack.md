@@ -45,7 +45,7 @@ lastUpdated: false
     { 
       name: 'Create', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/create', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png'
     },
     { 
       name: 'Contraption Terminals', 

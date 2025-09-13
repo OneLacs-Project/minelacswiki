@@ -35,6 +35,12 @@ title: ML Плюс
 
 <Links :items="[
     { 
+        name: 'Карта Сервера', 
+        link: 'ml-plus/server-map', 
+        icon: 'solar:map-bold-duotone',
+        color: '#868dcc'
+    },
+    { 
         name: 'Доп Механики', 
         link: 'ml-plus/additional-mechanics', 
         icon: 'solar:cpu-bold-duotone', 
@@ -60,7 +66,7 @@ title: ML Плюс
     },
     {
         name: 'Brewery',
-        link: '/brewery/intropage',
+        link: '/brewery/ml-plus/alcoholic-drinks',
         icon: 'solar:wineglass-bold-duotone', 
         color: '#868dcc' 
     },

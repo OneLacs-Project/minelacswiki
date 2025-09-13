@@ -18,6 +18,12 @@ lastUpdated: true
 
 <Links :items="[
     { 
+        name: 'Карта Сервера', 
+        link: 'ml-magic/server-map', 
+        icon: 'solar:map-bold-duotone',
+        color: '#868dcc'
+    },
+    { 
         name: 'Сборка', 
         link: 'ml-magic/modpack', 
         icon: 'solar:box-bold-duotone',
