@@ -29,8 +29,8 @@ export const wikiSidebar = {
             // { text: '🏗️ ML Create 3', link: '/wiki/season/ml-create-3', 
             //   collapsed: true, items: [
             //     { text: '🤸‍♂️ ParCool', link: '/wiki/season/ml-create-3/parcool' },
-            //     { text: '📦 Сборка', link: '/wiki/archive/ml-create-3/modpack'},
-            //     { text: '💿 Etched', link: '/wiki/archive/ml-create-3/etched'},
+            //     { text: '📦 Сборка', link: '/wiki/season/ml-create-3/modpack'},
+            //     { text: '💿 Etched', link: '/wiki/season/ml-create-3/etched'},
             //   ]
             // },
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},
@@ -60,6 +60,7 @@ export const wikiSidebar = {
             { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Плюс ', link: '/wiki/archive/ml-plus',
               collapsed: true, items: [
                 // { text: '🗺️ Веб Карта ', link: 'http://minelacs.online:12345/' },
+                { text: '📥 Карта Сервера', link: '/wiki/archive/ml-plus/server-map'},
                 { text: '⚙️ Доп Механики', link: '/wiki/archive/ml-plus/additional-mechanics' },
                 { text: '🎨 Загрузка Ресурспаков', link: '/wiki/archive/ml-plus/resourcepack-load' },
                 { text: '💬 FlectonePulse ', link: '/wiki/archive/ml-plus/flectone-pulse' },
