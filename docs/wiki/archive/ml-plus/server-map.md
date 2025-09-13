@@ -3,29 +3,18 @@ outline: deep
 lastUpdated: true
 ---
 
-<Pill name="ML Magic" link="/wiki/archive/ml-magic" icon="solar:archive-bold-duotone" color="#868dcc" /> <br/>
+<Pill name="ML Плюс" link="/wiki/archive/ml-plus" icon="solar:archive-bold-duotone" color="#868dcc"  /> <br/>
 
 # 📥 Карта Сервера
 Вы можете локально у себя посетить последнее актуальное сохранение мира сервера. <br />
-Для этого **ниже** вам нужно **скачать** последнюю актуальную **сборку** сервера на версию <Badge type="info" text="1.20.1 Forge" /> <br />
-**Мир сервера вы можете скачать по ссылке ниже** соответственно.
+Для этого **ниже** вам нужно **скачать** мир сервера на версию <Badge type="info" text="1.21.4 Vanila" /> <br />
 
-> [!WARNING] Сборка сервера не поддерживает Optifine 
+<!-- > [!WARNING] Сборка сервера не поддерживает Optifine  -->
 
 || Ссылки |
 |---|---|
-|Карта Мира| [Google Drive](https://drive.google.com/file/d/1ddH1YfhjdHr9-B7LL-Qz_EvmIKfWNrIy/view?usp=sharing) |
-|Сборка <Badge type="info" text="1.20.1 Forge" /> | [Файл](https://drive.google.com/file/d/1a8K8X5782bNDVQzNSt-erKd7aEdRItTZ/view?usp=sharing) |
+|Карта Мира| [Google Drive](https://drive.google.com/file/d/16HobbOTgNgsvXt1gjRQpFuM9u_UxccVj/view?usp=sharing) |
 
-<Links :items="[
-    { 
-        name: 'Сборка 5.09', 
-        link: 'modpack', 
-        icon: 'solar:box-bold-duotone',
-        color: '#868dcc'
-    },
-  ]"
-/>
 
 ## Неполадки?
 > Мой инвентарь и статистика не загрузились!
