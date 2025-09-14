@@ -48,124 +48,14 @@ lastUpdated: false
       image: 'https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png'
     },
     { 
-      name: 'Contraption Terminals', 
-      link: 'https://modrinth.com/mod/create-contraption-terminals', 
-      image: 'https://cdn.modrinth.com/data/gOPAFzp0/52b05061fcf8c8368c3e92b6ca3a76c79041c3b7_96.webp', 
-    },
-    { 
-      name: 'Crystal Clear', 
-      link: 'https://modrinth.com/mod/create-crystal-clear', 
-      image: 'https://cdn.modrinth.com/data/h7QgiH72/23a1814c40054e4a57a78a278816e0d68726ec9a_96.webp', 
-    },
-    { 
-      name: 'Design n\' Decor', 
-      link: 'https://modrinth.com/mod/create-design-n-decor', 
-      image: 'https://cdn.modrinth.com/data/x49wilh8/c52e15692d7911bd7a74413ca97d4e98ece0cefb_96.webp', 
-    },
-    { 
-      name: 'Dynamic Lights', 
-      link: 'https://modrinth.com/mod/create-dynamic-lights', 
-      image: 'https://cdn.modrinth.com/data/evMQRxqV/1991dd42b6eb743f8770435e609972e0446b2f5b_96.webp', 
-    },
-    { 
-      name: 'Enchantable Machinery', 
-      link: 'https://modrinth.com/mod/create-enchantable-machinery', 
-      image: 'https://cdn.modrinth.com/data/eqrvp4NK/245c9219d033286021178416a33240f848321b5f_96.webp', 
-    },
-    { 
-      name: 'Create: Estrogen', 
-      link: 'https://modrinth.com/mod/estrogen', 
-      image: 'https://cdn.modrinth.com/data/HhIJW8n1/1deae677c977a9631f59349019592ce0bbe6e1e4_96.webp', 
-    },
-    { 
-      name: 'Extended Cogwheels', 
-      link: 'https://modrinth.com/mod/extended-cogwheels', 
-      image: 'https://cdn.modrinth.com/data/qO4lsa4Y/6cde3fe229550facc592976a0ac1852dbde10a7e_96.webp', 
-    },
-    { 
-      name: 'Create: Hypertubes', 
-      link: 'https://modrinth.com/mod/hypertube', 
-      image: 'https://cdn.modrinth.com/data/ATDdrG1y/622fba3a3de39a3e9cfc09fdb0c3c94132ae0fd8_96.webp', 
-    },
-    { 
-      name: 'Let The Adventure Begin', 
-      link: 'https://modrinth.com/datapack/create-let-the-adventure-begin', 
-      image: 'https://cdn.modrinth.com/data/fUa6OtBG/49089716b624e50307da0d7a23d019d300682e40.gif', 
-    },
-    { 
-      name: 'Create: Interactive', 
-      link: 'https://modrinth.com/mod/interactive', 
-      image: 'https://cdn.modrinth.com/data/MyfCcqiE/f8e2aaaf20d95e513d8817248d3aa8cb55f01615_96.webp', 
-    },
-    // { 
-    //   name: 'Create: Radars', 
-    //   link: 'https://modrinth.com/mod/create-radars', 
-    //   image: 'https://cdn.modrinth.com/data/BLu2Yqfq/d2e206a0bbee73647a9ebf99607abbae5a8960c7_96.webp', 
-    // },
-    { 
-      name: 'Vintage Improvements', 
-      link: 'https://modrinth.com/mod/create-vintage-improvements', 
-      image: 'https://cdn.modrinth.com/data/S27aYArf/5d6dd34cf3d1e99b21c6a114556dbba0ac6c4c17_96.webp', 
-    },
-    { 
-      name: 'Create: Liquid Fuel', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/create-liquid-fuel', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/793/156/256/256/638150866140201762.png', 
-    },
-    { 
-      name: 'Bells & Whistles', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1068/437/256/256/638602929669872740.png', 
+      name: 'Create Big Cannons', 
+      link: 'https://modrinth.com/mod/create-big-cannons', 
+      image: 'https://cdn.modrinth.com/data/GWp4jCJj/39d228c7abac7bb782db7d3f203a24beb164455f_96.webp', 
     },
     {
       name: 'Create Cobblestone',
       link: 'https://modrinth.com/mod/ihpnEd80',
       image: 'https://cdn.modrinth.com/data/ihpnEd80/3b04d5b3830e1f685d78fa765f928d94f11f5d65_96.webp',
-    },
-    {
-      name: 'Create: Food',
-      link: 'https://modrinth.com/mod/4HnO3el1',
-      image: 'https://cdn.modrinth.com/data/4HnO3el1/83b7a516998acc6394c9990671eb3fd0e0dee164.gif',
-    },
-    {
-      name: 'Create: Factory',
-      link: 'https://modrinth.com/mod/j6Zt3N7W',
-      image: 'https://cdn.modrinth.com/data/j6Zt3N7W/7695e7967fd8386954b8b2f13e579b99c7839650.png',
-    },
-    {
-      name: 'Create Railways Navigator',
-      link: 'https://modrinth.com/mod/Dq3STxps',
-      image: 'https://cdn.modrinth.com/data/Dq3STxps/10e1b3796f2fcf5b70bb77110e68b59c750310ac_96.webp',
-    },
-    {
-      name: 'Create: Framed',
-      link: 'https://modrinth.com/mod/15fFZ3f4',
-      image: 'https://cdn.modrinth.com/data/15fFZ3f4/d4b1d8df190742e464afc64333cfa81614a28ae3_96.webp',
-    },
-    { 
-      name: 'Crafts & Additions', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/createaddition', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/405/250/256/256/637616939209778882.png', 
-    },
-    { 
-      name: 'Enchantment Industry', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/624/857/256/256/638021175448741701.png', 
-    },
-    { 
-      name: 'Create Jetpack', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/create-jetpack', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/585/29/256/256/637951524914026425.png',
-    },
-    { 
-      name: 'Create Slice & Dice', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/slice-and-dice', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1076/930/256/256/638614872387774853.png', 
-    },
-    { 
-      name: 'Power Loader', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/create-power-loader', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/903/443/256/256/638352779105838214.png', 
     },
     { 
       name: 'Create: Connected', 
@@ -178,34 +68,80 @@ lastUpdated: false
       image: 'https://media.forgecdn.net/avatars/thumbnails/946/562/256/256/638432563570802556.png',  
     },
     { 
-      name: 'Create: Interiors', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/interiors', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1068/436/256/256/638602929407669140.png', 
-    },
-    { 
-      name: 'Steam \'n\' Rails', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1065/609/256/256/638599304770885171.webp', 
-    },
-    { 
       name: 'Create Deco', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/create-deco', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/1065/338/256/256/638598933457608969.png', 
     },
     { 
-      name: 'Deco Additions', 
-      link: 'https://modrinth.com/datapack/create-deco-additions', 
-      image: 'https://cdn.modrinth.com/data/HrsF061q/15382abe37af18eb27ceeb93973c29ce2f6930ab_96.webp', 
+      name: 'Create: Dreams & Desires', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/1065/286/64/64/638598847906933576_animated.gif', 
+    }, 
+    { 
+      name: 'Create: Estrogen', 
+      link: 'https://modrinth.com/mod/estrogen', 
+      image: 'https://cdn.modrinth.com/data/HhIJW8n1/1deae677c977a9631f59349019592ce0bbe6e1e4_96.webp', 
+    },
+    {
+      name: 'Create: Factory',
+      link: 'https://modrinth.com/mod/j6Zt3N7W',
+      image: 'https://cdn.modrinth.com/data/j6Zt3N7W/7695e7967fd8386954b8b2f13e579b99c7839650.png',
+    },
+    {
+      name: 'Create: Food',
+      link: 'https://modrinth.com/mod/4HnO3el1',
+      image: 'https://cdn.modrinth.com/data/4HnO3el1/83b7a516998acc6394c9990671eb3fd0e0dee164.gif',
+    },
+    {
+      name: 'Create: Framed',
+      link: 'https://modrinth.com/mod/15fFZ3f4',
+      image: 'https://cdn.modrinth.com/data/15fFZ3f4/d4b1d8df190742e464afc64333cfa81614a28ae3_96.webp',
     },
     { 
-      name: 'Create Big Cannons', 
-      link: 'https://modrinth.com/mod/create-big-cannons', 
-      image: 'https://cdn.modrinth.com/data/GWp4jCJj/39d228c7abac7bb782db7d3f203a24beb164455f_96.webp', 
+      name: 'Create: Hypertubes', 
+      link: 'https://modrinth.com/mod/hypertube', 
+      image: 'https://cdn.modrinth.com/data/ATDdrG1y/622fba3a3de39a3e9cfc09fdb0c3c94132ae0fd8_96.webp', 
     },
     { 
-      name: 'Big Contraptions', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/create-big-contraptions', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/835/940/256/256/638227944052061210.png', 
+      name: 'Create: Interactive', 
+      link: 'https://modrinth.com/mod/interactive', 
+      image: 'https://cdn.modrinth.com/data/MyfCcqiE/f8e2aaaf20d95e513d8817248d3aa8cb55f01615_96.webp', 
+    },
+    { 
+      name: 'Create: Interiors', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/interiors', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/1068/436/256/256/638602929407669140.png', 
+    },
+    { 
+      name: 'Create Jetpack', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/create-jetpack', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/585/29/256/256/637951524914026425.png',
+    },
+    { 
+      name: 'Create: Liquid Fuel', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/create-liquid-fuel', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/793/156/256/256/638150866140201762.png', 
+    },
+    { 
+      name: 'Create: Radars', 
+      link: 'https://modrinth.com/mod/create-radars', 
+      image: 'https://cdn.modrinth.com/data/BLu2Yqfq/d2e206a0bbee73647a9ebf99607abbae5a8960c7_96.webp', 
+    },
+    {
+      name: 'Create Railways Navigator',
+      link: 'https://modrinth.com/mod/Dq3STxps',
+      image: 'https://cdn.modrinth.com/data/Dq3STxps/10e1b3796f2fcf5b70bb77110e68b59c750310ac_96.webp',
+    },
+    { 
+      name: 'Create Slice & Dice', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/slice-and-dice', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/1076/930/256/256/638614872387774853.png', 
+    },
+    // <!--  -->
+    { 
+      name: 'Bells & Whistles', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/1068/437/256/256/638602929669872740.png', 
     },
     { 
       name: 'Central Kitchen', 
@@ -213,14 +149,84 @@ lastUpdated: false
       image: 'https://media.forgecdn.net/avatars/thumbnails/770/583/256/256/638109213062028041.png', 
     },
     { 
-      name: 'Create: Dreams & Desires', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1065/286/64/64/638598847906933576_animated.gif', 
+      name: 'Contraption Terminals', 
+      link: 'https://modrinth.com/mod/create-contraption-terminals', 
+      image: 'https://cdn.modrinth.com/data/gOPAFzp0/52b05061fcf8c8368c3e92b6ca3a76c79041c3b7_96.webp', 
+    },
+    { 
+      name: 'Crafts & Additions', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/createaddition', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/405/250/256/256/637616939209778882.png', 
+    },
+    { 
+      name: 'Crystal Clear', 
+      link: 'https://modrinth.com/mod/create-crystal-clear', 
+      image: 'https://cdn.modrinth.com/data/h7QgiH72/23a1814c40054e4a57a78a278816e0d68726ec9a_96.webp', 
+    },
+    { 
+      name: 'Deco Additions', 
+      link: 'https://modrinth.com/datapack/create-deco-additions', 
+      image: 'https://cdn.modrinth.com/data/HrsF061q/15382abe37af18eb27ceeb93973c29ce2f6930ab_96.webp', 
+    },
+    { 
+      name: 'Design n\' Decor', 
+      link: 'https://modrinth.com/mod/create-design-n-decor', 
+      image: 'https://cdn.modrinth.com/data/x49wilh8/c52e15692d7911bd7a74413ca97d4e98ece0cefb_96.webp', 
+    },
+    { 
+      name: 'Diesel Generators', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/create-diesel-generators', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/1065/563/64/64/638599261172976487.png', 
+    },
+    { 
+      name: 'Dynamic Lights', 
+      link: 'https://modrinth.com/mod/create-dynamic-lights', 
+      image: 'https://cdn.modrinth.com/data/evMQRxqV/1991dd42b6eb743f8770435e609972e0446b2f5b_96.webp', 
+    },
+    { 
+      name: 'Enchantable Machinery', 
+      link: 'https://modrinth.com/mod/create-enchantable-machinery', 
+      image: 'https://cdn.modrinth.com/data/eqrvp4NK/245c9219d033286021178416a33240f848321b5f_96.webp', 
+    },
+    { 
+      name: 'Enchantment Industry', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/624/857/256/256/638021175448741701.png', 
+    },
+    { 
+      name: 'Expanding Technologies', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/expandingtechnologies', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/845/124/64/64/638242674411477092.png', 
+    },
+    { 
+      name: 'Extended Cogwheels', 
+      link: 'https://modrinth.com/mod/extended-cogwheels', 
+      image: 'https://cdn.modrinth.com/data/qO4lsa4Y/6cde3fe229550facc592976a0ac1852dbde10a7e_96.webp', 
+    },
+    { 
+      name: 'Let The Adventure Begin', 
+      link: 'https://modrinth.com/datapack/create-let-the-adventure-begin', 
+      image: 'https://cdn.modrinth.com/data/fUa6OtBG/49089716b624e50307da0d7a23d019d300682e40.gif', 
+    },
+    { 
+      name: 'Power Loader', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/create-power-loader', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/903/443/256/256/638352779105838214.png', 
+    },
+    { 
+      name: 'Steam \'n\' Rails', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/1065/609/256/256/638599304770885171.webp', 
     },
     { 
       name: 'Trackwork', 
       link: 'https://modrinth.com/mod/trackwork', 
       image: 'https://cdn.modrinth.com/data/FXDpZRJG/7bac8282c170ff9841ffb4715b8912e6305dddbb_96.webp', 
+    },
+    { 
+      name: 'Vintage Improvements', 
+      link: 'https://modrinth.com/mod/create-vintage-improvements', 
+      image: 'https://cdn.modrinth.com/data/S27aYArf/5d6dd34cf3d1e99b21c6a114556dbba0ac6c4c17_96.webp', 
     },
 ]"/>
 
@@ -247,9 +253,34 @@ lastUpdated: false
 
 === ℹ️
 
-ℹ️ Моды которые добавляют вайб типа декоративных блоков или еффекты там всякие крч похуй
+ℹ️ Моды которые добавляют вайб типа декоративных блоков, генерации, еффекты там всякие крч похуй
 
-=== Farmer's Delight {#farmersdelight}
+=== Генерация
+
+<BoxCube :items="[
+    { 
+      name: 'Geophilic', 
+      link: 'https://modrinth.com/datapack/geophilic', 
+      image: 'https://cdn.modrinth.com/data/hl5OLM95/6846fa80f84d2baa0dd07f8ee65b6f10bf223a84_96.webp', 
+    },
+    { 
+      name: 'Structory', 
+       link: 'https://modrinth.com/datapack/structory', 
+      image: 'https://cdn.modrinth.com/data/aKCwCJlY/81c79a9d58c605ad79c4a8da15c865902bec8d42_96.webp',
+    },
+    { 
+      name: 'Tectonic', 
+      link: 'https://modrinth.com/datapack/tectonic', 
+      image: 'https://cdn.modrinth.com/data/lWDHr9jE/d8b3413f797479dcc0d8764756613e449a358a2e_96.webp', 
+    },
+    { 
+      name: 'Terralith', 
+      link: 'https://modrinth.com/datapack/terralith', 
+      image: 'https://cdn.modrinth.com/data/8oi3bsk5/1959d924a1088944bbf07a06ba523726112d7e7a_96.webp', 
+    },
+]"/>
+
+=== Farmer's Delight 
 <BoxCube :items="[
   { 
     name: 'Farmer\'s Delight', 
@@ -280,6 +311,7 @@ lastUpdated: false
 />
 
 === Функции 
+<!-- Тут крч таблица и вставлено 3 отдельных BoxCube и так как они должны быть в 1 строке оно так выглядит страшно ункпунк -->
 |<Pill name="Etched Гайд" link="/wiki/season/ml-create-3/etched" image="https://media.forgecdn.net/avatars/thumbnails/939/472/64/64/638419301379970746.png" color="#868dcc"  />| <Pill name="ParCool! Гайд" link="/wiki/season/ml-create-3/parcool" image="https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png" color="#868dcc"  />||
 |:-:|:-:|:-:|
 |<BoxCube :items="[{name: 'Etched',link: 'https://www.curseforge.com/minecraft/mc-mods/etched', image: 'https://media.forgecdn.net/avatars/thumbnails/939/472/64/64/638419301379970746.png',},]"/>|<BoxCube :items="[{name: 'ParCool!',link: 'https://www.curseforge.com/minecraft/mc-mods/parcool', image: 'https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png',},]"/>|<BoxCube :items="[{ name: 'Exposure', link: 'https://www.curseforge.com/minecraft/mc-mods/exposure', image: 'https://media.forgecdn.net/avatars/thumbnails/1029/426/256/256/638551434733696364_animated.gif', },]"/>|
@@ -331,14 +363,19 @@ lastUpdated: false
 === Атмосфера
 <BoxCube :items="[
     {
-      name: 'Particle Core',
-      link: 'https://modrinth.com/mod/RSeLon5O',
-      image: 'https://cdn.modrinth.com/data/RSeLon5O/147110a6a4457b2f287f68fc626771f0f8ef2cde_96.webp',
-    },
-    {
       name: 'AmbientSounds',
       link: 'https://modrinth.com/mod/fM515JnW',
       image: 'https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp',
+    },
+    {
+      name: 'Naturalist',
+      link: 'https://modrinth.com/mod/naturalist',
+      image: 'https://cdn.modrinth.com/data/F8BQNPWX/06f421b5c96c2002414373f3e23e07063021a370_96.webp',
+    },
+    {
+      name: 'Particle Core',
+      link: 'https://modrinth.com/mod/RSeLon5O',
+      image: 'https://cdn.modrinth.com/data/RSeLon5O/147110a6a4457b2f287f68fc626771f0f8ef2cde_96.webp',
     },
     {
       name: 'Sound Physics Remastered',
@@ -369,6 +406,16 @@ lastUpdated: false
       image: 'https://cdn.modrinth.com/data/9Pk89J3g/86043395c6a9e34380d3604e0c9cbbebc23b0b7a.png',
     },
     {
+      name: 'EMI Create Schematics',
+      link: 'https://modrinth.com/mod/emi-create-schematics',
+      image: 'https://cdn.modrinth.com/data/5bgqgixq/41980c5c0cd46494826dec387ba588b0c76b50e0_96.webp',
+    },
+    {
+      name: 'EMIffect',
+      link: 'https://modrinth.com/mod/emiffect',
+      image: 'https://cdn.modrinth.com/data/705gWllI/e940511ee36de841ea1c55777a27f06cf0cff5e6.png',
+    },
+    {
       name: 'EMI Enchanting',
       link: 'https://modrinth.com/mod/emi-enchanting',
       image: 'https://cdn.modrinth.com/data/wbWoo11W/67f7bec961dee33edd40f0578d952b31302606e7.png',
@@ -397,16 +444,6 @@ lastUpdated: false
       name: 'EMI Trades',
       link: 'https://modrinth.com/mod/emitrades',
       image: 'https://cdn.modrinth.com/data/j2HhbEE7/icon.png',
-    },
-    {
-      name: 'EMI Create Schematics',
-      link: 'https://modrinth.com/mod/emi-create-schematics',
-      image: 'https://cdn.modrinth.com/data/5bgqgixq/41980c5c0cd46494826dec387ba588b0c76b50e0_96.webp',
-    },
-    {
-      name: 'EMIffect',
-      link: 'https://modrinth.com/mod/emiffect',
-      image: 'https://cdn.modrinth.com/data/705gWllI/e940511ee36de841ea1c55777a27f06cf0cff5e6.png',
     },
 ]"/>
 
