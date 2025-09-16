@@ -18,7 +18,7 @@ export const wikiSidebar = {
               link: '/wiki/minelacs-ultimate'
             },
             {
-              text: ' MLauncher',
+              text: ' OneLauncher',
               link: '/wiki/launcher'
             },
           ]

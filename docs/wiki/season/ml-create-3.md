@@ -13,7 +13,7 @@ title: ML Create 3
 
 ## Описание
 
-Третий сезон с тематикой мода <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png" color="#868dcc"/> с множеством аддонов.<br/> 
+Третий сезон с тематикой мода <Pill name="Create v5" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png" color="#868dcc"/> с множеством аддонов.<br/> 
 Невероятную физику и совместимость с модом  <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png" color="#868dcc"/><br/> представляют в сборке гиганты <Pill name="Valkyrien Skies" link="https://modrinth.com/mod/valkyrien-skies" image="https://cdn.modrinth.com/data/V5ujR2yw/d156dee2ce00ca6ce07343bf8db374a05893f376.png" color="#868dcc"/> и <Pill name="Clockwork" link="https://www.curseforge.com/minecraft/mc-mods/create-clockwork" image="https://media.forgecdn.net/avatars/thumbnails/925/381/64/64/638393946266044506_animated.gif" color="#868dcc"/>.
 
 Возвращение мода <Pill name="Etched" link="/wiki/season/ml-create-3/etched" image="https://media.forgecdn.net/avatars/thumbnails/939/472/64/64/638419301379970746.png" color="#868dcc"/> и новинка в виде мода на паркур <Pill name="ParCool!" link="/wiki/season/ml-create-3/parcool" image="https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png" color="#868dcc"  />. <br/>Сезон так-же включает другие моды для атмосферы, генерации, и оптимизации.
