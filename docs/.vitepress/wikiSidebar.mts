@@ -31,6 +31,7 @@ export const wikiSidebar = {
                 { text: '📦 Сборка', link: '/wiki/season/ml-create-3/modpack'},
                 { text: '🤸‍♂️ ParCool', link: '/wiki/season/ml-create-3/parcool' },
                 { text: '💿 Etched', link: '/wiki/season/ml-create-3/etched'},
+                { text: '💬 FlectoneChat', link: '/wiki/season/ml-create-3/flectone-chat' },
               ]
             },
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},

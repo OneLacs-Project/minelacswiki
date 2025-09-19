@@ -40,6 +40,12 @@ title: ML Create 3
         icon: 'solar:play-circle-bold-duotone',
         color: '#868dcc'
     },
+    { 
+        name: 'FlectoneChat', 
+        link: 'ml-create-3/flectone-chat', 
+        icon: 'solar:chat-round-dots-bold-duotone',
+        color: '#868dcc'
+    },
     // { 
     //     name: 'Доп Механики', 
     //     link: 'ml-legacy/additional-mechanics', 
@@ -87,7 +93,7 @@ title: ML Create 3
 />
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `5` 
+**<span style="color: gray;">Общее количество:</span>** `6` 
 <!-- **<span style="color: gray;"> (`...` + `...` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
 
 
@@ -96,8 +102,11 @@ title: ML Create 3
 - Nub4ik1  <img src="https://api.mineatar.io/face/d2b496f0-c2b0-4849-8dee-a6bda731a7eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - AngelOf0laf <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - phonexr <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- traksa_s <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
 <!-- - Mr_Frying <img src="https://api.mineatar.io/face/8a587fdf-a714-42db-b460-cac37bfaaaeb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> -->
 
 
 <!-- #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} -->
+<!-- - traksa_s <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/> -->
+
