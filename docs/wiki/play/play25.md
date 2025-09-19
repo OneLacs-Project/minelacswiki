@@ -1,12 +1,12 @@
----
+<!-- ---
 # outline: 
----
+--- -->
 
-# PLAY 2024
+# PLAY 2025
 
-![](/WIKI/Play/Play2024/play2024banner.png)
+<!-- ![](/WIKI/Play/Play2025/play2025banner.png) -->
 
-`26 Декабря - 31 Декабря 2024`
+`00 Декабря - 00 Декабря 2025`
 
 Голосование проводилось в Google Forms
 
@@ -14,109 +14,67 @@
 
 Номинации:
 
-<BlockCard size="medium" :cards="[
-  { content: '![](/WIKI/Play/Play2024/play2024_igroman.png)'},
-  { content: '![](/WIKI/Play/Play2024/play2024_activchata.png)'},
-  { content: '![](/WIKI/Play/Play2024/play2024_topanesezon.png)'},
-  { content: '![](/WIKI/Play/Play2024/play2024_smailikkaksmislzizni.png)'},
-  { content: '![](/WIKI/Play/Play2024/play2024_memgoda.png)'},
-  { content: '![](/WIKI/Play/Play2024/play2024_anonsgoda.png)'},
-]"/>
+<!-- <BlockCard size="medium" :cards="[
+  { content: ''},
+]"/> -->
 
  
 ## Победители 
 
-###  bruuhhh_ <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
-#### Игроман `42.9%`
+`...`
 
-<BlockCard size="big" :cards="[
-  { content: '![](https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=96)\n (*топовый скин*)'},
-  { content: '![](/WIKI/Play/Play2024/play2024_igroman_BRUHHH.png)\n Кто был самым активным игроком'}
-]"/>
-
-
-### **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
-#### Актив Чата `42.9%`
-
-<BlockCard size="big" :cards="[
-  { content: '![](https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=96)'},
-  { content: '![](/WIKI/Play/Play2024/play2024_activchata_SAWADAWA.png) \n Кто был самым активным в чатах'}
-]"/>
-
-### Смайлик как смысл жизни
-####  `:sawa_nishiy:` <img src="/WIKI/Play/Play2024/sawa_nishiyEMOJI.png" style="display: inline; margin: 0 2px; vertical-align: middle; width: 48px; height: 48px" /> `28.6%`
-
-<BlockCard size="big" :cards="[
-  { content: '![](/WIKI/Play/Play2024/sawa_nishiyEMOJI.png)\n`<:sawa_nishiy:1320324909548830740>`'},
-  { content: '![](/WIKI/Play/Play2024/play2024_smailikkaksmislzizni_SAWANICHYI.png) '}
-]"/>
-
-### Топ, а не сезон
-#### MineLacs Create 2 `71.4%`
-<Links :items="[
+<!-- ### Топ, а не сезон
+#### MineLacs ... `00.0%` -->
+<!-- <Links :items="[
     { 
-        name: 'MineLacs Create 2', 
-        link: '/wiki/archive/ml-create-2', 
-        image: '/WIKI/Play/Play2024/minelacscreatelogo.png'
+        name: 'MineLacs ', 
+        link: '/wiki/archive/ml-', 
+        image: '/WIKI/Play/Play2025/seasonlogo.png'
     },
   ]"
 />
 
 <BlockCard size="big" :cards="[
-  { content: '![](/WIKI/Play/Play2024/minelacscreatelogo.png) '},
-  { content: '![](/WIKI/Play/Play2024/play2024_topanesezon_MLCREATE2.png)\n Лучший сезон по мнению игроков '}
-]"/>
-
-### Мем Года
-#### `как скачать лаунчер` `71.4%`
-
-<BlockCard size="big" :cards="[
-  { content: '![](/WIKI/Play/Play2024/play2024_memgoda_LAUNCHER.png) '},
-  { content: '![](/WIKI/Play/Play2024/play2024_memgoda_KAKLAUNCHER.png) '}
-]"/>
-
-### Анонс Года
-#### MineLacs Launcher `57.1%`
-<BlockCard size="big" :cards="[
-  { content: '![](/WIKI/Play/Play2024/play2024_anonsgoda_LAUNCHER.png) '},
-  { content: 'Это мы ждем '}
-]"/>
+  { content: '![](/WIKI/Play/Play2025/minelacscreatelogo.png) '},
+  { content: '![](/WIKI/Play/Play2025/play2025_topanesezon_SEASON.png)\n Лучший сезон по мнению игроков '}
+]"/> 
+-->
 
 
 ## Итоги
 ### Сезоны
-За этот год прошло около 4 сезонов!
-Первый сезон в этом году был MineLacs Ванила (17 Февраля) который стал почти самым успешным сезоном. 
-<BoxCube :items="[
+За этот год прошло около ... сезонов!
+<!-- Первый сезон в этом году был MineLacs ...... (... ........) -->
+<Links :items="[
     { 
-        name: 'ML Ванила', 
-        link: '/wiki/archive/ml-vanila', 
-        image: '/WIKI/Play/Play2024/minelacscreatelogo.png',
+        name: 'ML Create & Magic', 
+        link: '/wiki/archive/ml-createmagic', 
         desc: 'Первый',
         icon: 'solar:archive-bold-duotone',
         color: '#868dcc'
     },
     { 
-        name: 'ML Create 2', 
-        link: '/wiki/archive/ml-create-2', 
-        image: '/WIKI/Play/Play2024/minelacscreatelogo.png',
-        desc: 'Второй',
+        name: 'ML Плюс', 
+        link: '/wiki/archive/ml-plus', 
         icon: 'solar:archive-bold-duotone',
         color: '#868dcc'
     },
     { 
-        name: 'ML Ванила 2', 
-        link: '/wiki/archive/ml-vanila-2', 
-        image: '/WIKI/Play/Play2024/minelacscreatelogo.png',
-        desc: 'Третий',
+        name: 'ML Dungeons', 
+        link: '/wiki/archive/ml-dungeons', 
         icon: 'solar:archive-bold-duotone',
         color: '#868dcc'
     },
     { 
-        name: 'ML Magic', 
-        link: '/wiki/sezon/ml-magic', 
-        image: '/WIKI/ML-Magic/demo_img_1.png',
-        desc: 'Четвертый Последний',
+        name: 'ML Legacy', 
+        link: '/wiki/archive/ml-legacy', 
+        icon: 'solar:archive-bold-duotone',
+        color: '#868dcc'
+    },
+    { 
+        name: 'ML Create+', 
+        link: '/wiki/season/ml-create-3', 
+        image: '/WIKI/Play/Play2025/minelacscreate3logo.png',
         icon: 'solar:archive-bold-duotone',
         color: '#868dcc'
     },
@@ -126,7 +84,7 @@
 
 **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />, 
 **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />,
-Kosinys <img src="https://api.mineatar.io/face/58650faf-08ae-438a-a1ce-ec99ba38c4e6?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />, 
+<!-- Kosinys <img src="https://api.mineatar.io/face/58650faf-08ae-438a-a1ce-ec99ba38c4e6?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />, 
 bruuhhh_ <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />,
 m1chigang <img src="https://api.mineatar.io/face/566bac65-6941-4454-9d50-7a4339fc433a?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />, 
 DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />, 
@@ -179,6 +137,6 @@ ammtsu <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; m
 mr_plukon <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>,
 BobaButcher <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>, 
 KelperToro <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>, 
-LinuxUser69 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+LinuxUser69 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/> -->
 
 **Ждём вас в следующем году!**

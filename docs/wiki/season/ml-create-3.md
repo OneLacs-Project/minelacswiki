@@ -8,6 +8,7 @@ title: ML Create 3
 
 # ML Create 3 <br/> <span style="color: gray;"><sup>AKA ML Create +</sup></span>
 **<span style="color: gray;">Версия Игры:</span> 1.20.1 Forge**<br/>
+**<span style="color: gray;">Трейлер:</span> [Смотреть](https://youtu.be/M8KChje108Q)**<br/>
 **<span style="color: gray;">Статус:</span> <span style="color:green;">Активен</span>**
 <!-- <br/><span style="color: gray;"><sub>19.09.2025 - 00.00.2025</sub></span><br/> -->
 
