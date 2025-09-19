@@ -16,7 +16,7 @@ title: FlectoneChat
 Используйте список справа чтобы перемещаться между разделами
 
 > [!WARNING] Это не официальная документация плагина! 
-> *Официальная документация ->* [Github](https://github.com/Flectone/FlectoneChat) , [FlectoneChat docs](https://chat.flectone.net/docs/)
+> *Официальная документация ->* [Github](https://github.com/Flectone/FlectoneChat)
 
 ## Функции
 ### Чаты сервера

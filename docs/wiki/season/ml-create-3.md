@@ -93,7 +93,7 @@ title: ML Create 3
 />
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `6` 
+**<span style="color: gray;">Общее количество:</span>** `10` 
 <!-- **<span style="color: gray;"> (`...` + `...` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
 
 
@@ -103,10 +103,13 @@ title: ML Create 3
 - AngelOf0laf <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - phonexr <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - traksa_s <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
-
-<!-- - Mr_Frying <img src="https://api.mineatar.io/face/8a587fdf-a714-42db-b460-cac37bfaaaeb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> -->
+- DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> 
+- L1monix_ <img src="https://api.mineatar.io/face/e5c50ccc-106a-4e4f-bdbc-48c003d80427?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> 
+- zerostar279 <img src="https://api.mineatar.io/face/cfc33bd0-b49d-4b65-99d8-92ee7090a011?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Mr_Frying <img src="https://api.mineatar.io/face/8a587fdf-a714-42db-b460-cac37bfaaaeb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
 
 <!-- #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} -->
-<!-- - traksa_s <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/> -->
+<!-- - traksa_s <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> -->
+
 
