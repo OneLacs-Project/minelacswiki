@@ -26,13 +26,13 @@ export const wikiSidebar = {
         { // Категория сезонов
           text: 'Сезон',
           items: [
-            // { text: '🏗️ ML Create 3', link: '/wiki/season/ml-create-3', 
-            //   collapsed: true, items: [
-            //     { text: '🤸‍♂️ ParCool', link: '/wiki/season/ml-create-3/parcool' },
-            //     { text: '📦 Сборка', link: '/wiki/season/ml-create-3/modpack'},
-            //     { text: '💿 Etched', link: '/wiki/season/ml-create-3/etched'},
-            //   ]
-            // },
+            { text: '🏗️ ML Create 3', link: '/wiki/season/ml-create-3', 
+              collapsed: true, items: [
+                { text: '📦 Сборка', link: '/wiki/season/ml-create-3/modpack'},
+                { text: '🤸‍♂️ ParCool', link: '/wiki/season/ml-create-3/parcool' },
+                { text: '💿 Etched', link: '/wiki/season/ml-create-3/etched'},
+              ]
+            },
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},
             { text: '🥩 Саварубка', link: '/wiki/season/sawarubka'},
             { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},

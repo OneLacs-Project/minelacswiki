@@ -10,10 +10,10 @@ hero:
   image:
     src: /wikihomepagelogo.png
   actions:
-    # - theme: brand
-    #   text: ML Create 3
-    #   link: /wiki/season/ml-create-3
     - theme: brand
+      text: ML Create 3
+      link: /wiki/season/ml-create-3
+    - theme: alt
       text: Вики
       link: /wiki/how-to-join
  
