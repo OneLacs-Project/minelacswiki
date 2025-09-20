@@ -93,8 +93,8 @@ title: ML Create 3
 />
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `12` 
-**<span style="color: gray;"> (`11` + `1` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span>** `16` 
+**<span style="color: gray;"> (`15` + `1` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 
@@ -109,6 +109,10 @@ title: ML Create 3
 - Mr_Frying <img src="https://api.mineatar.io/face/8a587fdf-a714-42db-b460-cac37bfaaaeb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - may1766 <img src="https://api.mineatar.io/face/8d88b0f3-2c0b-43d8-aa60-1a963f816949?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - meat_tank02 <img src="https://api.mineatar.io/face/74cb7d13-6153-4557-8138-7bda3f2c376b?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- DOki56 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- TimeOut  <img src="https://api.mineatar.io/face/f585e50e-0dc2-4699-a3be-b95bb75cfd7c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- vova1854 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- SnowElf  <img src="https://api.mineatar.io/face/b051deb5-3399-4ec3-8e6a-bcd3eb7b60a4?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
