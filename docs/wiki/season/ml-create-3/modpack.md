@@ -398,53 +398,22 @@ lastUpdated: false
 === ℹ️
 
 ℹ️ Моды утилиты, декор, расширенная информацию, оптимизация и другие которые не влияют на игровой процесс мира или других игроков. 
-=== EMI
-Мод который заменяет, и работает так-же как и JEI
+=== JEI
 <BoxCube :items="[
     {
-      name: 'EMI',
-      link: 'https://modrinth.com/mod/emi',
+      name: 'Just Enough Breeding (JEBr)',
+      link: 'https://modrinth.com/mod/9Pk89J3g',
       image: 'https://cdn.modrinth.com/data/9Pk89J3g/86043395c6a9e34380d3604e0c9cbbebc23b0b7a.png',
     },
     {
-      name: 'EMI Create Schematics',
-      link: 'https://modrinth.com/mod/emi-create-schematics',
-      image: 'https://cdn.modrinth.com/data/5bgqgixq/41980c5c0cd46494826dec387ba588b0c76b50e0_96.webp',
+      name: 'Just Enough Effect Descriptions (JEED)',
+      link: 'https://modrinth.com/mod/EO27GKs1',
+      image: 'https://cdn.modrinth.com/data/EO27GKs1/0cae90cd5fbb858e267777ef965a499a83b7ddcb_96.webp',
     },
     {
-      name: 'EMIffect',
-      link: 'https://modrinth.com/mod/emiffect',
-      image: 'https://cdn.modrinth.com/data/705gWllI/e940511ee36de841ea1c55777a27f06cf0cff5e6.png',
-    },
-    {
-      name: 'EMI Enchanting',
-      link: 'https://modrinth.com/mod/emi-enchanting',
-      image: 'https://cdn.modrinth.com/data/wbWoo11W/67f7bec961dee33edd40f0578d952b31302606e7.png',
-    },
-    {
-      name: 'EMI Enchants',
-      link: 'https://modrinth.com/mod/emienchants',
-      image: 'https://cdn.modrinth.com/data/11hKNQb2/0958771ee3cde4e86afb9e1c1929408dc1dc3b4a.png',
-    },
-    {
-      name: 'EMI Loot',
-      link: 'https://modrinth.com/mod/emi-loot',
-      image: 'https://cdn.modrinth.com/data/qbbO7Jns/dec44ad1547e774b6fce97a5268f6ff6309ec40a.png',
-    },
-    {
-      name: 'EMI Ores',
-      link: 'https://modrinth.com/mod/emi-ores',
-      image: 'https://cdn.modrinth.com/data/sG4TqDb8/c5e85bcf5c2ac92ebffbd01f0e97c38fd9bc9743.png',
-    },
-    {
-      name: 'EMI professions ',
-      link: 'https://modrinth.com/mod/emi-professions-(emip)',
-      image: 'https://cdn.modrinth.com/data/LGVihYcz/1930d0194a058809f86947696fe9552862011e3c_96.webp',
-    },
-    {
-      name: 'EMI Trades',
-      link: 'https://modrinth.com/mod/emitrades',
-      image: 'https://cdn.modrinth.com/data/j2HhbEE7/icon.png',
+      name: 'Just Enough Resources (JER)',
+      link: 'https://modrinth.com/mod/uEfK2CXF',
+      image: 'https://cdn.modrinth.com/data/uEfK2CXF/ca8130fd80167a798d6bfa489dd87fbb871dce94_96.webp',
     },
 ]"/>
 

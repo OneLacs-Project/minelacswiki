@@ -93,8 +93,9 @@ title: ML Create 3
 />
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `16` 
-**<span style="color: gray;"> (`15` + `1` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span>** `17` 
+**<span style="color: gray;"> (`16` + `1` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+
 
 
 
@@ -113,7 +114,7 @@ title: ML Create 3
 - TimeOut  <img src="https://api.mineatar.io/face/f585e50e-0dc2-4699-a3be-b95bb75cfd7c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - vova1854 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - SnowElf  <img src="https://api.mineatar.io/face/b051deb5-3399-4ec3-8e6a-bcd3eb7b60a4?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
-
+- Oleksandr25308 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> traksa_s <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1404086796350132405)</sub></span><br/>
