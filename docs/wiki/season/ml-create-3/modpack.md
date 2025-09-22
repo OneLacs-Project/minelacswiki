@@ -138,6 +138,11 @@ lastUpdated: false
       link: 'https://www.curseforge.com/minecraft/mc-mods/slice-and-dice', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/1076/930/256/256/638614872387774853.png', 
     },
+    { 
+      name: 'Create: Testosterone', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/testosterone', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/1316/188/64/64/638855798665415439.png', 
+    },
     // <!--  -->
     { 
       name: 'Bells & Whistles', 
