@@ -93,8 +93,8 @@ title: ML Create 3
 />
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `21` 
-**<span style="color: gray;"> (`19` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span>** `25` 
+**<span style="color: gray;"> (`23` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 
@@ -119,6 +119,10 @@ title: ML Create 3
 - bjej_  <img src="https://api.mineatar.io/face/dca1b446-28e8-43ba-abc7-6b56c95deee2?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - GodToolPlays <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - FoZYyy1 <img src="https://api.mineatar.io/face/21937cc8-a43e-4875-8608-b29af229406c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Shadow1Sonic8 <img src="https://api.mineatar.io/face/ec122386-48e2-4b50-ad08-f26339fd3037?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- KPT_DanTeeZ <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- FrO_sTy <img src="https://api.mineatar.io/face/27d5f6c3-5227-411c-99cd-7d876c769d4f?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- K0LDUN <img src="https://api.mineatar.io/face/1c46057e-9a67-4310-9e92-2e2dd0994152?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> traksa_s <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1404086796350132405)</sub></span><br/>
