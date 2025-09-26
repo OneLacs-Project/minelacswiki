@@ -73,6 +73,7 @@ title: ML Create 3
 
 `19 Cентября` - **<span style="color: green;">Сезон начался</span>**
 
+`25 Сентября` - Мини-обновление ресурспака: Добавлен русификатор и фикс текстур из криейта.
 :::
 ### Предыдущий сезон ML Create
 
@@ -93,8 +94,8 @@ title: ML Create 3
 />
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `25` 
-**<span style="color: gray;"> (`23` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span>** `27` 
+**<span style="color: gray;"> (`25` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 
@@ -123,6 +124,8 @@ title: ML Create 3
 - KPT_DanTeeZ <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - FrO_sTy <img src="https://api.mineatar.io/face/27d5f6c3-5227-411c-99cd-7d876c769d4f?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - K0LDUN <img src="https://api.mineatar.io/face/1c46057e-9a67-4310-9e92-2e2dd0994152?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Hylech <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Fantom <img src="https://api.mineatar.io/face/1fc65db4-6b33-442f-ba93-427a554371ac?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> traksa_s <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1404086796350132405)</sub></span><br/>
