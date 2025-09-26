@@ -9,7 +9,7 @@ lastUpdated: false
 
 **Версия игры: <Badge type="info" text="1.20.1" />** 
 
-Версия сборки: <Badge type="info" text="v1.0" />
+Версия сборки: <Badge type="tip" text="v2.7" />
 
 Загрузчик модов: <Badge type="info" text="Forge" />
 
@@ -18,6 +18,19 @@ lastUpdated: false
 *Следите за новостями сервера на канале `🌐│новости` чтобы узнавать про новую сборку и прочую информацию быстрее чем тут.*
 
 :::tabs 
+=== 2.9 ✨
+`26 Сентября`<br/>
+**<span style="color: red;">- удален</span>** <Pill name="Create Cobblestone" link="https://modrinth.com/mod/ihpnEd80" image="https://cdn.modrinth.com/data/ihpnEd80/3b04d5b3830e1f685d78fa765f928d94f11f5d65_96.webp" /> <br/>
+
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create Confectionery" link="https://modrinth.com/mod/create-confectionery" image="https://cdn.modrinth.com/data/WPE5gRs9/1775c489db990d4c47fa946d6fef9f2479b6ff77_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create Compressed" link="https://modrinth.com/mod/create-compressed" image="https://cdn.modrinth.com/data/Sy4Box1J/710673272efece7ff2ee69d9c3ab9f5e22579eef_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create Logistics" link="https://modrinth.com/mod/create-logistics" image="https://cdn.modrinth.com/data/RsV38LRE/279684164480d87af0981e523a104691165d7242_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create: Smart Crafter" link="https://modrinth.com/mod/create-smart-crafter" image="https://cdn.modrinth.com/data/Boz7GXeA/0acb985dde8b373d695a0d6329743990dfd0b95e_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create: Propulsion" link="https://modrinth.com/mod/create-propulsion" image="https://cdn.modrinth.com/data/fmudhH0S/eae4733a7800e555a6bc0801d27a9adca8f372cf_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Endless Biomes" link="https://modrinth.com/mod/endless-biomes" image="https://cdn.modrinth.com/data/pzR01ieE/f49eb4b8d05e74a322738f2980aa2aff6d649279_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Enderman Overhaul" link="https://modrinth.com/mod/enderman-overhaul" image="https://cdn.modrinth.com/data/Lq6ojcWv/bd2b1e2cc0a730dbefcb1604638e34b9bed21d85.png" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Ender\'s Delight" link="https://modrinth.com/mod/enders-delight" image="https://cdn.modrinth.com/data/2uEhdGKt/0cf9c0392fdec68443e8c1136f78a5a5485d2cbb_96.webp" /> <br/>
+
 === 1.0
 `19 Cентября`<br/>
 Релизная сборка
@@ -32,16 +45,41 @@ lastUpdated: false
 ## Моды  
 *<span style="color: gray;"><sup>Это не полный и не динамичный список модов сборки, библиотеки и часть модов могут быть не указаны. </sup></span>*
 
-### Create
+### Create ✨
 :::: tabs 
 
 === ℹ️
 
 ℹ️ Моды с тематикой мода <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/64/64/638598725500886388.png" />
 
-=== Create 
+=== Create ✨
 
 <BoxCube :items="[ 
+    { 
+      name: 'Confectionery ✨', 
+      link: 'https://modrinth.com/mod/create-confectionery', 
+      image: 'https://cdn.modrinth.com/data/WPE5gRs9/1775c489db990d4c47fa946d6fef9f2479b6ff77_96.webp', 
+    },
+    { 
+      name: 'Compressed ✨', 
+      link: 'https://modrinth.com/mod/create-compressed', 
+      image: 'https://cdn.modrinth.com/data/Sy4Box1J/710673272efece7ff2ee69d9c3ab9f5e22579eef_96.webp', 
+    },
+    { 
+      name: 'Logistics ✨', 
+      link: 'https://modrinth.com/mod/create-logistics', 
+      image: 'https://cdn.modrinth.com/data/RsV38LRE/279684164480d87af0981e523a104691165d7242_96.webp', 
+    },
+    { 
+      name: 'Smart Crafter ✨', 
+      link: 'https://modrinth.com/mod/create-smart-crafter', 
+      image: 'https://cdn.modrinth.com/data/Boz7GXeA/0acb985dde8b373d695a0d6329743990dfd0b95e_96.webp', 
+    },
+    { 
+      name: 'Propulsion ✨', 
+      link: 'https://modrinth.com/mod/create-propulsion', 
+      image: 'https://cdn.modrinth.com/data/fmudhH0S/eae4733a7800e555a6bc0801d27a9adca8f372cf_96.webp', 
+    },
     { 
       name: 'Create', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/create', 
@@ -53,11 +91,11 @@ lastUpdated: false
       link: 'https://modrinth.com/mod/create-big-cannons', 
       image: 'https://cdn.modrinth.com/data/GWp4jCJj/39d228c7abac7bb782db7d3f203a24beb164455f_96.webp', 
     },
-    {
-      name: 'Create Cobblestone',
-      link: 'https://modrinth.com/mod/ihpnEd80',
-      image: 'https://cdn.modrinth.com/data/ihpnEd80/3b04d5b3830e1f685d78fa765f928d94f11f5d65_96.webp',
-    },
+    // {
+    //   name: 'Create Cobblestone',
+    //   link: 'https://modrinth.com/mod/ihpnEd80',
+    //   image: 'https://cdn.modrinth.com/data/ihpnEd80/3b04d5b3830e1f685d78fa765f928d94f11f5d65_96.webp',
+    // },
     { 
       name: 'Create: Connected', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/create-connected', 
@@ -254,16 +292,21 @@ lastUpdated: false
 
 ::::
 
-### Вайб
+### Вайб ✨
 :::: tabs 
 
 === ℹ️
 
 ℹ️ Моды которые добавляют вайб типа декоративных блоков, генерации, еффекты там всякие крч похуй
 
-=== Генерация
+=== Генерация ✨
 
 <BoxCube :items="[
+    { 
+      name: 'Endless Biomes ✨', 
+      link: 'https://modrinth.com/mod/endless-biomes', 
+      image: 'https://cdn.modrinth.com/data/pzR01ieE/f49eb4b8d05e74a322738f2980aa2aff6d649279_96.webp', 
+    },
     { 
       name: 'Geophilic', 
       link: 'https://modrinth.com/datapack/geophilic', 
@@ -286,8 +329,13 @@ lastUpdated: false
     },
 ]"/>
 
-=== Farmer's Delight 
+=== Farmer's Delight ✨
 <BoxCube :items="[
+  { 
+    name: 'Ender\'s Delight ✨', 
+    link: 'https://modrinth.com/mod/enders-delight', 
+    image: 'https://cdn.modrinth.com/data/2uEhdGKt/0cf9c0392fdec68443e8c1136f78a5a5485d2cbb_96.webp', 
+  },
   { 
     name: 'Farmer\'s Delight', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/farmers-delight', 
@@ -366,8 +414,13 @@ lastUpdated: false
     },
 ]"/>
 
-=== Атмосфера
+=== Атмосфера ✨
 <BoxCube :items="[
+    {
+      name: 'Enderman Overhaul ✨',
+      link: 'https://modrinth.com/mod/enderman-overhaul',
+      image: 'https://cdn.modrinth.com/data/Lq6ojcWv/bd2b1e2cc0a730dbefcb1604638e34b9bed21d85.png',
+    },
     {
       name: 'AmbientSounds',
       link: 'https://modrinth.com/mod/fM515JnW',

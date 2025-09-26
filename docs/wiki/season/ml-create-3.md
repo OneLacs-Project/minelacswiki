@@ -23,7 +23,7 @@ title: ML Create 3
 ## Документации / Ресурсы
 <Links :items="[
     { 
-        name: 'Сборка', 
+        name: 'Сборка ✨', 
         link: 'ml-create-3/modpack', 
         icon: 'solar:box-bold-duotone',
         color: '#868dcc'
@@ -69,11 +69,21 @@ title: ML Create 3
 
 ## История
 
-::: details Cентябрь 2025
+::: details Cентябрь 2025 ✨
 
 `19 Cентября` - **<span style="color: green;">Сезон начался</span>**
 
 `25 Сентября` - Мини-обновление ресурспака: Добавлен русификатор и фикс текстур из криейта.
+
+`26 Сентября` - **Обновление Часть 1: *Идеи Админа*** ✨<br/> 
+\- Открытие энда в 16:00 по МСК<br/> 
+\- Эндер еда, различные виды эндерменов, новые механики дракона, новые биомы Энда.<br/> 
+\- Криейт конфеты, сжатые варианты сырья, переносной силос, автокрафтер, магниты, оптические датчики, трастеры все с поддержкой <Pill name="Valkyrien Skies" link="https://modrinth.com/mod/valkyrien-skies" image="https://cdn.modrinth.com/data/V5ujR2yw/d156dee2ce00ca6ce07343bf8db374a05893f376.png" color="#868dcc"/> <br/> 
+\- Удален <Pill name="Create Cobblestone" link="https://modrinth.com/mod/ihpnEd80" image="https://cdn.modrinth.com/data/ihpnEd80/3b04d5b3830e1f685d78fa765f928d94f11f5d65_96.webp" /> из-за критических проблем.<br/> 
+\- Перевод всех модов на русский<br/> 
+
+Изменения сборки -> **[Сборка](ml-create-3/modpack)**<br/> 
+
 :::
 ### Предыдущий сезон ML Create
 
@@ -94,9 +104,8 @@ title: ML Create 3
 />
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `27` 
-**<span style="color: gray;"> (`25` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
-
+**<span style="color: gray;">Общее количество:</span>** `29` 
+**<span style="color: gray;"> (`27` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 
@@ -126,6 +135,8 @@ title: ML Create 3
 - K0LDUN <img src="https://api.mineatar.io/face/1c46057e-9a67-4310-9e92-2e2dd0994152?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Hylech <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - Fantom <img src="https://api.mineatar.io/face/1fc65db4-6b33-442f-ba93-427a554371ac?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- samirabxxl <img src="https://api.mineatar.io/face/6937184a-24de-443d-8aa4-d39975eea42b?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Weeklyz34 <img src="https://api.mineatar.io/face/f927ef51-042a-4274-ac59-54311e19b143?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> traksa_s <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1404086796350132405)</sub></span><br/>
