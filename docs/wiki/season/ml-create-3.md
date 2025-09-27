@@ -104,8 +104,8 @@ title: ML Create 3
 />
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `29` 
-**<span style="color: gray;"> (`27` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span>** `30` 
+**<span style="color: gray;"> (`28` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 
@@ -137,6 +137,7 @@ title: ML Create 3
 - Fantom <img src="https://api.mineatar.io/face/1fc65db4-6b33-442f-ba93-427a554371ac?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - samirabxxl <img src="https://api.mineatar.io/face/6937184a-24de-443d-8aa4-d39975eea42b?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Weeklyz34 <img src="https://api.mineatar.io/face/f927ef51-042a-4274-ac59-54311e19b143?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- TumRedSun  <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> traksa_s <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1404086796350132405)</sub></span><br/>

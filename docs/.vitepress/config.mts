@@ -106,7 +106,7 @@ export default defineConfig({
     nav: [
       { text: 'Главная', link: '/' },
       { text: 'Вики', link: '/wiki/how-to-join', activeMatch: '/wiki/'},
-      // { text: 'Правила', link: '/rules/intropage', activeMatch: '/rules/'},
+      { text: 'Правила', link: '/rules/', activeMatch: '/rules/'},
       { text: 'Наши ссылки', activeMatch: '/wiki/about-us/project', items: [
           { text: 'Discord', link: 'https://discord.gg/B6ywHB7ftP'},
           { text: 'Telegram', link: 'https://t.me/minelacs'},

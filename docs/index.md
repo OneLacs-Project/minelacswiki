@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: Вики
       link: /wiki/how-to-join
+    - theme: alt
+      text: Правила
+      link: /Rules/
  
 features: 
   - icon: ❇️
