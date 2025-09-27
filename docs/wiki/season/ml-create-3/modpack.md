@@ -56,29 +56,34 @@ lastUpdated: false
 
 <BoxCube :items="[ 
     { 
-      name: 'Confectionery ✨', 
+      name: 'Confectionery', 
       link: 'https://modrinth.com/mod/create-confectionery', 
       image: 'https://cdn.modrinth.com/data/WPE5gRs9/1775c489db990d4c47fa946d6fef9f2479b6ff77_96.webp', 
+      desc: '✨ NEW ✨'
     },
     { 
-      name: 'Compressed ✨', 
+      name: 'Compressed', 
       link: 'https://modrinth.com/mod/create-compressed', 
-      image: 'https://cdn.modrinth.com/data/Sy4Box1J/710673272efece7ff2ee69d9c3ab9f5e22579eef_96.webp', 
+      image: 'https://cdn.modrinth.com/data/Sy4Box1J/710673272efece7ff2ee69d9c3ab9f5e22579eef_96.webp',
+      desc: '✨ NEW ✨'
     },
     { 
-      name: 'Logistics ✨', 
+      name: 'Logistics', 
       link: 'https://modrinth.com/mod/create-logistics', 
       image: 'https://cdn.modrinth.com/data/RsV38LRE/279684164480d87af0981e523a104691165d7242_96.webp', 
+      desc: '✨ NEW ✨'
     },
     { 
-      name: 'Smart Crafter ✨', 
+      name: 'Smart Crafter', 
       link: 'https://modrinth.com/mod/create-smart-crafter', 
       image: 'https://cdn.modrinth.com/data/Boz7GXeA/0acb985dde8b373d695a0d6329743990dfd0b95e_96.webp', 
+      desc: '✨ NEW ✨'
     },
     { 
-      name: 'Propulsion ✨', 
+      name: 'Propulsion', 
       link: 'https://modrinth.com/mod/create-propulsion', 
       image: 'https://cdn.modrinth.com/data/fmudhH0S/eae4733a7800e555a6bc0801d27a9adca8f372cf_96.webp', 
+      desc: '✨ NEW ✨'
     },
     { 
       name: 'Create', 
@@ -303,9 +308,10 @@ lastUpdated: false
 
 <BoxCube :items="[
     { 
-      name: 'Endless Biomes ✨', 
+      name: 'Endless Biomes', 
       link: 'https://modrinth.com/mod/endless-biomes', 
       image: 'https://cdn.modrinth.com/data/pzR01ieE/f49eb4b8d05e74a322738f2980aa2aff6d649279_96.webp', 
+      desc: '✨ NEW ✨'
     },
     { 
       name: 'Geophilic', 
@@ -332,9 +338,10 @@ lastUpdated: false
 === Farmer's Delight ✨
 <BoxCube :items="[
   { 
-    name: 'Ender\'s Delight ✨', 
+    name: 'Ender\'s Delight', 
     link: 'https://modrinth.com/mod/enders-delight', 
     image: 'https://cdn.modrinth.com/data/2uEhdGKt/0cf9c0392fdec68443e8c1136f78a5a5485d2cbb_96.webp', 
+    desc: '✨ NEW ✨'
   },
   { 
     name: 'Farmer\'s Delight', 
@@ -417,9 +424,10 @@ lastUpdated: false
 === Атмосфера ✨
 <BoxCube :items="[
     {
-      name: 'Enderman Overhaul ✨',
+      name: 'Enderman Overhaul',
       link: 'https://modrinth.com/mod/enderman-overhaul',
       image: 'https://cdn.modrinth.com/data/Lq6ojcWv/bd2b1e2cc0a730dbefcb1604638e34b9bed21d85.png',
+      desc: '✨ NEW ✨'
     },
     {
       name: 'AmbientSounds',
