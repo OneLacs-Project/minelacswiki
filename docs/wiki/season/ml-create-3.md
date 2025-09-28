@@ -75,12 +75,26 @@ title: ML Create 3
 
 `25 Сентября` - Мини-обновление ресурспака: Добавлен русификатор и фикс текстур из криейта.
 
-`26 Сентября` - **Обновление Часть 1: *Идеи Админа*** ✨<br/> 
+`26 Сентября` - **Обновление Часть 1: *Идеи Админа*** <br/> 
 \- Открытие энда в 16:00 по МСК<br/> 
 \- Эндер еда, различные виды эндерменов, новые механики дракона, новые биомы Энда.<br/> 
 \- Криейт конфеты, сжатые варианты сырья, переносной силос, автокрафтер, магниты, оптические датчики, трастеры все с поддержкой <Pill name="Valkyrien Skies" link="https://modrinth.com/mod/valkyrien-skies" image="https://cdn.modrinth.com/data/V5ujR2yw/d156dee2ce00ca6ce07343bf8db374a05893f376.png" color="#868dcc"/> <br/> 
 \- Удален <Pill name="Create Cobblestone" link="https://modrinth.com/mod/ihpnEd80" image="https://cdn.modrinth.com/data/ihpnEd80/3b04d5b3830e1f685d78fa765f928d94f11f5d65_96.webp" /> из-за критических проблем.<br/> 
-\- Перевод всех модов на русский<br/> 
+\- Перевод всех модов на русский язык<br/> 
+
+Изменения сборки -> **[Сборка](ml-create-3/modpack)**<br/> 
+
+`28 Сентября` - **Обновление Часть 2: *Идеи Игроков*** ✨<br/> 
+\- Оптимизация на стороне клиента и сервера <br/> 
+\- Удалены моды <Pill name="Create: Enchantable Machinery" link="https://modrinth.com/mod/create-enchantable-machinery" image="https://cdn.modrinth.com/data/eqrvp4NK/245c9219d033286021178416a33240f848321b5f_96.webp" /> и <Pill name="Palladium" link="https://modrinth.com/mod/mpalladium" image="https://cdn.modrinth.com/data/JNRr4jji/f278059c6af8dc0b8bf29b85915fa520bf20cbfb_96.webp" /> из-за багов<br/> 
+\- Нововведенные моды переведены на русский язык<br/> 
+
+От DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />:<br/> 
+\- Добавлены 4 мода для <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png" color="#868dcc"/><br/> 
+\- Добавлены 2 мода для геймплея<br/> 
+
+От AngelOf0laf <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>:<br/> 
+\- Добавлен 1 мод для <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png" color="#868dcc"/><br/>
 
 Изменения сборки -> **[Сборка](ml-create-3/modpack)**<br/> 
 
@@ -104,10 +118,8 @@ title: ML Create 3
 />
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `32` 
-**<span style="color: gray;"> (`30` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
-
-
+**<span style="color: gray;">Общее количество:</span>** `36` 
+**<span style="color: gray;"> (`34` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -140,6 +152,13 @@ title: ML Create 3
 - TumRedSun  <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - Izuro <img src="https://api.mineatar.io/face/555c6f03-0801-42f8-9db1-fe3faee0d604?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - xxxKiraxxxm <img src="https://api.mineatar.io/face/5a8d6840-36fe-45ef-adc3-64c1f4808e01?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- CoollCat00 <img src="https://api.mineatar.io/face/4508c757-b5cf-41da-9985-9aa8fc79ecf0?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- GLONK_BRETEN <img src="https://api.mineatar.io/face/646b8a96-2a37-4b8a-885e-7c1cc42ca87d?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- wagnergroup <img src="https://api.mineatar.io/face/0c77153e-2e69-4ca4-84a1-09ecdc9ab193?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- WIXSI_N <img src="https://api.mineatar.io/face/35cf0e0f-421f-4b8c-946f-fc4cee0ec346?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+
+
+
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> traksa_s <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1404086796350132405)</sub></span><br/>

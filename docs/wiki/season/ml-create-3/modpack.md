@@ -9,7 +9,7 @@ lastUpdated: false
 
 **Версия игры: <Badge type="info" text="1.20.1" />** 
 
-Версия сборки: <Badge type="tip" text="v2.7" />
+Версия сборки: <Badge type="tip" text="v3.10" />
 
 Загрузчик модов: <Badge type="info" text="Forge" />
 
@@ -18,7 +18,24 @@ lastUpdated: false
 *Следите за новостями сервера на канале `🌐│новости` чтобы узнавать про новую сборку и прочую информацию быстрее чем тут.*
 
 :::tabs 
-=== 2.9 ✨
+
+=== 3.10 ✨
+`28 Сентября`<br/>
+**<span style="color: red;">- удален</span>** <Pill name="Enchantable Machinery" link="https://modrinth.com/mod/create-enchantable-machinery" image="https://cdn.modrinth.com/data/eqrvp4NK/245c9219d033286021178416a33240f848321b5f_96.webp" /> <br/>
+**<span style="color: red;">- удален</span>** <Pill name="Palladium" link="https://modrinth.com/mod/mpalladium" image="https://cdn.modrinth.com/data/JNRr4jji/f278059c6af8dc0b8bf29b85915fa520bf20cbfb_96.webp" /><br/>
+
+**<span style="color: green;">+ добавлен</span>** <Pill name="Cosmetic Armor Reworked" link="https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked" image="https://media.forgecdn.net/avatars/thumbnails/27/600/64/64/635812915333870435.png" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Redstone Pen" link="https://modrinth.com/mod/redstonepen" image="https://cdn.modrinth.com/data/DwE83ioX/bd5d744fd430423838e204f635d9c11c9021a2a1.png" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="IngotCraft" link="https://modrinth.com/mod/ingotcraft" image="https://cdn.modrinth.com/data/Kma1RCF3/8dff22a7fdfcba2a89ef8b260ffb0f68a823de5f_96.webp" /> <br/>
+
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create Tweaked Controllers" link="https://modrinth.com/mod/create-tweaked-controllers" image="https://cdn.modrinth.com/data/H6bJ8Ju4/4be0c8e0ca42f40e51e13ce4ec2d0640d2beaa70_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create Tank Defenses" link="https://modrinth.com/mod/create-confectionery" image="https://cdn.modrinth.com/data/WPE5gRs9/1775c489db990d4c47fa946d6fef9f2479b6ff77_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create Big Canons: Advanced Technologies" link="https://modrinth.com/mod/create-big-cannons-advanced-technologies" image="https://cdn.modrinth.com/data/pTfszyXD/a32623a917f53283b9ddfe1e833bf4179084bc41_96.webp"/> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create Easy Stone Generators" link="https://modrinth.com/mod/create-stone-generators" image="https://cdn.modrinth.com/data/aeW9oim1/aea313f58e618fdf4314bea2d9d8553ec8ea926d_96.webp" /> <br/>
+
+✒️ **<span style="color: yellow;">изменен крафт</span>** <Pill name="Create Easy Stone Generators" link="https://modrinth.com/mod/create-stone-generators" image="https://cdn.modrinth.com/data/aeW9oim1/aea313f58e618fdf4314bea2d9d8553ec8ea926d_96.webp" /> 1 блок -> 5 блоков производства   
+
+=== 2.9
 `26 Сентября`<br/>
 **<span style="color: red;">- удален</span>** <Pill name="Create Cobblestone" link="https://modrinth.com/mod/ihpnEd80" image="https://cdn.modrinth.com/data/ihpnEd80/3b04d5b3830e1f685d78fa765f928d94f11f5d65_96.webp" /> <br/>
 
@@ -56,34 +73,24 @@ lastUpdated: false
 
 <BoxCube :items="[ 
     { 
-      name: 'Confectionery', 
-      link: 'https://modrinth.com/mod/create-confectionery', 
-      image: 'https://cdn.modrinth.com/data/WPE5gRs9/1775c489db990d4c47fa946d6fef9f2479b6ff77_96.webp', 
-      desc: '✨ NEW ✨'
+      name: 'Tweaked Controllers', 
+      link: 'https://modrinth.com/mod/create-tweaked-controllers', 
+      image: 'https://cdn.modrinth.com/data/H6bJ8Ju4/4be0c8e0ca42f40e51e13ce4ec2d0640d2beaa70_96.webp', desc: '✨ NEW ✨'
     },
     { 
-      name: 'Compressed', 
-      link: 'https://modrinth.com/mod/create-compressed', 
-      image: 'https://cdn.modrinth.com/data/Sy4Box1J/710673272efece7ff2ee69d9c3ab9f5e22579eef_96.webp',
-      desc: '✨ NEW ✨'
+      name: 'Tank Defenses', 
+      link: 'https://modrinth.com/mod/create-tank-defenses', 
+      image: 'https://cdn.modrinth.com/data/21JTaupZ/c7932240fa6a9102d9a5b895d104066daa1a4621_96.webp', desc: '✨ NEW ✨'
     },
     { 
-      name: 'Logistics', 
-      link: 'https://modrinth.com/mod/create-logistics', 
-      image: 'https://cdn.modrinth.com/data/RsV38LRE/279684164480d87af0981e523a104691165d7242_96.webp', 
-      desc: '✨ NEW ✨'
+      name: 'Easy Stone Generators', 
+      link: 'https://modrinth.com/mod/create-stone-generators', 
+      image: 'https://cdn.modrinth.com/data/aeW9oim1/aea313f58e618fdf4314bea2d9d8553ec8ea926d_96.webp', desc: '✨ | 📝'
     },
     { 
-      name: 'Smart Crafter', 
-      link: 'https://modrinth.com/mod/create-smart-crafter', 
-      image: 'https://cdn.modrinth.com/data/Boz7GXeA/0acb985dde8b373d695a0d6329743990dfd0b95e_96.webp', 
-      desc: '✨ NEW ✨'
-    },
-    { 
-      name: 'Propulsion', 
-      link: 'https://modrinth.com/mod/create-propulsion', 
-      image: 'https://cdn.modrinth.com/data/fmudhH0S/eae4733a7800e555a6bc0801d27a9adca8f372cf_96.webp', 
-      desc: '✨ NEW ✨'
+      name: 'CBC: Advanced Technologies', 
+      link: 'https://modrinth.com/mod/create-big-cannons-advanced-technologies', 
+      image: 'https://cdn.modrinth.com/data/pTfszyXD/a32623a917f53283b9ddfe1e833bf4179084bc41_96.webp', desc: '✨ NEW ✨'
     },
     { 
       name: 'Create', 
@@ -92,15 +99,35 @@ lastUpdated: false
       desc: 'v0.5.1.j'
     },
     { 
+      name: 'Confectionery', 
+      link: 'https://modrinth.com/mod/create-confectionery', 
+      image: 'https://cdn.modrinth.com/data/WPE5gRs9/1775c489db990d4c47fa946d6fef9f2479b6ff77_96.webp', 
+    },
+    { 
+      name: 'Compressed', 
+      link: 'https://modrinth.com/mod/create-compressed', 
+      image: 'https://cdn.modrinth.com/data/Sy4Box1J/710673272efece7ff2ee69d9c3ab9f5e22579eef_96.webp',
+    },
+    { 
+      name: 'Logistics', 
+      link: 'https://modrinth.com/mod/create-logistics', 
+      image: 'https://cdn.modrinth.com/data/RsV38LRE/279684164480d87af0981e523a104691165d7242_96.webp', 
+    },
+    { 
+      name: 'Smart Crafter', 
+      link: 'https://modrinth.com/mod/create-smart-crafter', 
+      image: 'https://cdn.modrinth.com/data/Boz7GXeA/0acb985dde8b373d695a0d6329743990dfd0b95e_96.webp', 
+    },
+    { 
+      name: 'Propulsion', 
+      link: 'https://modrinth.com/mod/create-propulsion', 
+      image: 'https://cdn.modrinth.com/data/fmudhH0S/eae4733a7800e555a6bc0801d27a9adca8f372cf_96.webp', 
+    },
+    { 
       name: 'Create Big Cannons', 
       link: 'https://modrinth.com/mod/create-big-cannons', 
       image: 'https://cdn.modrinth.com/data/GWp4jCJj/39d228c7abac7bb782db7d3f203a24beb164455f_96.webp', 
     },
-    // {
-    //   name: 'Create Cobblestone',
-    //   link: 'https://modrinth.com/mod/ihpnEd80',
-    //   image: 'https://cdn.modrinth.com/data/ihpnEd80/3b04d5b3830e1f685d78fa765f928d94f11f5d65_96.webp',
-    // },
     { 
       name: 'Create: Connected', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/create-connected', 
@@ -186,7 +213,6 @@ lastUpdated: false
       link: 'https://www.curseforge.com/minecraft/mc-mods/testosterone', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/1316/188/64/64/638855798665415439.png', 
     },
-    // <!--  -->
     { 
       name: 'Bells & Whistles', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles', 
@@ -233,11 +259,6 @@ lastUpdated: false
       image: 'https://cdn.modrinth.com/data/evMQRxqV/1991dd42b6eb743f8770435e609972e0446b2f5b_96.webp', 
     },
     { 
-      name: 'Enchantable Machinery', 
-      link: 'https://modrinth.com/mod/create-enchantable-machinery', 
-      image: 'https://cdn.modrinth.com/data/eqrvp4NK/245c9219d033286021178416a33240f848321b5f_96.webp', 
-    },
-    { 
       name: 'Enchantment Industry', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/624/857/256/256/638021175448741701.png', 
@@ -280,7 +301,7 @@ lastUpdated: false
 ]"/>
 
 
-=== Совместимости
+=== Совместимости ✨
 
 <BoxCube :items="[ 
     { 
@@ -293,6 +314,11 @@ lastUpdated: false
       link: 'https://www.curseforge.com/minecraft/mc-mods/create-clockwork', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/925/381/64/64/638393946266044506_animated.gif', 
     },
+    { 
+      name: 'IngotCraft', 
+      link: 'https://modrinth.com/mod/ingotcraft', 
+      image: 'https://cdn.modrinth.com/data/Kma1RCF3/8dff22a7fdfcba2a89ef8b260ffb0f68a823de5f_96.webp', desc: '✨ NEW ✨'
+    },
 ]"/>
 
 ::::
@@ -304,14 +330,13 @@ lastUpdated: false
 
 ℹ️ Моды которые добавляют вайб типа декоративных блоков, генерации, еффекты там всякие крч похуй
 
-=== Генерация ✨
+=== Генерация
 
 <BoxCube :items="[
     { 
       name: 'Endless Biomes', 
       link: 'https://modrinth.com/mod/endless-biomes', 
       image: 'https://cdn.modrinth.com/data/pzR01ieE/f49eb4b8d05e74a322738f2980aa2aff6d649279_96.webp', 
-      desc: '✨ NEW ✨'
     },
     { 
       name: 'Geophilic', 
@@ -335,13 +360,12 @@ lastUpdated: false
     },
 ]"/>
 
-=== Farmer's Delight ✨
+=== Farmer's Delight 
 <BoxCube :items="[
   { 
     name: 'Ender\'s Delight', 
     link: 'https://modrinth.com/mod/enders-delight', 
     image: 'https://cdn.modrinth.com/data/2uEhdGKt/0cf9c0392fdec68443e8c1136f78a5a5485d2cbb_96.webp', 
-    desc: '✨ NEW ✨'
   },
   { 
     name: 'Farmer\'s Delight', 
@@ -371,28 +395,13 @@ lastUpdated: false
 ]"
 />
 
-=== Функции 
+=== Функции ✨
 <!-- Тут крч таблица и вставлено 3 отдельных BoxCube и так как они должны быть в 1 строке оно так выглядит страшно ункпунк -->
-|<Pill name="Etched Гайд" link="/wiki/season/ml-create-3/etched" image="https://media.forgecdn.net/avatars/thumbnails/939/472/64/64/638419301379970746.png" color="#868dcc"  />| <Pill name="ParCool! Гайд" link="/wiki/season/ml-create-3/parcool" image="https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png" color="#868dcc"  />||
-|:-:|:-:|:-:|
-|<BoxCube :items="[{name: 'Etched',link: 'https://www.curseforge.com/minecraft/mc-mods/etched', image: 'https://media.forgecdn.net/avatars/thumbnails/939/472/64/64/638419301379970746.png',},]"/>|<BoxCube :items="[{name: 'ParCool!',link: 'https://www.curseforge.com/minecraft/mc-mods/parcool', image: 'https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png',},]"/>|<BoxCube :items="[{ name: 'Exposure', link: 'https://www.curseforge.com/minecraft/mc-mods/exposure', image: 'https://media.forgecdn.net/avatars/thumbnails/1029/426/256/256/638551434733696364_animated.gif', },]"/>|
-<!-- <BoxCube :items="[
-    { 
-      name: 'Etched', 
-       link: 'https://www.curseforge.com/minecraft/mc-mods/etched', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/939/472/64/64/638419301379970746.png',
-    },
-    { 
-      name: 'ParCool!', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/parcool', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png', 
-    },
-    { 
-      name: 'Exposure', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/exposure', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1029/426/256/256/638551434733696364_animated.gif', 
-    },
-]"/> -->
+|<Pill name="Etched Гайд" link="/wiki/season/ml-create-3/etched" image="https://media.forgecdn.net/avatars/thumbnails/939/472/64/64/638419301379970746.png" color="#868dcc"  />| <Pill name="ParCool! Гайд" link="/wiki/season/ml-create-3/parcool" image="https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png" color="#868dcc"  />|||
+|:-:|:-:|:-:|:-:|
+|<BoxCube :items="[{name: 'Etched',link: 'https://www.curseforge.com/minecraft/mc-mods/etched', image: 'https://media.forgecdn.net/avatars/thumbnails/939/472/64/64/638419301379970746.png',},]"/>|<BoxCube :items="[{name: 'ParCool!',link: 'https://www.curseforge.com/minecraft/mc-mods/parcool', image: 'https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png',},]"/>|<BoxCube :items="[{ name: 'Exposure', link: 'https://www.curseforge.com/minecraft/mc-mods/exposure', image: 'https://media.forgecdn.net/avatars/thumbnails/1029/426/256/256/638551434733696364_animated.gif', },]"/>|<BoxCube :items="[{ name: 'Cosmetic Armor Reworked', link: 'https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked', image: 'https://media.forgecdn.net/avatars/thumbnails/27/600/64/64/635812915333870435.png',desc: '✨ NEW ✨' },]"/>|
+|<BoxCube :items="[{ name: 'Redstone Pen', link: 'https://modrinth.com/mod/redstonepen', image: 'https://cdn.modrinth.com/data/DwE83ioX/bd5d744fd430423838e204f635d9c11c9021a2a1.png',desc: '✨ NEW ✨' },]"/>|||
+
 
 
 === Анимации
@@ -421,13 +430,12 @@ lastUpdated: false
     },
 ]"/>
 
-=== Атмосфера ✨
+=== Атмосфера 
 <BoxCube :items="[
     {
       name: 'Enderman Overhaul',
       link: 'https://modrinth.com/mod/enderman-overhaul',
       image: 'https://cdn.modrinth.com/data/Lq6ojcWv/bd2b1e2cc0a730dbefcb1604638e34b9bed21d85.png',
-      desc: '✨ NEW ✨'
     },
     {
       name: 'AmbientSounds',
