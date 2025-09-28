@@ -104,8 +104,8 @@ title: ML Create 3
 />
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `30` 
-**<span style="color: gray;"> (`28` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span>** `32` 
+**<span style="color: gray;"> (`30` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 
@@ -138,6 +138,8 @@ title: ML Create 3
 - samirabxxl <img src="https://api.mineatar.io/face/6937184a-24de-443d-8aa4-d39975eea42b?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Weeklyz34 <img src="https://api.mineatar.io/face/f927ef51-042a-4274-ac59-54311e19b143?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - TumRedSun  <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Izuro <img src="https://api.mineatar.io/face/555c6f03-0801-42f8-9db1-fe3faee0d604?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- xxxKiraxxxm <img src="https://api.mineatar.io/face/5a8d6840-36fe-45ef-adc3-64c1f4808e01?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> traksa_s <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1404086796350132405)</sub></span><br/>
