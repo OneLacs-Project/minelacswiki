@@ -42,14 +42,6 @@ layout: doc
       ]
     },
     {
-      avatar: 'https://cdn.discordapp.com/avatars/791373241549586443/455753fb239e4f6aa7bcd8a6e90a5eed.webp?size=1024',
-      name: 'Mr_Frying',
-      title: 'Модератор',
-      links: [
-        { icon: 'discord', link: 'https://discord.com/users/791373241549586443' }
-      ]
-    },
-    {
       avatar: 'https://cdn.discordapp.com/avatars/648913024031129615/a2bdfd26b847fcce1227420419ba9a37.webp?size=1024',
       name: 'Inuki659',
       title: 'Модератор',
@@ -57,25 +49,9 @@ layout: doc
         { icon: 'discord', link: 'https://discord.com/users/648913024031129615' }
       ]
     },
-    {
-      avatar: 'https://cdn.discordapp.com/avatars/780060596456390706/557bd0ee53cee65160c92cdc7d1af56c.webp?size=1024',
-      name: 'qywyx',
-      title: 'Хелпер',
-      links: [
-        { icon: 'discord', link: 'https://discord.com/users/780060596456390706' }
-      ]
-    },
   ]
 
   const beta_testers = [
-    {
-      avatar: 'https://cdn.discordapp.com/avatars/1025547812945006592/38eed200572baacacccd35cb4d9c6500.webp?size=1024',
-      name: 'Gurman',
-      title: 'Бета-тестер',
-      links: [
-        { icon: 'discord', link: 'https://discord.com/users/1025547812945006592' }
-      ]
-    },
     {
       avatar: 'https://cdn.discordapp.com/avatars/506820120694358036/e8343e4f1564f128691385004741b924.webp?size=1024',
       name: 'DVD314',
