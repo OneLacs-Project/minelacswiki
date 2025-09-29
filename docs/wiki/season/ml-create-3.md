@@ -117,15 +117,9 @@ title: ML Create 3
   ]"
 />
 
-
-
-
-
-
-
 ## Участники 
 **<span style="color: gray;">Общее количество:</span>** `36` 
-**<span style="color: gray;"> (`33` + `3` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;"> (`34` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -150,6 +144,7 @@ title: ML Create 3
 - Shadow1Sonic8 <img src="https://api.mineatar.io/face/ec122386-48e2-4b50-ad08-f26339fd3037?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - KPT_DanTeeZ <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - FrO_sTy <img src="https://api.mineatar.io/face/27d5f6c3-5227-411c-99cd-7d876c769d4f?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- K0LDUN <img src="https://api.mineatar.io/face/1c46057e-9a67-4310-9e92-2e2dd0994152?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <iconify-icon icon="solar:user-check-bold-duotone"  style="margin:center;color: #00FF00"></iconify-icon>
 - Hylech <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - Fantom <img src="https://api.mineatar.io/face/1fc65db4-6b33-442f-ba93-427a554371ac?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - samirabxxl <img src="https://api.mineatar.io/face/6937184a-24de-443d-8aa4-d39975eea42b?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -168,6 +163,5 @@ title: ML Create 3
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> traksa_s <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1404086796350132405)</sub></span><br/>
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> Avacando <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/><span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1419416641187348661)</sub></span><br/>
-<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> K0LDUN <img src="https://api.mineatar.io/face/1c46057e-9a67-4310-9e92-2e2dd0994152?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /><span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1422000111457800224)</sub></span><br/>
 
 
