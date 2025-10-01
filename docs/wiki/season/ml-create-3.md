@@ -117,9 +117,15 @@ title: ML Create 3
   ]"
 />
 
+
+
+
+
+
+
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `36` 
-**<span style="color: gray;"> (`34` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span>** `40` 
+**<span style="color: gray;"> (`38` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -156,8 +162,10 @@ title: ML Create 3
 - GLONK_BRETEN <img src="https://api.mineatar.io/face/646b8a96-2a37-4b8a-885e-7c1cc42ca87d?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - wagnergroup <img src="https://api.mineatar.io/face/0c77153e-2e69-4ca4-84a1-09ecdc9ab193?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - WIXSI_N <img src="https://api.mineatar.io/face/35cf0e0f-421f-4b8c-946f-fc4cee0ec346?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
-
-
+- Dovinchik <img src="https://api.mineatar.io/face/6698c234-c3d8-499d-9160-9896dc8b29eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- mushroomich_ <img src="https://api.mineatar.io/face/ed835c7b-f930-42ef-9698-4b4ba11bc990?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- 8526_ <img src="https://api.mineatar.io/face/306f233d-3c90-4eb5-8fc2-fbfd09637791?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- yorru_de <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
