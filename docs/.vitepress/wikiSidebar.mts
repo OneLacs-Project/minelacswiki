@@ -26,9 +26,9 @@ export const wikiSidebar = {
         { // Категория сезонов
           text: 'Сезон',
           items: [
-            { text: '🏗️ ML Create 3 ✨', link: '/wiki/season/ml-create-3', 
+            { text: '🏗️ ML Create 3 ', link: '/wiki/season/ml-create-3', 
               collapsed: true, items: [
-                { text: '📦 Сборка ✨', link: '/wiki/season/ml-create-3/modpack'},
+                { text: '📦 Сборка ', link: '/wiki/season/ml-create-3/modpack'},
                 { text: '🤸‍♂️ ParCool', link: '/wiki/season/ml-create-3/parcool' },
                 { text: '💿 Etched', link: '/wiki/season/ml-create-3/etched'},
                 { text: '💬 FlectoneChat', link: '/wiki/season/ml-create-3/flectone-chat' },

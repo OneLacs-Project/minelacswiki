@@ -19,7 +19,7 @@ lastUpdated: false
 
 :::tabs 
 
-=== 3.10 ✨
+=== 3.10 
 `28 Сентября`<br/>
 **<span style="color: red;">- удален</span>** <Pill name="Enchantable Machinery" link="https://modrinth.com/mod/create-enchantable-machinery" image="https://cdn.modrinth.com/data/eqrvp4NK/245c9219d033286021178416a33240f848321b5f_96.webp" /> <br/>
 **<span style="color: red;">- удален</span>** <Pill name="Palladium" link="https://modrinth.com/mod/mpalladium" image="https://cdn.modrinth.com/data/JNRr4jji/f278059c6af8dc0b8bf29b85915fa520bf20cbfb_96.webp" /><br/>
@@ -62,41 +62,41 @@ lastUpdated: false
 ## Моды  
 *<span style="color: gray;"><sup>Это не полный и не динамичный список модов сборки, библиотеки и часть модов могут быть не указаны. </sup></span>*
 
-### Create ✨
+### Create 
 :::: tabs 
 
 === ℹ️
 
 ℹ️ Моды с тематикой мода <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/64/64/638598725500886388.png" />
 
-=== Create ✨
+=== Create 
 
 <BoxCube :items="[ 
-    { 
-      name: 'Tweaked Controllers', 
-      link: 'https://modrinth.com/mod/create-tweaked-controllers', 
-      image: 'https://cdn.modrinth.com/data/H6bJ8Ju4/4be0c8e0ca42f40e51e13ce4ec2d0640d2beaa70_96.webp', desc: '✨ NEW ✨'
-    },
-    { 
-      name: 'Tank Defenses', 
-      link: 'https://modrinth.com/mod/create-tank-defenses', 
-      image: 'https://cdn.modrinth.com/data/21JTaupZ/c7932240fa6a9102d9a5b895d104066daa1a4621_96.webp', desc: '✨ NEW ✨'
-    },
-    { 
-      name: 'Easy Stone Generators', 
-      link: 'https://modrinth.com/mod/create-stone-generators', 
-      image: 'https://cdn.modrinth.com/data/aeW9oim1/aea313f58e618fdf4314bea2d9d8553ec8ea926d_96.webp', desc: '✨ | 📝'
-    },
-    { 
-      name: 'CBC: Advanced Technologies', 
-      link: 'https://modrinth.com/mod/create-big-cannons-advanced-technologies', 
-      image: 'https://cdn.modrinth.com/data/pTfszyXD/a32623a917f53283b9ddfe1e833bf4179084bc41_96.webp', desc: '✨ NEW ✨'
-    },
     { 
       name: 'Create', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/create', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png',
       desc: 'v0.5.1.j'
+    },
+    { 
+      name: 'Tweaked Controllers', 
+      link: 'https://modrinth.com/mod/create-tweaked-controllers', 
+      image: 'https://cdn.modrinth.com/data/H6bJ8Ju4/4be0c8e0ca42f40e51e13ce4ec2d0640d2beaa70_96.webp', 
+    },
+    { 
+      name: 'Tank Defenses', 
+      link: 'https://modrinth.com/mod/create-tank-defenses', 
+      image: 'https://cdn.modrinth.com/data/21JTaupZ/c7932240fa6a9102d9a5b895d104066daa1a4621_96.webp', 
+    },
+    { 
+      name: 'Easy Stone Generators', 
+      link: 'https://modrinth.com/mod/create-stone-generators', 
+      image: 'https://cdn.modrinth.com/data/aeW9oim1/aea313f58e618fdf4314bea2d9d8553ec8ea926d_96.webp', 
+    },
+    { 
+      name: 'CBC: Advanced Technologies', 
+      link: 'https://modrinth.com/mod/create-big-cannons-advanced-technologies', 
+      image: 'https://cdn.modrinth.com/data/pTfszyXD/a32623a917f53283b9ddfe1e833bf4179084bc41_96.webp', 
     },
     { 
       name: 'Confectionery', 
@@ -301,7 +301,7 @@ lastUpdated: false
 ]"/>
 
 
-=== Совместимости ✨
+=== Совместимости 
 
 <BoxCube :items="[ 
     { 
@@ -317,13 +317,13 @@ lastUpdated: false
     { 
       name: 'IngotCraft', 
       link: 'https://modrinth.com/mod/ingotcraft', 
-      image: 'https://cdn.modrinth.com/data/Kma1RCF3/8dff22a7fdfcba2a89ef8b260ffb0f68a823de5f_96.webp', desc: '✨ NEW ✨'
+      image: 'https://cdn.modrinth.com/data/Kma1RCF3/8dff22a7fdfcba2a89ef8b260ffb0f68a823de5f_96.webp', 
     },
 ]"/>
 
 ::::
 
-### Вайб ✨
+### Вайб 
 :::: tabs 
 
 === ℹ️
@@ -395,12 +395,12 @@ lastUpdated: false
 ]"
 />
 
-=== Функции ✨
+=== Функции 
 <!-- Тут крч таблица и вставлено 3 отдельных BoxCube и так как они должны быть в 1 строке оно так выглядит страшно ункпунк -->
 |<Pill name="Etched Гайд" link="/wiki/season/ml-create-3/etched" image="https://media.forgecdn.net/avatars/thumbnails/939/472/64/64/638419301379970746.png" color="#868dcc"  />| <Pill name="ParCool! Гайд" link="/wiki/season/ml-create-3/parcool" image="https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png" color="#868dcc"  />|||
 |:-:|:-:|:-:|:-:|
-|<BoxCube :items="[{name: 'Etched',link: 'https://www.curseforge.com/minecraft/mc-mods/etched', image: 'https://media.forgecdn.net/avatars/thumbnails/939/472/64/64/638419301379970746.png',},]"/>|<BoxCube :items="[{name: 'ParCool!',link: 'https://www.curseforge.com/minecraft/mc-mods/parcool', image: 'https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png',},]"/>|<BoxCube :items="[{ name: 'Exposure', link: 'https://www.curseforge.com/minecraft/mc-mods/exposure', image: 'https://media.forgecdn.net/avatars/thumbnails/1029/426/256/256/638551434733696364_animated.gif', },]"/>|<BoxCube :items="[{ name: 'Cosmetic Armor Reworked', link: 'https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked', image: 'https://media.forgecdn.net/avatars/thumbnails/27/600/64/64/635812915333870435.png',desc: '✨ NEW ✨' },]"/>|
-|<BoxCube :items="[{ name: 'Redstone Pen', link: 'https://modrinth.com/mod/redstonepen', image: 'https://cdn.modrinth.com/data/DwE83ioX/bd5d744fd430423838e204f635d9c11c9021a2a1.png',desc: '✨ NEW ✨' },]"/>|||
+|<BoxCube :items="[{name: 'Etched',link: 'https://www.curseforge.com/minecraft/mc-mods/etched', image: 'https://media.forgecdn.net/avatars/thumbnails/939/472/64/64/638419301379970746.png',},]"/>|<BoxCube :items="[{name: 'ParCool!',link: 'https://www.curseforge.com/minecraft/mc-mods/parcool', image: 'https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png',},]"/>|<BoxCube :items="[{ name: 'Exposure', link: 'https://www.curseforge.com/minecraft/mc-mods/exposure', image: 'https://media.forgecdn.net/avatars/thumbnails/1029/426/256/256/638551434733696364_animated.gif', },]"/>|<BoxCube :items="[{ name: 'Cosmetic Armor Reworked', link: 'https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked', image: 'https://media.forgecdn.net/avatars/thumbnails/27/600/64/64/635812915333870435.png', },]"/>|
+|<BoxCube :items="[{ name: 'Redstone Pen', link: 'https://modrinth.com/mod/redstonepen', image: 'https://cdn.modrinth.com/data/DwE83ioX/bd5d744fd430423838e204f635d9c11c9021a2a1.png', },]"/>|||
 
 
 

@@ -23,7 +23,7 @@ title: ML Create 3
 ## Документации / Ресурсы
 <Links :items="[
     { 
-        name: 'Сборка ✨', 
+        name: 'Сборка', 
         link: 'ml-create-3/modpack', 
         icon: 'solar:box-bold-duotone',
         color: '#868dcc'
@@ -69,7 +69,7 @@ title: ML Create 3
 
 ## История
 
-::: details Cентябрь 2025 ✨
+::: details Cентябрь 2025 
 
 `19 Cентября` - **<span style="color: green;">Сезон начался</span>**
 
@@ -84,7 +84,7 @@ title: ML Create 3
 
 Изменения сборки -> **[Сборка](ml-create-3/modpack)**<br/> 
 
-`28 Сентября` - **Обновление Часть 2: *Идеи Игроков*** ✨<br/> 
+`28 Сентября` - **Обновление Часть 2: *Идеи Игроков*** <br/> 
 \- Оптимизация на стороне клиента и сервера <br/> 
 \- Удалены моды <Pill name="Create: Enchantable Machinery" link="https://modrinth.com/mod/create-enchantable-machinery" image="https://cdn.modrinth.com/data/eqrvp4NK/245c9219d033286021178416a33240f848321b5f_96.webp" /> и <Pill name="Palladium" link="https://modrinth.com/mod/mpalladium" image="https://cdn.modrinth.com/data/JNRr4jji/f278059c6af8dc0b8bf29b85915fa520bf20cbfb_96.webp" /> из-за багов<br/> 
 \- Нововведенные моды переведены на русский язык<br/> 
@@ -124,8 +124,8 @@ title: ML Create 3
 
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `40` 
-**<span style="color: gray;"> (`38` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span>** `41` 
+**<span style="color: gray;"> (`39` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -166,6 +166,7 @@ title: ML Create 3
 - mushroomich_ <img src="https://api.mineatar.io/face/ed835c7b-f930-42ef-9698-4b4ba11bc990?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - 8526_ <img src="https://api.mineatar.io/face/306f233d-3c90-4eb5-8fc2-fbfd09637791?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - yorru_de <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Just <img src="https://api.mineatar.io/face/306f233d-3c90-4eb5-8fc2-fbfd09637791?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
