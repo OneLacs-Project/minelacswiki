@@ -165,7 +165,7 @@ title: ML Create 3
 - mushroomich_ <img src="https://api.mineatar.io/face/ed835c7b-f930-42ef-9698-4b4ba11bc990?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - 8526_ <img src="https://api.mineatar.io/face/306f233d-3c90-4eb5-8fc2-fbfd09637791?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - yorru_de <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
-- Just <img src="https://api.mineatar.io/face/306f233d-3c90-4eb5-8fc2-fbfd09637791?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Just <img src="https://api.mineatar.io/face/698efff3-fe26-4bbd-b56f-f61715cf0b82?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
