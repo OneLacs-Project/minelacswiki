@@ -75,7 +75,7 @@ title: ML Create 3
 
 `25 Сентября` - Мини-обновление ресурспака: Добавлен русификатор и фикс текстур из криейта.
 
-`26 Сентября` - **Обновление Часть 1: *Идеи Админа*** <br/> 
+`26 Сентября` - **Обновление 2 Часть 1: *Идеи Админа*** <br/> 
 \- Открытие энда в 16:00 по МСК<br/> 
 \- Эндер еда, различные виды эндерменов, новые механики дракона, новые биомы Энда.<br/> 
 \- Криейт конфеты, сжатые варианты сырья, переносной силос, автокрафтер, магниты, оптические датчики, трастеры все с поддержкой <Pill name="Valkyrien Skies" link="https://modrinth.com/mod/valkyrien-skies" image="https://cdn.modrinth.com/data/V5ujR2yw/d156dee2ce00ca6ce07343bf8db374a05893f376.png" color="#868dcc"/> <br/> 
@@ -84,7 +84,7 @@ title: ML Create 3
 
 Изменения сборки -> **[Сборка](ml-create-3/modpack)**<br/> 
 
-`28 Сентября` - **Обновление Часть 2: *Идеи Игроков*** <br/> 
+`28 Сентября` - **Обновление 2 Часть 2: *Идеи Игроков*** <br/> 
 \- Оптимизация на стороне клиента и сервера <br/> 
 \- Удалены моды <Pill name="Create: Enchantable Machinery" link="https://modrinth.com/mod/create-enchantable-machinery" image="https://cdn.modrinth.com/data/eqrvp4NK/245c9219d033286021178416a33240f848321b5f_96.webp" /> и <Pill name="Palladium" link="https://modrinth.com/mod/mpalladium" image="https://cdn.modrinth.com/data/JNRr4jji/f278059c6af8dc0b8bf29b85915fa520bf20cbfb_96.webp" /> из-за багов<br/> 
 \- Нововведенные моды переведены на русский язык<br/> 
@@ -99,6 +99,16 @@ title: ML Create 3
 Изменения сборки -> **[Сборка](ml-create-3/modpack)**<br/> 
 
 :::
+
+::: details Октябрь 2025 
+
+`...`
+<!-- `10 Октября` - **Обновление 3 Часть 1: *Идеи Админа*** <br/> 
+Изменения сборки -> **[Сборка](ml-create-3/modpack)**<br/>  -->
+
+
+:::
+
 ### Предыдущий сезон ML Create
 
 <Links :items="[
@@ -124,8 +134,8 @@ title: ML Create 3
 
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `46` 
-**<span style="color: gray;"> (`43` + `3` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span>** `48` 
+**<span style="color: gray;"> (`45` + `3` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -171,6 +181,8 @@ title: ML Create 3
 - 21asaser <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - jemakas <img src="https://api.mineatar.io/face/a565f65d-2e93-4edc-9571-30c61d0f9969?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> 
 - DIONISTER  <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- MrArs1   <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Tvoi_hozain14888  <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> traksa_s <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1404086796350132405)</sub></span><br/>
