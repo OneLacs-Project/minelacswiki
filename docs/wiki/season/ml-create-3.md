@@ -134,8 +134,8 @@ title: ML Create 3
 
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `59` 
-**<span style="color: gray;"> (`56` + `3` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span>** `62` 
+**<span style="color: gray;"> (`59` + `3` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -194,6 +194,9 @@ title: ML Create 3
 - perebudishka <img src="https://api.mineatar.io/face/d72cf2d4-3225-4717-b742-dc1ed0f9225b?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Morendy_ <img src="https://api.mineatar.io/face/8b8b1b8a-13d3-4a3e-9f8a-776a73aee53d?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - GtNidr0l <img src="https://api.mineatar.io/face/e9e3a94e-e2c1-4b82-9043-f5902dd438a2?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Xxxzolcse1xxX <img src="https://api.mineatar.io/face/b769ef5f-53f4-4698-bbf0-8d78241f9417?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Qurshale <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- NO_LP77 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> traksa_s <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1404086796350132405)</sub></span><br/>
