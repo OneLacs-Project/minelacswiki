@@ -134,8 +134,8 @@ title: ML Create 3
 
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `62` 
-**<span style="color: gray;"> (`59` + `3` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span>** `72` 
+**<span style="color: gray;"> (`69` + `3` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -197,6 +197,16 @@ title: ML Create 3
 - Xxxzolcse1xxX <img src="https://api.mineatar.io/face/b769ef5f-53f4-4698-bbf0-8d78241f9417?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Qurshale <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - NO_LP77 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Ubobovich <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Erritalyn <img src="https://api.mineatar.io/face/c7fc5541-8a8a-4050-b43f-7257b9ee1f3f?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- \_3borg\_ <img src="https://api.mineatar.io/face/59760d9b-3730-4bae-9ad8-28c3fac3f53b?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- WildAgenda57726 <img src="https://api.mineatar.io/face/c0298caa-a651-4e62-8482-272ae28cddff?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- pechenkin99 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- natsuk_ashi <img src="https://api.mineatar.io/face/4b0f09b7-9d2d-45f8-bb17-3609729c4943?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- buther_billy <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Treskazavr <img src="https://api.mineatar.io/face/40d05950-be29-438e-8585-9c7af7b1f9f2?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- N01kss <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Russian___PVP <img src="https://api.mineatar.io/face/8e88ad3b-80ca-451b-9b1a-a6e677156d10?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> traksa_s <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1404086796350132405)</sub></span><br/>
