@@ -102,10 +102,13 @@ title: ML Create 3
 
 ::: details Октябрь 2025 
 
-`...`
-<!-- `10 Октября` - **Обновление 3 Часть 1: *Идеи Админа*** <br/> 
-Изменения сборки -> **[Сборка](ml-create-3/modpack)**<br/>  -->
+<br/><span style="color: gray;"><sub>пусто...</sub></span><br/>
 
+:::
+
+::: details Ноябрь 2025 
+
+`3 Ноября` - Сервер был остановлен на период перехода сервера на <Pill name="Create 6.0" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png" color="#868dcc"/> <br/> 
 
 :::
 
@@ -130,12 +133,9 @@ title: ML Create 3
 
 
 
-
-
-
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `74` 
-**<span style="color: gray;"> (`71` + `3` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span>** `75` 
+**<span style="color: gray;"> (`72` + `3` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -209,6 +209,7 @@ title: ML Create 3
 - Russian___PVP <img src="https://api.mineatar.io/face/8e88ad3b-80ca-451b-9b1a-a6e677156d10?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Real_Nayzixs <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - LololoshkaYT993 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Foxyandet <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> traksa_s <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1404086796350132405)</sub></span><br/>
