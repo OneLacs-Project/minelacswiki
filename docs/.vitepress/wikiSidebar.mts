@@ -35,8 +35,6 @@ export const wikiSidebar = {
                 { text: '💬 FlectoneChat', link: '/wiki/season/ml-create-3/flectone-chat' },
               ]
             },
-            { text: '🧑‍🎨 ML Pixel', link: '/wiki/season/ml-pixel'},
-            { text: '🥩 Саварубка', link: '/wiki/season/sawarubka'},
             { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},
           ]
         },
@@ -123,6 +121,8 @@ export const wikiSidebar = {
                 { text: 'MineMusic Mod', link: '/wiki/archive/ml-create/minemusic-mod'},
               ]
             },
+            { text: '🧑‍🎨 ML Pixel', link: '/wiki/archive/ml-pixel'},
+            { text: '🥩 Саварубка', link: '/wiki/archive/sawarubka'},
           ]
         },
         { // Категория о PLAY
