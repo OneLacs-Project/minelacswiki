@@ -110,6 +110,12 @@ title: ML Create 3
 
 `3 Ноября` - Сервер был остановлен на период перехода сервера на <Pill name="Create 6.0" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png" color="#868dcc"/> <br/> 
 
+`15 Ноября` - Администратор обьявил о продолжении сезона в скором времени, точная дата закодированна.<br/> 
+**Анонсированно**:<br/> 
+\- <Pill name="OneLauncher" link="../launcher" image="https://minelacs.fun/onelauncher/images/onelauncher_logo.png" color="#868dcc"/><br/> 
+\- <Pill name="Create 6.0.6" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png" color="#868dcc"/><br/> 
+\- Обновленные и новые аддоны
+
 :::
 
 ### Предыдущий сезон ML Create

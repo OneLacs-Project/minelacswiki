@@ -13,14 +13,15 @@ export const wikiSidebar = {
               text: '📑 Правила',
               link: '/rules/'
             },
-            { 
-              text: 'MineLacs Ultimate',
-              link: '/wiki/minelacs-ultimate'
-            },
             {
-              text: ' OneLauncher',
+              text: 'OneLauncher',
               link: '/wiki/launcher'
             },
+            { 
+              text: '<span style="color: #4e4e4eff;">MineLacs Ultimate</span>',
+              link: '/wiki/minelacs-ultimate'
+            },
+            
           ]
         },
         { // Категория сезонов
