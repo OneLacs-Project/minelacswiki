@@ -114,7 +114,13 @@ title: ML Create 3
 **Анонсированно**:<br/> 
 \- <Pill name="OneLauncher" link="../launcher" image="https://minelacs.fun/onelauncher/images/onelauncher_logo.png" color="#868dcc"/><br/> 
 \- <Pill name="Create 6.0.6" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png" color="#868dcc"/><br/> 
-\- Обновленные и новые аддоны
+\- Обновленные и новые аддоны<br/> 
+\- Другое
+
+`17 Ноября` - Точная дата была раскодирована и продолжение сезона состоится `21 Ноября`.<br/> 
+
+`21 Ноября` - *<span style="color: gray;">продолжение сезона</span>*
+
 
 :::
 
@@ -216,6 +222,7 @@ title: ML Create 3
 - Real_Nayzixs <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - LololoshkaYT993 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - Foxyandet <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+<!-- - b_r_u_h_</span> <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <iconify-icon icon="solar:user-check-bold-duotone"  style="margin:center;color: #00FF00"></iconify-icon> -->
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> traksa_s <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1404086796350132405)</sub></span><br/>
