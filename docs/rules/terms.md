@@ -4,8 +4,13 @@ outline: 3
 
 # 📜 Термины
 
-### **`Варн (Warning)`** <iconify-icon icon="solar:danger-triangle-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon>
-Предупреждение.
+###  **`ОПС`** <iconify-icon icon="solar:pin-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon><span style="color: gold;">**(НОВОЕ)**</span> {#опс}
+Аббревиатура. **[Основные Правила Сервера](categories/1-general).** 
+
+### **`Варн (Warning)`** <iconify-icon icon="solar:danger-triangle-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> <span style="color: green;">(ОБНОВЛЕНО)</span>
+Предупреждение.<br/>
+Срок действия: Варн действует `30 дней`, после чего автоматически сгорает.<br/>
+Эскалация: `3` активных варна приводят к автоматическому временному бану на `7 дней`.
 
 
  

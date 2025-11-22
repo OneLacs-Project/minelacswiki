@@ -23,7 +23,7 @@ title: ML Create 3
 ## Документации / Ресурсы
 <Links :items="[
     { 
-        name: 'Сборка', 
+        name: 'Сборка ✨', 
         link: 'ml-create-3/modpack', 
         icon: 'solar:box-bold-duotone',
         color: '#868dcc'
@@ -119,8 +119,13 @@ title: ML Create 3
 
 `17 Ноября` - Точная дата была раскодирована и продолжение сезона состоится `21 Ноября`.<br/> 
 
-`21 Ноября` - *<span style="color: gray;">продолжение сезона</span>*
+`21 Ноября` - Не соврал. Перезагрузка сезона, сервер ожил снова.<br/> 
+\- <Pill name="OneLauncher" link="../launcher" image="https://minelacs.fun/onelauncher/images/onelauncher_logo.png" color="#868dcc"/><br/> 
+\- <Pill name="Create 6.0.6" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png" color="#868dcc"/><br/> 
+\- Обновленные и новые аддоны<br/> 
+\- Другое
 
+Изменения сборки -> **[Сборка](ml-create-3/modpack)**<br/> 
 
 :::
 
@@ -145,9 +150,13 @@ title: ML Create 3
 
 
 
+
+
+
+
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `75` 
-**<span style="color: gray;"> (`72` + `3` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span>** `77` 
+**<span style="color: gray;"> (`75` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -222,9 +231,10 @@ title: ML Create 3
 - Real_Nayzixs <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - LololoshkaYT993 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - Foxyandet <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
-<!-- - b_r_u_h_</span> <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <iconify-icon icon="solar:user-check-bold-duotone"  style="margin:center;color: #00FF00"></iconify-icon> -->
+- m1nus1k <img src="https://api.mineatar.io/face/2b4b6a4e-dfc1-41b4-926a-6cd0e18fb786?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- qywyx  <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <iconify-icon icon="solar:user-check-bold-duotone"  style="margin:center;color: #00FF00"></iconify-icon>
+- TheLastWin <img src="https://api.mineatar.io/face/164c7179-10d2-4b88-be5a-3be76e216aca?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
-<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> traksa_s <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1404086796350132405)</sub></span><br/>
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> Avacando <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/><span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1419416641187348661)</sub></span><br/>
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> K0LDUN <img src="https://api.mineatar.io/face/1c46057e-9a67-4310-9e92-2e2dd0994152?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /><span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/https://discord.com/channels/1120257989874561066/1422000111457800224)</sub></span><br/>

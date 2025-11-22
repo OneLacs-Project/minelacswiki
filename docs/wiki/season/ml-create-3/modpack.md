@@ -9,7 +9,7 @@ lastUpdated: false
 
 **Версия игры: <Badge type="info" text="1.20.1" />** 
 
-Версия сборки: <Badge type="tip" text="v3.10" />
+Версия сборки: <Badge type="tip" text="v4..7" />
 
 Загрузчик модов: <Badge type="info" text="Forge" />
 
@@ -18,6 +18,19 @@ lastUpdated: false
 *Следите за новостями сервера на канале `🌐│новости` чтобы узнавать про новую сборку и прочую информацию быстрее чем тут.*
 
 :::tabs 
+=== 4.7
+`21 Ноября`<br/>
+
+⏫ <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png" /> **<span style="color: magenta;">обновлен</span>**  до версии `6.0.6`
+
+Больше о <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png" /> :<br/>
+\- Вьебало половину аддонов <br/>
+\- Обновлены некоторые аддоны<br/>
+\- Добавлено пару аддонов <br/>
+
+3 мода в [Вайб](#vibe)
+
+чет еще крч хз там много потом добавлю
 
 === 3.10 
 `28 Сентября`<br/>
@@ -62,67 +75,77 @@ lastUpdated: false
 ## Моды  
 *<span style="color: gray;"><sup>Это не полный и не динамичный список модов сборки, библиотеки и часть модов могут быть не указаны. </sup></span>*
 
-### Create 
+### Create ✨ {#create}
 :::: tabs 
 
 === ℹ️
 
 ℹ️ Моды с тематикой мода <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/64/64/638598725500886388.png" />
 
-=== Create 
+=== Create ✨
 
-<BoxCube :items="[ 
+<BoxCube :items="[
     { 
-      name: 'Create', 
+      name: 'Man of Many Planes ✨', 
+      link: 'https://modrinth.com/datapack/create-man-of-many-planes', 
+      image: 'https://cdn.modrinth.com/data/F4Rdk2PX/748866cf33abdf2103f757bbb3260dd86559c4f0_96.webp', 
+    },
+    { 
+      name: 'Escalated ✨', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/create-escalated', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/1261/902/64/64/638821569425963837_animated.gif', 
+    },
+    { 
+      name: 'Create ✨', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/create', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png',
-      desc: 'v0.5.1.j'
+      desc: 'v6.0.6'
     },
     { 
       name: 'Tweaked Controllers', 
       link: 'https://modrinth.com/mod/create-tweaked-controllers', 
       image: 'https://cdn.modrinth.com/data/H6bJ8Ju4/4be0c8e0ca42f40e51e13ce4ec2d0640d2beaa70_96.webp', 
     },
-    { 
-      name: 'Tank Defenses', 
-      link: 'https://modrinth.com/mod/create-tank-defenses', 
-      image: 'https://cdn.modrinth.com/data/21JTaupZ/c7932240fa6a9102d9a5b895d104066daa1a4621_96.webp', 
-    },
-    { 
-      name: 'Easy Stone Generators', 
-      link: 'https://modrinth.com/mod/create-stone-generators', 
-      image: 'https://cdn.modrinth.com/data/aeW9oim1/aea313f58e618fdf4314bea2d9d8553ec8ea926d_96.webp', 
-    },
-    { 
-      name: 'CBC: Advanced Technologies', 
-      link: 'https://modrinth.com/mod/create-big-cannons-advanced-technologies', 
-      image: 'https://cdn.modrinth.com/data/pTfszyXD/a32623a917f53283b9ddfe1e833bf4179084bc41_96.webp', 
-    },
+    // { 
+    //   name: 'Tank Defenses', 
+    //   link: 'https://modrinth.com/mod/create-tank-defenses', 
+    //   image: 'https://cdn.modrinth.com/data/21JTaupZ/c7932240fa6a9102d9a5b895d104066daa1a4621_96.webp', 
+    // },
+    // { 
+    //   name: 'Easy Stone Generators', 
+    //   link: 'https://modrinth.com/mod/create-stone-generators', 
+    //   image: 'https://cdn.modrinth.com/data/aeW9oim1/aea313f58e618fdf4314bea2d9d8553ec8ea926d_96.webp', 
+    // },
+    // { 
+    //   name: 'CBC: Advanced Technologies', 
+    //   link: 'https://modrinth.com/mod/create-big-cannons-advanced-technologies', 
+    //   image: 'https://cdn.modrinth.com/data/pTfszyXD/a32623a917f53283b9ddfe1e833bf4179084bc41_96.webp', 
+    // },
     { 
       name: 'Confectionery', 
       link: 'https://modrinth.com/mod/create-confectionery', 
       image: 'https://cdn.modrinth.com/data/WPE5gRs9/1775c489db990d4c47fa946d6fef9f2479b6ff77_96.webp', 
     },
-    { 
-      name: 'Compressed', 
-      link: 'https://modrinth.com/mod/create-compressed', 
-      image: 'https://cdn.modrinth.com/data/Sy4Box1J/710673272efece7ff2ee69d9c3ab9f5e22579eef_96.webp',
-    },
-    { 
-      name: 'Logistics', 
-      link: 'https://modrinth.com/mod/create-logistics', 
-      image: 'https://cdn.modrinth.com/data/RsV38LRE/279684164480d87af0981e523a104691165d7242_96.webp', 
-    },
+    // { 
+    //   name: 'Compressed', 
+    //   link: 'https://modrinth.com/mod/create-compressed', 
+    //   image: 'https://cdn.modrinth.com/data/Sy4Box1J/710673272efece7ff2ee69d9c3ab9f5e22579eef_96.webp',
+    // },
+    // { 
+    //   name: 'Logistics', 
+    //   link: 'https://modrinth.com/mod/create-logistics', 
+    //   image: 'https://cdn.modrinth.com/data/RsV38LRE/279684164480d87af0981e523a104691165d7242_96.webp', 
+    // },
     { 
       name: 'Smart Crafter', 
       link: 'https://modrinth.com/mod/create-smart-crafter', 
       image: 'https://cdn.modrinth.com/data/Boz7GXeA/0acb985dde8b373d695a0d6329743990dfd0b95e_96.webp', 
     },
-    { 
-      name: 'Propulsion', 
-      link: 'https://modrinth.com/mod/create-propulsion', 
-      image: 'https://cdn.modrinth.com/data/fmudhH0S/eae4733a7800e555a6bc0801d27a9adca8f372cf_96.webp', 
-    },
+    // { 
+    //   name: 'Propulsion', 
+    //   link: 'https://modrinth.com/mod/create-propulsion', 
+    //   image: 'https://cdn.modrinth.com/data/fmudhH0S/eae4733a7800e555a6bc0801d27a9adca8f372cf_96.webp', 
+    // },
     { 
       name: 'Create Big Cannons', 
       link: 'https://modrinth.com/mod/create-big-cannons', 
@@ -143,26 +166,26 @@ lastUpdated: false
       link: 'https://www.curseforge.com/minecraft/mc-mods/create-deco', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/1065/338/256/256/638598933457608969.png', 
     },
-    { 
-      name: 'Create: Dreams & Desires', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1065/286/64/64/638598847906933576_animated.gif', 
-    }, 
-    { 
-      name: 'Create: Estrogen', 
-      link: 'https://modrinth.com/mod/estrogen', 
-      image: 'https://cdn.modrinth.com/data/HhIJW8n1/1deae677c977a9631f59349019592ce0bbe6e1e4_96.webp', 
-    },
-    {
-      name: 'Create: Factory',
-      link: 'https://modrinth.com/mod/j6Zt3N7W',
-      image: 'https://cdn.modrinth.com/data/j6Zt3N7W/7695e7967fd8386954b8b2f13e579b99c7839650.png',
-    },
-    {
-      name: 'Create: Food',
-      link: 'https://modrinth.com/mod/4HnO3el1',
-      image: 'https://cdn.modrinth.com/data/4HnO3el1/83b7a516998acc6394c9990671eb3fd0e0dee164.gif',
-    },
+    // { 
+    //   name: 'Create: Dreams & Desires', 
+    //   link: 'https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires', 
+    //   image: 'https://media.forgecdn.net/avatars/thumbnails/1065/286/64/64/638598847906933576_animated.gif', 
+    // }, 
+    // { 
+    //   name: 'Create: Estrogen', 
+    //   link: 'https://modrinth.com/mod/estrogen', 
+    //   image: 'https://cdn.modrinth.com/data/HhIJW8n1/1deae677c977a9631f59349019592ce0bbe6e1e4_96.webp', 
+    // },
+    // {
+    //   name: 'Create: Factory',
+    //   link: 'https://modrinth.com/mod/j6Zt3N7W',
+    //   image: 'https://cdn.modrinth.com/data/j6Zt3N7W/7695e7967fd8386954b8b2f13e579b99c7839650.png',
+    // },
+    // {
+    //   name: 'Create: Food',
+    //   link: 'https://modrinth.com/mod/4HnO3el1',
+    //   image: 'https://cdn.modrinth.com/data/4HnO3el1/83b7a516998acc6394c9990671eb3fd0e0dee164.gif',
+    // },
     {
       name: 'Create: Framed',
       link: 'https://modrinth.com/mod/15fFZ3f4',
@@ -173,11 +196,11 @@ lastUpdated: false
       link: 'https://modrinth.com/mod/hypertube', 
       image: 'https://cdn.modrinth.com/data/ATDdrG1y/622fba3a3de39a3e9cfc09fdb0c3c94132ae0fd8_96.webp', 
     },
-    { 
-      name: 'Create: Interactive', 
-      link: 'https://modrinth.com/mod/interactive', 
-      image: 'https://cdn.modrinth.com/data/MyfCcqiE/f8e2aaaf20d95e513d8817248d3aa8cb55f01615_96.webp', 
-    },
+    // { 
+    //   name: 'Create: Interactive', 
+    //   link: 'https://modrinth.com/mod/interactive', 
+    //   image: 'https://cdn.modrinth.com/data/MyfCcqiE/f8e2aaaf20d95e513d8817248d3aa8cb55f01615_96.webp', 
+    // },
     { 
       name: 'Create: Interiors', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/interiors', 
@@ -188,11 +211,11 @@ lastUpdated: false
       link: 'https://www.curseforge.com/minecraft/mc-mods/create-jetpack', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/585/29/256/256/637951524914026425.png',
     },
-    { 
-      name: 'Create: Liquid Fuel', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/create-liquid-fuel', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/793/156/256/256/638150866140201762.png', 
-    },
+    // { 
+    //   name: 'Create: Liquid Fuel', 
+    //   link: 'https://www.curseforge.com/minecraft/mc-mods/create-liquid-fuel', 
+    //   image: 'https://media.forgecdn.net/avatars/thumbnails/793/156/256/256/638150866140201762.png', 
+    // },
     { 
       name: 'Create: Radars', 
       link: 'https://modrinth.com/mod/create-radars', 
@@ -208,26 +231,26 @@ lastUpdated: false
       link: 'https://www.curseforge.com/minecraft/mc-mods/slice-and-dice', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/1076/930/256/256/638614872387774853.png', 
     },
-    { 
-      name: 'Create: Testosterone', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/testosterone', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1316/188/64/64/638855798665415439.png', 
-    },
+    // { 
+    //   name: 'Create: Testosterone', 
+    //   link: 'https://www.curseforge.com/minecraft/mc-mods/testosterone', 
+    //   image: 'https://media.forgecdn.net/avatars/thumbnails/1316/188/64/64/638855798665415439.png', 
+    // },
     { 
       name: 'Bells & Whistles', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/1068/437/256/256/638602929669872740.png', 
     },
-    { 
-      name: 'Central Kitchen', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/770/583/256/256/638109213062028041.png', 
-    },
-    { 
-      name: 'Contraption Terminals', 
-      link: 'https://modrinth.com/mod/create-contraption-terminals', 
-      image: 'https://cdn.modrinth.com/data/gOPAFzp0/52b05061fcf8c8368c3e92b6ca3a76c79041c3b7_96.webp', 
-    },
+    // { 
+    //   name: 'Central Kitchen', 
+    //   link: 'https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen', 
+    //   image: 'https://media.forgecdn.net/avatars/thumbnails/770/583/256/256/638109213062028041.png', 
+    // },
+    // { 
+    //   name: 'Contraption Terminals', 
+    //   link: 'https://modrinth.com/mod/create-contraption-terminals', 
+    //   image: 'https://cdn.modrinth.com/data/gOPAFzp0/52b05061fcf8c8368c3e92b6ca3a76c79041c3b7_96.webp', 
+    // },
     { 
       name: 'Crafts & Additions', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/createaddition', 
@@ -238,26 +261,26 @@ lastUpdated: false
       link: 'https://modrinth.com/mod/create-crystal-clear', 
       image: 'https://cdn.modrinth.com/data/h7QgiH72/23a1814c40054e4a57a78a278816e0d68726ec9a_96.webp', 
     },
-    { 
-      name: 'Deco Additions', 
-      link: 'https://modrinth.com/datapack/create-deco-additions', 
-      image: 'https://cdn.modrinth.com/data/HrsF061q/15382abe37af18eb27ceeb93973c29ce2f6930ab_96.webp', 
-    },
-    { 
-      name: 'Design n\' Decor', 
-      link: 'https://modrinth.com/mod/create-design-n-decor', 
-      image: 'https://cdn.modrinth.com/data/x49wilh8/c52e15692d7911bd7a74413ca97d4e98ece0cefb_96.webp', 
-    },
+    // { 
+    //   name: 'Deco Additions', 
+    //   link: 'https://modrinth.com/datapack/create-deco-additions', 
+    //   image: 'https://cdn.modrinth.com/data/HrsF061q/15382abe37af18eb27ceeb93973c29ce2f6930ab_96.webp', 
+    // },
+    // { 
+    //   name: 'Design n\' Decor', 
+    //   link: 'https://modrinth.com/mod/create-design-n-decor', 
+    //   image: 'https://cdn.modrinth.com/data/x49wilh8/c52e15692d7911bd7a74413ca97d4e98ece0cefb_96.webp', 
+    // },
     { 
       name: 'Diesel Generators', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/create-diesel-generators', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/1065/563/64/64/638599261172976487.png', 
     },
-    { 
-      name: 'Dynamic Lights', 
-      link: 'https://modrinth.com/mod/create-dynamic-lights', 
-      image: 'https://cdn.modrinth.com/data/evMQRxqV/1991dd42b6eb743f8770435e609972e0446b2f5b_96.webp', 
-    },
+    // { 
+    //   name: 'Dynamic Lights', 
+    //   link: 'https://modrinth.com/mod/create-dynamic-lights', 
+    //   image: 'https://cdn.modrinth.com/data/evMQRxqV/1991dd42b6eb743f8770435e609972e0446b2f5b_96.webp', 
+    // },
     { 
       name: 'Enchantment Industry', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry', 
@@ -268,16 +291,16 @@ lastUpdated: false
       link: 'https://www.curseforge.com/minecraft/mc-mods/expandingtechnologies', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/845/124/64/64/638242674411477092.png', 
     },
-    { 
-      name: 'Extended Cogwheels', 
-      link: 'https://modrinth.com/mod/extended-cogwheels', 
-      image: 'https://cdn.modrinth.com/data/qO4lsa4Y/6cde3fe229550facc592976a0ac1852dbde10a7e_96.webp', 
-    },
-    { 
-      name: 'Let The Adventure Begin', 
-      link: 'https://modrinth.com/datapack/create-let-the-adventure-begin', 
-      image: 'https://cdn.modrinth.com/data/fUa6OtBG/49089716b624e50307da0d7a23d019d300682e40.gif', 
-    },
+    // { 
+    //   name: 'Extended Cogwheels', 
+    //   link: 'https://modrinth.com/mod/extended-cogwheels', 
+    //   image: 'https://cdn.modrinth.com/data/qO4lsa4Y/6cde3fe229550facc592976a0ac1852dbde10a7e_96.webp', 
+    // },
+    // { 
+    //   name: 'Let The Adventure Begin', 
+    //   link: 'https://modrinth.com/datapack/create-let-the-adventure-begin', 
+    //   image: 'https://cdn.modrinth.com/data/fUa6OtBG/49089716b624e50307da0d7a23d019d300682e40.gif', 
+    // },
     { 
       name: 'Power Loader', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/create-power-loader', 
@@ -288,16 +311,16 @@ lastUpdated: false
       link: 'https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/1065/609/256/256/638599304770885171.webp', 
     },
-    { 
-      name: 'Trackwork', 
-      link: 'https://modrinth.com/mod/trackwork', 
-      image: 'https://cdn.modrinth.com/data/FXDpZRJG/7bac8282c170ff9841ffb4715b8912e6305dddbb_96.webp', 
-    },
-    { 
-      name: 'Vintage Improvements', 
-      link: 'https://modrinth.com/mod/create-vintage-improvements', 
-      image: 'https://cdn.modrinth.com/data/S27aYArf/5d6dd34cf3d1e99b21c6a114556dbba0ac6c4c17_96.webp', 
-    },
+    // { 
+    //   name: 'Trackwork', 
+    //   link: 'https://modrinth.com/mod/trackwork', 
+    //   image: 'https://cdn.modrinth.com/data/FXDpZRJG/7bac8282c170ff9841ffb4715b8912e6305dddbb_96.webp', 
+    // },
+    // { 
+    //   name: 'Vintage Improvements', 
+    //   link: 'https://modrinth.com/mod/create-vintage-improvements', 
+    //   image: 'https://cdn.modrinth.com/data/S27aYArf/5d6dd34cf3d1e99b21c6a114556dbba0ac6c4c17_96.webp', 
+    // },
 ]"/>
 
 
@@ -323,7 +346,7 @@ lastUpdated: false
 
 ::::
 
-### Вайб 
+### Вайб ✨ {#vibe}
 :::: tabs 
 
 === ℹ️
@@ -391,6 +414,26 @@ lastUpdated: false
     name: 'Crate Delight', 
     link: 'https://modrinth.com/mod/crate-delight', 
     image: 'https://cdn.modrinth.com/data/9rlXSyLg/1451f1af5cc41240ae8bbb166727bd0bdab5c5ab.png', 
+  },
+]"
+/>
+
+=== [Let's Do] ✨
+<BoxCube :items="[
+  { 
+    name: 'Beachparty✨', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/lets-do-beachparty', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/966/208/64/64/638465444685622216.png', 
+  },
+  { 
+    name: 'HerbalBrews✨', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/lets-do-herbal-brews', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/959/640/64/64/638454898336979010.png', 
+  },
+  { 
+    name: 'Vinery✨', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/945/658/64/64/638430836179133248.png', 
   },
 ]"
 />

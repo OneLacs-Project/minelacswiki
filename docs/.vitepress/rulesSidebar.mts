@@ -17,10 +17,11 @@ export const rulesSidebar = {
           items: [
             { text: '1. Основные', link: '/rules/categories/1-general'},
             { text: '2. Игровой процесс', link: '/rules/categories/2-gameplay'},
-            { text: '3. Взаимодействие', link: '/rules/categories/3-interactions'},
-            { text: '4. Аккаунт', link: '/rules/categories/4-account'},
-            { text: '5. Администрация', link: '/rules/categories/5-administration'},
-            { text: '6. Правила Суда', link: '/rules/categories/6-court-rules'},
+            { text: '3. Экономика ✨', link: '/rules/categories/3-economy'},
+            { text: '4. Общение', link: '/rules/categories/4-communication'},
+            { text: '5. Аккаунт', link: '/rules/categories/5-account'},
+            { text: '6. Персонал', link: '/rules/categories/6-administration'},
+            { text: '7. Суд', link: '/rules/categories/7-court'},
           ]
         },
         {
@@ -28,7 +29,8 @@ export const rulesSidebar = {
           items: [
             { text: 'Запрещенные моды', link: '/rules/other/prohibited-mods'},
             { text: 'Судебный процесс', link: '/rules/other/judicial-process'},
-            { text: 'Градостроение', link: '/rules/other/town-development'},
+            { text: 'Правила Боевых Действий✨', link: '/rules/other/warfare'},
+            { text: 'Градостроение ✨', link: '/rules/other/town-development'},
           ]
         },
       ],
