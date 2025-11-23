@@ -153,11 +153,9 @@ title: ML Create 3
 
 
 
-
-
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `77` 
-**<span style="color: gray;"> (`75` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span>** `80` 
+**<span style="color: gray;"> (`78` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -235,6 +233,9 @@ title: ML Create 3
 - m1nus1k <img src="https://api.mineatar.io/face/2b4b6a4e-dfc1-41b4-926a-6cd0e18fb786?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - qywyx  <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <iconify-icon icon="solar:user-check-bold-duotone"  style="margin:center;color: #00FF00"></iconify-icon>
 - TheLastWin <img src="https://api.mineatar.io/face/164c7179-10d2-4b88-be5a-3be76e216aca?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- M_K_P_M <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Crossava3446 <img src="https://api.mineatar.io/face/4e2f837c-c04f-489a-afa5-f585921a0de4?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Mira <img src="https://api.mineatar.io/face/2aba1357-fc77-4e64-bb34-363bfa8fffd3?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> Avacando <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/><span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1419416641187348661)</sub></span><br/>
