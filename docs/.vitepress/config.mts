@@ -108,7 +108,7 @@ export default defineConfig({
       { text: 'Вики', link: '/wiki/how-to-join', activeMatch: '/wiki/'},
       { text: 'Правила', link: '/rules/', activeMatch: '/rules/'},
       { text: 'Наши ссылки', activeMatch: '/wiki/about-us/project', items: [
-          { text: 'Discord', link: 'https://discord.gg/B6ywHB7ftP'},
+          { text: 'Discord', link: 'https://discord.gg/6u47fz6dCP'},
           { text: 'Telegram', link: 'https://t.me/minelacs'},
           { text: 'YouTube', link: 'https://www.youtube.com/@MineLacs'},
           { text: 'Сайт', link: 'https://minelacs.fun/'}
@@ -125,14 +125,14 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/6u47fz6dCP' },
-      { icon: 'github', link: 'https://github.com/VGSS6102/minelacswiki' }
+      { icon: 'github', link: 'https://github.com/OneLacs-Project/minelacswiki' }
     ],
 
     footer: {
       message:
         'Not an official Minecraft product. We are in no way affiliated with or endorsed by Mojang Synergies AB, Microsoft Corporation or other rightsholders.',
       copyright:
-        '© 2024 MineLacs. Все права защищены.'
+        '© 2023-2025 MineLacs. Все права защищены.'
     }
   }
 })
