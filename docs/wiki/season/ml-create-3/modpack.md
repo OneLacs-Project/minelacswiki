@@ -17,9 +17,9 @@ lastUpdated: false
 
 *Следите за новостями сервера на канале `🌐│новости` чтобы узнавать про новую сборку и прочую информацию быстрее чем тут.*
 
-
+<!-- ### LAST UPDATES (use to collapse them during editing) -->
 :::tabs 
-=== 4.07 
+=== 4.97 
 `21 Ноября`<br/>
 
 <details> <!-- Удаленных -->
@@ -133,11 +133,8 @@ lastUpdated: false
 <b><span style="color: green;">+ добавлен</span></b> <Pill name="Tetra" link="https://www.curseforge.com/minecraft/mc-mods/tetra" image="https://media.forgecdn.net/avatars/thumbnails/145/263/64/64/636561479419470125.png" /> <br/>
 <b><span style="color: green;">+ добавлен</span></b> <Pill name="Tetra Extras" link="https://www.curseforge.com/minecraft/mc-mods/tetra-extras" image="https://media.forgecdn.net/avatars/thumbnails/892/921/64/64/638335602446424383.jpeg" /> <br/>
 <b><span style="color: green;">+ добавлен</span></b> <Pill name="Tetratic Combat Expanded" link="https://www.curseforge.com/minecraft/mc-mods/tetratic-combat-expanded" image="https://media.forgecdn.net/avatars/thumbnails/923/383/64/64/638390001570626488.png" /> <br/>
-
 </details>
 
-
-### <!-- LAST UPDATES (use to collapse them during editing) -->
 === 3.10 
 `28 Сентября`<br/>
 **<span style="color: red;">- удален</span>** <Pill name="Enchantable Machinery" link="https://modrinth.com/mod/create-enchantable-machinery" image="https://cdn.modrinth.com/data/eqrvp4NK/245c9219d033286021178416a33240f848321b5f_96.webp" /> <br/>
