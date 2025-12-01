@@ -177,36 +177,36 @@ lastUpdated: false
 ## Моды  
 *<span style="color: gray;"><sup>Это не полный и не динамичный список модов сборки, библиотеки и часть модов могут быть не указаны. </sup></span>*
 
-### Create ✨ {#create}
+### Create  {#create}
 :::: tabs 
 
 === ℹ️
 
 ℹ️ Моды с тематикой мода <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/64/64/638598725500886388.png" />
 
-=== Create ✨
+=== Create 
 
 <BoxCube :items="[
-    { 
-      name: 'Mobile Packages', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/create-mobile-packages', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1243/148/64/64/638812853709049141.png', desc: '✨ НОВОЕ ✨'
-    },
-    { 
-      name: 'Man of Many Planes', 
-      link: 'https://modrinth.com/datapack/create-man-of-many-planes', 
-      image: 'https://cdn.modrinth.com/data/F4Rdk2PX/748866cf33abdf2103f757bbb3260dd86559c4f0_96.webp', desc: '✨ НОВОЕ ✨'
-    },
-    { 
-      name: 'Escalated', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/create-escalated', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1261/902/64/64/638821569425963837_animated.gif', desc: '✨ НОВОЕ ✨'
-    },
     { 
       name: 'Create', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/create', 
       image: 'https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png',
-      desc: '✨ v6.0.6 ✨'
+      desc: 'v6.0.6 '
+    },
+    { 
+      name: 'Mobile Packages', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/create-mobile-packages', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/1243/148/64/64/638812853709049141.png', 
+    },
+    { 
+      name: 'Man of Many Planes', 
+      link: 'https://modrinth.com/datapack/create-man-of-many-planes', 
+      image: 'https://cdn.modrinth.com/data/F4Rdk2PX/748866cf33abdf2103f757bbb3260dd86559c4f0_96.webp', 
+    },
+    { 
+      name: 'Escalated', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/create-escalated', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/1261/902/64/64/638821569425963837_animated.gif', 
     },
     { 
       name: 'Tweaked Controllers', 
@@ -316,33 +316,33 @@ lastUpdated: false
 ]"/>
 
 
-=== Совместимости ✨
+=== Совместимости
 
 <BoxCube :items="[ 
     { 
       name: 'Man of Many Planes', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/man-of-many-planes', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/959/832/64/64/638455223012747036.jpeg', desc: '✨ НОВОЕ ✨'
+      image: 'https://media.forgecdn.net/avatars/thumbnails/959/832/64/64/638455223012747036.jpeg', 
     },
     { 
       name: 'Sophisticated Backpacks', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/375/56/64/64/637549610342642859.png', desc: '✨ НОВОЕ ✨'
+      image: 'https://media.forgecdn.net/avatars/thumbnails/375/56/64/64/637549610342642859.png', 
     },
     { 
       name: 'Sophisticated Backpacks Create Integration', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks-create-integration', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1218/471/64/64/638797373596584143.png', desc: '✨ НОВОЕ ✨'
+      image: 'https://media.forgecdn.net/avatars/thumbnails/1218/471/64/64/638797373596584143.png', 
     },
     { 
       name: 'Sophisticated Storage', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/543/206/64/64/637872959580005837.png', desc: '✨ НОВОЕ ✨'
+      image: 'https://media.forgecdn.net/avatars/thumbnails/543/206/64/64/637872959580005837.png', 
     },
     { 
       name: 'Sophisticated Storage Create Integration', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage-create-integration', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1208/888/64/64/638786233372453864.png', desc: '✨ НОВОЕ ✨'
+      image: 'https://media.forgecdn.net/avatars/thumbnails/1208/888/64/64/638786233372453864.png', 
     },
 ]"/>
 
@@ -350,7 +350,7 @@ lastUpdated: false
 
 
 
-### Вайб ✨ {#vibe}
+### Вайб  {#vibe}
 :::: tabs 
 
 === ℹ️
@@ -364,25 +364,21 @@ lastUpdated: false
       name: 'Towns and Towers',
       link: 'https://www.curseforge.com/minecraft/mc-mods/towns-and-towers',
       image: 'https://media.forgecdn.net/avatars/thumbnails/551/161/64/64/637888384577155054.png',
-      desc: '✨ НОВОЕ ✨'
     },
     {
       name: 'Dungeons and Taverns',
       link: 'https://www.curseforge.com/minecraft/mc-mods/dungeon-and-taverns',
       image: 'https://media.forgecdn.net/avatars/thumbnails/1030/440/64/64/638552847053422154.png',
-      desc: '✨ НОВОЕ ✨'
     },
     {
       name: 'Terralith ReStoned',
       link: 'https://www.curseforge.com/minecraft/mc-mods/terralith-restoned',
       image: 'https://media.forgecdn.net/avatars/thumbnails/1156/836/64/64/638724742485176161.png',
-      desc: '✨ НОВОЕ ✨'
     },
     {
       name: 'Terraphilic',
       link: 'https://www.curseforge.com/minecraft/mc-mods/terraphilic',
       image: 'https://media.forgecdn.net/avatars/thumbnails/1075/942/64/64/638613321027776223.png',
-      desc: '✨ НОВОЕ ✨'
     },
     { 
       name: 'Geophilic', 
@@ -396,22 +392,22 @@ lastUpdated: false
     },
 ]"/>
 
-=== Еда ✨
+=== Еда 
 <BoxCube :items="[
   { 
     name: 'Beachparty', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/lets-do-beachparty', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/966/208/64/64/638465444685622216.png', desc: '✨ НОВОЕ ✨'
+    image: 'https://media.forgecdn.net/avatars/thumbnails/966/208/64/64/638465444685622216.png', 
   },
   { 
     name: 'HerbalBrews', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/lets-do-herbal-brews', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/959/640/64/64/638454898336979010.png', desc: '✨ НОВОЕ ✨'
+    image: 'https://media.forgecdn.net/avatars/thumbnails/959/640/64/64/638454898336979010.png', 
   },
   { 
     name: 'Vinery', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/945/658/64/64/638430836179133248.png', desc: '✨ НОВОЕ ✨'
+    image: 'https://media.forgecdn.net/avatars/thumbnails/945/658/64/64/638430836179133248.png', 
   },
   { 
     name: 'Farmer\'s Delight', 
@@ -428,13 +424,13 @@ lastUpdated: false
 |<BoxCube :items="[{name: 'Etched',link: 'https://www.curseforge.com/minecraft/mc-mods/etched', image: 'https://media.forgecdn.net/avatars/thumbnails/939/472/64/64/638419301379970746.png',},]"/>|<BoxCube :items="[{name: 'ParCool!',link: 'https://www.curseforge.com/minecraft/mc-mods/parcool', image: 'https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png',},]"/>|<BoxCube :items="[{ name: 'Exposure', link: 'https://www.curseforge.com/minecraft/mc-mods/exposure', image: 'https://media.forgecdn.net/avatars/thumbnails/1029/426/256/256/638551434733696364_animated.gif', },]"/>|<BoxCube :items="[{ name: 'Cosmetic Armor Reworked', link: 'https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked', image: 'https://media.forgecdn.net/avatars/thumbnails/27/600/64/64/635812915333870435.png', },]"/>|
 ||||
 
-=== Анимации ✨
+=== Анимации 
 <Pill name="ParCool! Гайд" link="/wiki/season/ml-create-3/parcool" image="https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png" color="#868dcc"  /><br/>
 <BoxCube :items="[
     {
       name: 'Better Combat',
       link: 'https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/566/413/64/64/637925434672465483.png', desc: '✨ НОВОЕ ✨'
+      image: 'https://media.forgecdn.net/avatars/thumbnails/566/413/64/64/637925434672465483.png', 
     },
     { 
       name: 'ParCool!', 
@@ -458,58 +454,52 @@ lastUpdated: false
     },
 ]"/>
 
-=== Атмосфера ✨
+=== Атмосфера 
 <BoxCube :items="[
     {
       name: 'Origins',
       link: 'https://www.curseforge.com/minecraft/mc-mods/origins-forge',
       image: 'https://media.forgecdn.net/avatars/thumbnails/373/582/64/64/637546267631048138.png',
-      desc: '✨ НОВОЕ ✨'
     },
     {
       name: 'Origins: Classes',
       link: 'https://www.curseforge.com/minecraft/mc-mods/origins-classes-forge',
       image: 'https://media.forgecdn.net/avatars/thumbnails/531/506/64/64/637853705659037696.png',
-      desc: '✨ НОВОЕ ✨'
     },
     {
       name: 'Tetra',
       link: 'https://www.curseforge.com/minecraft/mc-mods/tetra',
       image: 'https://media.forgecdn.net/avatars/thumbnails/145/263/64/64/636561479419470125.png',
-      desc: '✨ НОВОЕ ✨'
     },
     {
       name: 'Tetra Extras',
       link: 'https://www.curseforge.com/minecraft/mc-mods/tetra-extras',
       image: 'https://media.forgecdn.net/avatars/thumbnails/892/921/64/64/638335602446424383.jpeg',
-      desc: '✨ НОВОЕ ✨'
     },
     {
       name: 'Tetratic Combat Expanded',
       link: 'https://www.curseforge.com/minecraft/mc-mods/tetratic-combat-expanded',
       image: 'https://media.forgecdn.net/avatars/thumbnails/923/383/64/64/638390001570626488.png',
-      desc: '✨ НОВОЕ ✨'
     },
     {
       name: 'Ribbits',
       link: 'https://www.curseforge.com/minecraft/mc-mods/ribbits',
       image: 'https://media.forgecdn.net/avatars/thumbnails/1013/839/64/64/638538895773776677.png',
-      desc: '✨ НОВОЕ ✨'
     },
     {
       name: 'Alex\'s Mobs',
       link: 'https://www.curseforge.com/minecraft/mc-mods/alexs-mobs',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/543/777/64/64/637874731161865623.jpeg', desc: '✨ НОВОЕ ✨'
+      image: 'https://media.forgecdn.net/avatars/thumbnails/543/777/64/64/637874731161865623.jpeg', 
     },
     {
       name: 'Artifacts',
       link: 'https://www.curseforge.com/minecraft/mc-mods/artifacts',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/444/622/64/64/637699815276651872.png', desc: '✨ НОВОЕ ✨'
+      image: 'https://media.forgecdn.net/avatars/thumbnails/444/622/64/64/637699815276651872.png', 
     },
     {
       name: 'Naturalist Compat',
       link: 'https://www.curseforge.com/minecraft/mc-mods/alexs-mobs-naturalist-compat',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1127/126/64/64/638685133512548006.png', desc: '✨ НОВОЕ ✨'
+      image: 'https://media.forgecdn.net/avatars/thumbnails/1127/126/64/64/638685133512548006.png', 
     },
     {
       name: 'Naturalist',

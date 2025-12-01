@@ -17,7 +17,7 @@ export const rulesSidebar = {
           items: [
             { text: '1. Основные', link: '/rules/categories/1-general'},
             { text: '2. Игровой процесс', link: '/rules/categories/2-gameplay'},
-            { text: '3. Экономика ✨', link: '/rules/categories/3-economy'},
+            { text: '3. Экономика', link: '/rules/categories/3-economy'},
             { text: '4. Общение', link: '/rules/categories/4-communication'},
             { text: '5. Аккаунт', link: '/rules/categories/5-account'},
             { text: '6. Персонал', link: '/rules/categories/6-administration'},
@@ -29,8 +29,8 @@ export const rulesSidebar = {
           items: [
             { text: 'Запрещенные моды', link: '/rules/other/prohibited-mods'},
             { text: 'Судебный процесс', link: '/rules/other/judicial-process'},
-            { text: 'Правила Боевых Действий✨', link: '/rules/other/warfare'},
-            { text: 'Градостроение ✨', link: '/rules/other/town-development'},
+            { text: 'Правила Боевых Действий', link: '/rules/other/warfare'},
+            { text: 'Градостроение', link: '/rules/other/town-development'},
           ]
         },
       ],
