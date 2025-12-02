@@ -154,8 +154,8 @@ title: ML Create 3
 
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `97` 
-**<span style="color: gray;"> (`95` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span>** `104` 
+**<span style="color: gray;"> (`102` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -253,6 +253,14 @@ title: ML Create 3
 - xyznet <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - Megira <img src="https://api.mineatar.io/face/14b16a1d-5965-436f-93cd-c02fc6b3be15?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - hanja7 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- ne_faker1337 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- lol <img src="https://api.mineatar.io/face/a97d646b-e8cb-4bb4-9549-a7aba64a7c52?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- play_20 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- frate008 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- \_Redstone\_ <img src="https://api.mineatar.io/face/e396f612-df5a-4134-a58a-2280703af103?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- dada120 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- petr1 <img src="https://api.mineatar.io/face/bc08b85f-f083-4447-b3aa-5f6f61293419?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> Avacando <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/><span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1419416641187348661)</sub></span><br/>
