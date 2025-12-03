@@ -9,7 +9,7 @@ lastUpdated: false
 
 **Версия игры: <Badge type="info" text="1.20.1" />** 
 
-Версия сборки: <Badge type="tip" text="v4.97" />
+Версия сборки: <Badge type="tip" text="v5.5" />
 
 Загрузчик модов: <Badge type="info" text="Forge" />
 
@@ -19,6 +19,24 @@ lastUpdated: false
 
 <!-- ### LAST UPDATES (use to collapse them during editing) -->
 :::tabs 
+###### <!-- 5.5 --> 
+
+=== 5.5
+`2 Декабря`<br/>
+<span style="color: green;">+ добавлен</span> <Pill name="Create: Cardboard Things" link="https://www.curseforge.com/minecraft/mc-mods/create-cardboard-things" image="https://media.forgecdn.net/avatars/thumbnails/1278/809/64/64/638831745293817584.png" /> <br/>
+<span style="color: green;">+ добавлен</span> <Pill name="Cuffed" link="https://www.curseforge.com/minecraft/mc-mods/cuffed" image="https://media.forgecdn.net/avatars/thumbnails/861/843/64/64/638269835732271886.png" /> <br/>
+<span style="color: green;">+ добавлен</span> <Pill name="Endless Biomes" link="https://modrinth.com/mod/endless-biomes" image="https://cdn.modrinth.com/data/pzR01ieE/f49eb4b8d05e74a322738f2980aa2aff6d649279_96.webp" /> <br/>
+Идея от druidselian <img src="https://api.mineatar.io/face/97fdfbf9-1bc7-4c8c-b443-6f98cf1f8ddb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />:<br>
+<span style="color: green;">+ добавлен</span> <Pill name="Customizable Player Models" link="https://www.curseforge.com/minecraft/mc-mods/custom-player-models" image="https://media.forgecdn.net/avatars/thumbnails/345/676/64/64/637493525593605940.png" /> <br/>
+Идея от hanja7 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+:<br>
+<span style="color: green;">+ добавлен</span> <Pill name="Macaw's Doors" link="https://www.curseforge.com/minecraft/mc-mods/macaws-doors" image="https://media.forgecdn.net/avatars/thumbnails/303/442/64/64/637372493411502504.jpeg" /> <br/>
+<span style="color: green;">+ добавлен</span> <Pill name="Macaw's Trapdoors" link="https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors" image="https://media.forgecdn.net/avatars/thumbnails/292/157/64/64/637324647329746340.jpeg" /> <br/>
+<span style="color: green;">+ добавлен</span> <Pill name="Macaw's Paintings" link="https://www.curseforge.com/minecraft/mc-mods/macaws-paintings" image="https://media.forgecdn.net/avatars/thumbnails/364/231/64/64/637531433405150416.png" /> <br/>
+<span style="color: green;">+ добавлен</span> <Pill name="Macaw's Fences and Walls" link="https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls" image="https://media.forgecdn.net/avatars/thumbnails/351/704/64/64/637506435866467167.png" /> <br/>
+<span style="color: green;">+ добавлен</span> <Pill name="Macaw's Bridges" link="https://www.curseforge.com/minecraft/mc-mods/macaws-bridges" image="https://media.forgecdn.net/avatars/thumbnails/237/234/64/64/637098539787193844.jpeg" /> <br/>
+
+######  <!-- 4.97 --> 
 === 4.97 
 `21 Ноября`<br/>
 
@@ -135,7 +153,8 @@ lastUpdated: false
 <b><span style="color: green;">+ добавлен</span></b> <Pill name="Tetratic Combat Expanded" link="https://www.curseforge.com/minecraft/mc-mods/tetratic-combat-expanded" image="https://media.forgecdn.net/avatars/thumbnails/923/383/64/64/638390001570626488.png" /> <br/>
 </details>
 
-=== 3.10 
+######  <!-- 3.10 --> 
+=== 3.10  
 `28 Сентября`<br/>
 **<span style="color: red;">- удален</span>** <Pill name="Enchantable Machinery" link="https://modrinth.com/mod/create-enchantable-machinery" image="https://cdn.modrinth.com/data/eqrvp4NK/245c9219d033286021178416a33240f848321b5f_96.webp" /> <br/>
 **<span style="color: red;">- удален</span>** <Pill name="Palladium" link="https://modrinth.com/mod/mpalladium" image="https://cdn.modrinth.com/data/JNRr4jji/f278059c6af8dc0b8bf29b85915fa520bf20cbfb_96.webp" /><br/>
@@ -151,6 +170,7 @@ lastUpdated: false
 
 ✒️ **<span style="color: yellow;">изменен крафт</span>** <Pill name="Create Easy Stone Generators" link="https://modrinth.com/mod/create-stone-generators" image="https://cdn.modrinth.com/data/aeW9oim1/aea313f58e618fdf4314bea2d9d8553ec8ea926d_96.webp" /> 1 блок -> 5 блоков производства   
 
+######  <!-- 2.9 --> 
 === 2.9
 `26 Сентября`<br/>
 **<span style="color: red;">- удален</span>** <Pill name="Create Cobblestone" link="https://modrinth.com/mod/ihpnEd80" image="https://cdn.modrinth.com/data/ihpnEd80/3b04d5b3830e1f685d78fa765f928d94f11f5d65_96.webp" /> <br/>
@@ -163,7 +183,9 @@ lastUpdated: false
 **<span style="color: green;">+ добавлен</span>** <Pill name="Endless Biomes" link="https://modrinth.com/mod/endless-biomes" image="https://cdn.modrinth.com/data/pzR01ieE/f49eb4b8d05e74a322738f2980aa2aff6d649279_96.webp" /> <br/>
 **<span style="color: green;">+ добавлен</span>** <Pill name="Enderman Overhaul" link="https://modrinth.com/mod/enderman-overhaul" image="https://cdn.modrinth.com/data/Lq6ojcWv/bd2b1e2cc0a730dbefcb1604638e34b9bed21d85.png" /> <br/>
 **<span style="color: green;">+ добавлен</span>** <Pill name="Ender\'s Delight" link="https://modrinth.com/mod/enders-delight" image="https://cdn.modrinth.com/data/2uEhdGKt/0cf9c0392fdec68443e8c1136f78a5a5485d2cbb_96.webp" /> <br/>
-=== 1.0
+
+######  <!-- 1.0 --> 
+=== 1.0 
 `19 Cентября`<br/>
 Релизная сборка
 
@@ -177,16 +199,21 @@ lastUpdated: false
 ## Моды  
 *<span style="color: gray;"><sup>Это не полный и не динамичный список модов сборки, библиотеки и часть модов могут быть не указаны. </sup></span>*
 
-### Create  {#create}
+### Create✨  {#create}
 :::: tabs 
 
 === ℹ️
 
 ℹ️ Моды с тематикой мода <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/64/64/638598725500886388.png" />
 
-=== Create 
-
+=== Create ✨
+<span style="color: green;">+ добавлен</span> <Pill name="Create: Cardboard Things" link="https://www.curseforge.com/minecraft/mc-mods/create-cardboard-things" image="https://media.forgecdn.net/avatars/thumbnails/1278/809/64/64/638831745293817584.png" /> <br/>
 <BoxCube :items="[
+    { 
+      name: 'Cardboard Things', 
+      link: 'https://www.curseforge.com/minecraft/mc-mods/create-cardboard-things', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/1278/809/64/64/638831745293817584.png',desc: '✨НОВОЕ✨'
+    },
     { 
       name: 'Create', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/create', 
@@ -357,9 +384,16 @@ lastUpdated: false
 
 ℹ️ Моды которые добавляют вайб типа декоративных блоков, генерации, эффекты там всякие крч похуй
 
+###### <!-- Генерация -->
 === Генерация✨
+<span style="color: green;">+ добавлен</span> <Pill name="Endless Biomes" link="https://modrinth.com/mod/endless-biomes" image="https://cdn.modrinth.com/data/pzR01ieE/f49eb4b8d05e74a322738f2980aa2aff6d649279_96.webp" /> <br/>
 
 <BoxCube :items="[
+    { 
+      name: 'Endless Biomes', 
+      link: 'https://modrinth.com/mod/endless-biomes', 
+      image: 'https://cdn.modrinth.com/data/pzR01ieE/f49eb4b8d05e74a322738f2980aa2aff6d649279_96.webp', desc: '✨НОВОЕ✨'
+    },
     {
       name: 'Towns and Towers',
       link: 'https://www.curseforge.com/minecraft/mc-mods/towns-and-towers',
@@ -392,6 +426,7 @@ lastUpdated: false
     },
 ]"/>
 
+###### <!-- Еда -->
 === Еда 
 <BoxCube :items="[
   { 
@@ -417,6 +452,7 @@ lastUpdated: false
 ]"
 />
 
+###### <!-- Функции -->
 === Функции 
 <!-- Тут крч таблица и вставлено 3 отдельных BoxCube и так как они должны быть в 1 строке оно так выглядит страшно ункпунк -->
 |<Pill name="Etched Гайд" link="/wiki/season/ml-create-3/etched" image="https://media.forgecdn.net/avatars/thumbnails/939/472/64/64/638419301379970746.png" color="#868dcc"  />| <Pill name="ParCool! Гайд" link="/wiki/season/ml-create-3/parcool" image="https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png" color="#868dcc"  />|||
@@ -424,6 +460,7 @@ lastUpdated: false
 |<BoxCube :items="[{name: 'Etched',link: 'https://www.curseforge.com/minecraft/mc-mods/etched', image: 'https://media.forgecdn.net/avatars/thumbnails/939/472/64/64/638419301379970746.png',},]"/>|<BoxCube :items="[{name: 'ParCool!',link: 'https://www.curseforge.com/minecraft/mc-mods/parcool', image: 'https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png',},]"/>|<BoxCube :items="[{ name: 'Exposure', link: 'https://www.curseforge.com/minecraft/mc-mods/exposure', image: 'https://media.forgecdn.net/avatars/thumbnails/1029/426/256/256/638551434733696364_animated.gif', },]"/>|<BoxCube :items="[{ name: 'Cosmetic Armor Reworked', link: 'https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked', image: 'https://media.forgecdn.net/avatars/thumbnails/27/600/64/64/635812915333870435.png', },]"/>|
 ||||
 
+###### <!-- Анимации -->
 === Анимации 
 <Pill name="ParCool! Гайд" link="/wiki/season/ml-create-3/parcool" image="https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png" color="#868dcc"  /><br/>
 <BoxCube :items="[
@@ -454,8 +491,39 @@ lastUpdated: false
     },
 ]"/>
 
-=== Атмосфера 
+###### <!-- Атмосфера -->
+=== Атмосфера✨
+<span style="color: green;">+ добавлен</span> <Pill name="Macaw's Doors" link="https://www.curseforge.com/minecraft/mc-mods/macaws-doors" image="https://media.forgecdn.net/avatars/thumbnails/303/442/64/64/637372493411502504.jpeg" /> <br/>
+<span style="color: green;">+ добавлен</span> <Pill name="Macaw's Trapdoors" link="https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors" image="https://media.forgecdn.net/avatars/thumbnails/292/157/64/64/637324647329746340.jpeg" /> <br/>
+<span style="color: green;">+ добавлен</span> <Pill name="Macaw's Paintings" link="https://www.curseforge.com/minecraft/mc-mods/macaws-paintings" image="https://media.forgecdn.net/avatars/thumbnails/364/231/64/64/637531433405150416.png" /> <br/>
+<span style="color: green;">+ добавлен</span> <Pill name="Macaw's Fences and Walls" link="https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls" image="https://media.forgecdn.net/avatars/thumbnails/351/704/64/64/637506435866467167.png" /> <br/>
+<span style="color: green;">+ добавлен</span> <Pill name="Macaw's Bridges" link="https://www.curseforge.com/minecraft/mc-mods/macaws-bridges" image="https://media.forgecdn.net/avatars/thumbnails/237/234/64/64/637098539787193844.jpeg" /> <br/>
 <BoxCube :items="[
+    {
+      name: 'Macaw\'s Bridges',
+      link: 'https://www.curseforge.com/minecraft/mc-mods/macaws-bridges',
+      image: 'https://media.forgecdn.net/avatars/thumbnails/237/234/64/64/637098539787193844.jpeg', desc: '✨НОВОЕ✨'
+    },
+    {
+      name: 'Macaw\'s Fences and Walls',
+      link: 'https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls',
+      image: 'https://media.forgecdn.net/avatars/thumbnails/351/704/64/64/637506435866467167.png', desc: '✨НОВОЕ✨'
+    },
+    {
+      name: 'Macaw\'s Paintings',
+      link: 'https://www.curseforge.com/minecraft/mc-mods/macaws-paintings',
+      image: 'https://media.forgecdn.net/avatars/thumbnails/364/231/64/64/637531433405150416.png', desc: '✨НОВОЕ✨'
+    },
+    {
+      name: 'Macaw\'s Trapdoors',
+      link: 'https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors',
+      image: 'https://media.forgecdn.net/avatars/thumbnails/292/157/64/64/637324647329746340.jpeg', desc: '✨НОВОЕ✨'
+    },
+    {
+      name: 'Macaw\'s Doors',
+      link: 'https://www.curseforge.com/minecraft/mc-mods/macaws-doors',
+      image: 'https://media.forgecdn.net/avatars/thumbnails/303/442/64/64/637372493411502504.jpeg', desc: '✨НОВОЕ✨'
+    },
     {
       name: 'Origins',
       link: 'https://www.curseforge.com/minecraft/mc-mods/origins-forge',
@@ -529,13 +597,15 @@ lastUpdated: false
 ]"/>
 ::::
 
-### Клиентские {#client}
+### Клиентские✨ {#client}
 
 :::: tabs 
 
 === ℹ️
 
 ℹ️ Моды утилиты, декор, расширенная информацию, оптимизация и другие которые не влияют на игровой процесс мира или других игроков. 
+
+###### <!-- EMI -->
 === EMI
 <BoxCube :items="[
     {
@@ -550,7 +620,7 @@ lastUpdated: false
     },
 ]"/>
 
-
+###### <!-- Оптимиз -->
 === Оптимиз
 <BoxCube :items="[
     {
@@ -590,6 +660,7 @@ lastUpdated: false
     },
 ]"/>
 
+###### <!-- Утилиты -->
 === Утилиты
 <BoxCube :items="[
     {
@@ -629,9 +700,17 @@ lastUpdated: false
     },
 ]"/>
 
-=== Другие
+###### <!-- Другие -->
+=== Другие ✨
+<span style="color: green;">+ добавлен</span> <Pill name="Customizable Player Models" link="https://www.curseforge.com/minecraft/mc-mods/custom-player-models" image="https://media.forgecdn.net/avatars/thumbnails/345/676/64/64/637493525593605940.png" /> <br/>
+
 <!-- > [!IMPORTANT] В процессе добавления... -->
 <BoxCube :items="[
+    {
+      name: 'Customizable Player Models',
+      link: 'https://www.curseforge.com/minecraft/mc-mods/custom-player-models', 
+      image: 'https://media.forgecdn.net/avatars/thumbnails/345/676/64/64/637493525593605940.png',desc: '✨НОВОЕ✨'
+    },
     {
       name: 'Item Borders',
       link: 'https://modrinth.com/mod/b1fMg6sH',

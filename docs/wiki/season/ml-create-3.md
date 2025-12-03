@@ -129,6 +129,26 @@ title: ML Create 3
 Изменения сборки -> **[Сборка](ml-create-3/modpack)**<br/> 
 
 :::
+::: details Декабрь 2025
+
+`2 Декабря` - Небольшое обновление принесло:<br/>
+\- Фикс интернета<br>
+\- <Pill name="Create: Cardboard Things" link="https://www.curseforge.com/minecraft/mc-mods/create-cardboard-things" image="https://media.forgecdn.net/avatars/thumbnails/1278/809/64/64/638831745293817584.png" /> <br/>
+\- <Pill name="Cuffed" link="https://www.curseforge.com/minecraft/mc-mods/cuffed" image="https://media.forgecdn.net/avatars/thumbnails/861/843/64/64/638269835732271886.png" /> <br/>
+\- <Pill name="Endless Biomes" link="https://modrinth.com/mod/endless-biomes" image="https://cdn.modrinth.com/data/pzR01ieE/f49eb4b8d05e74a322738f2980aa2aff6d649279_96.webp" /> <br/>
+Идея от druidselian <img src="https://api.mineatar.io/face/97fdfbf9-1bc7-4c8c-b443-6f98cf1f8ddb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />:<br>
+\- <Pill name="Customizable Player Models" link="https://www.curseforge.com/minecraft/mc-mods/custom-player-models" image="https://media.forgecdn.net/avatars/thumbnails/345/676/64/64/637493525593605940.png" /> <br>
+Идея от hanja7 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+:<br>
+\- <Pill name="Macaw's Doors" link="https://www.curseforge.com/minecraft/mc-mods/macaws-doors" image="https://media.forgecdn.net/avatars/thumbnails/303/442/64/64/637372493411502504.jpeg" /> <br/>
+\- <Pill name="Macaw's Trapdoors" link="https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors" image="https://media.forgecdn.net/avatars/thumbnails/292/157/64/64/637324647329746340.jpeg" /> <br/>
+\- <Pill name="Macaw's Paintings" link="https://www.curseforge.com/minecraft/mc-mods/macaws-paintings" image="https://media.forgecdn.net/avatars/thumbnails/364/231/64/64/637531433405150416.png" /> <br/>
+\- <Pill name="Macaw's Fences and Walls" link="https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls" image="https://media.forgecdn.net/avatars/thumbnails/351/704/64/64/637506435866467167.png" /> <br/>
+\- <Pill name="Macaw's Bridges" link="https://www.curseforge.com/minecraft/mc-mods/macaws-bridges" image="https://media.forgecdn.net/avatars/thumbnails/237/234/64/64/637098539787193844.jpeg" /> <br/>
+
+Изменения сборки -> **[Сборка](ml-create-3/modpack)**<br/> 
+
+:::
 
 ### Предыдущий сезон ML Create
 
@@ -154,8 +174,8 @@ title: ML Create 3
 
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `103` 
-**<span style="color: gray;"> (`101` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span>** `106` 
+**<span style="color: gray;"> (`104` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -242,6 +262,7 @@ title: ML Create 3
 - MrHgekillplayuio <img src="https://api.mineatar.io/face/238f8f79-cab8-4acd-993c-697afd29b4f5?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - TyCovart <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - timka90956756 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- druidselian <img src="https://api.mineatar.io/face/97fdfbf9-1bc7-4c8c-b443-6f98cf1f8ddb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - haday <img src="https://api.mineatar.io/face/6ee52b89-bb2a-458a-8c8c-fb79b602a1de?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Saha1560151 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - tarakanti <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
@@ -260,7 +281,9 @@ title: ML Create 3
 - \_Redstone\_ <img src="https://api.mineatar.io/face/e396f612-df5a-4134-a58a-2280703af103?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - dada120 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - petr1 <img src="https://api.mineatar.io/face/bc08b85f-f083-4447-b3aa-5f6f61293419?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
-
+- DED\_S\_trusamII <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/> 
+- Redstone <img src="https://api.mineatar.io/face/d57400da-0e13-4894-8ca3-af3706ad6dbc?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- HorsessHuynh <img src="https://api.mineatar.io/face/1c99f5d7-2a39-4c5a-9146-e872483e13f8?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> Avacando <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/><span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1419416641187348661)</sub></span><br/>
