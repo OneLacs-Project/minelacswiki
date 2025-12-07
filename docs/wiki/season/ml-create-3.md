@@ -69,7 +69,7 @@ title: ML Create 3
 /> 
 
 ## История
-
+###### <!-- Cентябрь 2025 -->
 ::: details Cентябрь 2025 
 
 `19 Cентября` - **<span style="color: green;">Сезон начался</span>**
@@ -100,13 +100,13 @@ title: ML Create 3
 Изменения сборки -> **[Сборка](ml-create-3/modpack)**<br/> 
 
 :::
-
+###### <!-- Октябрь 2025 -->
 ::: details Октябрь 2025 
 
 <br/><span style="color: gray;"><sub>пусто...</sub></span><br/>
 
 :::
-
+###### <!-- Ноябрь 2025 -->
 ::: details Ноябрь 2025 
 
 `3 Ноября` - Сервер был остановлен на период перехода сервера на <Pill name="Create 6.0" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png" color="#868dcc"/> <br/> 
@@ -129,8 +129,8 @@ title: ML Create 3
 Изменения сборки -> **[Сборка](ml-create-3/modpack)**<br/> 
 
 :::
-::: details Декабрь 2025
-
+###### <!-- Декабрь 2025 -->
+::: details <span style="color:#3dd68c ;"> Декабрь 2025 </span>
 `2 Декабря` - Небольшое обновление принесло:<br/>
 \- Фикс интернета<br>
 \- <Pill name="Create: Cardboard Things" link="https://www.curseforge.com/minecraft/mc-mods/create-cardboard-things" image="https://media.forgecdn.net/avatars/thumbnails/1278/809/64/64/638831745293817584.png" /> <br/>
@@ -147,8 +147,8 @@ title: ML Create 3
 \- <Pill name="Macaw's Bridges" link="https://www.curseforge.com/minecraft/mc-mods/macaws-bridges" image="https://media.forgecdn.net/avatars/thumbnails/237/234/64/64/637098539787193844.jpeg" /> <br/>
 
 Изменения сборки -> **[Сборка](ml-create-3/modpack)**<br/> 
-
 :::
+
 
 ### Предыдущий сезон ML Create
 
@@ -174,8 +174,8 @@ title: ML Create 3
 
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `106` 
-**<span style="color: gray;"> (`104` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span>** `108` 
+**<span style="color: gray;"> (`106` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -284,6 +284,8 @@ title: ML Create 3
 - DED\_S\_trusamII <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/> 
 - Redstone <img src="https://api.mineatar.io/face/d57400da-0e13-4894-8ca3-af3706ad6dbc?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - HorsessHuynh <img src="https://api.mineatar.io/face/1c99f5d7-2a39-4c5a-9146-e872483e13f8?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- zerostar279 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/> 
+- Zakatis <img src="https://api.mineatar.io/face/23bde12f-6a17-435d-92ee-493e953d1b24?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> Avacando <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/><span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1419416641187348661)</sub></span><br/>
