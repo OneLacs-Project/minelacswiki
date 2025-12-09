@@ -174,8 +174,8 @@ title: ML Create 3
 
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `108` 
-**<span style="color: gray;"> (`106` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span>** `110` 
+**<span style="color: gray;"> (`108` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -286,6 +286,8 @@ title: ML Create 3
 - HorsessHuynh <img src="https://api.mineatar.io/face/1c99f5d7-2a39-4c5a-9146-e872483e13f8?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - zerostar279 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/> 
 - Zakatis <img src="https://api.mineatar.io/face/23bde12f-6a17-435d-92ee-493e953d1b24?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Sherman1991 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/> 
+- zark_ <img src="https://api.mineatar.io/face/3b5bcb67-c48a-42a8-89cc-82e1eaac7395?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> Avacando <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/><span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1419416641187348661)</sub></span><br/>

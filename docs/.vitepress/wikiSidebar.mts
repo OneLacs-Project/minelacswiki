@@ -14,7 +14,7 @@ export const wikiSidebar = {
               link: '/rules/'
             },
             {
-              text: 'OneLauncher',
+              text: 'OneLauncher <img src="https://cdn3.emoji.gg/emojis/18502-beta-pogo-os.png" style="display: inline; vertical-align: middle;" width=36>',
               link: '/wiki/launcher'
             },
             { 

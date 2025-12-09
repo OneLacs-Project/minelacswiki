@@ -15,3 +15,4 @@ lastUpdated: true
 <Pill name="Discord Server" link="https://discord.com/invite/B6ywHB7ftP" icon="logos:discord-icon" color="#5865f2" />
 <Pill name="Telegram Channel" link="https://t.me/minelacs" icon="logos:telegram" color="#25a4e2" />
 <Pill name="Youtube" link="https://www.youtube.com/@MineLacs" icon="logos:youtube-icon" color="#FF0000" />
+<Pill name="Boosty" link="https://boosty.to/minelacs" icon="simple-icons:boosty" color="#f0612b" />
