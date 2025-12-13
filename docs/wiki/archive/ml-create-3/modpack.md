@@ -3,19 +3,43 @@ outline: [2,3]
 lastUpdated: false
 ---
 
-<Pill name="🏗️ ML Create 3" link="/wiki/season/ml-create-3" color="#868dcc"  /><br/>
+<Pill name="ML Create 3" link="/wiki/archive/ml-create-3" icon="solar:archive-bold-duotone" color="#868dcc"  /><br/>
 
 # 📦 Сборка 
 
 **Версия игры: <Badge type="info" text="1.20.1" />** 
 
-Версия сборки: <Badge type="tip" text="v5.5" />
+Последняя Версия сборки: <Badge type="info" text="v5.5" />
 
 Загрузчик модов: <Badge type="info" text="Forge" />
 
-Ссылка на скачивание: <Pill name="📦Скачать" link="https://minelacs.fun/download/" color="#868dcc"  />
+Ссылки на скачивание: 
 
-*Следите за новостями сервера на канале `🌐│новости` чтобы узнавать про новую сборку и прочую информацию быстрее чем тут.*
+<BoxCube :items="[
+  { 
+    name: 'Create 6.0.6', 
+    link: 'https://github.com/OneLacs-Project/minelacspages/releases/download/MineLacsCreatev101/MineLacs.Create+.mrpack', 
+    image: 'https://raw.githubusercontent.com/gabrielvicenteYT/modrinth-icons/a05e2307b42762d64a370a3cf3e8b6b30735dce1/Branding/Mark/mark-dark.svg', desc: '.MRPACK'
+  },
+  { 
+    name: 'Create 6.0.6', 
+    link: 'https://github.com/OneLacs-Project/minelacspages/releases/download/MineLacsCreatev101/MineLacs.Create+.zip', 
+    icon: 'solar:zip-file-bold-duotone', desc: 'ZIP'
+  },
+  { 
+    name: 'Create 0.5.1j', 
+    link: 'https://github.com/OneLacs-Project/minelacspages/releases/download/MineLacsCreatev3/MineLacsCreate.3.0-EMOTE.mrpack', 
+    image: 'https://raw.githubusercontent.com/gabrielvicenteYT/modrinth-icons/a05e2307b42762d64a370a3cf3e8b6b30735dce1/Branding/Mark/mark-dark.svg', desc: '.MRPACK'
+  },
+  { 
+    name: 'Create 0.5.1j', 
+    link: 'https://github.com/OneLacs-Project/minelacspages/releases/download/MineLacsCreatev3/sborka3-EMOTE.zip', 
+    icon: 'solar:zip-file-bold-duotone', desc: 'ZIP'
+  },
+]"
+/>
+
+<!-- *Следите за новостями сервера на канале `🌐│новости` чтобы узнавать про новую сборку и прочую информацию быстрее чем тут.* -->
 
 <!-- ### LAST UPDATES (use to collapse them during editing) -->
 :::tabs 
@@ -196,23 +220,23 @@ lastUpdated: false
 > [!DANGER] Не обновляйте моды сборки. Игра крашнет или вы не сможете зайти на сервер.
 
 
-## Моды  
+
+## Моды `v5.5`
 *<span style="color: gray;"><sup>Это не полный и не динамичный список модов сборки, библиотеки и часть модов могут быть не указаны. </sup></span>*
 
-### Create✨  {#create}
+### Create  {#create}
 :::: tabs 
 
 === ℹ️
 
 ℹ️ Моды с тематикой мода <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/64/64/638598725500886388.png" />
 
-=== Create ✨
-<span style="color: green;">+ добавлен</span> <Pill name="Create: Cardboard Things" link="https://www.curseforge.com/minecraft/mc-mods/create-cardboard-things" image="https://media.forgecdn.net/avatars/thumbnails/1278/809/64/64/638831745293817584.png" /> <br/>
+=== Create 
 <BoxCube :items="[
     { 
       name: 'Cardboard Things', 
       link: 'https://www.curseforge.com/minecraft/mc-mods/create-cardboard-things', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1278/809/64/64/638831745293817584.png',desc: '✨НОВОЕ✨'
+      image: 'https://media.forgecdn.net/avatars/thumbnails/1278/809/64/64/638831745293817584.png',
     },
     { 
       name: 'Create', 
@@ -385,14 +409,13 @@ lastUpdated: false
 ℹ️ Моды которые добавляют вайб типа декоративных блоков, генерации, эффекты там всякие крч похуй
 
 ###### <!-- Генерация -->
-=== Генерация✨
-<span style="color: green;">+ добавлен</span> <Pill name="Endless Biomes" link="https://modrinth.com/mod/endless-biomes" image="https://cdn.modrinth.com/data/pzR01ieE/f49eb4b8d05e74a322738f2980aa2aff6d649279_96.webp" /> <br/>
+=== Генерация
 
 <BoxCube :items="[
     { 
       name: 'Endless Biomes', 
       link: 'https://modrinth.com/mod/endless-biomes', 
-      image: 'https://cdn.modrinth.com/data/pzR01ieE/f49eb4b8d05e74a322738f2980aa2aff6d649279_96.webp', desc: '✨НОВОЕ✨'
+      image: 'https://cdn.modrinth.com/data/pzR01ieE/f49eb4b8d05e74a322738f2980aa2aff6d649279_96.webp', 
     },
     {
       name: 'Towns and Towers',
@@ -492,37 +515,33 @@ lastUpdated: false
 ]"/>
 
 ###### <!-- Атмосфера -->
-=== Атмосфера✨
-<span style="color: green;">+ добавлен</span> <Pill name="Macaw's Doors" link="https://www.curseforge.com/minecraft/mc-mods/macaws-doors" image="https://media.forgecdn.net/avatars/thumbnails/303/442/64/64/637372493411502504.jpeg" /> <br/>
-<span style="color: green;">+ добавлен</span> <Pill name="Macaw's Trapdoors" link="https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors" image="https://media.forgecdn.net/avatars/thumbnails/292/157/64/64/637324647329746340.jpeg" /> <br/>
-<span style="color: green;">+ добавлен</span> <Pill name="Macaw's Paintings" link="https://www.curseforge.com/minecraft/mc-mods/macaws-paintings" image="https://media.forgecdn.net/avatars/thumbnails/364/231/64/64/637531433405150416.png" /> <br/>
-<span style="color: green;">+ добавлен</span> <Pill name="Macaw's Fences and Walls" link="https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls" image="https://media.forgecdn.net/avatars/thumbnails/351/704/64/64/637506435866467167.png" /> <br/>
-<span style="color: green;">+ добавлен</span> <Pill name="Macaw's Bridges" link="https://www.curseforge.com/minecraft/mc-mods/macaws-bridges" image="https://media.forgecdn.net/avatars/thumbnails/237/234/64/64/637098539787193844.jpeg" /> <br/>
+=== Атмосфера
+
 <BoxCube :items="[
     {
       name: 'Macaw\'s Bridges',
       link: 'https://www.curseforge.com/minecraft/mc-mods/macaws-bridges',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/237/234/64/64/637098539787193844.jpeg', desc: '✨НОВОЕ✨'
+      image: 'https://media.forgecdn.net/avatars/thumbnails/237/234/64/64/637098539787193844.jpeg', 
     },
     {
       name: 'Macaw\'s Fences and Walls',
       link: 'https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/351/704/64/64/637506435866467167.png', desc: '✨НОВОЕ✨'
+      image: 'https://media.forgecdn.net/avatars/thumbnails/351/704/64/64/637506435866467167.png', 
     },
     {
       name: 'Macaw\'s Paintings',
       link: 'https://www.curseforge.com/minecraft/mc-mods/macaws-paintings',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/364/231/64/64/637531433405150416.png', desc: '✨НОВОЕ✨'
+      image: 'https://media.forgecdn.net/avatars/thumbnails/364/231/64/64/637531433405150416.png', 
     },
     {
       name: 'Macaw\'s Trapdoors',
       link: 'https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/292/157/64/64/637324647329746340.jpeg', desc: '✨НОВОЕ✨'
+      image: 'https://media.forgecdn.net/avatars/thumbnails/292/157/64/64/637324647329746340.jpeg', 
     },
     {
       name: 'Macaw\'s Doors',
       link: 'https://www.curseforge.com/minecraft/mc-mods/macaws-doors',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/303/442/64/64/637372493411502504.jpeg', desc: '✨НОВОЕ✨'
+      image: 'https://media.forgecdn.net/avatars/thumbnails/303/442/64/64/637372493411502504.jpeg', 
     },
     {
       name: 'Origins',
@@ -597,7 +616,7 @@ lastUpdated: false
 ]"/>
 ::::
 
-### Клиентские✨ {#client}
+### Клиентские {#client}
 
 :::: tabs 
 
@@ -701,15 +720,14 @@ lastUpdated: false
 ]"/>
 
 ###### <!-- Другие -->
-=== Другие ✨
-<span style="color: green;">+ добавлен</span> <Pill name="Customizable Player Models" link="https://www.curseforge.com/minecraft/mc-mods/custom-player-models" image="https://media.forgecdn.net/avatars/thumbnails/345/676/64/64/637493525593605940.png" /> <br/>
+=== Другие 
 
 <!-- > [!IMPORTANT] В процессе добавления... -->
 <BoxCube :items="[
     {
       name: 'Customizable Player Models',
       link: 'https://www.curseforge.com/minecraft/mc-mods/custom-player-models', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/345/676/64/64/637493525593605940.png',desc: '✨НОВОЕ✨'
+      image: 'https://media.forgecdn.net/avatars/thumbnails/345/676/64/64/637493525593605940.png',
     },
     {
       name: 'Item Borders',

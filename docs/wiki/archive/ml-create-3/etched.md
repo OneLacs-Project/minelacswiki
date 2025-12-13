@@ -1,5 +1,5 @@
 
-<Pill name="🏗️ ML Create 3" link="/wiki/season/ml-create-3" color="#868dcc"  /><br/>
+<Pill name="ML Create 3" link="/wiki/archive/ml-create-3" icon="solar:archive-bold-duotone" color="#868dcc"  /><br/>
  
 # Etched
 

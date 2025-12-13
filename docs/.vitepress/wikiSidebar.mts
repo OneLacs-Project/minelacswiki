@@ -27,14 +27,6 @@ export const wikiSidebar = {
         { // Категория сезонов
           text: 'Сезон',
           items: [
-            { text: '🏗️ ML Create 3', link: '/wiki/season/ml-create-3', 
-              collapsed: true, items: [
-                { text: '📦 Сборка', link: '/wiki/season/ml-create-3/modpack'},
-                { text: '🤸‍♂️ ParCool', link: '/wiki/season/ml-create-3/parcool' },
-                { text: '💿 Etched', link: '/wiki/season/ml-create-3/etched'},
-                { text: '💬 FlectoneChat', link: '/wiki/season/ml-create-3/flectone-chat' },
-              ]
-            },
             { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},
           ]
         },
@@ -72,8 +64,16 @@ export const wikiSidebar = {
         },
         { // Категория архива
           text: 'Архив',
-          collapsed: true,
+          collapsed: false,
           items: [
+            { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Create 3', link: '/wiki/archive/ml-create-3', 
+              collapsed: true, items: [
+                { text: '📦 Сборка', link: '/wiki/archive/ml-create-3/modpack'},
+                { text: '🤸‍♂️ ParCool', link: '/wiki/archive/ml-create-3/parcool' },
+                { text: '💿 Etched', link: '/wiki/archive/ml-create-3/etched'},
+                { text: '💬 FlectoneChat', link: '/wiki/archive/ml-create-3/flectone-chat' },
+              ]
+            },
             { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Legacy', link: '/wiki/archive/ml-legacy', 
               collapsed: true, items: [
                 { text: '⚙️ Доп Механики', link: '/wiki/archive/ml-legacy/additional-mechanics' },
