@@ -2,10 +2,10 @@
 outline: deep
 lastUpdated: true
 ---
+![](/WIKI/Play/Play2023/demo_img_1.webp)
 
 # PLAY 2023
 
-![](/WIKI/Play/Play2023/demo_img_1.webp)
 
 `22 Декабря - 30 Декабря 2023`
 

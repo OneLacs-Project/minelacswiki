@@ -38,16 +38,41 @@ export const wikiSidebar = {
             { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},
           ]
         },
+        { // Категория о PLAY
+          text: '🪄 <span style="color: #e381ff;">PLAY</span> EVENT',
+          collapsed: false,
+          items: [
+            {
+              text: 'ЧЁ?',
+              link: '/wiki/play/che'
+            },
+            {
+              text: '<span style="color: #3dd68c;">PLAY 2025</span>',
+              link: '/wiki/play/play25'
+            },
+            {
+              text: 'PLAY 2024',
+              link: '/wiki/play/play24'
+            },
+            { 
+              text: 'PLAY 2023',
+              link: '/wiki/play/play23'
+            },
+            
+            
+          ]
+        },
         { // Категория о нас
           text: 'О нас',
+          collapsed: true,
           items: [
             { text: 'Команда', link: '/wiki/about-us/team'},
             { text: 'Проект', link: '/wiki/about-us/project'}
           ]
         },
-        { // Категория архив
+        { // Категория архива
           text: 'Архив',
-          collapsed: false,
+          collapsed: true,
           items: [
             { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Legacy', link: '/wiki/archive/ml-legacy', 
               collapsed: true, items: [
@@ -123,24 +148,6 @@ export const wikiSidebar = {
             },
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/archive/ml-pixel'},
             { text: '🥩 Саварубка', link: '/wiki/archive/sawarubka'},
-          ]
-        },
-        { // Категория о PLAY
-          text: '🪄 <span style="color: #e381ff;">PLAY</span> EVENT',
-          collapsed: true,
-          items: [
-            {
-              text: 'ЧЁ?',
-              link: '/wiki/play/che'
-            },
-            { 
-              text: 'PLAY 2023',
-              link: '/wiki/play/play23'
-            },
-            {
-              text: 'PLAY 2024',
-              link: '/wiki/play/play24'
-            }
           ]
         },
       ],

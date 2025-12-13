@@ -3,6 +3,7 @@ title: OneLauncher BETA
 lastUpdated: false
 ---
 
+
 <!-- # OneLauncher<br/> <span style="color: gray;"><sup></sup></span> -->
 
 <!-- Заголовок + картинка  -->
@@ -18,7 +19,7 @@ lastUpdated: false
 </div> 
 
 > [!TIP] Установка НЕ обязательна
-> Сборка в `.zip` и `.mrpack` продолжат выходить
+> Сборка в `.zip` и `.mrpack` продолжит выходить
 
 <Links :items="[
     { 

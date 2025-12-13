@@ -1,5 +1,5 @@
-# ЧЁ?
-ПОЧЕМУ ВСЕ КАПСОМ? 
+# ЧЁ? <br/> <span style="color: gray;"><sup>ПОЧЕМУ ВСЕ КАПСОМ?</sup></span>
+
 
 Что такое **PLAY**? 
 
@@ -13,14 +13,19 @@
 ## Результаты
 <Links :items="[
     { 
-        name: 'PLAY 2023', 
-        link: 'play23', 
-        image: '/WIKI/Play/Che/play2023logo.png'
+        name: '✨ PLAY 2025 ✨', 
+        link: 'play25', 
+        // image: '/WIKI/Play/Che/play2024logo.png' 
     },
     { 
         name: 'PLAY 2024', 
         link: 'play24', 
         image: '/WIKI/Play/Che/play2024logo.png' 
+    },
+    { 
+        name: 'PLAY 2023', 
+        link: 'play23', 
+        image: '/WIKI/Play/Che/play2023logo.png'
     },
   ]"
 />

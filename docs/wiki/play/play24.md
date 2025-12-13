@@ -1,10 +1,10 @@
 ---
 # outline: 
 ---
+![](/WIKI/Play/Play2024/play2024banner.png)
 
 # PLAY 2024
 
-![](/WIKI/Play/Play2024/play2024banner.png)
 
 `26 Декабря - 31 Декабря 2024`
 

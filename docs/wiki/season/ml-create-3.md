@@ -14,6 +14,8 @@ title: ML Create 3
 
 ## Описание
 
+Пятый сезон 2025 года
+
 Третий сезон с тематикой мода <Pill name="Create v6.0.6" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png" color="#868dcc"/> с множеством аддонов.<br/> 
 <!-- Невероятную физику и совместимость с модом  <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png" color="#868dcc"/><br/> представляют в сборке гигант <Pill name="Valkyrien Skies" link="https://modrinth.com/mod/valkyrien-skies" image="https://cdn.modrinth.com/data/V5ujR2yw/d156dee2ce00ca6ce07343bf8db374a05893f376.png" color="#868dcc"/> 
 <Pill name="Clockwork" link="https://www.curseforge.com/minecraft/mc-mods/create-clockwork" image="https://media.forgecdn.net/avatars/thumbnails/925/381/64/64/638393946266044506_animated.gif" color="#868dcc"/>. -->
@@ -68,7 +70,7 @@ title: ML Create 3
     ]"
 /> 
 
-## История
+## История ✨
 ###### <!-- Cентябрь 2025 -->
 ::: details Cентябрь 2025 
 
@@ -130,7 +132,7 @@ title: ML Create 3
 
 :::
 ###### <!-- Декабрь 2025 -->
-::: details <span style="color:#3dd68c ;"> Декабрь 2025 </span>
+::: details <span style="color:#3dd68c ;"> Декабрь 2025 ✨ </span>
 `2 Декабря` - Небольшое обновление принесло:<br/>
 \- Фикс интернета<br>
 \- <Pill name="Create: Cardboard Things" link="https://www.curseforge.com/minecraft/mc-mods/create-cardboard-things" image="https://media.forgecdn.net/avatars/thumbnails/1278/809/64/64/638831745293817584.png" /> <br/>
@@ -147,6 +149,11 @@ title: ML Create 3
 \- <Pill name="Macaw's Bridges" link="https://www.curseforge.com/minecraft/mc-mods/macaws-bridges" image="https://media.forgecdn.net/avatars/thumbnails/237/234/64/64/637098539787193844.jpeg" /> <br/>
 
 Изменения сборки -> **[Сборка](ml-create-3/modpack)**<br/> 
+
+`12 Декабря` - Подготовка к PLAY2025<br/>
+Игрокам доступна публичная Google Form где они могут предложить номинантов, дополнительные номинации, и предложить изменения к самому ивенту.
+
+Подробнее о **<span style="color: #e381ff;">PLAY</span>** -> **[ЧЁ?](../play/che)**
 :::
 
 
@@ -174,8 +181,8 @@ title: ML Create 3
 
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `110` 
-**<span style="color: gray;"> (`108` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
+**<span style="color: gray;">Общее количество:</span>** `111` 
+**<span style="color: gray;"> (`109` + `2` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -288,6 +295,7 @@ title: ML Create 3
 - Zakatis <img src="https://api.mineatar.io/face/23bde12f-6a17-435d-92ee-493e953d1b24?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Sherman1991 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/> 
 - zark_ <img src="https://api.mineatar.io/face/3b5bcb67-c48a-42a8-89cc-82e1eaac7395?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Kontar <img src="https://api.mineatar.io/face/dc261276-7cb4-45aa-8831-898ff94c6149?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
 #### Забанены <br/><span style="color: gray;"><sup>Данные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} 
 <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> Avacando <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/><span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1419416641187348661)</sub></span><br/>
