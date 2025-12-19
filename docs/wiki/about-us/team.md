@@ -13,7 +13,7 @@ layout: doc
 
   const admins = [
     {
-      avatar: 'https://cdn.discordapp.com/avatars/803639665960681502/e2ecda525abbcb714374b116e63b9f30.webp?size=1024',
+      avatar: 'https://cdn.discordapp.com/avatars/803639665960681502/ab46511adcbf8bc66abcbb7a0f7d6a83.webp?size=1024',
       name: 'SawaDawa177_',
       title: 'Создатель',
       links: [
@@ -22,7 +22,7 @@ layout: doc
       ]
     },
     {
-      avatar: 'https://cdn.discordapp.com/avatars/508385398666297383/6e5f4b20955263ecf3bdc38285bd69a3.webp?size=1024',
+      avatar: 'https://cdn.discordapp.com/avatars/508385398666297383/6f15fdd4d00b3efa48de4dc486753713.webp?size=1024',
       name: 'GreatShow6102',
       title: 'Администратор, Редактор Вики',
       links: [
@@ -34,7 +34,7 @@ layout: doc
 
   const moderators = [
     {
-      avatar: 'https://cdn.discordapp.com/avatars/733200455324401676/c3bfd7b4df067d76caa37de7a1259636.webp?size=1024',
+      avatar: 'https://cdn.discordapp.com/avatars/733200455324401676/9525d70a15098f7cd6367feca3eac58e.webp?size=1024',
       name: 'Nub4ik1',
       title: 'Модератор',
       links: [
@@ -47,6 +47,14 @@ layout: doc
       title: 'Модератор',
       links: [
         { icon: 'discord', link: 'https://discord.com/users/648913024031129615' }
+      ]
+    },
+    {
+      avatar: 'https://cdn.discordapp.com/avatars/911320367618998332/d8c0e2e79c5649250713371ac387e3d4.webp?size=1024',
+      name: 'm1nus1k',
+      title: 'Хелпер',
+      links: [
+        { icon: 'discord', link: 'https://discord.com/users/911320367618998332' }
       ]
     },
   ]

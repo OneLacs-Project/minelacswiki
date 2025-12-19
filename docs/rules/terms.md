@@ -72,7 +72,7 @@ outline: 3
 
  
 ### **`ЧСА`** <iconify-icon icon="solar:list-cross-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon>
-Аббревиатура. Чёрный Список Администрации. Это означает что игрока больше не возьмут в команду администрации/запрещено участвовать в отборах.
+Аббревиатура. Чёрный Список Администрации. Это означает, что игрока больше не возьмут в команду администрации/запрещено участвовать в отборах.
 
 
 ### **`ЗУС`**  <iconify-icon icon="solar:forbidden-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon>

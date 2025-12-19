@@ -7,9 +7,9 @@
 # PLAY 2025
 
 
-`?? Декабря - ?? Декабря 2025`
+`19 Декабря - 31 Декабря 2025`
 
-<!-- Голосование проводилось в Google Forms -->
+Голосование проводилось ????? ???? ? ???????? 
 
 
 
@@ -49,7 +49,7 @@
 ### Сезоны
 За этот год прошло **5** сезонов!
 <!-- Первый сезон в этом году был MineLacs ...... (... ........) -->
-<Links :items="[
+<BoxCube :items="[
     { 
         name: 'ML Create & Magic', 
         link: '/wiki/archive/ml-createmagic', 
@@ -93,7 +93,7 @@
 
 ### Игроки
 <!-- <span style="color: gray;"><sup>Список участников со всех сезонов за весь 2025 год </sup></span> -->
-**<span style="color: gray;">Общее количество</span> Уникальных <span style="color: gray;">игроков</span>**: `...`
+**<span style="color: gray;">Общее количество</span> Уникальных <span style="color: gray;">игроков</span>**: `165`
 
 > [!IMPORTANT] В разработке
 

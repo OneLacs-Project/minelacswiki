@@ -20,7 +20,7 @@ import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
 export default defineConfig({
 
   title: "MineLacs Wiki",
-  description: "Вики Сервера MineLacs",
+  description: "Вики сервера MineLacs",
   lang: 'ru',
   base: '/', 
   head: [

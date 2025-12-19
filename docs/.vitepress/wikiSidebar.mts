@@ -137,7 +137,7 @@ export const wikiSidebar = {
                 { text: '💬 FlectoneChat', link: '/wiki/archive/ml-vanila/flectone-chat'},
                 { text: '🎵 Пластинки', link: '/wiki/archive/ml-vanila/music-discs'},
                 { text: '🖌️ Мап Арты', link: '/wiki/archive/ml-vanila/map-arts'},
-                { text: '🧩 Поделится Ресурспаком', link: '/wiki/archive/ml-vanila/share-resourcepack'},
+                { text: '🧩 Поделиться Ресурспаком', link: '/wiki/archive/ml-vanila/share-resourcepack'},
               ]
             },
             { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Create', link: '/wiki/archive/ml-create', collapsed: true, items: [

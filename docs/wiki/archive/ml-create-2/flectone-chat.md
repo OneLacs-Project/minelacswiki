@@ -252,7 +252,7 @@ title: FlectoneChat
 ```
 /ignore
 ```
-Оправить игрока в игнор. Вы не будете видеть сообщений игрока.<br/>
+Отправить игрока в игнор. Вы не будете видеть сообщений игрока.<br/>
 <img src="/WIKI/FlectoneChat/demo_img_30.png" style="display: inline; margin: 0 2px; vertical-align: middle;  width: 357px; height: 19px;" />
 
 `/ignorelist`
