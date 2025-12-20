@@ -1,34 +1,46 @@
 <template>
   <div :class="['block-card-container', size]">
-    <div v-for="(card, index) in formattedCards" :key="index" :class="['block-card', { 'has-link': card.link }]" @mouseover="card.link && hoverIn(card)" @mouseleave="card.link && hoverOut(card)">
-      <a v-if="card.link" :href="card.link" class="card-content" v-html="card.htmlContent"></a>
-      <div v-else class="card-content" v-html="card.htmlContent"></div>
-    </div>
+    <template v-for="(card, index) in formattedCards" :key="index">
+      <component 
+        :is="card.link ? 'a' : 'div'" 
+        :href="card.link" 
+        :class="['block-card', { 'has-link': card.link }]"
+      >
+        <div class="card-content">
+          <iconify-icon 
+            v-if="card.icon" 
+            :icon="card.icon" 
+            class="card-icon"
+          ></iconify-icon>
+          
+          <div class="text-wrapper" v-html="card.htmlContent"></div>
+        </div>
+      </component>
+    </template>
   </div>
 </template>
 
 <script>
 import MarkdownIt from 'markdown-it';
 
-const md = new MarkdownIt();
+// ENABLE HTML SUPPORT HERE
+const md = new MarkdownIt({
+  html: true,
+  linkify: true,
+  typographer: true
+});
 
 export default {
   name: 'BlockCard',
   props: {
-    cards: {
-      type: Array,
-      required: true
-    },
-    size: {
-      type: String,
-      default: 'medium'
-    }
+    cards: { type: Array, required: true },
+    size: { type: String, default: 'medium' }
   },
   computed: {
     formattedCards() {
       return this.cards.map(card => ({
         ...card,
-        htmlContent: md.render(card.content)
+        htmlContent: md.render(card.content || '')
       }));
     }
   }
@@ -39,42 +51,78 @@ export default {
 .block-card-container {
   display: flex;
   flex-wrap: wrap;
+  margin: 0 -8px;
 }
-.block-card-container.medium .block-card {
-  width: calc(33.333% - 10px);
-  margin: 5px;
-  flex-grow: 0; /* Prevent horizontal stretching */
+
+.block-card-container.small .block-card { width: calc(25% - 16px); }
+.block-card-container.medium .block-card { width: calc(33.333% - 16px); }
+.block-card-container.big .block-card { width: calc(50% - 16px); }
+
+@media (max-width: 768px) {
+  .block-card-container.small .block-card,
+  .block-card-container.medium .block-card,
+  .block-card-container.big .block-card {
+    width: calc(100% - 16px);
+  }
 }
-.block-card-container.big .block-card {
-  width: calc(50% - 10px);
-  margin: 5px;
-  flex-grow: 0; /* Prevent horizontal stretching */
-}
+
 .block-card {
-  border: 1px solid #ddd; /* Slightly dimmer border */
-  border-radius: 10px; /* Rounded edges */
-  box-sizing: border-box;
-  transition: border-color 0.3s ease;
+  margin: 8px;
   display: flex;
   flex-direction: column;
-  align-items: flex-start; /* Align text to the left */
-  justify-content: flex-start;
-  aspect-ratio: 3 / 2; /* Maintain 1:1 aspect ratio */
-  height: auto; /* Allow vertical stretching */
+  text-decoration: none !important;
+  background-color: #1b1b1f; 
+  border-radius: 12px;
+  border: 2px solid rgba(255, 255, 255, 0.1); 
+  transition: transform 0.25s ease, border-color 0.25s ease;
+  height: auto;
+  overflow: hidden;
 }
+
+.block-card:hover {
+  transform: translateY(-5px);
+}
+
+.block-card.has-link {
+  border-color: #a8b1ff;
+  cursor: pointer;
+}
+
 .block-card.has-link:hover {
-  border-color: #007BFF;
+  border-color: #c4cbff;
 }
-.block-card .card-content {
-  text-decoration: none;
-  color: inherit;
+
+.card-content {
+  padding: 28px;
+  color: #ebebef;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 100%;
+}
+
+.card-icon {
+  font-size: 3.5rem;
+  color: #a8b1ff;
+  flex-shrink: 0;
+}
+
+.text-wrapper {
   width: 100%;
-  padding: 10px;
-  box-sizing: border-box;
-  text-align: left;
 }
-.block-card a {
-  text-decoration: none;
-  color: inherit;
+
+:deep(.card-content h3) {
+  margin: 0 0 8px 0;
+  color: #ffffff;
+}
+
+/* This allows your <span> colors to work without being overridden */
+:deep(.card-content span) {
+  color: inherit; 
+}
+
+:deep(.card-content p) {
+  margin: 0;
+  color: #ebebef;
 }
 </style>

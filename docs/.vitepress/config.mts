@@ -26,10 +26,13 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/mlwiki-logo.svg' }],
     ['link', { rel: 'icon', type: 'image/png', href: '/mlwiki-logo.png' }],
-    ['link', { rel: 'icon', href: '/base/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/base/favicon.ico' }],
+    ['script', { src: 'https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js' }]
   ],
   cleanUrls: true,
 
+  
+  
   markdown: {
     config: (md) => { 
       md.use(figure, { figcaption: 'alt', copyAttrs: '^class$', lazy: false }),

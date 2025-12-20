@@ -30,11 +30,11 @@ title: ParСool! Мод
 >
 > Используйте список справа чтобы перемещаться между разделами
 
-### Трейлер<br/> <span style="color: gray;"><sup>Ахуеть</sup></span>
+### Трейлер<br/> <span class="ignore-header" style="color: gray;"><sup>Ахуеть</sup></span>
 <Vid id="yd8yR_lIz_A" />
 
 ## Добавления
-### Зиплайн Крюки<br/> <span style="color: gray;"><sup>Какой больше нравится</sup></span>
+### Зиплайн Крюки<br/> <span class="ignore-header" style="color: gray;"><sup>Какой больше нравится</sup></span>
 |Деревянный|Железный|
 |-|-|
 |![](/WIKI/ML-Create-3/ParCool/wooden_hook.png)|![](/WIKI/ML-Create-3/ParCool/iron_hook.png)|
