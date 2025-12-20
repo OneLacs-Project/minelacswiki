@@ -7,27 +7,42 @@ outline: [1,3]
 
 # PLAY 2025
 
-
 `19 Декабря - 31 Декабря 2025`
 
 Голосование проводилось через Telegram бота.
-
-
 
 ## Номинации:
 Иллюстрации для номинаций нарисованы игроком <Pill name="m1nus1k" link="https://discord.com/users/911320367618998332" color="#868dcc" /> <img src="https://api.mineatar.io/face/2b4b6a4e-dfc1-41b4-926a-6cd0e18fb786?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> 
 <!-- > [!IMPORTANT] В разработке  -->
 
 <BlockCard size="small" :cards="[
-  { content: '![](/WIKI/Play/Play2025/play2025_admin_goda.gif)Админ Года'},
-  { content: '![](/WIKI/Play/Play2025/play2025_anons_goda.png)Анонс Года'},
-  { content: '![](/WIKI/Play/Play2025/play2025_daun_goda.png)Д@ун Года'},
-  { content: '![](/WIKI/Play/Play2025/play2025_zadrot_goda.png)Задрот Года'},
-  { content: '![](/WIKI/Play/Play2025/play2025_clown_goda.png)Клоун Года'},
-  { content: '![](/WIKI/Play/Play2025/play2025_kontora_goda.png)Контора Года'},
-  { content: '![](/WIKI/Play/Play2025/play2025_mem_goda.png)Мем Года'},
-  { content: '![](/WIKI/Play/Play2025/play2025_newbie_goda.png)Новичок Года'},
-  { content: '![](/WIKI/Play/Play2025/play2025_trailer_goda.png)Трейлер Года'},
+  { content: '![](/WIKI/Play/Play2025/play2025_admin_goda.gif)Админ Года',      
+  // link:'/wiki/play/play25#admin'  
+  },
+  { content: '![](/WIKI/Play/Play2025/play2025_anons_goda.png)Анонс Года',      
+  // link:'/wiki/play/play25#anons'  
+  },
+  { content: '![](/WIKI/Play/Play2025/play2025_daun_goda.png)Д@ун Года',        
+  // link:'/wiki/play/play25#daun'   
+  },
+  { content: '![](/WIKI/Play/Play2025/play2025_zadrot_goda.png)Задрот Года',    
+  // link:'/wiki/play/play25#zadrot' 
+  },
+  { content: '![](/WIKI/Play/Play2025/play2025_clown_goda.png)Клоун Года',      
+  // link:'/wiki/play/play25#clown'  
+  },
+  { content: '![](/WIKI/Play/Play2025/play2025_kontora_goda.png)Контора Года',  
+  // link:'/wiki/play/play25#kontora'
+  },
+  { content: '![](/WIKI/Play/Play2025/play2025_mem_goda.png)Мем Года',          
+  // link:'/wiki/play/play25#mem'    
+  },
+  { content: '![](/WIKI/Play/Play2025/play2025_newbie_goda.png)Новичок Года',   
+  // link:'/wiki/play/play25#newbie' 
+  },
+  { content: '![](/WIKI/Play/Play2025/play2025_trailer_goda.png)Трейлер Года',  
+  // link:'/wiki/play/play25#trailer'
+  },
 ]"/>
 
  
@@ -35,8 +50,8 @@ outline: [1,3]
 
 > [!IMPORTANT] В процессе голосования
 
-
-<!--### Админ Года <br><span class="ignore-header" style="color: gray;"><sub>  Ангел, который поможет всегда и везде. </sub></span> {#admin}
+<!-- 
+### Админ Года <br><span class="ignore-header" style="color: gray;"><sub>  Ангел, который поможет всегда и везде. </sub></span> {#admin}
 ##### **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> `100%` <br><span style="color: gray;"><sub>Единственный номинант</sub></span>
 <BlockCard size="medium" :cards="[
   { content: '![](https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=96) '},
@@ -57,7 +72,7 @@ outline: [1,3]
   { content: '![](/WIKI/Play/Play2025/play2025_daun_goda.png)  '}
 ]"/> 
 
-### Задрот Года <br><span class="ignore-header" style="color: gray;"><sub>Игрок, который не знает что такое `Закрыть игру`.</sub></span> {#zadrot}
+### Задрот Года <br><span class="ignore-header" style="color: gray;"><sub>Игрок, который не знает что такое "Закрыть игру".</sub></span> {#zadrot}
 ##### ... `00.0%` <br><span style="color: gray;"><sub>Среди `8` номинантов</sub></span>
 <BlockCard size="medium" :cards="[
   {  icon: 'solar:menu-dots-bold-duotone', content: ''},
@@ -147,9 +162,15 @@ outline: [1,3]
     },
 ]"/>
 
+**<span style="color: gray;">Самый</span> продолжительный <span style="color: gray;">сезон:</span>** <Pill name="Create+" image="/WIKI/Play/Play2025/minelacscreate3logo.png" link="/wiki/archive/ml-create-3" color="#868dcc" /> `85 Дней`<br>
+**<span style="color: gray;">Самый</span> активный <span style="color: gray;">сезон:</span>** <Pill name="Create+" image="/WIKI/Play/Play2025/minelacscreate3logo.png" link="/wiki/archive/ml-create-3" color="#868dcc" /> `111 Участников`<br>
+**<span style="color: gray;">Самый</span> обновляемый <span style="color: gray;">сезон:</span>** <Pill name="Create & Magic" image="/WIKI/Play/Play2025/minelacscreateandmagiclogo.png" link="/wiki/archive/ml-createmagic" color="#868dcc" /> `5 больших обновлений` <br> 
+**<span style="color: gray;">Сезон, которые получили </span> маштабные обновления<span style="color: gray;">:</span>** <Pill name="Create+" image="/WIKI/Play/Play2025/minelacscreate3logo.png" link="/wiki/archive/ml-create-3" color="#868dcc" /><br>
+
 ### Игроки
 <!-- <span style="color: gray;"><sup>Список участников со всех сезонов за весь 2025 год </sup></span> -->
-**<span style="color: gray;">Общее количество</span> Уникальных <span style="color: gray;">игроков</span>**: `165`
+**<span style="color: gray;">Общее количество</span> Уникальных <span style="color: gray;">игроков</span>**: `165` <br>
+**<span style="color: gray;">Общее количество</span> Новых <span style="color: gray;">игроков</span>**: `151`  <span style="color: gray;">(Которые пришли за эти 5 сезонов)</span>
 
 <!-- > [!IMPORTANT] В разработке -->
 
