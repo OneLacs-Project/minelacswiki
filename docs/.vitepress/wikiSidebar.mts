@@ -66,8 +66,9 @@ export const wikiSidebar = {
           text: 'Архив',
           collapsed: false,
           items: [
-            { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Create 3', link: '/wiki/archive/ml-create-3', 
+            { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Create 3 ✨', link: '/wiki/archive/ml-create-3', 
               collapsed: true, items: [
+                { text: '📥 Карта Сервера ✨', link: '/wiki/archive/ml-create-3/server-map'},
                 { text: '📦 Сборка', link: '/wiki/archive/ml-create-3/modpack'},
                 { text: '🤸‍♂️ ParCool', link: '/wiki/archive/ml-create-3/parcool' },
                 { text: '💿 Etched', link: '/wiki/archive/ml-create-3/etched'},

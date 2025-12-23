@@ -5,7 +5,7 @@ lastUpdated: true
 
 <Pill name="ML Create 3" link="/wiki/archive/ml-create-3" icon="solar:archive-bold-duotone" color="#868dcc"  /><br/>
 
-# 📥 Карта Сервера
+# 📥 Карта Сервера ✨
 
 Версия: <Badge type="info" text="1.20.1 Forge" />
 
@@ -23,12 +23,12 @@ lastUpdated: true
 |---|---|
 |Карта Мира| [Google Drive](https://drive.google.com/file/d/1ddH1YfhjdHr9-B7LL-Qz_EvmIKfWNrIy/view?usp=sharing) |
 |Сборка <Badge type="info" text="1.20.1 Forge" /> | [Файл](https://drive.google.com/file/d/1a8K8X5782bNDVQzNSt-erKd7aEdRItTZ/view?usp=sharing) | -->
-###### Карта `Create 0.5.1j`
+###### Карта `Create 0.5.1j` ✨
 <BoxCube :items="[
   { 
     name: 'Карта', 
-    link: '', 
-    icon: 'solar:globus-bold-duotone', desc: '.ZIP'
+    link: 'https://mega.nz/file/aFcCHRJK#6JtCOAHGIVePv9pl7YiNZzH6oIIs97mhAXRZ9TCKAEI', 
+    icon: 'simple-icons:mega', desc: '.ZIP', color: '#d9272e'
   },
   { 
     name: 'Сборка', 
@@ -44,13 +44,13 @@ lastUpdated: true
 />
 <br>
 
-###### Карта `Create 6.0.6`
+###### Карта `Create 6.0.6` ✨
 
 <BoxCube :items="[
   { 
     name: 'Карта', 
-    link: '', 
-    icon: 'solar:globus-bold-duotone', desc: '.ZIP'
+    link: 'https://mega.nz/file/rUl31C5S#Adidv98DOTqJNNztWO6GPYp7sSsFaU28lVjkhd3Nrg4', 
+    icon: 'simple-icons:mega', desc: '.ZIP', color: '#d9272e'
   },
   { 
     name: 'Сборка', 

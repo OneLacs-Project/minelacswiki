@@ -14,11 +14,11 @@ hero:
       text: PLAY 2025
       link: /wiki/play/play25
     - theme: brand
+      text: Карта Сервера
+      link: /wiki/archive/ml-create-3/server-map
+    - theme: alt
       text: OneLauncher
       link: /wiki/launcher
-    - theme: alt
-      text: ML Create 3
-      link: /wiki/archive/ml-create-3
     - theme: alt
       text: Вики
       link: /wiki/how-to-join
@@ -32,11 +32,11 @@ features:
     details: Итоговый ивент года, где методом голосования, люди решают кто или что было самым-самым в этом году.
     link: /wiki/play/che
     linkText: Подробнее о PLAY
-  - icon: 🏗️
-    title: MineLacs Create 3
+  - icon: 🗺️
+    title: Карта сервера опубликована
     details: Сезон завершился. Есть возможность скачать карту и сборку сервера на Create 0.5.1j и Create 6.0.6
-    link: /wiki/archive/ml-create-3
-    linkText: ML Create 3
+    link: /wiki/archive/ml-create-3/server-map
+    linkText: Карта Сервера
   - icon: 🟧 
     title: OneLauncher 
     details: Наш лаунчер для удобным управлением, обновлением сборки и заходом на сервер.
