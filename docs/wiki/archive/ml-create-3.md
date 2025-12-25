@@ -26,7 +26,7 @@ title: ML Create 3
 ## Документации / Ресурсы
 <Links :items="[
      { 
-        name: 'Карта Сервера ✨', 
+        name: 'Карта Сервера', 
         link: 'ml-create-3/server-map', 
         icon: 'solar:map-bold-duotone',
         color: '#868dcc',

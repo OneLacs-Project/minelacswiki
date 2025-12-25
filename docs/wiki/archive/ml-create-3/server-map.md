@@ -5,7 +5,7 @@ lastUpdated: true
 
 <Pill name="ML Create 3" link="/wiki/archive/ml-create-3" icon="solar:archive-bold-duotone" color="#868dcc"  /><br/>
 
-# 📥 Карта Сервера ✨
+# 📥 Карта Сервера
 
 Версия: <Badge type="info" text="1.20.1 Forge" />
 
@@ -23,7 +23,7 @@ lastUpdated: true
 |---|---|
 |Карта Мира| [Google Drive](https://drive.google.com/file/d/1ddH1YfhjdHr9-B7LL-Qz_EvmIKfWNrIy/view?usp=sharing) |
 |Сборка <Badge type="info" text="1.20.1 Forge" /> | [Файл](https://drive.google.com/file/d/1a8K8X5782bNDVQzNSt-erKd7aEdRItTZ/view?usp=sharing) | -->
-###### Карта `Create 0.5.1j` ✨
+###### Карта `Create 0.5.1j`
 <BoxCube :items="[
   { 
     name: 'Карта', 
@@ -44,7 +44,7 @@ lastUpdated: true
 />
 <br>
 
-###### Карта `Create 6.0.6` ✨
+###### Карта `Create 6.0.6`
 
 <BoxCube :items="[
   { 
