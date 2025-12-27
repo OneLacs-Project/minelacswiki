@@ -48,8 +48,6 @@ outline: [1,3]
  
 ## Победители 
 
-> [!IMPORTANT] В процессе голосования
-
 ### Админ Года <br><span class="ignore-header" style="color: gray;"><sub>  Ангел, который поможет всегда и везде. </sub></span> {#admin}
 ##### **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> `100%` <br><span style="color: gray;"><sub>Единственный номинант</sub></span>
 ![](/WIKI/Play/Play2025/play2025_anons_admin_goda_win_normal.png)
