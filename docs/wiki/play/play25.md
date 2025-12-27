@@ -17,31 +17,31 @@ outline: [1,3]
 
 <BlockCard size="small" :cards="[
   { content: '![](/WIKI/Play/Play2025/play2025_admin_goda.gif)Админ Года',      
-  // link:'/wiki/play/play25#admin'  
+  link:'/wiki/play/play25#admin'  
   },
   { content: '![](/WIKI/Play/Play2025/play2025_anons_goda.png)Анонс Года',      
-  // link:'/wiki/play/play25#anons'  
+  link:'/wiki/play/play25#anons'  
   },
   { content: '![](/WIKI/Play/Play2025/play2025_daun_goda.png)Д@ун Года',        
-  // link:'/wiki/play/play25#daun'   
+  link:'/wiki/play/play25#daun'   
   },
   { content: '![](/WIKI/Play/Play2025/play2025_zadrot_goda.png)Задрот Года',    
-  // link:'/wiki/play/play25#zadrot' 
+  link:'/wiki/play/play25#zadrot' 
   },
   { content: '![](/WIKI/Play/Play2025/play2025_clown_goda.png)Клоун Года',      
-  // link:'/wiki/play/play25#clown'  
+  link:'/wiki/play/play25#clown'  
   },
   { content: '![](/WIKI/Play/Play2025/play2025_kontora_goda.png)Контора Года',  
-  // link:'/wiki/play/play25#kontora'
+  link:'/wiki/play/play25#kontora'
   },
   { content: '![](/WIKI/Play/Play2025/play2025_mem_goda.png)Мем Года',          
-  // link:'/wiki/play/play25#mem'    
+  link:'/wiki/play/play25#mem'    
   },
   { content: '![](/WIKI/Play/Play2025/play2025_newbie_goda.png)Новичок Года',   
-  // link:'/wiki/play/play25#newbie' 
+  link:'/wiki/play/play25#newbie' 
   },
   { content: '![](/WIKI/Play/Play2025/play2025_trailer_goda.png)Трейлер Года',  
-  // link:'/wiki/play/play25#trailer'
+  link:'/wiki/play/play25#trailer'
   },
 ]"/>
 
@@ -50,71 +50,87 @@ outline: [1,3]
 
 > [!IMPORTANT] В процессе голосования
 
-<!-- 
 ### Админ Года <br><span class="ignore-header" style="color: gray;"><sub>  Ангел, который поможет всегда и везде. </sub></span> {#admin}
 ##### **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> `100%` <br><span style="color: gray;"><sub>Единственный номинант</sub></span>
-<BlockCard size="medium" :cards="[
+![](/WIKI/Play/Play2025/play2025_anons_admin_goda_win_normal.png)
+
+<!-- <BlockCard size="medium" :cards="[
   { content: '![](https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=96) '},
   { content: '![](/WIKI/Play/Play2025/play2025_admin_goda.gif)'}
-]"/> 
+]"/>  -->
 
 ### Анонс Года <br><span class="ignore-header" style="color: gray;"><sub> Идея проекта, ожидаемого людьми, но так не и реализованого. </sub></span>{#anons}
-##### ... `00.0%` <br><span style="color: gray;"><sub>Среди `7` номинантов</sub></span>
-<BlockCard size="medium" :cards="[
-  { icon: 'solar:menu-dots-bold-duotone', content: ''},
+##### `"/sex"` `44.4%` <br><span style="color: gray;"><sub>Среди `7` номинантов</sub></span>
+![](/WIKI/Play/Play2025/play2025_anons_goda_win_normal.png)
+<!-- <BlockCard size="medium" :cards="[
+  { content: '![](/WIKI/Play/Play2025/play2025_anons_goda_win_normal.png)'},
   { content: '![](/WIKI/Play/Play2025/play2025_anons_goda.png) '}
-]"/> 
+]"/>  -->
 
 ### Д@ун Года <br><span class="ignore-header" style="color: gray;"><sub>Бан игрока, который заслуживает большего наказания . </sub></span> {#daun}
-##### ... `00.0%` <br><span style="color: gray;"><sub>Среди `6` номинантов</sub></span>
-<BlockCard size="medium" :cards="[
-  {  icon: 'solar:menu-dots-bold-duotone', content: '', link: ''},
+##### timka90956756 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/> `44.4%` <br><span style="color: gray;"><sub>Среди `6` номинантов</sub></span>
+![](/WIKI/Play/Play2025/play2025_anons_daun_goda_win_normal.png)
+<!-- <BlockCard size="medium" :cards="[
+  {  content: '', link: ''},
   { content: '![](/WIKI/Play/Play2025/play2025_daun_goda.png)  '}
-]"/> 
+]"/>  -->
+
 
 ### Задрот Года <br><span class="ignore-header" style="color: gray;"><sub>Игрок, который не знает что такое "Закрыть игру".</sub></span> {#zadrot}
-##### ... `00.0%` <br><span style="color: gray;"><sub>Среди `8` номинантов</sub></span>
-<BlockCard size="medium" :cards="[
-  {  icon: 'solar:menu-dots-bold-duotone', content: ''},
+##### gachimax <img src="https://api.mineatar.io/face/5597a6cb-40fb-442b-a971-6f91b6d530d9?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> `55.6%` <br><span style="color: gray;"><sub>Среди `8` номинантов</sub></span>
+![](/WIKI/Play/Play2025/play2025_anons_zadrot_goda_win_normal.png)
+
+<!-- <BlockCard size="medium" :cards="[
+  {  content: ''},
   { content: '![](/WIKI/Play/Play2025/play2025_zadrot_goda.png)  '}
-]"/> 
+]"/>  -->
 
 ### Клоун Года <br><span class="ignore-header" style="color: gray;"><sub>Самый-самый шутник.</sub></span> {#clown}
-##### ... `00.0%` <br><span style="color: gray;"><sub>Среди `9` номинантов</sub></span>
-<BlockCard size="medium" :cards="[
-  {  icon: 'solar:menu-dots-bold-duotone', content: ''},
+##### qywyx <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> `55.6%` <br><span style="color: gray;"><sub>Среди `9` номинантов</sub></span>
+![](/WIKI/Play/Play2025/play2025_anons_clown_goda_win_normal.png)
+
+<!-- <BlockCard size="medium" :cards="[
+  {  content: ''},
   { content: '![](/WIKI/Play/Play2025/play2025_clown_goda.png)  '}
-]"/> 
+]"/>  -->
 
 ### Контора Года <br><span class="ignore-header" style="color: gray;"><sub>Команда монополистов и легенд.</sub></span> {#kontora}
-##### ... `00.0%` <br><span style="color: gray;"><sub>Среди `4` номинантов</sub></span>
-<BlockCard size="medium" :cards="[
-  {  icon: 'solar:menu-dots-bold-duotone', content: ''},
+##### DVD corp.  `55.6%` <br><span style="color: gray;"><sub>Среди `4` номинантов</sub></span>
+![](/WIKI/Play/Play2025/play2025_anons_kontora_goda_win_normal.png)
+
+<!-- <BlockCard size="medium" :cards="[
+  {  content: ''},
   { content: '![](/WIKI/Play/Play2025/play2025_kontora_goda.png)  '}
-]"/> 
+]"/>  -->
 
 ### Мем Года <br><span class="ignore-header" style="color: gray;"><sub>Приколямбус, созданный сервером. </sub></span> {#mem}
-##### ... `00.0%` <br><span style="color: gray;"><sub>Среди `8` номинантов</sub></span>
-<BlockCard size="medium" :cards="[
-  {  icon: 'solar:menu-dots-bold-duotone', content: ''},
+##### "кункурент?" `22.2%` <br><span style="color: gray;"><sub>Среди `8` номинантов</sub></span>
+![](/WIKI/Play/Play2025/play2025_anons_meme_goda_normal.png)
+
+<!-- <BlockCard size="medium" :cards="[
+  {  content: ''},
   { content: '![](/WIKI/Play/Play2025/play2025_mem_goda.png) '}
-]"/> 
+]"/>  -->
 
 ### Новичок Года <br><span class="ignore-header" style="color: gray;"><sub>Тот новичок, который поднялся к элитам. </sub></span>  {#newbie}
-##### ... `00.0%` <br><span style="color: gray;"><sub>Среди `8` номинантов</sub></span>
-<BlockCard size="medium" :cards="[
-  {  icon: 'solar:menu-dots-bold-duotone', content: ''},
+##### m1nus1k <img src="https://api.mineatar.io/face/2b4b6a4e-dfc1-41b4-926a-6cd0e18fb786?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />  `44.4%` <br><span style="color: gray;"><sub>Среди `8` номинантов</sub></span>
+![](/WIKI/Play/Play2025/play2025_anons_novichek_goda_normal.png)
+
+<!-- <BlockCard size="medium" :cards="[
+  {  content: ''},
   { content: '![](/WIKI/Play/Play2025/play2025_newbie_goda.png) '}
-]"/> 
+]"/>  -->
 
 ### Трейлер Года <br><span class="ignore-header" style="color: gray;"><sub>Тот самый трейлер, от которого бегут мурашки!</sub></span> {#trailer}
-##### ... `00.0%` <br><span style="color: gray;"><sub>Среди `5` номинантов</sub></span>
-<BlockCard size="medium" :cards="[
-  {  icon: 'solar:menu-dots-bold-duotone', content: '', },
-  { content: '![](/WIKI/Play/Play2025/play2025_trailer_goda.png)  '}
-]"/> 
+##### Трейлер <Pill name="ML Create & Magic" link="/wiki/archive/ml-createmagic" icon="solar:archive-bold-duotone" color="#868dcc"  /> `66.7%` <br><span style="color: gray;"><sub>Среди `5` номинантов</sub></span>
+![](/WIKI/Play/Play2025/play2025_anons_trailer_goda_normal.png)
 
- -->
+<!-- <BlockCard size="medium" :cards="[
+  {  content: '', },
+  { content: '![](/WIKI/Play/Play2025/play2025_trailer_goda.png)  '}
+]"/>  -->
+
+ 
 
 ## Итоги
 
@@ -219,6 +235,7 @@ MAY_12 <img src="https://api.mineatar.io/face/119df178-117b-48c3-8eeb-4727ead662
 may12 <img src="https://api.mineatar.io/face/0f39239d-84f6-44ba-a624-f008016ada77?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />, 
 may1766 <img src="https://api.mineatar.io/face/8d88b0f3-2c0b-43d8-aa60-1a963f816949?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />, 
 meat_tank02 <img src="https://api.mineatar.io/face/74cb7d13-6153-4557-8138-7bda3f2c376b?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />, 
+m1nus1k <img src="https://api.mineatar.io/face/2b4b6a4e-dfc1-41b4-926a-6cd0e18fb786?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />,
 Morendy_ <img src="https://api.mineatar.io/face/8b8b1b8a-13d3-4a3e-9f8a-776a73aee53d?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />, 
 MrSpudya <img src="https://api.mineatar.io/face/a994dc62-c45a-4674-a61b-1bf9bcddf402?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />, 
 Mr_Frying <img src="https://api.mineatar.io/face/8a587fdf-a714-42db-b460-cac37bfaaaeb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />, 
@@ -321,7 +338,7 @@ ZXCOVOCH <img src="/minecraft/playerHeads/steveHead.png" style="display: inline;
 \_KFnektO\_ <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 
 
-Опущенные: <br/><iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> <span style="color: gray;">SomirS</span> <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>,  <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> <span style="color: gray;">TorentsTirfiys</span> <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>, <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> <span style="color: gray;">X_Ghost_Knight_X</span> <img src="https://api.mineatar.io/face/e2991dd7-a26b-4702-a34b-9af4483fbedb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> 
+Опущенные: <br/><iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> <span style="color: gray;">SomirS</span> <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>,  <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> <span style="color: gray;">TorentsTirfiys</span> <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>, <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> <span style="color: gray;">X_Ghost_Knight_X</span> <img src="https://api.mineatar.io/face/e2991dd7-a26b-4702-a34b-9af4483fbedb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> , <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> <span style="color: gray;">timka90956756</span> <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 
 == Create & Magic
 
