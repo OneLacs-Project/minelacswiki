@@ -13,9 +13,9 @@
 ## Результаты
 <Links :items="[
     { 
-        name: '✨ PLAY 2025 ✨', 
+        name: 'PLAY 2025', 
         link: 'play25', 
-        // image: '/WIKI/Play/Che/play2024logo.png' 
+        image: '/WIKI/Play/Che/play2025logo.png' 
     },
     { 
         name: 'PLAY 2024', 

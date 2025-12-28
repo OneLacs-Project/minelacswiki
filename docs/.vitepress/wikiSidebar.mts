@@ -27,31 +27,13 @@ export const wikiSidebar = {
         { // Категория сезонов
           text: 'Сезон',
           items: [
+            { text: '⛩️ ML Legends ✨', link: '/wiki/season/ml-legends', 
+              collapsed: true, items: [
+                // { text: '📥 Карта Сервера', link: '/wiki/season/ml-legends/server-map'},
+                { text: '📦 Сборка', link: '/wiki/season/ml-legends/modpack'},
+              ]
+            },
             { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},
-          ]
-        },
-        { // Категория о PLAY
-          text: '🪄 <span style="color: #e381ff;">PLAY</span> EVENT',
-          collapsed: false,
-          items: [
-            {
-              text: 'ЧЁ?',
-              link: '/wiki/play/che'
-            },
-            {
-              text: '<span style="color: #3dd68c;">PLAY 2025</span>',
-              link: '/wiki/play/play25'
-            },
-            {
-              text: 'PLAY 2024',
-              link: '/wiki/play/play24'
-            },
-            { 
-              text: 'PLAY 2023',
-              link: '/wiki/play/play23'
-            },
-            
-            
           ]
         },
         { // Категория о нас
@@ -149,6 +131,28 @@ export const wikiSidebar = {
             },
             { text: '🧑‍🎨 ML Pixel', link: '/wiki/archive/ml-pixel'},
             { text: '🥩 Саварубка', link: '/wiki/archive/sawarubka'},
+          ]
+        },
+        { // Категория о PLAY
+          text: '🪄 <span style="color: #e381ff;">PLAY</span> EVENT',
+          collapsed: false,
+          items: [
+            {
+              text: 'ЧЁ?',
+              link: '/wiki/play/che'
+            },
+            {
+              text: 'PLAY 2025',
+              link: '/wiki/play/play25'
+            },
+            {
+              text: 'PLAY 2024',
+              link: '/wiki/play/play24'
+            },
+            { 
+              text: 'PLAY 2023',
+              link: '/wiki/play/play23'
+            },
           ]
         },
       ],
