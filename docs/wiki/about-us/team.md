@@ -13,12 +13,14 @@ layout: doc
 
   const admins = [
     {
-      avatar: 'https://cdn.discordapp.com/avatars/803639665960681502/ab46511adcbf8bc66abcbb7a0f7d6a83.webp?size=1024',
+      avatar: 'https://cdn.discordapp.com/avatars/803639665960681502/ae8b067bdda1b5b558982884b709827f.webp?size=1024',
       name: 'SawaDawa177_',
       title: 'Создатель',
       links: [
         { icon: 'github', link: 'https://github.com/notsawadawa177' },
-        { icon: 'discord', link: 'https://discord.com/users/803639665960681502' }
+        { icon: 'discord', link: 'https://discord.com/users/803639665960681502' },
+        { icon: 'youtube', link: 'https://www.youtube.com/@MineLacs/videos' },
+        { icon: 'twitch', link: 'https://www.twitch.tv/sawadawa177' }
       ]
     },
     {
@@ -38,7 +40,9 @@ layout: doc
       name: 'Nub4ik1',
       title: 'Модератор',
       links: [
-        { icon: 'discord', link: 'https://discord.com/users/733200455324401676' }
+        { icon: 'discord', link: 'https://discord.com/users/733200455324401676' },
+        { icon: 'youtube', link: 'https://www.youtube.com/@nub4ik142/videos' },
+        { icon: 'twitch', link: 'https://www.twitch.tv/nub4ik1' }
       ]
     },
     {
@@ -69,6 +73,16 @@ layout: doc
       ]
     },
   ]
+
+  const other = [
+    {
+      avatar: 'https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png',
+      name: 'Google Gemini',
+      links: [
+        {icon: 'googlegemini', link: 'https://gemini.google.com/'}
+      ]
+    }
+  ]
 </script>
 
 <VPTeamPage>
@@ -80,15 +94,21 @@ layout: doc
 <center>
 
 # Модерация
-
 </center>
 <VPTeamMembers size="medium" :members="moderators" />
 <br/>
 <center>
 
 # Бета-тестеры 
-</center>
+
 <VPTeamMembers size="small" :members="beta_testers" />
+</center>
+<br/>
+<center>
+
+# Другие
+<VPTeamMembers size="small" :members="other" />
+</center>
 </VPTeamPage>
 
 
