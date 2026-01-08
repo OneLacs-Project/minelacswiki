@@ -38,11 +38,10 @@ title: ML Legends
         link: 'ml-legends/modpack', 
         icon: 'solar:box-bold-duotone',
         color: '#868dcc',
-        desc: 'В РАЗРАБОТКЕ'
     },
     { 
         name: 'ParCool!', 
-        link: 'ml-create-3/parcool', 
+        link: 'ml-legends/parcool', 
         icon: 'solar:running-round-bold-duotone', 
         color: '#868dcc' 
     },
