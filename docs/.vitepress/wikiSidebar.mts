@@ -31,6 +31,7 @@ export const wikiSidebar = {
               collapsed: true, items: [
                 // { text: '📥 Карта Сервера', link: '/wiki/season/ml-legends/server-map'},
                 { text: '📦 Сборка', link: '/wiki/season/ml-legends/modpack'},
+                { text: '🤸‍♂️ ParCool', link: '/wiki/season/ml-legends/parcool' },
               ]
             },
             { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},
