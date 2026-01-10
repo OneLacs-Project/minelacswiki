@@ -9,7 +9,7 @@ lastUpdated: false
 
 **Версия игры: <Badge type="info" text="1.20.1" />** 
 
-Версия сборки: <Badge type="info" text="v1.0" />
+Версия сборки: <Badge type="tip" text="v2.0" />
 
 Загрузчик модов: <Badge type="info" text="Forge" />
 
@@ -20,8 +20,12 @@ lastUpdated: false
 
 <!-- ### LAST UPDATES (use to collapse them during editing) -->
 :::tabs 
-###### <!-- 1.0 --> 
 
+###### <!-- 2.0 --> 
+=== 2.0 
+`10 Января`<br/>
+
+###### <!-- 1.0 --> 
 === 1.0 
 `7 Января`<br/>
 Релизная сборка
