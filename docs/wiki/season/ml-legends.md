@@ -65,7 +65,7 @@ title: ML Legends
 
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `7` 
+**<span style="color: gray;">Общее количество:</span>** `12` 
 <!-- **<span style="color: gray;"> (`0` + `0` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -75,3 +75,8 @@ title: ML Legends
 - qywyx  <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - gachimax <img src="https://api.mineatar.io/face/5597a6cb-40fb-442b-a971-6f91b6d530d9?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - AyeshnikVor2114 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- xxxKiraxxxm <img src="https://api.mineatar.io/face/5a8d6840-36fe-45ef-adc3-64c1f4808e01?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> 
+- 8526_ <img src="https://api.mineatar.io/face/306f233d-3c90-4eb5-8fc2-fbfd09637791?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- m1nus1k <img src="https://api.mineatar.io/face/2b4b6a4e-dfc1-41b4-926a-6cd0e18fb786?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- TheLastWin <img src="https://api.mineatar.io/face/164c7179-10d2-4b88-be5a-3be76e216aca?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
