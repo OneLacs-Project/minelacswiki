@@ -54,13 +54,18 @@ title: ML Legends
 
 :::
 ###### <!-- Январь 2026 -->
-::: details Январь 2026
+::: details <span style="color: #38ce86;">Январь 2026</span>
 
 `7 Января` - **<span style="color: green;">Сезон начался</span>**
 
-`10 Января` - Обновление Принесло:<br>
-\- <br>
-\- <br>
+`10 Января` - Мини-Обновление Принесло:<br>
+\- Исправлен критический баг где инвентарь не возвращался в некоторых сценариях<br>
+\- Добавлены эмоции для <Pill name="Emotecraft" link="https://www.curseforge.com/minecraft/mc-mods/emotecraft-forge" image="https://media.forgecdn.net/avatars/thumbnails/294/964/64/64/637335210850751725.png"/><br>
+\- Исправлено главное меню и его элементы<br>
+\- Добавлен <Pill name="Dynamic Lights" link="https://www.curseforge.com/minecraft/mc-mods/tschipcrafts-dynamic-lights-mod" image="https://media.forgecdn.net/avatars/thumbnails/874/27/64/64/638294576361309208.png"/><br> от Nub4ik1  <img src="https://api.mineatar.io/face/d2b496f0-c2b0-4849-8dee-a6bda731a7eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /><br>
+\- Добавлен <Pill name="Immersive Snow " link="https://modrinth.com/mod/immersive-snow" image="https://cdn.modrinth.com/data/mQdEVqSA/9353a60cfd04637cea81a5330058b57a8753a5bf.png"/><br> от DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <br>
+\- Добавлен <Pill name="Ars Elemental" link="https://www.curseforge.com/minecraft/mc-mods/ars-elemental" image="https://media.forgecdn.net/avatars/thumbnails/473/347/256/256/637764918520290586.png"/><br> от qywyx  <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <br>
+
 :::
 
 

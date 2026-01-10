@@ -9,7 +9,7 @@ lastUpdated: false
 
 **Версия игры: <Badge type="info" text="1.20.1" />** 
 
-Версия сборки: <Badge type="tip" text="v2.0" />
+Версия сборки: <Badge type="tip" text="v2.3" />
 
 Загрузчик модов: <Badge type="info" text="Forge" />
 
@@ -21,9 +21,13 @@ lastUpdated: false
 <!-- ### LAST UPDATES (use to collapse them during editing) -->
 :::tabs 
 
-###### <!-- 2.0 --> 
-=== 2.0 
+###### <!-- 2.3 --> 
+=== 2.3 
 `10 Января`<br/>
+
+<span style="color: green;">+ добавлен</span> <Pill name="Dynamic Lights" link="https://www.curseforge.com/minecraft/mc-mods/tschipcrafts-dynamic-lights-mod" image="https://media.forgecdn.net/avatars/thumbnails/874/27/64/64/638294576361309208.png"/><br> от Nub4ik1  <img src="https://api.mineatar.io/face/d2b496f0-c2b0-4849-8dee-a6bda731a7eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /><br>
+<span style="color: green;">+ добавлен</span> <Pill name="Immersive Snow " link="https://modrinth.com/mod/immersive-snow" image="https://cdn.modrinth.com/data/mQdEVqSA/9353a60cfd04637cea81a5330058b57a8753a5bf.png"/><br> от DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <br>
+<span style="color: green;">+ добавлен</span> <Pill name="Ars Elemental" link="https://www.curseforge.com/minecraft/mc-mods/ars-elemental" image="https://media.forgecdn.net/avatars/thumbnails/473/347/256/256/637764918520290586.png"/><br> от qywyx  <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <br>
 
 ###### <!-- 1.0 --> 
 === 1.0 
@@ -41,7 +45,7 @@ lastUpdated: false
 ## Моды 
 *<span style="color: gray;"><sup>Это не полный и не динамичный список модов сборки, библиотеки и часть модов могут быть не указаны. </sup></span>*
 
-### Магические {#magic}
+### Магические ✨ {#magic}
 
 :::: tabs 
 
@@ -50,16 +54,21 @@ lastUpdated: false
 ℹ️ Моды относящиеся к <span style="color: violet;">Магии</span>: способности, предметы, и тд
 
 ###### <!-- Магия -->
-=== Магия
-
+=== Магия ✨
+<span style="color: green;">+ добавлен</span> <Pill name="Ars Elemental" link="https://www.curseforge.com/minecraft/mc-mods/ars-elemental" image="https://media.forgecdn.net/avatars/thumbnails/473/347/256/256/637764918520290586.png"/><br>
 
 <BoxCube :items="[
+  { 
+    name: 'Ars Elemental', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/ars-elemental', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/473/347/256/256/637764918520290586.png', desc: '✨НОВОЕ✨'
+  },
   { 
     name: 'Ars Additions', 
     link: 'https://modrinth.com/mod/ars-additions', 
     image: 'https://cdn.modrinth.com/data/GYK6Gk8R/248e49588dd7e85e9ec8ca66fe4d23d832935af6.png', 
   },
-   { 
+  { 
     name: 'Ars Nouveau', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/ars-nouveau', 
     image: 'https://media.forgecdn.net/avatars/thumbnails/565/915/64/64/637924211543296813.png', 
@@ -117,8 +126,6 @@ lastUpdated: false
 
 ###### <!-- Генерация -->
 === Генерация
-
-
 
 <BoxCube :items="[
   { 
@@ -178,7 +185,7 @@ lastUpdated: false
   },
 ]"/>
 
-### YUNG's Better.. 
+**YUNG's Better..**
 <BoxCube :items="[
   { 
     name: 'Desert Temples', 
@@ -240,8 +247,6 @@ lastUpdated: false
 ###### <!-- Мобы -->
 === Мобы
 
-
-
 <BoxCube :items="[
   { 
     name: 'Alex\'s Mobs', 
@@ -289,8 +294,6 @@ lastUpdated: false
 ###### <!-- farmers delight -->
 === Delight / [Let's Do]
 
-
-
 <BoxCube :items="[
   { 
     name: 'Beachparty', 
@@ -336,8 +339,6 @@ lastUpdated: false
 
 ###### <!-- еффекты -->
 === Эффекты 
-
-
 
 <BoxCube :items="[
 { 
@@ -389,8 +390,6 @@ lastUpdated: false
 
 ###### <!-- Функции -->
 === Функции 
-
-
 
 <BoxCube :items="[
   { 
@@ -461,7 +460,7 @@ lastUpdated: false
 ]"/> 
 ::::
 
-### Клиентские {#client}
+### Клиентские ✨ {#client}
 
 :::: tabs 
 
@@ -674,11 +673,22 @@ lastUpdated: false
 ]"/> 
 
 ###### <!-- Визуал  -->
-=== Визуал
-
+=== Визуал✨
+<span style="color: green;">+ добавлен</span> <Pill name="Dynamic Lights" link="https://www.curseforge.com/minecraft/mc-mods/tschipcrafts-dynamic-lights-mod" image="https://media.forgecdn.net/avatars/thumbnails/874/27/64/64/638294576361309208.png"/><br>
+<span style="color: green;">+ добавлен</span> <Pill name="Immersive Snow " link="https://modrinth.com/mod/immersive-snow" image="https://cdn.modrinth.com/data/mQdEVqSA/9353a60cfd04637cea81a5330058b57a8753a5bf.png"/><br>
 
 
 <BoxCube :items="[
+{ 
+    name: 'Dynamic Lights', 
+    link: 'https://www.curseforge.com/minecraft/mc-mods/tschipcrafts-dynamic-lights-mod', 
+    image: 'https://media.forgecdn.net/avatars/thumbnails/874/27/64/64/638294576361309208.png',desc: '✨НОВОЕ✨' 
+},
+{ 
+    name: 'Immersive Snow ', 
+    link: 'https://modrinth.com/mod/immersive-snow', 
+    image: 'https://cdn.modrinth.com/data/mQdEVqSA/9353a60cfd04637cea81a5330058b57a8753a5bf.png', desc: '✨НОВОЕ✨'
+},
 { 
     name: '[EMF] Entity Model Features', 
     link: 'https://modrinth.com/mod/entity-model-features', 
