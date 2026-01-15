@@ -69,8 +69,13 @@ title: ML Legends
 :::
 
 
+
+
+
+
+
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `12` 
+**<span style="color: gray;">Общее количество:</span>** `33` 
 <!-- **<span style="color: gray;"> (`0` + `0` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -85,3 +90,23 @@ title: ML Legends
 - 8526_ <img src="https://api.mineatar.io/face/306f233d-3c90-4eb5-8fc2-fbfd09637791?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - m1nus1k <img src="https://api.mineatar.io/face/2b4b6a4e-dfc1-41b4-926a-6cd0e18fb786?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - TheLastWin <img src="https://api.mineatar.io/face/164c7179-10d2-4b88-be5a-3be76e216aca?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- ILUXA_4iTeR <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- KRiaTiN <img src="https://api.mineatar.io/face/41c0bf06-c8d4-4de2-8c88-a8ef43b0a9b9?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Arellin <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Angel <img src="https://api.mineatar.io/face/e56ed936-a9bb-4f28-94af-65a23cb572e7?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- QillagerBot <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Foxyandet <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- AIJL12 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- radik11155 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- prostoac <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- MrHgekillplayuio <img src="https://api.mineatar.io/face/238f8f79-cab8-4acd-993c-697afd29b4f5?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- \_KFnektO\_ <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Cursedd_King <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- kapibara6660 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- yorru_de <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- FinnKingsley <img src="https://api.mineatar.io/face/92982953-b65b-4b26-8766-04d1c62312af?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- TheLast__ <img src="https://api.mineatar.io/face/850e7bd2-53a8-4141-941f-e21a456ffc8c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- mor2x2 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- WIXSI_N <img src="https://api.mineatar.io/face/35cf0e0f-421f-4b8c-946f-fc4cee0ec346?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> 
+- TimPEst <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- _PurpleGuy1983 <img src="https://api.mineatar.io/face/99197b6e-cc42-475a-933c-78e25d2f3f94?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
