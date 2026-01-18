@@ -75,7 +75,7 @@ title: ML Legends
 
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `36` 
+**<span style="color: gray;">Общее количество:</span>** `38` 
 <!-- **<span style="color: gray;"> (`0` + `0` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -113,3 +113,5 @@ title: ML Legends
 - eten21 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - DEO24 <img src="https://api.mineatar.io/face/efae631f-360a-4e8f-bd31-04543b80eeac?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - GooseMr <img src="https://api.mineatar.io/face/03606afa-5f46-4252-90de-65b344bc548c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- ProstoSUSLIK <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- da_nila55h0l3 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
