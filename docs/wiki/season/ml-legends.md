@@ -75,7 +75,7 @@ title: ML Legends
 
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `38` 
+**<span style="color: gray;">Общее количество:</span>** `51` 
 <!-- **<span style="color: gray;"> (`0` + `0` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -115,3 +115,17 @@ title: ML Legends
 - GooseMr <img src="https://api.mineatar.io/face/03606afa-5f46-4252-90de-65b344bc548c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - ProstoSUSLIK <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - da_nila55h0l3 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- moinegr <img src="https://api.mineatar.io/face/075dbcda-f8de-4488-80e2-3123334fbda8?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Warfloks1234 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- M_K_P_M <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- KoIIIeu_  <img src="https://api.mineatar.io/face/11916946-e133-40b6-9f83-7fe5aedf27de?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- mishanyanikitaa <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- play_20 <img src="https://api.mineatar.io/face/d7782b7d-0e93-4cb3-8c9e-c7e428c0b367?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- ZzNeronzZ <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- _PurpleGuy1983 <img src="https://api.mineatar.io/face/99197b6e-cc42-475a-933c-78e25d2f3f94?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Predirae212 <img src="https://api.mineatar.io/face/104765a6-57de-452d-86ba-3cfded90deb1?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Nortelis <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- suniykat <img src="https://api.mineatar.io/face/75f150e5-cd53-4c38-98ef-7074b0b73d7d?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Danil_Swiss <img src="https://api.mineatar.io/face/d1d16a9f-03a1-43ce-ae7e-7f2a2e4b0ccd?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- NeadApTars  <img src="https://api.mineatar.io/face/b44d4bc1-8d82-499b-974a-be9025ef64dc?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- nerinoc <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
