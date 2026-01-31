@@ -9,7 +9,7 @@ title: ML Legends
 <!-- <iconify-icon icon="solar:archive-bold-duotone" style="margin-bottom:-0.3rem;margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> -->
 # ⛩️ ML Legends <br/> <span style="color: gray;"><sup>Эра магии и приключений</sup></span>
 **<span style="color: gray;">Версия Игры:</span> 1.20.1 Forge**<br/>
-**<span style="color: gray;">Статус:</span> <span style="color: gold;">Анонсирован</span>**
+**<span style="color: gray;">Статус:</span> <span style="color: green;">Активен</span>**
 <!-- **<span style="color: gray;">Трейлер:</span> [Смотреть](https://youtu.be/M8KChje108Q)**<br/> -->
 <!-- <br/><span style="color: gray;"><sub>00.01.2026 - 00.00.2026</sub></span><br/> -->
 
@@ -33,7 +33,7 @@ title: ML Legends
     //     desc: 'DESCRIPTION'
     // },
     { 
-        name: 'Сборка', 
+        name: 'Сборка ✨', 
         link: 'ml-legends/modpack', 
         icon: 'solar:box-bold-duotone',
         color: '#868dcc',
@@ -66,7 +66,20 @@ title: ML Legends
 \- Добавлен <Pill name="Immersive Snow " link="https://modrinth.com/mod/immersive-snow" image="https://cdn.modrinth.com/data/mQdEVqSA/9353a60cfd04637cea81a5330058b57a8753a5bf.png"/><br> от DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <br>
 \- Добавлен <Pill name="Ars Elemental" link="https://www.curseforge.com/minecraft/mc-mods/ars-elemental" image="https://media.forgecdn.net/avatars/thumbnails/473/347/256/256/637764918520290586.png"/><br> от qywyx  <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <br>
 
+`29 Января` - Обновление Принесло:<br>
+\- Добавлено 11 модов, включая:<br>
+\- <Pill name="Immersive Melodies" link="https://www.curseforge.com/minecraft/mc-mods/immersive-melodies" image="https://media.forgecdn.net/avatars/thumbnails/867/344/64/64/638280636660476412.png"/> от play_20 <img src="https://api.mineatar.io/face/d7782b7d-0e93-4cb3-8c9e-c7e428c0b367?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /><br>
+\- <Pill name="Illage and Spillage: Respillaged" link="https://www.curseforge.com/minecraft/mc-mods/illage-and-spillage-finally-ported" image="https://media.forgecdn.net/avatars/thumbnails/1109/967/64/64/638661030719210741.png"/> от _PurpleGuy1983 <img src="https://api.mineatar.io/face/99197b6e-cc42-475a-933c-78e25d2f3f94?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /><br>
+\- <Pill name="Qliphoth Awakening" link="https://www.curseforge.com/minecraft/mc-mods/qliphoth-awakening" image="https://media.forgecdn.net/avatars/thumbnails/1584/799/64/64/639025679151755863_animated.gif"/> от TimPEst <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/><br>
+\- Удалено 5 модов<br>
+
+Изменения сборки -> **[Сборка](ml-createmagic/modpack)**<br/> 
+
+
 :::
+
+
+
 
 
 
@@ -122,10 +135,10 @@ title: ML Legends
 - mishanyanikitaa <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - play_20 <img src="https://api.mineatar.io/face/d7782b7d-0e93-4cb3-8c9e-c7e428c0b367?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - ZzNeronzZ <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
-- _PurpleGuy1983 <img src="https://api.mineatar.io/face/99197b6e-cc42-475a-933c-78e25d2f3f94?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Predirae212 <img src="https://api.mineatar.io/face/104765a6-57de-452d-86ba-3cfded90deb1?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Nortelis <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - suniykat <img src="https://api.mineatar.io/face/75f150e5-cd53-4c38-98ef-7074b0b73d7d?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Danil_Swiss <img src="https://api.mineatar.io/face/d1d16a9f-03a1-43ce-ae7e-7f2a2e4b0ccd?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - NeadApTars  <img src="https://api.mineatar.io/face/b44d4bc1-8d82-499b-974a-be9025ef64dc?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - nerinoc <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- TheViriz <img src="https://api.mineatar.io/face/5e15d010-8c05-431f-8558-ac01017d93f4?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />

@@ -30,7 +30,7 @@ export const wikiSidebar = {
             { text: '⛩️ ML Legends ✨', link: '/wiki/season/ml-legends', 
               collapsed: true, items: [
                 // { text: '📥 Карта Сервера', link: '/wiki/season/ml-legends/server-map'},
-                { text: '📦 Сборка', link: '/wiki/season/ml-legends/modpack'},
+                { text: '📦 Сборка ✨', link: '/wiki/season/ml-legends/modpack'},
                 { text: '🤸‍♂️ ParCool', link: '/wiki/season/ml-legends/parcool' },
               ]
             },
