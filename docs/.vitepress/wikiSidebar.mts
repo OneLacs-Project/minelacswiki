@@ -27,14 +27,7 @@ export const wikiSidebar = {
         { // Категория сезонов
           text: 'Сезон',
           items: [
-            { text: '⛩️ ML Legends ✨', link: '/wiki/season/ml-legends', 
-              collapsed: true, items: [
-                // { text: '📥 Карта Сервера', link: '/wiki/season/ml-legends/server-map'},
-                { text: '📦 Сборка ✨', link: '/wiki/season/ml-legends/modpack'},
-                { text: '🤸‍♂️ ParCool', link: '/wiki/season/ml-legends/parcool' },
-              ]
-            },
-            { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},
+            { text: '⌛ Межсезонье', link: '/wiki/archive/ml-oneblock'},
           ]
         },
         { // Категория о нас
@@ -49,6 +42,13 @@ export const wikiSidebar = {
           text: 'Архив',
           collapsed: false,
           items: [
+            { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Legends', link: '/wiki/archive/ml-legends', 
+              collapsed: true, items: [
+                { text: '📥 Карта Сервера', link: '/wiki/archive/ml-legends/server-map'},
+                { text: '📦 Сборка', link: '/wiki/archive/ml-legends/modpack'},
+                { text: '🤸‍♂️ ParCool', link: '/wiki/archive/ml-legends/parcool' },
+              ]
+            },
             { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Create 3', link: '/wiki/archive/ml-create-3', 
               collapsed: true, items: [
                 { text: '📥 Карта Сервера', link: '/wiki/archive/ml-create-3/server-map'},

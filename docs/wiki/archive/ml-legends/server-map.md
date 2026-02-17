@@ -8,7 +8,7 @@ lastUpdated: true
 
 # 📥 Карта Сервера
 
-Версия: <Badge type="info" text="N/A" />
+Версия: <Badge type="info" text="Forge 1.20.1" />
 
 Ниже вы можете скачать последнее сохранение карты 
 И соответственные сборки в форматах `.mrpack` и `.zip`<br />
@@ -23,6 +23,27 @@ lastUpdated: true
 |---|---|
 |Карта Мира| [Google Drive](https://drive.google.com/file/d/1ddH1YfhjdHr9-B7LL-Qz_EvmIKfWNrIy/view?usp=sharing) |
 |Сборка <Badge type="info" text="1.20.1 Forge" /> | [Файл](https://drive.google.com/file/d/1a8K8X5782bNDVQzNSt-erKd7aEdRItTZ/view?usp=sharing) | -->
+
+Ссылки на скачивание: 
+
+<BoxCube :items="[
+  { 
+    name: 'Карта (13ГБ)', 
+    link: 'https://drive.google.com/file/d/1ipqaRYb_zN3IM6B2WO9mGxQ-nVp1zKCb/view?usp=sharing', 
+    icon: 'solar:zip-file-bold-duotone', desc: 'ZIP'
+  },
+  { 
+    name: 'Сборка', 
+    link: 'https://github.com/OneLacs-Project/minelacspages/releases/download/MineLacsLegends3/MineLacs.Legends.mrpack', 
+    image: 'https://raw.githubusercontent.com/gabrielvicenteYT/modrinth-icons/a05e2307b42762d64a370a3cf3e8b6b30735dce1/Branding/Mark/mark-dark.svg', desc: '.MRPACK'
+  },
+  { 
+    name: 'Сборка', 
+    link: 'https://github.com/OneLacs-Project/minelacspages/releases/download/MineLacsLegends3/MineLacs.Legends.zip', 
+    icon: 'solar:zip-file-bold-duotone', desc: 'ZIP'
+  },
+]"
+/>
 
 
 ## Неполадки?

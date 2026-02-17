@@ -3,8 +3,7 @@ outline: deep
 lastUpdated: true
 title: ParСool! Мод 
 ---
-
-<Pill name="⛩️ ML Legends" link="/wiki/season/ml-legends" color="#868dcc"  /><br/>{#parcool!}
+<Pill name="ML Legends" link="/wiki/season/ml-legends" color="#868dcc"  icon="solar:archive-bold-duotone" /><br/>{#parcool!}
 
 <!-- Заголовок + картинка  -->
 <div style="display: flex; align-items: center;"> 

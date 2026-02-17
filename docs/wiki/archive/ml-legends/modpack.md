@@ -3,26 +3,38 @@ outline: [2,3]
 lastUpdated: false
 ---
 
-<Pill name="⛩️ ML Legends" link="/wiki/season/ml-legends" color="#868dcc"  /><br/>
+<Pill name="ML Legends" link="/wiki/season/ml-legends" color="#868dcc"  icon="solar:archive-bold-duotone" /><br/>
+
 
 # 📦 Сборка 
 
 **Версия игры: <Badge type="info" text="1.20.1" />** 
 
-Версия сборки: <Badge type="tip" text="v3.17" />
+Версия сборки: <Badge type="info" text="v3.17" />
 
 Загрузчик модов: <Badge type="info" text="Forge" />
 
-Ссылка на скачивание: [Сборка](https://minelacs.fun/download/) 
+Ссылки на скачивание: 
 
-
-*Следите за новостями сервера на канале `📢│новости` чтобы узнавать про новую сборку и прочую информацию быстрее чем тут.*
+<BoxCube :items="[
+  { 
+    name: 'Сборка', 
+    link: 'https://github.com/OneLacs-Project/minelacspages/releases/download/MineLacsLegends3/MineLacs.Legends.mrpack', 
+    image: 'https://raw.githubusercontent.com/gabrielvicenteYT/modrinth-icons/a05e2307b42762d64a370a3cf3e8b6b30735dce1/Branding/Mark/mark-dark.svg', desc: '.MRPACK'
+  },
+  { 
+    name: 'Сборка', 
+    link: 'https://github.com/OneLacs-Project/minelacspages/releases/download/MineLacsLegends3/MineLacs.Legends.zip', 
+    icon: 'solar:zip-file-bold-duotone', desc: 'ZIP'
+  },
+]"
+/>
 
 <!-- ### LAST UPDATES (use to collapse them during editing) -->
 :::tabs 
 
 ###### <!-- 3.17 --> 
-=== 3.17 ✨
+=== 3.17 
 `29 Января`<br/>
 <span style="color: green;">+ добавлен</span> <Pill name="Max Health Fix" link="https://www.curseforge.com/minecraft/mc-mods/max-health-fix" image="https://media.forgecdn.net/avatars/thumbnails/393/46/64/64/637587851035916535_animated.gif"/> <br>
 <span style="color: green;">+ добавлен</span> <Pill name="Raided" link="https://www.curseforge.com/minecraft/mc-mods/raided" image="https://media.forgecdn.net/avatars/thumbnails/499/433/64/64/637816107516128234.png"/> <br>
@@ -58,6 +70,8 @@ lastUpdated: false
 
 :::
 
+
+
 > [!WARNING] Сборка сервера не поддерживает Optifine 
 
 <!-- > [!DANGER] Не обновляйте моды сборки. Игра крашнет или вы не сможете зайти на сервер. -->
@@ -67,7 +81,7 @@ lastUpdated: false
 ## Моды 
 *<span style="color: gray;"><sup>Это не полный и не динамичный список модов сборки, библиотеки и часть модов могут быть не указаны. </sup></span>*
 
-### Магические ✨ {#magic}
+### Магические  {#magic}
 
 :::: tabs 
 
@@ -76,20 +90,18 @@ lastUpdated: false
 ℹ️ Моды относящиеся к <span style="color: violet;">Магии</span>: способности, предметы, и тд
 
 ###### <!-- Магия -->
-=== Магия ✨
-<span style="color: green;">+ добавлен</span> <Pill name="Relics: Alex's Caves Compat" link="https://www.curseforge.com/minecraft/mc-mods/rac-compat" image="https://media.forgecdn.net/avatars/thumbnails/1039/478/64/64/638565010537644965_animated.gif"/> <br>
-<span style="color: green;">+ добавлен</span> <Pill name="Mowzie's Cataclysm" link="https://www.curseforge.com/minecraft/mc-mods/mowzies-cataclysm" image="https://media.forgecdn.net/avatars/thumbnails/1105/567/64/64/638655290604305060.png"/> <br>
+=== Магия 
 
 <BoxCube :items="[
   { 
     name: 'Relics: Alex\'s Caves Compat', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/rac-compat', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/1039/478/64/64/638565010537644965_animated.gif',  desc: '✨НОВОЕ✨'
+    image: 'https://media.forgecdn.net/avatars/thumbnails/1039/478/64/64/638565010537644965_animated.gif',  
   },
   { 
     name: 'Mowzie\'s Cataclysm', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/mowzies-cataclysm', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/1105/567/64/64/638655290604305060.png',  desc: '✨НОВОЕ✨'
+    image: 'https://media.forgecdn.net/avatars/thumbnails/1105/567/64/64/638655290604305060.png',  
   },
   { 
     name: 'Ars Elemental', 
@@ -150,7 +162,7 @@ lastUpdated: false
 ]"/>
 ::::
 
-### Вайб ✨ {#vibe}
+### Вайб  {#vibe}
 :::: tabs 
 
 === ℹ️
@@ -158,14 +170,13 @@ lastUpdated: false
 ℹ️ Моды которые добавляют вайб типа декоративных блоков, генерации, эффекты там всякие крч похуй
 
 ###### <!-- Генерация -->
-=== Генерация ✨
-<span style="color: green;">+ добавлен</span> <Pill name="Endless Biomes" link="https://www.curseforge.com/minecraft/mc-mods/endless-biomes" image="https://media.forgecdn.net/avatars/thumbnails/779/508/64/64/638124220506205668.png"/> <br>
+=== Генерация 
 
 <BoxCube :items="[
   { 
     name: 'Endless Biomes', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/endless-biomes', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/779/508/64/64/638124220506205668.png', desc: '✨НОВОЕ✨'
+    image: 'https://media.forgecdn.net/avatars/thumbnails/779/508/64/64/638124220506205668.png', 
   },
   { 
     name: 'Alex\'s Caves', 
@@ -284,51 +295,43 @@ lastUpdated: false
 />
 
 ###### <!-- Мобы -->
-=== Мобы ✨
-<span style="color: green;">+ добавлен</span> <Pill name="Raided" link="https://www.curseforge.com/minecraft/mc-mods/raided" image="https://media.forgecdn.net/avatars/thumbnails/499/433/64/64/637816107516128234.png"/> <br>
-<span style="color: green;">+ добавлен</span> <Pill name="MmmMmmMmmMmm" link="https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm" image="https://media.forgecdn.net/avatars/thumbnails/727/100/64/64/638080208599452100.png"/> <br>
-<span style="color: green;">+ добавлен</span> <Pill name="Mowzie's Cataclysm" link="https://www.curseforge.com/minecraft/mc-mods/mowzies-cataclysm" image="https://media.forgecdn.net/avatars/thumbnails/1105/567/64/64/638655290604305060.png"/> <br>
-<span style="color: green;">+ добавлен</span> <Pill name="Mowzie's Mobs" link="https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs" image="https://media.forgecdn.net/avatars/thumbnails/156/392/64/64/636639048661099951.png"/> <br>
-<span style="color: green;">+ добавлен</span> <Pill name="Relics: Alex's Mobs Compat " link="https://www.curseforge.com/minecraft/mc-mods/ram-compat" image="https://media.forgecdn.net/avatars/thumbnails/935/648/64/64/638412693854768134_animated.gif"/> <br>
-<span style="color: green;">+ добавлен</span> <Pill name="Born in Chaos" link="https://www.curseforge.com/minecraft/mc-mods/born-in-chaos" image="https://media.forgecdn.net/avatars/thumbnails/778/486/64/64/638122554849559119.png"/> <br>
-<span style="color: green;">+ добавлен</span>  <Pill name="Illage and Spillage: Respillaged" link="https://www.curseforge.com/minecraft/mc-mods/illage-and-spillage-finally-ported" image="https://media.forgecdn.net/avatars/thumbnails/1109/967/64/64/638661030719210741.png"/> от _PurpleGuy1983 <img src="https://api.mineatar.io/face/99197b6e-cc42-475a-933c-78e25d2f3f94?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /><br>
-<span style="color: green;">+ добавлен</span>  <Pill name="Qliphoth Awakening" link="https://www.curseforge.com/minecraft/mc-mods/qliphoth-awakening" image="https://media.forgecdn.net/avatars/thumbnails/1584/799/64/64/639025679151755863_animated.gif"/> от TimPEst <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/><br>
+=== Мобы 
 
 <BoxCube :items="[
   { 
     name: 'Raided', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/raided', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/499/433/64/64/637816107516128234.png',  desc: '✨НОВОЕ✨'
+    image: 'https://media.forgecdn.net/avatars/thumbnails/499/433/64/64/637816107516128234.png',  
   },
   { 
     name: 'MmmMmmMmmMmm', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/727/100/64/64/638080208599452100.png',  desc: '✨НОВОЕ✨'
+    image: 'https://media.forgecdn.net/avatars/thumbnails/727/100/64/64/638080208599452100.png',  
   },
   { 
     name: 'Mowzie\'s Mobs', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/156/392/64/64/636639048661099951.png',  desc: '✨НОВОЕ✨'
+    image: 'https://media.forgecdn.net/avatars/thumbnails/156/392/64/64/636639048661099951.png',  
   },
   { 
     name: 'Relics: Alex\'s Mobs Compat ', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/ram-compat', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/935/648/64/64/638412693854768134_animated.gif',  desc: '✨НОВОЕ✨'
+    image: 'https://media.forgecdn.net/avatars/thumbnails/935/648/64/64/638412693854768134_animated.gif',  
   },
   { 
     name: 'Born in Chaos', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/born-in-chaos', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/778/486/64/64/638122554849559119.png',  desc: '✨НОВОЕ✨'
+    image: 'https://media.forgecdn.net/avatars/thumbnails/778/486/64/64/638122554849559119.png',  
   },
   { 
     name: 'Illage and Spillage: Respillaged', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/illage-and-spillage-finally-ported', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/1109/967/64/64/638661030719210741.png',  desc: '✨НОВОЕ✨'
+    image: 'https://media.forgecdn.net/avatars/thumbnails/1109/967/64/64/638661030719210741.png',  
   },
   { 
     name: 'Qliphoth Awakening', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/qliphoth-awakening', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/1584/799/64/64/639025679151755863_animated.gif',  desc: '✨НОВОЕ✨'
+    image: 'https://media.forgecdn.net/avatars/thumbnails/1584/799/64/64/639025679151755863_animated.gif',  
   },
   { 
     name: 'Alex\'s Mobs', 
@@ -375,7 +378,6 @@ lastUpdated: false
 
 ###### <!-- farmers delight -->
 === Delight / [Let's Do]
-**<span style="color: red;">- удален</span>** <Pill name="[Let's Do] HerbalBrews" link="https://www.curseforge.com/minecraft/mc-mods/lets-do-herbal-brews" image="https://media.forgecdn.net/avatars/thumbnails/959/640/64/64/638454898336979010.png"/> <br>
 
 <BoxCube :items="[
   { 
@@ -467,21 +469,19 @@ lastUpdated: false
 ]"/> 
 
 ###### <!-- Функции -->
-=== Функции ✨
-<span style="color: green;">+ добавлен</span> <Pill name="Max Health Fix" link="https://www.curseforge.com/minecraft/mc-mods/max-health-fix" image="https://media.forgecdn.net/avatars/thumbnails/393/46/64/64/637587851035916535_animated.gif"/> <br>
-<span style="color: green;">+ добавлен</span>  <Pill name="Immersive Melodies" link="https://www.curseforge.com/minecraft/mc-mods/immersive-melodies" image="https://media.forgecdn.net/avatars/thumbnails/867/344/64/64/638280636660476412.png"/> от play_20 <img src="https://api.mineatar.io/face/d7782b7d-0e93-4cb3-8c9e-c7e428c0b367?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /><br>
-**<span style="color: red;">- удален</span>** <Pill name="Bountiful " link="https://www.curseforge.com/minecraft/mc-mods/bountiful" image="https://media.forgecdn.net/avatars/thumbnails/182/931/64/64/636811603181300719.png"/> и аддоны<br>
+=== Функции 
+
 
 <BoxCube :items="[
   { 
     name: 'Max Health Fix', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/max-health-fix', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/393/46/64/64/637587851035916535_animated.gif', desc: '✨НОВОЕ✨'
+    image: 'https://media.forgecdn.net/avatars/thumbnails/393/46/64/64/637587851035916535_animated.gif', 
   },
   { 
     name: 'Immersive Melodies', 
     link: 'https://www.curseforge.com/minecraft/mc-mods/immersive-melodies', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/867/344/64/64/638280636660476412.png', desc: '✨НОВОЕ✨'
+    image: 'https://media.forgecdn.net/avatars/thumbnails/867/344/64/64/638280636660476412.png', 
   },
   { 
     name: 'True Ending', 
@@ -546,7 +546,7 @@ lastUpdated: false
 ]"/> 
 ::::
 
-### Клиентские ✨ {#client}
+### Клиентские  {#client}
 
 :::: tabs 
 
