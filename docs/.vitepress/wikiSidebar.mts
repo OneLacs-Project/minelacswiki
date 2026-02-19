@@ -27,7 +27,14 @@ export const wikiSidebar = {
         { // Категория сезонов
           text: 'Сезон',
           items: [
-            { text: '⌛ Межсезонье', link: '/wiki/archive/ml-oneblock'},
+            { text: '🌍 ML World', link: '/wiki/season/ml-world',
+              collapsed: true, items: [
+                // { text: '📥 Карта Сервера', link: '/wiki/archive/ml-world/server-map'},
+                { text: '⚙️ Доп Механики', link: '/wiki/season/ml-world/additional-mechanics' },
+                // { text: '💬 FlectonePulse ', link: '/wiki/season/ml-world/flectone-pulse' },
+              ]
+            },
+            { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},
           ]
         },
         { // Категория о нас

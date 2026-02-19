@@ -13,12 +13,12 @@ hero:
     # - theme: brand
     #   text: PLAY 2025
     #   link: /wiki/play/play25
-    - theme: brand 
+    - theme: brand
+      text: ML World
+      link: /wiki/season/ml-world
+    - theme: alt 
       text: Карта ML Legends
       link: /wiki/archive/ml-legends/server-map
-    - theme: alt
-      text: ML Legends
-      link: /wiki/archive/ml-legends
     - theme: alt
       text: OneLauncher
       link: /wiki/launcher
@@ -30,16 +30,16 @@ hero:
       link: /rules/
  
 features: 
+  - icon: 🌍
+    title: MineLacs World Анонс
+    details: Анонс очередного валильного сезона на 1.21.11!
+    link: /wiki/season/ml-world
+    linkText: Подробнее о MineLacs World
   - icon: 🗺️
-    title: Карта сервера опубликована
+    title: Карта сервера Legends
     details: Сезон MineLacs Legends завершился, и карта сервера доступна для скачивания.
     link: /wiki/archive/ml-legends/server-map
-    linkText: Карта Сервера
-  - icon: ⛩️
-    title: MineLacs Legends Завершен
-    details: Новый магический сезон подошёл к концу.
-    link: /wiki/archive/ml-legends
-    linkText: Подробнее о MineLacs Legends
+    linkText: Скачать
   - icon: 🟧 
     title: OneLauncher 
     details: Наш лаунчер для удобным управлением, обновлением сборки и заходом на сервер.
