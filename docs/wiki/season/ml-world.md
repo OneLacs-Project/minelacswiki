@@ -9,6 +9,7 @@ title: ML World
 # 🌍 ML World <br/> <span style="color: gray;"><sup> мир, дружба, жвачка </sup></span>
 
 **<span style="color: gray;">Версия Игры:</span> 1.21.11 Ванила**<br/>
+**<span style="color: gray;">Трейлер:</span> [Смотреть](https://youtu.be/Zz46T4qTeLU)**<br/>
 **<span style="color: gray;">Статус:</span> <span style="color: yellow;">Анонсирован</span>**
 <!-- <br/><span style="color: gray;"><sub>00.00.2026 - 00.00.2026</sub></span><br/> -->
 
