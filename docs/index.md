@@ -31,8 +31,8 @@ hero:
  
 features: 
   - icon: 🌍
-    title: MineLacs World Анонс
-    details: Анонс очередного валильного сезона на 1.21.11!
+    title: MineLacs World 
+    details: Валильны сезон на 1.21.11!
     link: /wiki/season/ml-world
     linkText: Подробнее о MineLacs World
   - icon: 🗺️
