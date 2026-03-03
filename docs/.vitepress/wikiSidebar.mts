@@ -10,7 +10,7 @@ export const wikiSidebar = {
             { text: '🌐 Сайт', link: 'https://minelacs.fun'},
             { text: '❓ Как зайти?', link: '/wiki/how-to-join'},
             {
-              text: '📑 Правила',
+              text: '📑 Правила ✨',
               link: '/rules/'
             },
             {

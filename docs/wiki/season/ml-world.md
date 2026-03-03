@@ -87,10 +87,10 @@ title: ML World
 ]"/>
 
 
-## Участники
-**<span style="color: gray;">Общее количество:</span> `15`** 
-<!-- <span style="color: gray;"> (`20` + `1` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
 
+## Участники
+**<span style="color: gray;">Общее количество:</span> `19`** 
+<!-- <span style="color: gray;"> (`20` + `1` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 <!-- - **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> -->
@@ -100,15 +100,19 @@ title: ML World
 - DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - 8526_ <img src="https://api.mineatar.io/face/306f233d-3c90-4eb5-8fc2-fbfd09637791?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Velo_4 <img src="https://api.mineatar.io/face/02d30873-4ed9-49b1-a1bf-dfb7fbdd448d?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
-- FEFEHRU 
-- TimPEst 
+- FEFEHRU <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- TimPEst <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - Nub4ik1 <img src="https://api.mineatar.io/face/d2b496f0-c2b0-4849-8dee-a6bda731a7eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
-- kakayanser2 
+- kakayanser2 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - m1nus1k <img src="https://api.mineatar.io/face/2b4b6a4e-dfc1-41b4-926a-6cd0e18fb786?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
-- ItZMe141 
+- ItZMe141 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - qywyx <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - CatBu1b <img src="https://api.mineatar.io/face/8f2098e5-be80-48db-b6b0-6c9620c1a4f6?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
-
+- ar3ysuk <img src="https://api.mineatar.io/face/6c2562a2-82cd-4219-aa09-cb3bd282d329?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- _PurpleGuy1983 <img src="https://api.mineatar.io/face/99197b6e-cc42-475a-933c-78e25d2f3f94?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- TheLastWin <img src="https://api.mineatar.io/face/164c7179-10d2-4b88-be5a-3be76e216aca?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Morfeychik <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- p1us1k <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 
 <!-- #### Забанены: <br/><span style="color: gray;"><sup>Даные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} -->
 

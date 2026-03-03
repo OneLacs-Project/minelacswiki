@@ -1,6 +1,7 @@
 <Pill name="📜 Термины" link="../terms" color="#868dcc"  /> <Pill name="👨‍⚖️ Судебный процесс" link="/rules/other/judicial-process" color="#868dcc"  /> 
 
-# ⚖️ 7. Суд
+# DEPRECATED
+⚖️ 7. Суд 
 
 `7.1` Во время речи судьи все присутствующие обязаны соблюдать тишину.
 

@@ -2,9 +2,19 @@
 outline: 3
 ---
 
-# 📜 Термины
+# 📌 Базовые термины
 
-###  **`ОПС`** <iconify-icon icon="solar:pin-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon><span style="color: gold;">**(НОВОЕ)**</span> {#опс}
+
+`АР (Алмазная руда)` - официальная валюта сервера.
+
+`Гриферство` - намеренное разрушение чужих построек, воровство, убийство питомцев или вредительство. Строго запрещено.
+
+`Твинк` - второй аккаунт. Разрешено играть только с одного основного аккаунта.
+
+`Обязательные моды` - для игры на сервере необходимы PlasmoVoice (голосовой чат) и EmoteCraft (эмоции). Без них участие в жизни сервера невозможно.
+
+
+<!-- ###  **`ОПС`** <iconify-icon icon="solar:pin-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon><span style="color: gold;">**(НОВОЕ)**</span> {#опс}
 Аббревиатура. **[Основные Правила Сервера](categories/1-general).** 
 
 ### **`Варн (Warning)`** <iconify-icon icon="solar:danger-triangle-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> <span style="color: green;">(ОБНОВЛЕНО)</span>
@@ -81,4 +91,4 @@ outline: 3
  
 ### **`EmoteCraft, PlasmoVoice`** 
 Названия модов для Minecraft, добавляющие эмоции и голосовой чат. <br/> <sup> <Pill name="EmoteCraft" link="https://www.curseforge.com/minecraft/mc-mods/emotecraft-forge" image="https://media.forgecdn.net/avatars/thumbnails/294/964/64/64/637335210850751725.png" color="#868dcc"  /> <Pill name="PlasmoVoice" link="https://www.curseforge.com/minecraft/mc-mods/plasmo-voice" image="https://media.forgecdn.net/avatars/thumbnails/365/621/64/64/637532352743073267.png" color="#868dcc"  /> </sup>
- 
+  -->
