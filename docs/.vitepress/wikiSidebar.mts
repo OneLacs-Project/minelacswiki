@@ -10,7 +10,7 @@ export const wikiSidebar = {
             { text: '🌐 Сайт', link: 'https://minelacs.fun'},
             { text: '❓ Как зайти?', link: '/wiki/how-to-join'},
             {
-              text: '📑 Правила ✨',
+              text: '📑 Правила',
               link: '/rules/'
             },
             {
@@ -32,6 +32,8 @@ export const wikiSidebar = {
                 // { text: '📥 Карта Сервера', link: '/wiki/archive/ml-world/server-map'},
                 { text: '⚙️ Доп Механики', link: '/wiki/season/ml-world/additional-mechanics' },
                 // { text: '💬 FlectonePulse ', link: '/wiki/season/ml-world/flectone-pulse' },
+                { text: '🍷 Brewery', link: '/brewery/ml-world/alcoholic-drinks'},
+
               ]
             },
             { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},

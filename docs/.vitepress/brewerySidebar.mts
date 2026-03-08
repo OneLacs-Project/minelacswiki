@@ -21,10 +21,17 @@ export const brewerySidebar = {
             { text: 'Дополнительно', link: '/brewery/mechanics/additional'},
             // { text: '🍸 Свой рецепт', link: '/brewery/mechanics/your-recipe'},
           ]
-        },
-        { text: '🍸 Свой рецепт', link: '/brewery/mechanics/your-recipe'},
-        { text: '🍷 Алкогольные напитки', link: '/brewery/default/alcoholic-drinks'},
-        { text: '📖 Неалкогольные напитки', link: '/brewery/default/non-alcoholic-drinks'},
+        }, 
+        { text: 'Рецепты сезона', 
+          items:[
+          { text: '🍸 Свой рецепт', link: '/brewery/mechanics/your-recipe'},
+          // { text: '🍷 Алкогольные напитки', link: '/brewery/default/alcoholic-drinks'},
+          // { text: '📖 Неалкогольные напитки', link: '/brewery/default/non-alcoholic-drinks'},
+        
+          { text: '🍷 Алкогольные напитки', link: '/brewery/ml-world/alcoholic-drinks'},
+          { text: '📖 Неалкогольные напитки', link: '/brewery/ml-world/non-alcoholic-drinks'},
+        ]},
+
         // { text: '🧪 Особые напитки ', link: '/brewery/default/special-drinks'},
         { text: 'Архив', // collapsed: false, 
           items: [

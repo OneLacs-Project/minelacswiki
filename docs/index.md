@@ -16,15 +16,15 @@ hero:
     - theme: brand
       text: ML World
       link: /wiki/season/ml-world
-    - theme: brand
-      text: Правила ✨
-      link: /rules/
     - theme: alt
       text: OneLauncher
       link: /wiki/launcher
     - theme: alt
       text: Вики
       link: /wiki/how-to-join
+    - theme: alt
+      text: Правила
+      link: /rules/
     
  
 features: 

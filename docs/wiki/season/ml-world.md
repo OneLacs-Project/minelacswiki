@@ -23,6 +23,7 @@ title: ML World
 - Души
 - Синхронизация эмодзи с дискордом
 - Новая система авторизации
+<br/>и тд
 
 ## Документации / Ресурсы
 
@@ -57,12 +58,12 @@ title: ML World
     //     icon: 'solar:music-note-bold-duotone', 
     //     color: '#868dcc' 
     // },
-    // {
-    //     name: 'Brewery',
-    //     link: '/brewery/ml-world/alcoholic-drinks',
-    //     icon: 'solar:wineglass-bold-duotone', 
-    //     color: '#868dcc' 
-    // },
+    {
+        name: 'Brewery',
+        link: '/brewery/ml-world/alcoholic-drinks',
+        icon: 'solar:wineglass-bold-duotone', 
+        color: '#868dcc' 
+    },
     // 
 ]"/>
 
@@ -73,6 +74,12 @@ title: ML World
 `18 Февраля` - Анонс Сезона
 
 `26 Февраля` - **<span style="color: green;">Сезон начался</span>**
+
+:::
+
+::: details Март 2026
+
+`6 Марта` - Добавлены значки, /sit, Алковарение, Оптимизация, Души, Тотемы в пустоте. И ивент **Максилян** в честь открытия Энда.
 
 :::
 
@@ -89,7 +96,7 @@ title: ML World
 
 
 ## Участники
-**<span style="color: gray;">Общее количество:</span> `19`** 
+**<span style="color: gray;">Общее количество:</span> `20`** 
 <!-- <span style="color: gray;"> (`20` + `1` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -113,6 +120,6 @@ title: ML World
 - TheLastWin <img src="https://api.mineatar.io/face/164c7179-10d2-4b88-be5a-3be76e216aca?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Morfeychik <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - p1us1k <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
-
+- uncle_puma <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 <!-- #### Забанены: <br/><span style="color: gray;"><sup>Даные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} -->
 

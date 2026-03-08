@@ -37,11 +37,11 @@ lastUpdated: true
 //   link: '#19',  
 //   image: 'https://minecraft.wiki/images/thumb/Sonic_Explosion_%28texture_9%29_JE1_BE1.png/16px-Sonic_Explosion_%28texture_9%29_JE1_BE1.png?1f994',  
 // },
-// { 
-//   name: 'Предметы на голову',  
-//   link: '#18',  
-//   image: 'https://minecraft.wiki/images/thumb/Observer_JE4_BE3.png/150px-Observer_JE4_BE3.png?39c33',  
-// },
+{ 
+  name: 'Предметы на голову',  
+  link: '#18',  
+  image: 'https://minecraft.wiki/images/thumb/Observer_JE4_BE3.png/150px-Observer_JE4_BE3.png?39c33',  
+},
 // { 
 //   name: 'Тотем в пустоте',  
 //   link: '#15',  
@@ -274,7 +274,7 @@ lastUpdated: true
 
 На себя не работает кста)
 
-<!-- ## Предмет на голову  {#18}
+ ## Предмет на голову  {#18}
 
 Теперь вы можете надевать на голову разные предметы. 
 
@@ -297,7 +297,7 @@ lastUpdated: true
 
 <Vid is="youtube" id="MRrYJBp6I9I" />
 
-## Анимки блоков  {#19}
+<!-- ## Анимки блоков  {#19}
 
 Добавляет новые и более интересные частицы/анимации блоков для:
 - Стол Зачарования; (Частицы возле стола и шаровая частница внутри книги + Красивая анимация при успешном чаровании)
