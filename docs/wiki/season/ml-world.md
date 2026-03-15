@@ -96,7 +96,7 @@ title: ML World
 
 
 ## Участники
-**<span style="color: gray;">Общее количество:</span> `20`** 
+**<span style="color: gray;">Общее количество:</span> `34`** 
 <!-- <span style="color: gray;"> (`20` + `1` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -121,5 +121,21 @@ title: ML World
 - Morfeychik <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - p1us1k <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - uncle_puma <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- MaxikDizel <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- zxcvbnm123 <img src="https://api.mineatar.io/face/13526fc2-449e-4775-81e0-d2bcdbd605be?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- adodo_good00 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- EnroKnights <img src="https://api.mineatar.io/face/75efe152-77c9-4452-b1e4-8f6d55ba9222?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Eykestor1 <img src="https://api.mineatar.io/face/751033f5-9954-4eaa-b705-e5871ba50409?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- GoonBAD <img src="https://api.mineatar.io/face/43e3fc5a-b4af-447b-8c37-642757212d02?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- FrostReapers <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- portal\_134 <img src="https://api.mineatar.io/face/283bf15b-917e-49d7-9fb6-adb8899e040a?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- hoshikouo <img src="https://api.mineatar.io/face/f86d4b1a-ebd6-42b5-802a-82ef7efff9f1?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- MirasMiras1234 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- \_wushier\_ <img src="https://api.mineatar.io/face/c32a5078-28cd-4df6-8645-27e1e22d1e97?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Somikot <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Arslannn00 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Jaypro1589 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+
+
 <!-- #### Забанены: <br/><span style="color: gray;"><sup>Даные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} -->
 
