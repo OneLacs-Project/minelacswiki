@@ -96,8 +96,8 @@ title: ML World
 
 
 ## Участники
-**<span style="color: gray;">Общее количество:</span> `34`** 
-<!-- <span style="color: gray;"> (`20` + `1` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
+**<span style="color: gray;">Общее количество:</span> `42`** 
+<span style="color: gray;"> (`37` + `5` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>**
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 <!-- - **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> -->
@@ -135,7 +135,14 @@ title: ML World
 - Somikot <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - Arslannn00 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - Jaypro1589 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- xtxiii <img src="https://api.mineatar.io/face/6b9b9e41-fd1a-458c-a56d-d8f68f8bffff?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- KPAHOBWNK <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- dani27d7228 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 
-
-<!-- #### Забанены: <br/><span style="color: gray;"><sup>Даные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned} -->
+#### Забанены: <br/><span style="color: gray;"><sup>Даные игроки были забанены из-за нарушений правил сервера</sup></span> {#banned}  
+<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> Eshkere_338 <img src="https://api.mineatar.io/face/b0b58543-2671-4023-836f-2b37fe1c5263?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <span style="color: gray;"> <sub>[Подробнее](https://discord.com/channels/1120257989874561066/1483861862473793667)</sub></span><br/>
+<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> FugaBot <img src="https://api.mineatar.io/face/a5ba8244-b1c2-4ee8-81d9-b722ef8ab6fb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <span style="color: gray;"> <sub>[Подробнее](https://discord.com/channels/1120257989874561066/1483861862473793667)</sub></span><br/>
+<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> Dvarfik <img src="https://api.mineatar.io/face/b9c9f5fe-faa0-4171-a61b-3e8c0e3d17a0?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <span style="color: gray;"> <sub>[Подробнее](https://discord.com/channels/1120257989874561066/1483861862473793667)</sub></span><br/>
+<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> lipkof <img src="https://api.mineatar.io/face/7f83b756-3969-456b-b105-1503ace7cf24?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <span style="color: gray;"> <sub>[Подробнее](https://discord.com/channels/1120257989874561066/1483861862473793667)</sub></span><br/>
+<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> vodovar3500 <img src="https://api.mineatar.io/face/7e2af5de-8ff3-4b19-b9f0-8598bb3a69a2?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <span style="color: gray;"> <sub>[Подробнее](https://discord.com/channels/1120257989874561066/1483861862473793667)</sub></span><br/>
 
