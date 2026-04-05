@@ -1,4 +1,4 @@
-<Pill name="ML World" link="/wiki/season/ml-world"  color="#868dcc"  /> <br/>
+<Pill name="ML World" link="/wiki/archive/ml-world"  color="#868dcc"  /> <br/>
 
 
 

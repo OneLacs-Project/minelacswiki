@@ -25,11 +25,10 @@ export const brewerySidebar = {
         { text: 'Рецепты сезона', 
           items:[
           { text: '🍸 Свой рецепт', link: '/brewery/mechanics/your-recipe'},
-          // { text: '🍷 Алкогольные напитки', link: '/brewery/default/alcoholic-drinks'},
-          // { text: '📖 Неалкогольные напитки', link: '/brewery/default/non-alcoholic-drinks'},
+          { text: '🍷 Алкогольные напитки', link: '/brewery/default/alcoholic-drinks'},
+          { text: '📖 Неалкогольные напитки', link: '/brewery/default/non-alcoholic-drinks'},
         
-          { text: '🍷 Алкогольные напитки', link: '/brewery/ml-world/alcoholic-drinks'},
-          { text: '📖 Неалкогольные напитки', link: '/brewery/ml-world/non-alcoholic-drinks'},
+
         ]},
 
         // { text: '🧪 Особые напитки ', link: '/brewery/default/special-drinks'},
@@ -46,7 +45,13 @@ export const brewerySidebar = {
               { text: '🍷 Алкогольные напитки', link: '/brewery/ml-legacy/alcoholic-drinks'},
               { text: '📖 Неалкогольные ', link: '/brewery/ml-legacy/non-alcoholic-drinks'},
               { text: '🧪 Особые напитки ', link: '/brewery/ml-legacy/special-drinks'},
-          ]}
+          ]},
+          { text: 'Рецепты ML-World', collapsed: true,
+            items: [
+              { text: '🍷 Алкогольные напитки', link: '/brewery/ml-world/alcoholic-drinks'},
+              { text: '📖 Неалкогольные ', link: '/brewery/ml-world/non-alcoholic-drinks'},
+          ]},
+        
         ]},
       ],
     },

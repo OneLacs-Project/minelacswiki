@@ -15,7 +15,7 @@ hero:
     #   link: /wiki/play/play25
     - theme: brand
       text: ML World
-      link: /wiki/season/ml-world
+      link: /wiki/archive/ml-world
     - theme: alt
       text: OneLauncher
       link: /wiki/launcher
@@ -29,9 +29,9 @@ hero:
  
 features: 
   - icon: 🌍
-    title: MineLacs World 
-    details: Валильный сезон на 1.21.11!
-    link: /wiki/season/ml-world
+    title: Карта ML World  
+    details: Этот сезон выдался особенным
+    link: /wiki/archive/ml-world/server-map
     linkText: Подробнее о MineLacs World
   - icon: 📜
     title: Маштабное Обновление Правил
