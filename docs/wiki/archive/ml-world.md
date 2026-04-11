@@ -11,7 +11,7 @@ title: ML World
 
 **<span style="color: gray;">Версия Игры:</span> 1.21.11 Ванила**<br/>
 **<span style="color: gray;">Трейлер:</span> [Смотреть](https://youtu.be/Zz46T4qTeLU)**<br/>
-**<span style="color: gray;">Статус:</span> <span style="color: green;">Активен</span>**
+**<span style="color: gray;">Статус:</span> Завершён**
 <!-- <br/><span style="color: gray;"><sub>00.00.2026 - 00.00.2026</sub></span><br/> -->
 
 <center><i>Хм, и правда. Сезон выдался таким - с каким девизом его и начали. <br>Капитан Врунгель был прав...</i></center>
