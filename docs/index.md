@@ -11,20 +11,20 @@ hero:
     src: /wikihomepagelogo.png
   actions:
     # - theme: brand
-    #   text: PLAY 2025
-    #   link: /wiki/play/play25
+    #   text: PLAY 2026
+    #   link: /wiki/play/play26
     - theme: brand
-      text: ML World
-      link: /wiki/archive/ml-world
-    - theme: alt
-      text: OneLauncher
-      link: /wiki/launcher
+      text: OneBlock
+      link: /wiki/season/ml-oneblock
     - theme: alt
       text: Вики
       link: /wiki/how-to-join
     - theme: alt
       text: Правила
       link: /rules/
+    - theme: alt
+      text: OneLauncher
+      link: /wiki/launcher
     
  
 features: 

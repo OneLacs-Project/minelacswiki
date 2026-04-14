@@ -7,7 +7,7 @@ title: ML World
 
 ![](/WIKI/ML-World/banner.png)
 
-# 🌍 ML World <br/> <span style="color: gray;"><sup> мир, дружба, жвачка </sup></span>
+# <iconify-icon icon="solar:archive-bold-duotone" style="margin-bottom:-0.3rem;margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML World <br/> <span style="color: gray;"><sup> мир, дружба, жвачка </sup></span>
 
 **<span style="color: gray;">Версия Игры:</span> 1.21.11 Ванила**<br/>
 **<span style="color: gray;">Трейлер:</span> [Смотреть](https://youtu.be/Zz46T4qTeLU)**<br/>
