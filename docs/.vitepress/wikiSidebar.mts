@@ -27,6 +27,12 @@ export const wikiSidebar = {
         { // Категория сезонов
           text: 'Сезон',
           items: [
+            { text: '✈️ ML Create 3', link: '/wiki/season/ml-createareo', 
+              collapsed: true, items: [
+                // { text: '📥 Карта Сервера', link: '/wiki/season/ml-create-3/server-map'},
+                { text: '📦 Сборка', link: '/wiki/season/ml-createareo/modpack'},
+              ]
+            },
             { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},
           ]
         },
