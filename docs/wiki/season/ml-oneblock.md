@@ -26,7 +26,7 @@ title: ML OneBlock
 :::: tabs
 === World - ???
 <Pill name="ML World" link="/wiki/archive/ml-world" icon="solar:archive-bold-duotone" color="#868dcc" /> -> 
-<!-- <Pill name="ML Create & Magic" link="/wiki/archive/ml-createmagic" icon="solar:archive-bold-duotone" color="#868dcc" /> -->
+<Pill name="ML Create & Areo" link="/wiki/season/ml-createareo" icon="solar:archive-bold-duotone" color="#868dcc" />
 
 `2026` `13 Апреля` - `00 ???` 
 
