@@ -51,7 +51,7 @@ export const wikiSidebar = {
             { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML World', link: '/wiki/archive/ml-world',
               collapsed: true, items: [
                 { text: '📥 Карта Сервера', link: '/wiki/archive/ml-world/server-map'},
-                { text: '🖼️ Галерея ✨', link: '/wiki/archive/ml-world/gallery'},
+                { text: '🖼️ Галерея', link: '/wiki/archive/ml-world/gallery'},
                 { text: '⚙️ Доп Механики', link: '/wiki/archive/ml-world/additional-mechanics' },
                 // { text: '💬 FlectonePulse ', link: '/wiki/season/ml-world/flectone-pulse' },
                 { text: '🍷 Brewery', link: '/brewery/ml-world/alcoholic-drinks'},
