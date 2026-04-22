@@ -1,12 +1,12 @@
 ---
 lastUpdated: true
 outline: 2
-title: ML Create & Areo
+title: ML Create & Aero
 ---
 
 ![](/WIKI/ML-Create-N-Areo/banner.png)
 
-# ✈️ ML Create & Areo <br/> <span style="color: gray;"><sup>Вперёд и вверх!</sup></span>
+# ✈️ ML Create & Aero <br/> <span style="color: gray;"><sup>Вперёд и вверх!</sup></span>
 
 **<span style="color: gray;">Версия Игры:</span> ???** <br/>
 **<span style="color: gray;">Статус:</span> <span style="color: gold;">Анонсирован</span>**
@@ -45,6 +45,18 @@ title: ML Create & Areo
 `19 Апреля` - Администратор анонсировал выход сезона на `24 Апреля` или `1 Мая`
 
 :::
+
+### Предыдущий сезон ML Create
+
+<Links :items="[
+    { 
+        name: 'ML Create 3', 
+        link: './ml-create-3', 
+        icon: 'solar:archive-bold-duotone',
+        color: '#868dcc'
+    },
+  ]"
+/>
 
 ## Участники 
 **<span style="color: gray;">Общее количество:</span>** `0` 

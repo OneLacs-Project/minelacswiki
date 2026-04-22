@@ -27,10 +27,10 @@ export const wikiSidebar = {
         { // Категория сезонов
           text: 'Сезон',
           items: [
-            { text: '✈️ ML Create & Aero', link: '/wiki/season/ml-createareo', 
+            { text: '✈️ ML Create & Aero', link: '/wiki/season/ml-createaero', 
               collapsed: true, items: [
-                // { text: '📥 Карта Сервера', link: '/wiki/season/ml-createareo/server-map'},
-                { text: '📦 Сборка', link: '/wiki/season/ml-createareo/modpack'},
+                // { text: '📥 Карта Сервера', link: '/wiki/season/ml-createaero/server-map'},
+                { text: '📦 Сборка', link: '/wiki/season/ml-createaero/modpack'},
               ]
             },
             { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},
