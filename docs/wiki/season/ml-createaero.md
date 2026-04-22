@@ -4,7 +4,7 @@ outline: 2
 title: ML Create & Aero
 ---
 
-![](/WIKI/ML-Create-N-Areo/banner.png)
+![](/WIKI/ML-Create-N-Aero/banner.png)
 
 # ✈️ ML Create & Aero <br/> <span style="color: gray;"><sup>Вперёд и вверх!</sup></span>
 

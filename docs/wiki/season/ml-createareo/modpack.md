@@ -3,7 +3,7 @@ outline: [2,3]
 lastUpdated: false
 ---
 
-<Pill name="ML Create & Areo" link="/wiki/season/ml-createareo" icon="solar:archive-bold-duotone" color="#868dcc"  /><br/>
+<Pill name="ML Create & Aero" link="/wiki/season/ml-createaero" icon="solar:archive-bold-duotone" color="#868dcc"  /><br/>
 
 # 📦 Сборка 
 
