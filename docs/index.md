@@ -14,8 +14,8 @@ hero:
     #   text: PLAY 2026
     #   link: /wiki/play/play26
     - theme: brand
-      text: OneBlock
-      link: /wiki/season/ml-oneblock
+      text: ML Create & Aero
+      link: /wiki/season/ml-createaero
     - theme: alt
       text: Вики
       link: /wiki/how-to-join
@@ -28,11 +28,11 @@ hero:
     
  
 features: 
-  - icon: 🌍
-    title: Карта ML World  
-    details: Этот сезон выдался особенным
-    link: /wiki/archive/ml-world/server-map
-    linkText: Подробнее о MineLacs World
+  - icon: ✈️
+    title: MineLacs Create & Aero 
+    details: Сезон с свежевыпущенным долгожданным модом Create Aeronautics, который добавляет физику похлеще чем Valkiryen Skies!
+    link: /wiki/season/ml-createaero
+    linkText: Подробнее о MineLacs Create & Aero 
   - icon: 📜
     title: Маштабное Обновление Правил
     details: Правила игры были сильно упрощены!

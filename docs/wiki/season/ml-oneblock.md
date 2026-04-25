@@ -28,7 +28,7 @@ title: ML OneBlock
 <Pill name="ML World" link="/wiki/archive/ml-world" icon="solar:archive-bold-duotone" color="#868dcc" /> -> 
 <Pill name="ML Create & Areo" link="/wiki/season/ml-createareo" icon="solar:archive-bold-duotone" color="#868dcc" />
 
-`2026` `13 Апреля` - `00 ???` 
+`2026` `13 Апреля` - `25 Апреля` 
 
 **<span style="color: gray;">Версия Игры:</span> 1.21.11**
 #### Участники

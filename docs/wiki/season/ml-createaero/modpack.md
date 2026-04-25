@@ -7,11 +7,11 @@ lastUpdated: false
 
 # 📦 Сборка 
 
-**Версия игры: <Badge type="info" text="???" />** 
+**Версия игры: <Badge type="info" text="1.21.1" />** 
 
-Последняя Версия сборки: <Badge type="info" text="v1.0" />
+Последняя Версия сборки: <Badge type="tip" text="v1.0" />
 
-Загрузчик модов: <Badge type="info" text="???" />
+Загрузчик модов: <Badge type="info" text="NeoForge" />
 
 Ссылки на скачивание: 
 
@@ -45,10 +45,11 @@ lastUpdated: false
 :::tabs 
 ######  <!-- 1.0 --> 
 === 1.0 
-`00 `<br/>
+`25 Апреля `<br/>
 Релизная сборка
 
 :::
+> [!IMPORTANT] В процессе публикации
 
 > [!WARNING] Сборка сервера не поддерживает Optifine 
 
@@ -67,6 +68,148 @@ lastUpdated: false
 ℹ️ Моды с тематикой мода <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/64/64/638598725500886388.png" />
 
 === Create 
+<BoxCube :items="[
+  {
+    name: 'Create',
+    link: 'https://modrinth.com/mod/create',
+    image: 'Mod icon',
+  },
+  {
+    name: 'Create Aeronautics',
+    link: 'https://modrinth.com/mod/create-aeronautics',
+    image: 'Mod icon',
+  },
+  {
+    name: 'Steam \'n\' Rails Neoforge',
+    link: 'https://modrinth.com/mod/create-steam-n-rails-1.21.1',
+    image: 'Mod icon',
+  },
+  {
+    name: 'Create Big Cannons',
+    link: 'https://modrinth.com/mod/create-big-cannons',
+    image: 'Mod icon',
+  },
+  {
+    name: 'Create: The Factory Must Grow',
+    link: 'https://modrinth.com/mod/create-tfmg',
+    image: 'Mod icon',
+  },
+  {
+    name: 'Create: Enchantment Industry',
+    link: 'https://modrinth.com/mod/create-enchantment-industry',
+    image: 'Mod icon',
+  },
+  {
+    name: 'Create: Design n\' Decor',
+    link: 'https://modrinth.com/mod/create-design-n-decor',
+    image: 'Mod icon',
+  },
+  {
+    name: 'Create Deco',
+    link: 'https://modrinth.com/mod/create-deco',
+    image: 'Mod icon',
+  },
+  {
+        name: 'Create: Interiors',
+        link: 'https://modrinth.com/mod/interiors',
+        image: 'Mod icon',
+  },
+  {
+        name: 'Create: Power Grid',
+        link: 'https://modrinth.com/mod/power-grid',
+        image: 'Mod icon',
+  },
+  {
+        name: 'Create Jetpack',
+        link: 'https://modrinth.com/mod/create-jetpack',
+        image: 'Mod icon',
+  },
+  {
+        name: 'Create: Aquatic Ambitions',
+        link: 'https://modrinth.com/mod/create-aquatic-ambitions',
+        image: 'Mod icon',
+  },
+  {
+        name: 'Create: Copycats+',
+        link: 'https://modrinth.com/mod/copycats',
+        image: 'Mod icon',
+  },
+  {
+        name: 'Create Factory Logistics',
+        link: 'https://modrinth.com/mod/create_factory_logistics',
+        image: 'Mod icon',
+  },
+  {
+        name: 'Create: Bits \'n\' Bobs',
+        link: 'https://modrinth.com/mod/create-bits-n-bobs',
+        image: 'Mod icon',
+  },
+  {
+        name: 'Create: Big Contraptions',
+        link: 'https://modrinth.com/mod/big-contraptions',
+        image: 'Mod icon',
+  },
+  {
+        name: 'Create: Mobile Packages',
+        link: 'https://modrinth.com/mod/create-mobile-packages',
+        image: 'Mod icon',
+  },
+  {
+        name: 'Create: Cardboard Things',
+        link: 'https://modrinth.com/mod/create-cardboard-things',
+        image: 'Mod icon',
+  },
+  {
+        name: 'Create: Framed',
+        link: 'https://modrinth.com/mod/create-framed',
+        image: 'Mod icon',
+  },
+  {
+        name: 'Create: Trading floor',
+        link: 'https://modrinth.com/mod/create-trading-floor',
+        image: 'Mod icon',
+  },
+  {
+        name: 'Create: Liquid Fuel',
+        link: 'https://modrinth.com/mod/create-liquid-fuel',
+        image: 'Mod icon',
+  },
+  {
+        name: 'Create Cobblestone',
+        link: 'https://modrinth.com/mod/create-cobblestone',
+        image: 'Mod icon',
+  },
+  {
+        name: 'Create: Power Loader',
+        link: 'https://modrinth.com/mod/create-power-loader',
+        image: 'Mod icon',
+  },
+  {
+        name: 'Create: Hypertubes',
+        link: 'https://modrinth.com/mod/hypertube',
+        image: 'Mod icon',
+  },
+  {
+        name: 'Create: Enchantable Machinery',
+        link: 'https://modrinth.com/mod/create-enchantable-machinery',
+        image: 'Mod icon',
+  },
+  {
+        name: 'Create: Threaded Trains',
+        link: 'https://modrinth.com/mod/create-threaded-trains',
+        image: 'Mod icon',
+  },
+  {
+        name: 'Create: Let The Adventure Begin',
+        link: 'https://modrinth.com/mod/create-let-the-adventure-begin',
+        image: 'Mod icon',
+  },
+  {
+        name: 'Create Railways Navigator',
+        link: 'https://modrinth.com/mod/create-railways-navigator',
+        image: 'Mod icon',
+  }
+]"/>
 <!-- <BoxCube :items="[
     { 
       name: 'Cardboard Things', 
@@ -232,6 +375,71 @@ lastUpdated: false
     },
 ]"/> -->
 
+=== Совместимости
+
+<BoxCube :items="[ 
+{
+      name: 'Create Slice & Dice',
+      link: 'https://modrinth.com/mod/slice-and-dice',
+      image: 'Mod icon',
+},
+{
+      name: 'Create: Central Kitchen',
+      link: 'https://modrinth.com/mod/create-central-kitchen',
+      image: 'Mod icon',
+},
+{
+      name: 'Sophisticated Backpacks Create Integration',
+      link: 'https://modrinth.com/mod/sophisticated-backpacks-create-integration',
+      image: 'Mod icon',
+},
+{
+      name: 'Sophisticated Storage Create Integration',
+      link: 'https://modrinth.com/mod/sophisticated-storage-create-integration',
+      image: 'Mod icon',
+},
+{
+      name: 'CC:C Bridge',
+      link: 'https://modrinth.com/mod/cccbridge',
+      image: 'Mod icon',
+},
+{
+      name: 'Create: CC Total Logistics',
+      link: 'https://modrinth.com/mod/create-cc-total-logistics',
+      image: 'Mod icon',
+},
+{
+      name: 'Create: CC Better Recipes',
+      link: 'https://modrinth.com/mod/create-ccbr',
+      image: 'Mod icon',
+},
+{
+      name: 'EMI: Create Schematics',
+      link: 'https://modrinth.com/mod/emi-create-schematics',
+      image: 'Mod icon',
+},
+{
+      name: 'Create: Curios Jetpack & Backtank',
+      link: 'https://modrinth.com/mod/create-curios-jetpack',
+      image: 'Mod icon',
+},
+{
+      name: 'Create: Addon Compatibility',
+      link: 'https://modrinth.com/mod/createaddoncompatibility',
+      image: 'Mod icon',
+},
+{
+      name: 'Create: Pattern Schematics',
+      link: 'https://modrinth.com/mod/create-pattern-schematics',
+      image: 'Mod icon',
+},
+{
+      name: 'Create: Tweaked Controllers',
+      link: 'https://modrinth.com/mod/create-tweaked-controllers',
+      image: 'Mod icon',
+}
+]"/>
+
 ::::
 
 
@@ -243,72 +451,106 @@ lastUpdated: false
 
 ℹ️ Моды которые добавляют вайб типа декоративных блоков, генерации, эффекты там всякие крч похуй
 
-<!-- ###### <!-- Генерация -->
-<!-- === Генерация -->
+###### Генерация 
+=== Генерация
 
-<!-- <BoxCube :items="[
-    { 
-      name: 'Endless Biomes', 
-      link: 'https://modrinth.com/mod/endless-biomes', 
-      image: 'https://cdn.modrinth.com/data/pzR01ieE/f49eb4b8d05e74a322738f2980aa2aff6d649279_96.webp', 
-    },
+<BoxCube :items="[
     {
-      name: 'Towns and Towers',
-      link: 'https://www.curseforge.com/minecraft/mc-mods/towns-and-towers',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/551/161/64/64/637888384577155054.png',
-    },
-    {
+      name: 'Terralith',
+      link: 'https://modrinth.com/mod/terralith',
+      image: 'Mod icon',
+},
+{
+      name: 'Biomes O\' Plenty',
+      link: 'https://modrinth.com/mod/biomes-o-plenty',
+      image: 'Mod icon',
+},
+{
+      name: 'Tectonic',
+      link: 'https://modrinth.com/mod/tectonic',
+      image: 'Mod icon',
+},
+{
+      name: 'YUNG\'s Better Strongholds',
+      link: 'https://modrinth.com/mod/yungs-better-strongholds',
+      image: 'Mod icon',
+},
+{
+      name: 'YUNG\'s Better Mineshafts',
+      link: 'https://modrinth.com/mod/yungs-better-mineshafts',
+      image: 'Mod icon',
+},
+{
+      name: 'YUNG\'s Better Jungle Temples',
+      link: 'https://modrinth.com/mod/yungs-better-jungle-temples',
+      image: 'Mod icon',
+},
+{
+      name: 'YUNG\'s Better End Island',
+      link: 'https://modrinth.com/mod/yungs-better-end-island',
+      image: 'Mod icon',
+},
+{
       name: 'Dungeons and Taverns',
-      link: 'https://www.curseforge.com/minecraft/mc-mods/dungeon-and-taverns',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1030/440/64/64/638552847053422154.png',
-    },
-    {
+      link: 'https://modrinth.com/mod/dungeons-and-taverns',
+      image: 'Mod icon',
+},
+{
+      name: 'Geophilic',
+      link: 'https://modrinth.com/mod/geophilic',
+      image: 'Mod icon',
+},
+{
+      name: 'Lithostitched',
+      link: 'https://modrinth.com/mod/lithostitched',
+      image: 'Mod icon',
+},
+{
       name: 'Terralith ReStoned',
-      link: 'https://www.curseforge.com/minecraft/mc-mods/terralith-restoned',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1156/836/64/64/638724742485176161.png',
-    },
-    {
-      name: 'Terraphilic',
-      link: 'https://www.curseforge.com/minecraft/mc-mods/terraphilic',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1075/942/64/64/638613321027776223.png',
-    },
-    { 
-      name: 'Geophilic', 
-      link: 'https://modrinth.com/datapack/geophilic', 
-      image: 'https://cdn.modrinth.com/data/hl5OLM95/6846fa80f84d2baa0dd07f8ee65b6f10bf223a84_96.webp', 
-    },
-    { 
-      name: 'Terralith', 
-      link: 'https://modrinth.com/datapack/terralith', 
-      image: 'https://cdn.modrinth.com/data/8oi3bsk5/1959d924a1088944bbf07a06ba523726112d7e7a_96.webp', 
-    },
-]"/> --> 
+      link: 'https://modrinth.com/mod/terralith-restoned',
+      image: 'Mod icon',
+}
+]"/> 
 
-###### <!-- Еда -->
-<!-- === Еда  -->
-<!-- <BoxCube :items="[
-  { 
-    name: 'Beachparty', 
-    link: 'https://www.curseforge.com/minecraft/mc-mods/lets-do-beachparty', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/966/208/64/64/638465444685622216.png', 
-  },
-  { 
-    name: 'HerbalBrews', 
-    link: 'https://www.curseforge.com/minecraft/mc-mods/lets-do-herbal-brews', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/959/640/64/64/638454898336979010.png', 
-  },
-  { 
-    name: 'Vinery', 
-    link: 'https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/945/658/64/64/638430836179133248.png', 
-  },
-  { 
-    name: 'Farmer\'s Delight', 
-    link: 'https://www.curseforge.com/minecraft/mc-mods/farmers-delight', 
-    image: 'https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png', 
-  },
-]"
-/> -->
+###### Еда
+=== Еда 
+<BoxCube :items="[
+  {
+      name: 'Farmer\'s Delight',
+      link: 'https://modrinth.com/mod/farmers-delight',
+      image: 'Mod icon',
+},
+{
+      name: 'Create: Food',
+      link: 'https://modrinth.com/mod/create-food',
+      image: 'Mod icon',
+},
+{
+      name: 'Create Ratatouille',
+      link: 'https://modrinth.com/mod/create-ratatouille',
+      image: 'Mod icon',
+},
+{
+      name: 'End\'s Delight',
+      link: 'https://modrinth.com/mod/ends-delight',
+      image: 'Mod icon',
+},
+{
+      name: 'My Nether\'s Delight',
+      link: 'https://modrinth.com/mod/my-nethers-delight',
+      image: 'Mod icon',
+},
+{
+      name: 'Crabber\'s Delight',
+      link: 'https://modrinth.com/mod/crabbers-delight',
+      image: 'Mod icon',
+},
+{
+      name: 'Spice of Life: Classic Edition',
+      link: 'https://modrinth.com/mod/foodvariations',
+      image: 'Mod icon',
+}
+]"/>
 
 <!-- ###### Функции -->
 <!-- === Функции  -->
@@ -318,137 +560,112 @@ lastUpdated: false
 |<BoxCube :items="[{name: 'Etched',link: 'https://www.curseforge.com/minecraft/mc-mods/etched', image: 'https://media.forgecdn.net/avatars/thumbnails/939/472/64/64/638419301379970746.png',},]"/>|<BoxCube :items="[{name: 'ParCool!',link: 'https://www.curseforge.com/minecraft/mc-mods/parcool', image: 'https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png',},]"/>|<BoxCube :items="[{ name: 'Exposure', link: 'https://www.curseforge.com/minecraft/mc-mods/exposure', image: 'https://media.forgecdn.net/avatars/thumbnails/1029/426/256/256/638551434733696364_animated.gif', },]"/>|<BoxCube :items="[{ name: 'Cosmetic Armor Reworked', link: 'https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked', image: 'https://media.forgecdn.net/avatars/thumbnails/27/600/64/64/635812915333870435.png', },]"/>|
 |||| -->
 
-<!-- ###### Анимации -->
-<!-- === Анимации  -->
-<!-- <Pill name="ParCool! Гайд" link="/wiki/season/ml-create-3/parcool" image="https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png" color="#868dcc"  /><br/>
+###### Анимации
+=== Анимации 
+<!-- <!-- <Pill name="ParCool! Гайд" link="/wiki/season/ml-create-3/parcool" image="https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png" color="#868dcc"  /><br/> -->
+<BoxCube :items="[
+   {
+      name: 'Not Enough Animations',
+      link: 'https://modrinth.com/mod/not-enough-animations',
+      image: 'Mod icon',
+},
+{
+      name: 'Spawn Animations',
+      link: 'https://modrinth.com/mod/spawn-animations',
+      image: 'Mod icon',
+},
+{
+      name: 'ParCool!',
+      link: 'https://modrinth.com/mod/parcool',
+      image: 'Mod icon',
+},
+{
+      name: 'Better Combat',
+      link: 'https://modrinth.com/mod/better-combat',
+      image: 'Mod icon',
+},
+{
+      name: 'Emotecraft',
+      link: 'https://modrinth.com/mod/emotecraft',
+      image: 'Mod icon',
+}
+]"/>
+
+###### Атмосфера
+=== Атмосфера
+
 <BoxCube :items="[
     {
-      name: 'Better Combat',
-      link: 'https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/566/413/64/64/637925434672465483.png', 
-    },
-    { 
-      name: 'ParCool!', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/parcool', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png', 
-    },
-    { 
-      name: 'ParCool+', 
-      link: 'https://www.curseforge.com/minecraft/mc-mods/parcool-compatibility-addon', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1110/198/64/64/638661444077857636.png', 
-    },
-    { 
-      name: 'Emotecraft', 
-      link: 'https://modrinth.com/plugin/emotecraft', 
-      image: 'https://cdn.modrinth.com/data/pZ2wrerK/eed7e2c9851392e5879c7d7cb763f142f124e6d2_96.webp', 
-    },
-    { 
-      name: 'Not Enough Animations', 
-      link: 'https://modrinth.com/mod/not-enough-animations', 
-      image: 'https://cdn.modrinth.com/data/MPCX6s5C/b97fd5f7a893165052408b747286d6eb38d57abb_96.webp', 
-    },
-]"/> -->
-
-<!-- ###### Атмосфера -->
-<!-- === Атмосфера -->
-
-<!-- <BoxCube :items="[
-    {
-      name: 'Macaw\'s Bridges',
-      link: 'https://www.curseforge.com/minecraft/mc-mods/macaws-bridges',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/237/234/64/64/637098539787193844.jpeg', 
-    },
-    {
-      name: 'Macaw\'s Fences and Walls',
-      link: 'https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/351/704/64/64/637506435866467167.png', 
-    },
-    {
-      name: 'Macaw\'s Paintings',
-      link: 'https://www.curseforge.com/minecraft/mc-mods/macaws-paintings',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/364/231/64/64/637531433405150416.png', 
-    },
-    {
-      name: 'Macaw\'s Trapdoors',
-      link: 'https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/292/157/64/64/637324647329746340.jpeg', 
-    },
-    {
-      name: 'Macaw\'s Doors',
-      link: 'https://www.curseforge.com/minecraft/mc-mods/macaws-doors',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/303/442/64/64/637372493411502504.jpeg', 
-    },
-    {
-      name: 'Origins',
-      link: 'https://www.curseforge.com/minecraft/mc-mods/origins-forge',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/373/582/64/64/637546267631048138.png',
-    },
-    {
-      name: 'Origins: Classes',
-      link: 'https://www.curseforge.com/minecraft/mc-mods/origins-classes-forge',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/531/506/64/64/637853705659037696.png',
-    },
-    {
-      name: 'Tetra',
-      link: 'https://www.curseforge.com/minecraft/mc-mods/tetra',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/145/263/64/64/636561479419470125.png',
-    },
-    {
-      name: 'Tetra Extras',
-      link: 'https://www.curseforge.com/minecraft/mc-mods/tetra-extras',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/892/921/64/64/638335602446424383.jpeg',
-    },
-    {
-      name: 'Tetratic Combat Expanded',
-      link: 'https://www.curseforge.com/minecraft/mc-mods/tetratic-combat-expanded',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/923/383/64/64/638390001570626488.png',
-    },
-    {
-      name: 'Ribbits',
-      link: 'https://www.curseforge.com/minecraft/mc-mods/ribbits',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1013/839/64/64/638538895773776677.png',
-    },
-    {
-      name: 'Alex\'s Mobs',
-      link: 'https://www.curseforge.com/minecraft/mc-mods/alexs-mobs',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/543/777/64/64/637874731161865623.jpeg', 
-    },
-    {
-      name: 'Artifacts',
-      link: 'https://www.curseforge.com/minecraft/mc-mods/artifacts',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/444/622/64/64/637699815276651872.png', 
-    },
-    {
-      name: 'Naturalist Compat',
-      link: 'https://www.curseforge.com/minecraft/mc-mods/alexs-mobs-naturalist-compat',
-      image: 'https://media.forgecdn.net/avatars/thumbnails/1127/126/64/64/638685133512548006.png', 
-    },
-    {
-      name: 'Naturalist',
-      link: 'https://modrinth.com/mod/naturalist',
-      image: 'https://cdn.modrinth.com/data/F8BQNPWX/06f421b5c96c2002414373f3e23e07063021a370_96.webp',
-    },
-    {
       name: 'AmbientSounds',
-      link: 'https://modrinth.com/mod/fM515JnW',
-      image: 'https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp',
-    },
-    {
-      name: 'Particle Core',
-      link: 'https://modrinth.com/mod/RSeLon5O',
-      image: 'https://cdn.modrinth.com/data/RSeLon5O/147110a6a4457b2f287f68fc626771f0f8ef2cde_96.webp',
-    },
-    {
+      link: 'https://modrinth.com/mod/ambientsounds',
+      image: 'Mod icon',
+},
+{
       name: 'Sound Physics Remastered',
-      link: 'https://modrinth.com/mod/qyVF9oeo',
-      image: 'https://cdn.modrinth.com/data/qyVF9oeo/798fbfae58ec95ad51f3e1d522b43227306c326c.png',
-    },
-    {
-      name: 'Traveler\'s Titles',
-      link: 'https://modrinth.com/mod/JtifUr64',
-      image: 'https://cdn.modrinth.com/data/JtifUr64/e7743f2d78a52a1af0ebe5aacbfa940094c63dff_96.webp',
-    },
-]"/> -->
+      link: 'https://modrinth.com/mod/sound-physics-remastered',
+      image: 'Mod icon',
+},
+{
+      name: 'Drip Sounds',
+      link: 'https://modrinth.com/mod/dripsounds',
+      image: 'Mod icon',
+},
+{
+      name: 'Particle Rain',
+      link: 'https://modrinth.com/mod/particle-rain',
+      image: 'Mod icon',
+},
+{
+      name: 'Immersive Snow',
+      link: 'https://modrinth.com/mod/immersive-snow',
+      image: 'Mod icon',
+},
+{
+      name: 'Serene Seasons',
+      link: 'https://modrinth.com/mod/serene-seasons',
+      image: 'Mod icon',
+},
+{
+      name: 'Enderman Overhaul',
+      link: 'https://modrinth.com/mod/enderman-overhaul',
+      image: 'Mod icon',
+},
+{
+      name: 'Create: Dragons Plus',
+      link: 'https://modrinth.com/mod/create-dragons-plus',
+      image: 'Mod icon',
+},
+{
+      name: 'Artifacts',
+      link: 'https://modrinth.com/mod/artifacts',
+      image: 'Mod icon',
+},
+{
+      name: 'Exposure',
+      link: 'https://modrinth.com/mod/exposure',
+      image: 'Mod icon',
+},
+{
+      name: 'Exposure: Polaroid',
+      link: 'https://modrinth.com/mod/exposure-polaroid',
+      image: 'Mod icon',
+},
+{
+      name: 'Etched',
+      link: 'https://modrinth.com/mod/etched',
+      image: 'Mod icon',
+},
+{
+      name: 'Another Furniture',
+      link: 'https://modrinth.com/mod/another-furniture',
+      image: 'Mod icon',
+},
+{
+      name: 'Camera Overhaul',
+      link: 'https://modrinth.com/mod/cameraoverhaul',
+      image: 'Mod icon',
+}
+]"/>
 ::::
 
 ### Клиентские {#client}
@@ -460,125 +677,120 @@ lastUpdated: false
 ℹ️ Моды утилиты, декор, расширенная информацию, оптимизация и другие которые не влияют на игровой процесс мира или других игроков. 
 
 <!-- ###### EMI -->
-<!-- === EMI -->
-<!-- <BoxCube :items="[
+=== EMI
+<BoxCube :items="[
     {
-      name: 'Just Enough Breeding (JEBr)',
-      link: 'https://modrinth.com/mod/9Pk89J3g',
-      image: 'https://cdn.modrinth.com/data/9Pk89J3g/86043395c6a9e34380d3604e0c9cbbebc23b0b7a.png',
-    },
-    {
-      name: 'Just Enough Effect Descriptions (JEED)',
-      link: 'https://modrinth.com/mod/EO27GKs1',
-      image: 'https://cdn.modrinth.com/data/EO27GKs1/0cae90cd5fbb858e267777ef965a499a83b7ddcb_96.webp',
-    },
-]"/> -->
+      name: 'Just Enough Items (JEI)',
+      link: 'https://modrinth.com/mod/jei',
+      image: 'Mod icon',
+},
+{
+      name: 'EMI',
+      link: 'https://modrinth.com/mod/emi',
+      image: 'Mod icon',
+},
+]"/>
 
-<!-- ###### Оптимиз -->
-<!-- === Оптимиз -->
-<!-- <BoxCube :items="[
-    {
-      name: 'Embeddium',
-      link: 'https://modrinth.com/mod/sk9rgfiA',
-      image: 'https://cdn.modrinth.com/data/sk9rgfiA/55f9c50284f8abbbe2a485abfd6a16209201e451_96.webp',
-    },
-    {
-      name: 'Embeddium (Rubidium) Extra',
-      link: 'https://modrinth.com/mod/oY2B1pjg',
-      image: 'https://cdn.modrinth.com/data/oY2B1pjg/e21509d986b82e5a09e46682afd7644ce119cc26_96.webp',
-    },
-    {
-      name: 'Sodium Options API',
-      link: 'https://modrinth.com/mod/Es5v4eyq',
-      image: 'https://cdn.modrinth.com/data/Es5v4eyq/7bff17babb498584c0edd74211d97435b651c11f_96.webp',
-    },
-    {
-      name: 'Dynamic FPS',
-      link: 'https://modrinth.com/mod/LQ3K71Q1',
-      image: 'https://cdn.modrinth.com/data/LQ3K71Q1/5056368d0d87c1a9f3efead0cb48ab39a4ea87bf_96.webp',
-    },
-    {
-      name: 'Entity Culling',
-      link: 'https://modrinth.com/mod/NNAgCjsB',
-      image: 'https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp',
-    },
-    {
-      name: 'Model Gap Fix',
-      link: 'https://modrinth.com/mod/QdG47OkI',
-      image: 'https://cdn.modrinth.com/data/QdG47OkI/5a8203e120985d11616614e11ad7b888997000d8.png',
-    },
-    {
+###### Оптимиз
+=== Оптимиз
+<BoxCube :items="[
+ {
+      name: 'Sodium',
+      link: 'https://modrinth.com/mod/sodium',
+      image: 'Mod icon',
+},
+{
+      name: 'ModernFix',
+      link: 'https://modrinth.com/mod/modernfix',
+      image: 'Mod icon',
+},
+{
+      name: 'FerriteCore',
+      link: 'https://modrinth.com/mod/ferrite-core',
+      image: 'Mod icon',
+},
+{
       name: 'ImmediatelyFast',
-      link: 'https://modrinth.com/mod/5ZwdcRci',
-      image: 'https://cdn.modrinth.com/data/5ZwdcRci/e57b6b451425692ac17ad322d5e14bea686a383a_96.webp',
-    },
-]"/> -->
+      link: 'https://modrinth.com/mod/immediatelyfast',
+      image: 'Mod icon',
+},
+{
+      name: 'Entity Culling',
+      link: 'https://modrinth.com/mod/entityculling',
+      image: 'Mod icon',
+},
+{
+      name: 'BadOptimizations',
+      link: 'https://modrinth.com/mod/badoptimizations',
+      image: 'Mod icon',
+},
+{
+      name: 'spark',
+      link: 'https://modrinth.com/mod/spark',
+      image: 'Mod icon',
+}   
+]"/>
 
-<!-- ###### Утилиты -->
-<!-- === Утилиты -->
-<!-- <BoxCube :items="[
+###### Утилиты
+=== Утилиты
+<BoxCube :items="[
     {
-      name: '[EMF] Entity Model Features',
-      link: 'https://modrinth.com/mod/4I1XuqiY',
-      image: 'https://cdn.modrinth.com/data/4I1XuqiY/6e5bbd0d06b1741bfdab6c0cfab6de8fdaf0064c_96.webp',
-    },
-    {
-      name: '[ETF] Entity Texture Features',
-      link: 'https://modrinth.com/mod/BVzZfTc1',
-      image: 'https://cdn.modrinth.com/data/BVzZfTc1/af683d206d50b05258d865b0d6e4aa2f2cee12f2_96.webp',
-    },
-    {
-      name: 'Shulker Box Tooltip',
-      link: 'https://modrinth.com/mod/2M01OLQq',
-      image: 'https://cdn.modrinth.com/data/2M01OLQq/bb490716cf2590cf84100a495931c3d4743bce43_96.webp',
-    },
-    {
-      name: 'Dynamic Crosshair',
-      link: 'https://modrinth.com/mod/ZcR9weSm',
-      image: 'https://cdn.modrinth.com/data/ZcR9weSm/8da8af58ca961f937bd05d41dcefa26be7b5c182.png',
-    },
-    {
+      name: 'Jade',
+      link: 'https://modrinth.com/mod/jade',
+      image: 'Mod icon',
+},
+{
+      name: 'Dynamic FPS',
+      link: 'https://modrinth.com/mod/dynamic-fps',
+      image: 'Mod icon',
+},
+{
+      name: 'Xaero\'s World Map',
+      link: 'https://modrinth.com/mod/xaeros-world-map',
+      image: 'Mod icon',
+},
+{
+      name: 'Xaero\'s Minimap',
+      link: 'https://modrinth.com/mod/xaeros-minimap',
+      image: 'Mod icon',
+},
+{
       name: 'Mouse Tweaks',
-      link: 'https://modrinth.com/mod/aC3cM3Vq',
-      image: 'https://cdn.modrinth.com/data/aC3cM3Vq/6c0eaa4e60a9c87f4766f222ff63286f09da32c0_96.webp',
-    },
-    {
-      name: 'Pick Up Notifier',
-      link: 'https://modrinth.com/mod/ZX66K16c',
-      image: 'https://cdn.modrinth.com/data/ZX66K16c/8005a3a223dde914bebce0639db1127950cc6c1b_96.webp',
-    },
-    {
-      name: 'Item Highlighter',
-      link: 'https://modrinth.com/mod/cVNW5lr6',
-      image: 'https://cdn.modrinth.com/data/cVNW5lr6/5e15f8c53ea36ca5391cdd9bbdea33261fa4c18d_96.webp',
-    },
-]"/> -->
+      link: 'https://modrinth.com/mod/mouse-tweaks',
+      image: 'Mod icon',
+},
+{
+      name: 'TrashSlot',
+      link: 'https://modrinth.com/mod/trashslot',
+      image: 'Mod icon',
+},
+{
+      name: 'No Chat Reports',
+      link: 'https://modrinth.com/mod/no-chat-reports',
+      image: 'Mod icon',
+},
+]"/>
 
-<!-- ###### Другие -->
-<!-- === Другие  -->
+###### Другие
+=== Другие 
 
 <!-- > [!IMPORTANT] В процессе добавления... -->
-<!-- <BoxCube :items="[
+<BoxCube :items="[
     {
-      name: 'Customizable Player Models',
-      link: 'https://www.curseforge.com/minecraft/mc-mods/custom-player-models', 
-      image: 'https://media.forgecdn.net/avatars/thumbnails/345/676/64/64/637493525593605940.png',
-    },
-    {
-      name: 'Item Borders',
-      link: 'https://modrinth.com/mod/b1fMg6sH',
-      image: 'https://cdn.modrinth.com/data/b1fMg6sH/8d57c0d614101a1ebaa9c6cebb90bd1940fb1083.png',
-    },
-    {
-      name: 'Drippy Loading Screen',
-      link: 'https://modrinth.com/mod/v3CYg2V9',
-      image: 'https://cdn.modrinth.com/data/v3CYg2V9/819ef4e386c8dcd5bd4f5a00bb365d4aeaa28679.png',
-    },
-    {
-      name: 'Chat Heads',
-      link: 'https://modrinth.com/mod/Wb5oqrBJ',
-      image: 'https://cdn.modrinth.com/data/Wb5oqrBJ/icon.png',
-    },
-]"/> -->
+      name: 'Iris Shaders',
+      link: 'https://modrinth.com/mod/iris',
+      image: 'Mod icon',
+},
+{
+      name: 'Lootr',
+      link: 'https://modrinth.com/mod/lootr',
+      image: 'Mod icon',
+},
+{
+      name: 'AppleSkin',
+      link: 'https://modrinth.com/mod/appleskin',
+      image: 'Mod icon',
+},
+]"/>
 
 ::::

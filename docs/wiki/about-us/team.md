@@ -13,7 +13,7 @@ layout: doc
 
   const admins = [
     {
-      avatar: 'https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3',
+      avatar: 'https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=96',
       name: 'SawaDawa177_',
       title: 'Создатель',
       links: [
@@ -24,7 +24,7 @@ layout: doc
       ]
     },
     {
-      avatar: 'https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3',
+      avatar: 'https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=96',
       name: 'GreatShow6102',
       title: 'Администратор, Редактор Вики',
       links: [
@@ -36,7 +36,7 @@ layout: doc
 
   const moderators = [
     {
-      avatar: 'https://api.mineatar.io/face/d2b496f0-c2b0-4849-8dee-a6bda731a7eb?scale=3',
+      avatar: 'https://api.mineatar.io/face/d2b496f0-c2b0-4849-8dee-a6bda731a7eb?scale=96',
       name: 'Nub4ik1',
       title: 'Модератор',
       links: [
@@ -46,7 +46,7 @@ layout: doc
       ]
     },
     {
-      avatar: 'https://api.mineatar.io/face/2b4b6a4e-dfc1-41b4-926a-6cd0e18fb786?scale=3',
+      avatar: 'https://api.mineatar.io/face/2b4b6a4e-dfc1-41b4-926a-6cd0e18fb786?scale=96',
       name: 'm1nus1k',
       title: 'Хелпер',
       links: [
@@ -57,7 +57,7 @@ layout: doc
 
   const beta_testers = [
     {
-      avatar: 'https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3',
+      avatar: 'https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=96',
       name: 'DVD314',
       title: 'Бета-тестер',
       links: [
