@@ -29,6 +29,12 @@ title: ML Create & Aero
         icon: 'solar:box-bold-duotone',
         color: '#868dcc'
     },
+    { 
+        name: 'ParCool!', 
+        link: 'ml-createaero/parcool', 
+        icon: 'solar:running-round-bold-duotone', 
+        color: '#868dcc' 
+    },
     // { 
     //     name: 'Значки', 
     //     link: 'ml-createareo/nickname-custom', 
