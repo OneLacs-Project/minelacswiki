@@ -9,11 +9,10 @@ lastUpdated: false
 
 **Версия игры: <Badge type="info" text="1.21.1" />** 
 
-Последняя Версия сборки: <Badge type="tip" text="v1.0" />
+Последняя Версия сборки: <Badge type="tip" text="v2.2" />
 
-Загрузчик модов: <Badge type="info" text="NeoForge" />
+Загрузчик модов: <Badge type="info" text="NeoForge v21.1.226+" />
 
-Ссылки на скачивание: 
 
 <!-- <BoxCube :items="[
   { 
@@ -43,6 +42,13 @@ lastUpdated: false
 
 <!-- ### LAST UPDATES (use to collapse them during editing) -->
 :::tabs 
+######  <!-- 2.2 --> 
+=== 2.2 
+`26 Апреля `<br/>
+
+**<span style="color: green;">+ добавлен</span>** <Pill name="Naturalist" link="https://modrinth.com/mod/naturalist" image="https://cdn.modrinth.com/data/F8BQNPWX/06f421b5c96c2002414373f3e23e07063021a370_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Simple Voice Chat" link="https://modrinth.com/mod/simple-voice-chat" image="https://cdn.modrinth.com/data/9eGKb6K1/icon.png" /> <br/>
+
 ######  <!-- 1.0 --> 
 === 1.0 
 `25 Апреля `<br/>
@@ -67,6 +73,7 @@ lastUpdated: false
 
 ℹ️ Моды с тематикой мода <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/64/64/638598725500886388.png" />
 
+###### <!-- Create -->
 === Create 
 <BoxCube :items="[
   {
@@ -213,7 +220,7 @@ lastUpdated: false
 
 
 === Совместимости
-
+###### <!-- Совместимости -->
 <BoxCube :items="[ 
 {
       name: 'Create Slice & Dice',
@@ -281,7 +288,7 @@ lastUpdated: false
 
 
 
-### Вайб  {#vibe}
+### Вайб ✨  {#vibe}
 :::: tabs 
 
 === ℹ️
@@ -289,10 +296,16 @@ lastUpdated: false
 ℹ️ Моды которые добавляют вайб типа декоративных блоков, генерации, эффекты там всякие крч похуй
 
 
-=== Генерация
-###### Генерация 
+=== Генерация ✨
+###### <!-- Генерация  -->
+**<span style="color: green;">+ добавлен</span>** <Pill name="Naturalist" link="https://modrinth.com/mod/naturalist" image="https://cdn.modrinth.com/data/F8BQNPWX/06f421b5c96c2002414373f3e23e07063021a370_96.webp" /> <br/>
 <BoxCube :items="[
-    {
+{
+      name: 'Naturalist',
+      link: 'https://modrinth.com/mod/naturalist',
+      image: 'https://cdn.modrinth.com/data/F8BQNPWX/06f421b5c96c2002414373f3e23e07063021a370_96.webp', desc: '✨НОВОЕ✨'
+},
+{
       name: 'Terralith',
       link: 'https://modrinth.com/mod/terralith',
       image: 'https://cdn.modrinth.com/data/8oi3bsk5/1959d924a1088944bbf07a06ba523726112d7e7a_96.webp',
@@ -356,7 +369,7 @@ lastUpdated: false
 
 
 === Еда 
-###### Еда
+###### <!-- Еда -->
 <BoxCube :items="[
   {
       name: 'Farmer\'s Delight',
@@ -405,7 +418,7 @@ lastUpdated: false
 
 
 === Анимации 
-###### Анимации
+###### <!-- Анимации -->
 <Pill name="ParCool! Гайд" link="/wiki/season/ml-createaero/parcool" image="https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png" color="#868dcc"  /><br/>
 <BoxCube :items="[
    {
@@ -437,7 +450,7 @@ lastUpdated: false
 
 
 === Атмосфера
-###### Атмосфера
+###### <!-- Атмосфера -->
 <BoxCube :items="[
     {
       name: 'AmbientSounds',
@@ -512,7 +525,7 @@ lastUpdated: false
 ]"/>
 ::::
 
-### Клиентские {#client}
+### Клиентские ✨{#client}
 
 :::: tabs 
 
@@ -521,8 +534,8 @@ lastUpdated: false
 ℹ️ Моды утилиты, декор, расширенная информацию, оптимизация и другие которые не влияют на игровой процесс мира или других игроков. 
 
 
+###### <!-- JEI/EMI -->
 === JEI/EMI
-###### JEI/EMI
 <BoxCube :items="[
     {
       name: 'Just Enough Items (JEI)',
@@ -537,8 +550,8 @@ lastUpdated: false
 ]"/>
 
 
+###### <!-- Оптимиз -->
 === Оптимиз
-###### Оптимиз
 <BoxCube :items="[
  {
       name: 'Sodium',
@@ -578,8 +591,8 @@ lastUpdated: false
 ]"/>
 
 
+###### <!-- Утилиты -->
 === Утилиты
-###### Утилиты
 <BoxCube :items="[
     {
       name: 'Jade',
@@ -618,12 +631,17 @@ lastUpdated: false
 },
 ]"/>
 
+###### <!-- Другие -->
+=== Другие ✨
 
-=== Другие 
-###### Другие
-<!-- > [!IMPORTANT] В процессе добавления... -->
+**<span style="color: green;">+ добавлен</span>** <Pill name="Simple Voice Chat" link="https://modrinth.com/mod/simple-voice-chat" image="https://cdn.modrinth.com/data/9eGKb6K1/icon.png" /> <br/>
 <BoxCube :items="[
-    {
+{
+      name: 'Simple Voice Chat',
+      link: 'https://modrinth.com/mod/simple-voice-chat',
+      image: 'https://cdn.modrinth.com/data/9eGKb6K1/icon.png', desc: '✨НОВОЕ✨'
+},
+{
       name: 'Iris Shaders',
       link: 'https://modrinth.com/mod/iris',
       image: 'https://cdn.modrinth.com/data/YL57xq9U/18d0e7f076d3d6ed5bedd472b853909aac5da202_96.webp',

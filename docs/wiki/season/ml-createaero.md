@@ -52,6 +52,9 @@ title: ML Create & Aero
 
 `25 Апреля` - **<span style="color: green;">Сезон начался</span>**
 
+`26 Апреля` - В результате тех работ, были исправлены баги с аддонами,глобальный и локальный чаты, и добавлены <Pill name="Naturalist" link="https://modrinth.com/mod/naturalist" image="https://cdn.modrinth.com/data/F8BQNPWX/06f421b5c96c2002414373f3e23e07063021a370_96.webp" /> и <Pill name="Simple Voice Chat" link="https://modrinth.com/mod/simple-voice-chat" image="https://cdn.modrinth.com/data/9eGKb6K1/icon.png" />
+
+
 :::
 
 ### Предыдущий сезон ML Create
