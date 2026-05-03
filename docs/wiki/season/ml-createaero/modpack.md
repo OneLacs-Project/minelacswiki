@@ -66,7 +66,6 @@ lastUpdated: false
 Релизная сборка
 
 :::
-> [!IMPORTANT] В процессе публикации
 
 > [!WARNING] Сборка сервера не поддерживает Optifine 
 
