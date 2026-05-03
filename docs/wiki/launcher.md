@@ -19,12 +19,13 @@ lastUpdated: false
 А еще...
 
 ---
+{#onelauncher}
 <div style="display: flex; align-items: center;"> 
   <div style="flex: 1; padding-right: 20px;">
-    <h1> OneLauncher <img src="https://cdn3.emoji.gg/emojis/18502-beta-pogo-os.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width=64> <br/> <span style="color: gray;"><sup></sup></span></h1>  
+    <h1> OneLauncher <code>RELEASE</code> <br/> <span style="color: gray;"><sup></sup></span></h1>  
   </div>
   <div style="flex: 0 0 100px;">
-      <img  src="https://minelacs.fun/onelauncher/images/onelauncher_logo.png" style="flex: 0 0;">
+      <img  src="https://minelacs.fun/images/2/onelauncher.png" style="flex: 0 0;">
   </div>
 </div>  
 
@@ -33,7 +34,7 @@ lastUpdated: false
     { 
         name: 'OneLauncher', 
         link: 'https://minelacs.fun/onelauncher/', 
-        image: 'https://minelacs.fun/onelauncher/images/onelauncher_logo.png',
+        image: 'https://minelacs.fun/images/2/onelauncher.png',
         color: '#868dcc', desc: 'Страница Лаунчера'
     },
   ]"
@@ -47,4 +48,4 @@ lastUpdated: false
 - Автообновление лаунчера 
 - Автообновление сборки
 - Статистика
-- Дополнительные, опциональные моды которые можно включить в настройках
+<!-- - Дополнительные, опциональные моды которые можно включить в настройках -->

@@ -9,7 +9,7 @@ lastUpdated: false
 
 **Версия игры: <Badge type="info" text="1.21.1" />** 
 
-Последняя Версия сборки: <Badge type="tip" text="v2.2" />
+Последняя Версия сборки: <Badge type="tip" text="v3.6" />
 
 Загрузчик модов: <Badge type="info" text="NeoForge v21.1.226+" />
 
@@ -42,6 +42,17 @@ lastUpdated: false
 
 <!-- ### LAST UPDATES (use to collapse them during editing) -->
 :::tabs 
+######  <!-- 3.6 --> 
+=== 3.6 
+`30 Апреля `<br/>
+
+**<span style="color: green;">+ добавлен</span>** <Pill name="Snow! Real Magic! ⛄" link="https://modrinth.com/mod/snow-real-magic" image="https://cdn.modrinth.com/data/iJNje1E8/428535ef57125022e0acea425752822ecfc796d7_96.webp" /> <br/>
+**<span style="color: red;">- удален</span>** <Pill name="AmbientSounds" link="https://modrinth.com/mod/ambientsounds" image="https://cdn.modrinth.com/data/eqrvp4NK/245c9219d033286021178416a33240f848321b5f_96.webp" /> <br/>
+**<span style="color: red;">- удален</span>** <Pill name="Create: Threaded Trains" link="https://modrinth.com/mod/create-threaded-trains" image="https://cdn.modrinth.com/data/RYJzdkDr/d854e5be85b0a8125bafa4d2fd675cb7a7cad51f_96.webp" /> <br/>
+**<span style="color: red;">- удален</span>** <Pill name="ImmediatelyFast" link="https://modrinth.com/mod/immediatelyfast" image="https://cdn.modrinth.com/data/5ZwdcRci/e57b6b451425692ac17ad322d5e14bea686a383a_96.webp" /> <br/>
+**<span style="color: red;">- удален</span>** <Pill name="Just Enough Items (JEI)" link="https://modrinth.com/mod/jei" image="https://cdn.modrinth.com/data/u6dRKJwZ/4a3f18ac0d096c9f8e9176984c44be4e58f94c89_96.webp" /> <br/>
+**<span style="color: red;">- удален</span>** <Pill name="Sound Physics Remastered" link="https://modrinth.com/mod/sound-physics-remastered" image="https://cdn.modrinth.com/data/qyVF9oeo/798fbfae58ec95ad51f3e1d522b43227306c326c.png" /> <br/>
+
 ######  <!-- 2.2 --> 
 === 2.2 
 `26 Апреля `<br/>
@@ -202,11 +213,6 @@ lastUpdated: false
         image: 'https://cdn.modrinth.com/data/eqrvp4NK/245c9219d033286021178416a33240f848321b5f_96.webp',
   },
   {
-        name: 'Create: Threaded Trains',
-        link: 'https://modrinth.com/mod/create-threaded-trains',
-        image: 'https://cdn.modrinth.com/data/RYJzdkDr/d854e5be85b0a8125bafa4d2fd675cb7a7cad51f_96.webp',
-  },
-  {
         name: 'Create: Let The Adventure Begin',
         link: 'https://modrinth.com/mod/create-let-the-adventure-begin',
         image: 'https://cdn.modrinth.com/data/fUa6OtBG/49089716b624e50307da0d7a23d019d300682e40.gif',
@@ -296,14 +302,13 @@ lastUpdated: false
 ℹ️ Моды которые добавляют вайб типа декоративных блоков, генерации, эффекты там всякие крч похуй
 
 
-=== Генерация ✨
 ###### <!-- Генерация  -->
-**<span style="color: green;">+ добавлен</span>** <Pill name="Naturalist" link="https://modrinth.com/mod/naturalist" image="https://cdn.modrinth.com/data/F8BQNPWX/06f421b5c96c2002414373f3e23e07063021a370_96.webp" /> <br/>
+=== Генерация 
 <BoxCube :items="[
 {
       name: 'Naturalist',
       link: 'https://modrinth.com/mod/naturalist',
-      image: 'https://cdn.modrinth.com/data/F8BQNPWX/06f421b5c96c2002414373f3e23e07063021a370_96.webp', desc: '✨НОВОЕ✨'
+      image: 'https://cdn.modrinth.com/data/F8BQNPWX/06f421b5c96c2002414373f3e23e07063021a370_96.webp', 
 },
 {
       name: 'Terralith',
@@ -368,8 +373,8 @@ lastUpdated: false
 ]"/> 
 
 
-=== Еда 
 ###### <!-- Еда -->
+=== Еда 
 <BoxCube :items="[
   {
       name: 'Farmer\'s Delight',
@@ -417,8 +422,8 @@ lastUpdated: false
 |||| -->
 
 
-=== Анимации 
 ###### <!-- Анимации -->
+=== Анимации 
 <Pill name="ParCool! Гайд" link="/wiki/season/ml-createaero/parcool" image="https://media.forgecdn.net/avatars/thumbnails/944/831/64/64/638429142781134750.png" color="#868dcc"  /><br/>
 <BoxCube :items="[
    {
@@ -448,19 +453,15 @@ lastUpdated: false
 }
 ]"/>
 
-
-=== Атмосфера
 ###### <!-- Атмосфера -->
+=== Атмосфера✨
+
+**<span style="color: green;">+ добавлен</span>** <Pill name="Snow! Real Magic! ⛄" link="https://modrinth.com/mod/snow-real-magic" image="https://cdn.modrinth.com/data/iJNje1E8/428535ef57125022e0acea425752822ecfc796d7_96.webp" /> <br/>
 <BoxCube :items="[
-    {
-      name: 'AmbientSounds',
-      link: 'https://modrinth.com/mod/ambientsounds',
-      image: 'https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp',
-},
 {
-      name: 'Sound Physics Remastered',
-      link: 'https://modrinth.com/mod/sound-physics-remastered',
-      image: 'https://cdn.modrinth.com/data/qyVF9oeo/798fbfae58ec95ad51f3e1d522b43227306c326c.png',
+      name: 'Snow! Real Magic! ⛄',
+      link: 'https://modrinth.com/mod/snow-real-magic',
+      image: 'https://cdn.modrinth.com/data/iJNje1E8/428535ef57125022e0acea425752822ecfc796d7_96.webp', desc: '✨НОВОЕ✨'
 },
 {
       name: 'Drip Sounds',
@@ -525,7 +526,7 @@ lastUpdated: false
 ]"/>
 ::::
 
-### Клиентские ✨{#client}
+### Клиентские {#client}
 
 :::: tabs 
 
@@ -534,14 +535,9 @@ lastUpdated: false
 ℹ️ Моды утилиты, декор, расширенная информацию, оптимизация и другие которые не влияют на игровой процесс мира или других игроков. 
 
 
-###### <!-- JEI/EMI -->
-=== JEI/EMI
+###### <!-- EMI -->
+=== EMI
 <BoxCube :items="[
-    {
-      name: 'Just Enough Items (JEI)',
-      link: 'https://modrinth.com/mod/jei',
-      image: 'https://cdn.modrinth.com/data/u6dRKJwZ/4a3f18ac0d096c9f8e9176984c44be4e58f94c89_96.webp',
-},
 {
       name: 'EMI',
       link: 'https://modrinth.com/mod/emi',
@@ -567,11 +563,6 @@ lastUpdated: false
       name: 'FerriteCore',
       link: 'https://modrinth.com/mod/ferrite-core',
       image: 'https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp',
-},
-{
-      name: 'ImmediatelyFast',
-      link: 'https://modrinth.com/mod/immediatelyfast',
-      image: 'https://cdn.modrinth.com/data/5ZwdcRci/e57b6b451425692ac17ad322d5e14bea686a383a_96.webp',
 },
 {
       name: 'Entity Culling',
@@ -632,14 +623,13 @@ lastUpdated: false
 ]"/>
 
 ###### <!-- Другие -->
-=== Другие ✨
+=== Другие 
 
-**<span style="color: green;">+ добавлен</span>** <Pill name="Simple Voice Chat" link="https://modrinth.com/mod/simple-voice-chat" image="https://cdn.modrinth.com/data/9eGKb6K1/icon.png" /> <br/>
 <BoxCube :items="[
 {
       name: 'Simple Voice Chat',
       link: 'https://modrinth.com/mod/simple-voice-chat',
-      image: 'https://cdn.modrinth.com/data/9eGKb6K1/icon.png', desc: '✨НОВОЕ✨'
+      image: 'https://cdn.modrinth.com/data/9eGKb6K1/icon.png',
 },
 {
       name: 'Iris Shaders',
