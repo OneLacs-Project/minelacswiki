@@ -9,7 +9,7 @@ lastUpdated: false
 
 **Версия игры: <Badge type="info" text="1.21.1" />** 
 
-Последняя Версия сборки: <Badge type="tip" text="v3.6" />
+Последняя Версия сборки: <Badge type="tip" text="v4.5" />
 
 Загрузчик модов: <Badge type="info" text="NeoForge v21.1.226+" />
 
@@ -42,6 +42,17 @@ lastUpdated: false
 
 <!-- ### LAST UPDATES (use to collapse them during editing) -->
 :::tabs 
+######  <!-- 4.5 --> 
+=== 4.5 
+`6 Мая `<br/>
+**<span style="color: red;">- удален</span>** <Pill name="Simple Voice Chat" link="https://modrinth.com/mod/simple-voice-chat" image="https://cdn.modrinth.com/data/9eGKb6K1/icon.png" /> <br/>
+**<span style="color: red;">- удален</span>** <Pill name="Serene Seasons" link="https://modrinth.com/mod/serene-seasons" image="https://cdn.modrinth.com/data/e0bNACJD/f8b292ea53e0a0ea908570defddc48673d16d7d6.png" /> <br/>
+
+**<span style="color: green;">+ добавлен</span>** <Pill name="PlasmoVoice" link="https://modrinth.com/mod/plasmo-voice" image="https://cdn.modrinth.com/data/1bZhdhsH/72c1641d4af92d93546958a2c87e0b5fd1c3f650_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="vista" link="https://modrinth.com/mod/vista_tv" image="https://cdn.modrinth.com/data/zuARv1N7/e989fd4aeb8a67e73c87e6db98850a5011b98a54_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create Propulsion: Simulated" link="https://modrinth.com/mod/create-propulsion-simulated" image="https://cdn.modrinth.com/data/ApkoHNO9/3db5f942d7d2b02a157ec62e9cbfb24a2d9d1f30_96.webp" /> <br/>
+
+
 ######  <!-- 3.6 --> 
 === 3.6 
 `30 Апреля `<br/>
@@ -76,7 +87,7 @@ lastUpdated: false
 ## Моды 
 *<span style="color: gray;"><sup>Это не полный и не динамичный список модов сборки, библиотеки и часть модов могут быть не указаны. </sup></span>*
 
-### Create  {#create}
+### Create ✨ {#create}
 :::: tabs 
 
 === ℹ️
@@ -84,8 +95,14 @@ lastUpdated: false
 ℹ️ Моды с тематикой мода <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/64/64/638598725500886388.png" />
 
 ###### <!-- Create -->
-=== Create 
+=== Create ✨
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create Propulsion: Simulated" link="https://modrinth.com/mod/create-propulsion-simulated" image="https://cdn.modrinth.com/data/ApkoHNO9/3db5f942d7d2b02a157ec62e9cbfb24a2d9d1f30_96.webp" /> <br/>
 <BoxCube :items="[
+  {
+    name: 'Create Propulsion: Simulated',
+    link: 'https://modrinth.com/mod/create-propulsion-simulated',
+    image: 'https://cdn.modrinth.com/data/ApkoHNO9/3db5f942d7d2b02a157ec62e9cbfb24a2d9d1f30_96.webp', desc: '✨НОВОЕ✨'
+  }, 
   {
     name: 'Create',
     link: 'https://modrinth.com/mod/create',
@@ -453,14 +470,19 @@ lastUpdated: false
 ]"/>
 
 ###### <!-- Атмосфера -->
-=== Атмосфера✨
+=== Атмосфера ✨
 
-**<span style="color: green;">+ добавлен</span>** <Pill name="Snow! Real Magic! ⛄" link="https://modrinth.com/mod/snow-real-magic" image="https://cdn.modrinth.com/data/iJNje1E8/428535ef57125022e0acea425752822ecfc796d7_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="vista" link="https://modrinth.com/mod/vista_tv" image="https://cdn.modrinth.com/data/zuARv1N7/e989fd4aeb8a67e73c87e6db98850a5011b98a54_96.webp" /> <br/>
 <BoxCube :items="[
+{
+      name: 'vista',
+      link: 'https://modrinth.com/mod/vista_tv',
+      image: 'https://cdn.modrinth.com/data/zuARv1N7/e989fd4aeb8a67e73c87e6db98850a5011b98a54_96.webp', desc: '✨НОВОЕ✨'
+},
 {
       name: 'Snow! Real Magic! ⛄',
       link: 'https://modrinth.com/mod/snow-real-magic',
-      image: 'https://cdn.modrinth.com/data/iJNje1E8/428535ef57125022e0acea425752822ecfc796d7_96.webp', desc: '✨НОВОЕ✨'
+      image: 'https://cdn.modrinth.com/data/iJNje1E8/428535ef57125022e0acea425752822ecfc796d7_96.webp'
 },
 {
       name: 'Drip Sounds',
@@ -476,11 +498,6 @@ lastUpdated: false
       name: 'Immersive Snow',
       link: 'https://modrinth.com/mod/immersive-snow',
       image: 'https://cdn.modrinth.com/data/mQdEVqSA/9353a60cfd04637cea81a5330058b57a8753a5bf.png',
-},
-{
-      name: 'Serene Seasons',
-      link: 'https://modrinth.com/mod/serene-seasons',
-      image: 'https://cdn.modrinth.com/data/e0bNACJD/f8b292ea53e0a0ea908570defddc48673d16d7d6.png',
 },
 {
       name: 'Enderman Overhaul',
@@ -525,7 +542,7 @@ lastUpdated: false
 ]"/>
 ::::
 
-### Клиентские {#client}
+### Клиентские ✨ {#client}
 
 :::: tabs 
 
@@ -622,13 +639,13 @@ lastUpdated: false
 ]"/>
 
 ###### <!-- Другие -->
-=== Другие 
-
+=== Другие ✨
+**<span style="color: green;">+ добавлен</span>** <Pill name="PlasmoVoice" link="https://modrinth.com/mod/plasmo-voice" image="https://cdn.modrinth.com/data/1bZhdhsH/72c1641d4af92d93546958a2c87e0b5fd1c3f650_96.webp" /> <br/>
 <BoxCube :items="[
 {
-      name: 'Simple Voice Chat',
-      link: 'https://modrinth.com/mod/simple-voice-chat',
-      image: 'https://cdn.modrinth.com/data/9eGKb6K1/icon.png',
+      name: 'PlasmoVoice',
+      link: 'https://modrinth.com/mod/plasmo-voice',
+      image: 'https://cdn.modrinth.com/data/1bZhdhsH/72c1641d4af92d93546958a2c87e0b5fd1c3f650_96.webp', desc: '✨НОВОЕ✨'
 },
 {
       name: 'Iris Shaders',

@@ -15,9 +15,10 @@ title: ML Create & Aero
 <!-- <br/><span style="color: gray;"><sub>25.04.2026 - 00.00.2026</sub></span><br/> -->
 
 
-### Анонсировано 
+### Сезон включает
 - Мод <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png" color="#868dcc"/><br/>
 - Недавно релизнутый мод <Pill name="Create Areonautics" link="https://www.curseforge.com/minecraft/mc-mods/create-aeronautics" image="https://media.forgecdn.net/avatars/thumbnails/1761/312/64/64/639120354691921005.png" color="#868dcc"/>
+- Куча аддонов и других модов
 
 
 ## Документации / Ресурсы
@@ -60,6 +61,16 @@ title: ML Create & Aero
 \- Добавлен мод <Pill name="Snow! Real Magic! ⛄" link="https://modrinth.com/mod/snow-real-magic" image="https://cdn.modrinth.com/data/iJNje1E8/428535ef57125022e0acea425752822ecfc796d7_96.webp" />
 
 :::
+::: details <span style="color: lime;">Май 2026</span>
+
+`6 Мая` - Обновление принесло:<br>
+\- Исправлены баги и обновлены моды<br>
+\- Удален Simple Voice Chat и заменен на PlasmoVoice<br>
+\- Удален мод на сезоны SereneSeasons<br>
+\- Добавлен Create Propultion Simulated<br>
+\- Добавлен Vista
+
+:::
 
 ### Предыдущий сезон ML Create
 
@@ -75,7 +86,7 @@ title: ML Create & Aero
 
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `85`<span style="color: green;">↑1</span>
+**<span style="color: gray;">Общее количество:</span>** `85`<span style="color: green;"></span>
 <!-- **<span style="color: gray;"> (`0` + `0` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
