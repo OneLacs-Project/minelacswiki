@@ -15,13 +15,14 @@ export const rulesSidebar = {
         {
           text: 'Правила',
           items: [
-            { text: '1. Общение/Комьюнити', link: '/rules/categories/1-community'},
-            { text: '2. Игровой мир/Стройка', link: '/rules/categories/2-gameworld'},
-            { text: '3. Геймплей/Честная игра', link: '/rules/categories/3-gameplay'},
-            { text: '4. Экономика', link: '/rules/categories/4-economy'},
-            { text: '5. Города, Суды и Войны', link: '/rules/categories/5-public-relations'},
-            { text: '6. Администрация', link: '/rules/categories/6-administration'},
-            // { text: '7. Суд', link: '/rules/categories/7-court'},
+            { text: '1. Основа', link: '/rules/categories/1-general'},
+            { text: '2. Общение', link: '/rules/categories/2-communication'},
+            { text: '3. Безопасность', link: '/rules/categories/3-safety'},
+            { text: '4. Игровой Процесс', link: '/rules/categories/4-gameplay'},
+            { text: '5. Взаемодействия Игроков', link: '/rules/categories/5-interactions'},
+            { text: '6. Территории', link: '/rules/categories/6-territories'},
+            { text: '7. Экономика', link: '/rules/categories/7-economy'},
+            { text: '8. Социальные Структуры', link: '/rules/categories/8-everything-else'},
           ]
         },
         {

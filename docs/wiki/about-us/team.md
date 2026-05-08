@@ -46,11 +46,11 @@ layout: doc
       ]
     },
     {
-      avatar: 'https://api.mineatar.io/face/2b4b6a4e-dfc1-41b4-926a-6cd0e18fb786?scale=96',
-      name: 'm1nus1k',
+      avatar: 'https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=96',
+      name: 'qywyx',
       title: 'Хелпер',
       links: [
-        { icon: 'discord', link: 'https://discord.com/users/911320367618998332' }
+        { icon: 'discord', link: 'https://discord.com/users/780060596456390706' }
       ]
     },
   ]

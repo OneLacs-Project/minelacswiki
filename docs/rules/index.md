@@ -6,17 +6,18 @@
 
 > [!INFO]Для всех сезонов - правила универсальны, если не указано иначе.
 
-> [!TIP] Изменения 28.02.2026
-> Состоялось обновление правил, которые вступают в силу `28.02.2026`
+> [!TIP] Изменения 00.05.2026
+> Состоялось обновление правил, которые вступают в силу `00.05.2026`
 > 
 > Изменения:<br/>
-> Маштабное упрощение и объединение правил
+> Переформатирование правил и добавление 7 и 8 категории
 
 <Links :items="[
     {
       name: 'Базовые термины',
       link: 'terms',
       icon: 'fluent-emoji:pushpin',
+      desc: 'ОБНОВЛЕНО'
     },
 ]"/>
 
@@ -25,46 +26,53 @@
 === Основные
 <links :items="[
     {
-      name: '1. Общение/Комьюнити',
-      link: 'categories/1-community',
-      icon: 'fluent-emoji:left-speech-bubble',
-      desc: 'ОБНОВЛЕНО'
-    },
-    {
-      name: '2. Игровой мир/Стройка',
-      link: 'categories/2-gameworld',
-      icon: 'fluent-emoji:globe-showing-europe-africa',
-      desc: 'ОБНОВЛЕНО'
-    },
-    {
-      name: '3. Геймплей/Честная игра',
-      link: 'categories/3-gameplay',
-      icon: 'fluent-emoji:handshake',
-      desc: 'ОБНОВЛЕНО'
-    },
-    {
-      name: '4. Экономика',
-      link: 'categories/4-economy',
-      icon: 'fluent-emoji:money-bag',
-      desc: 'ОБНОВЛЕНО'
-    },
-    {
-      name: '5. Соц. Города, Суды и Войны',
-      link: 'categories/5-public-relations',
+      name: '1. Основа',
+      link: 'categories/1-general',
       icon: 'fluent-emoji:classical-building',
       desc: 'ОБНОВЛЕНО'
     },
     {
-      name: '6. Администрация',
-      link: 'categories/6-administration',
-      icon: 'fluent-emoji:crown',
+      name: '2. Общение',
+      link: 'categories/2-communication',
+      icon: 'fluent-emoji:left-speech-bubble',
       desc: 'ОБНОВЛЕНО'
     },
-    // {
-    //   name: '7. Правила суда',
-    //   link: 'categories/7-court',
-    //   icon: 'fluent-emoji:balance-scale',
-    // },
+    {
+      name: '3. Безопасность',
+      link: 'categories/3-safety',
+      icon: 'fluent-emoji:link',
+      desc: 'ОБНОВЛЕНО'
+    },
+    {
+      name: '4. Игровой Процесс',
+      link: 'categories/4-gameplay',
+      icon: 'fluent-emoji:hammer-and-wrench',
+      desc: 'ОБНОВЛЕНО'
+    },
+    {
+      name: '5. Взаемодействия Игроков',
+      link: 'categories/5-interactions',
+      icon: 'fluent-emoji:busts-in-silhouette',
+      desc: 'ОБНОВЛЕНО'
+    },
+    {
+      name: '6. Территории',
+      link: 'categories/6-territories',
+      icon: 'fluent-emoji:world-map',
+      desc: 'ОБНОВЛЕНО'
+    },
+    {
+      name: '7. Экономика',
+      link: 'categories/7-economy',
+      icon: 'fluent-emoji:gem-stone',
+      desc: 'НОВОЕ'
+    }, 
+    {
+      name: '8. Социальные Структуры',
+      link: 'categories/8-everything-else',
+      icon: 'fluent-emoji:balance-scale',
+      desc: 'НОВОЕ'
+    },
 ]"/>
 === Прочие
 <Links :items="[
