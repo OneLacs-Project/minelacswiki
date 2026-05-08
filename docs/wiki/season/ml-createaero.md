@@ -86,7 +86,7 @@ title: ML Create & Aero
 
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `85`<span style="color: green;"></span>
+**<span style="color: gray;">Общее количество:</span>** `87`<span style="color: green;">↑2</span>
 <!-- **<span style="color: gray;"> (`0` + `0` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -175,7 +175,8 @@ title: ML Create & Aero
 - Jigulenok <img src="https://api.mineatar.io/face/021790df-cc08-4c5f-bcb3-0853c0e3dd14?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - GKjojogo <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - BurnItALL <img src="https://api.mineatar.io/face/1178cfbf-e578-4e44-94ee-b743eaa00842?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
-
+- 67Fpss <img src="https://api.mineatar.io/face/b9b27de8-b2fe-401a-9be2-f21e6837f3a5?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- JAgnelJ <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 
 
 <!-- #### Забанены: <br/><span style="color: gray;"><sup>Даные игроки были навсегда забанены из-за нарушений правил сервера</sup></span> {#banned} -->
