@@ -9,7 +9,7 @@ lastUpdated: false
 
 **Версия игры: <Badge type="info" text="1.21.1" />** 
 
-Последняя Версия сборки: <Badge type="tip" text="v4.5" />
+Последняя Версия сборки: <Badge type="tip" text="v5.6" />
 
 Загрузчик модов: <Badge type="info" text="NeoForge v21.1.226+" />
 
@@ -42,6 +42,18 @@ lastUpdated: false
 
 <!-- ### LAST UPDATES (use to collapse them during editing) -->
 :::tabs 
+######  <!-- 5.6 --> 
+=== 5.6
+`19 Мая `<br/>
+
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create: Radars" link="https://modrinth.com/mod/create-radars" image="https://cdn.modrinth.com/data/BLu2Yqfq/d2e206a0bbee73647a9ebf99607abbae5a8960c7_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create: FastSchematicCannon" link="https://modrinth.com/mod/create-fast-schematic-cannon" image="https://cdn.modrinth.com/data/DebMSCVn/1d3eefa70d95f6d0317b2b739227cafd93aefbf7_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create: Shuffle Filter" link="https://modrinth.com/mod/create-shuffle-filter" image="https://cdn.modrinth.com/data/gv5RRavC/6addfe9f66010b7b44ff8f94b04f113fa3797e1d_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Architect's Palette" link="https://modrinth.com/mod/architects-palette" image="https://cdn.modrinth.com/data/vt0VyseM/4df31c9d6f41e35e4659711b3f9a5b0910d33c49_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Abundant Atmosphere" link="https://modrinth.com/mod/abundant-atmosphere" image="https://cdn.modrinth.com/data/N8ZATCCG/d3ab748e68b21f29fa8b7cee59419088563177bf_96.webp" /> <br/>
+
+**<span style="color: red;">- удален</span>** <Pill name="Create: CC Total Logistics" link="https://modrinth.com/mod/create-cc-total-logistics" image="https://cdn.modrinth.com/data/FuyTRq2g/f3f230cecf359ce24ac5d8bf9414430361f14cf3_96.webp" /> <br/>
+
 ######  <!-- 4.5 --> 
 === 4.5 
 `6 Мая `<br/>
@@ -87,7 +99,7 @@ lastUpdated: false
 ## Моды 
 *<span style="color: gray;"><sup>Это не полный и не динамичный список модов сборки, библиотеки и часть модов могут быть не указаны. </sup></span>*
 
-### Create ✨ {#create}
+### Create ✨  {#create}
 :::: tabs 
 
 === ℹ️
@@ -96,12 +108,29 @@ lastUpdated: false
 
 ###### <!-- Create -->
 === Create ✨
-**<span style="color: green;">+ добавлен</span>** <Pill name="Create Propulsion: Simulated" link="https://modrinth.com/mod/create-propulsion-simulated" image="https://cdn.modrinth.com/data/ApkoHNO9/3db5f942d7d2b02a157ec62e9cbfb24a2d9d1f30_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create: Radars" link="https://modrinth.com/mod/create-radars" image="https://cdn.modrinth.com/data/BLu2Yqfq/d2e206a0bbee73647a9ebf99607abbae5a8960c7_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create: FastSchematicCannon" link="https://modrinth.com/mod/create-fast-schematic-cannon" image="https://cdn.modrinth.com/data/DebMSCVn/1d3eefa70d95f6d0317b2b739227cafd93aefbf7_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create: Shuffle Filter" link="https://modrinth.com/mod/create-shuffle-filter" image="https://cdn.modrinth.com/data/gv5RRavC/6addfe9f66010b7b44ff8f94b04f113fa3797e1d_96.webp" /> <br/>
 <BoxCube :items="[
+  {
+    name: 'Create: Radars',
+    link: 'https://modrinth.com/mod/create-radars',
+    image: 'https://cdn.modrinth.com/data/BLu2Yqfq/d2e206a0bbee73647a9ebf99607abbae5a8960c7_96.webp', desc: '✨НОВОЕ✨'
+  }, 
+  {
+    name: 'Create: FastSchematicCannon',
+    link: 'https://modrinth.com/mod/create-fast-schematic-cannon',
+    image: 'https://cdn.modrinth.com/data/DebMSCVn/1d3eefa70d95f6d0317b2b739227cafd93aefbf7_96.webp', desc: '✨НОВОЕ✨'
+  }, 
+  {
+    name: 'Create: Shuffle Filter',
+    link: 'https://modrinth.com/mod/create-shuffle-filter',
+    image: 'https://cdn.modrinth.com/data/gv5RRavC/6addfe9f66010b7b44ff8f94b04f113fa3797e1d_96.webp', desc: '✨НОВОЕ✨'
+  }, 
   {
     name: 'Create Propulsion: Simulated',
     link: 'https://modrinth.com/mod/create-propulsion-simulated',
-    image: 'https://cdn.modrinth.com/data/ApkoHNO9/3db5f942d7d2b02a157ec62e9cbfb24a2d9d1f30_96.webp', desc: '✨НОВОЕ✨'
+    image: 'https://cdn.modrinth.com/data/ApkoHNO9/3db5f942d7d2b02a157ec62e9cbfb24a2d9d1f30_96.webp', 
   }, 
   {
     name: 'Create',
@@ -268,11 +297,6 @@ lastUpdated: false
       name: 'CC:C Bridge',
       link: 'https://modrinth.com/mod/cccbridge',
       image: 'https://cdn.modrinth.com/data/fXt291FO/c569721cae70f38b9599deae5576b74dd44188d6_96.webp',
-},
-{
-      name: 'Create: CC Total Logistics',
-      link: 'https://modrinth.com/mod/create-cc-total-logistics',
-      image: 'https://cdn.modrinth.com/data/FuyTRq2g/f3f230cecf359ce24ac5d8bf9414430361f14cf3_96.webp',
 },
 {
       name: 'Create: CC Better Recipes',
@@ -471,13 +495,23 @@ lastUpdated: false
 
 ###### <!-- Атмосфера -->
 === Атмосфера ✨
-
-**<span style="color: green;">+ добавлен</span>** <Pill name="vista" link="https://modrinth.com/mod/vista_tv" image="https://cdn.modrinth.com/data/zuARv1N7/e989fd4aeb8a67e73c87e6db98850a5011b98a54_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Architect's Palette" link="https://modrinth.com/mod/architects-palette" image="https://cdn.modrinth.com/data/vt0VyseM/4df31c9d6f41e35e4659711b3f9a5b0910d33c49_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Abundant Atmosphere" link="https://modrinth.com/mod/abundant-atmosphere" image="https://cdn.modrinth.com/data/N8ZATCCG/d3ab748e68b21f29fa8b7cee59419088563177bf_96.webp" /> <br/>
 <BoxCube :items="[
+{
+      name: 'Architect\'s Palette',
+      link: 'https://modrinth.com/mod/architects-palette',
+      image: 'https://cdn.modrinth.com/data/vt0VyseM/4df31c9d6f41e35e4659711b3f9a5b0910d33c49_96.webp', desc: '✨НОВОЕ✨'
+},
+{
+      name: 'Abundant Atmosphere',
+      link: 'https://modrinth.com/mod/abundant-atmosphere',
+      image: 'https://cdn.modrinth.com/data/N8ZATCCG/d3ab748e68b21f29fa8b7cee59419088563177bf_96.webp', desc: '✨НОВОЕ✨'
+},
 {
       name: 'vista',
       link: 'https://modrinth.com/mod/vista_tv',
-      image: 'https://cdn.modrinth.com/data/zuARv1N7/e989fd4aeb8a67e73c87e6db98850a5011b98a54_96.webp', desc: '✨НОВОЕ✨'
+      image: 'https://cdn.modrinth.com/data/zuARv1N7/e989fd4aeb8a67e73c87e6db98850a5011b98a54_96.webp', 
 },
 {
       name: 'Snow! Real Magic! ⛄',
@@ -542,7 +576,7 @@ lastUpdated: false
 ]"/>
 ::::
 
-### Клиентские ✨ {#client}
+### Клиентские  {#client}
 
 :::: tabs 
 
@@ -639,13 +673,12 @@ lastUpdated: false
 ]"/>
 
 ###### <!-- Другие -->
-=== Другие ✨
-**<span style="color: green;">+ добавлен</span>** <Pill name="PlasmoVoice" link="https://modrinth.com/mod/plasmo-voice" image="https://cdn.modrinth.com/data/1bZhdhsH/72c1641d4af92d93546958a2c87e0b5fd1c3f650_96.webp" /> <br/>
+=== Другие 
 <BoxCube :items="[
 {
       name: 'PlasmoVoice',
       link: 'https://modrinth.com/mod/plasmo-voice',
-      image: 'https://cdn.modrinth.com/data/1bZhdhsH/72c1641d4af92d93546958a2c87e0b5fd1c3f650_96.webp', desc: '✨НОВОЕ✨'
+      image: 'https://cdn.modrinth.com/data/1bZhdhsH/72c1641d4af92d93546958a2c87e0b5fd1c3f650_96.webp', 
 },
 {
       name: 'Iris Shaders',

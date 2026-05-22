@@ -70,6 +70,19 @@ title: ML Create & Aero
 \- Добавлен Create Propultion Simulated<br>
 \- Добавлен Vista
 
+`19 Мая` - Обновление принесло:<br>
+\- Добавлен Create Radars<br>
+\- Добавлен Create Fast Schematics <br>
+\- Добавлен Create: Shuffle Filtre <br>
+\- Добавлен Architects Pallete <br>
+\- Добавлен Abundant Atmosphere <br>
+\- Удален Create CC Total logistics <br>
+\- Исправлены баги <br>
+\- Добавлена наша система скинов без багов <br>
+\- Размеры мониторов увеличены до 24 на 24 <br>
+\- Дистанцию голосового чата можно увеличить до 80 блоков <br>
+\- Увеличено место для Computer Craft 
+
 :::
 
 ### Предыдущий сезон ML Create
@@ -86,7 +99,7 @@ title: ML Create & Aero
 
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `106`<span style="color: green;">↑18</span>
+**<span style="color: gray;">Общее количество:</span>** `108`<span style="color: green;">↑2</span>
 <!-- **<span style="color: gray;"> (`0` + `0` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -195,7 +208,8 @@ title: ML Create & Aero
 - Taracancim <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - Tagjik2 <img src="https://api.mineatar.io/face/007333d9-79ed-43bf-92ea-c23bd662f0e6?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - IIWhyII <img src="https://api.mineatar.io/face/5bbf8f75-e4c6-466c-a37e-06929a9d1653?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
-
+- Foxlite3 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- CatBu1b <img src="https://api.mineatar.io/face/8f2098e5-be80-48db-b6b0-6c9620c1a4f6?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 
 
 <!-- #### Забанены: <br/><span style="color: gray;"><sup>Даные игроки были навсегда забанены из-за нарушений правил сервера</sup></span> {#banned} -->
