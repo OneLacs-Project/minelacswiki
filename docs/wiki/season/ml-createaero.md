@@ -83,6 +83,15 @@ title: ML Create & Aero
 \- Дистанцию голосового чата можно увеличить до 80 блоков <br>
 \- Увеличено место для Computer Craft 
 
+`27 Мая` - Обновление принесло:<br>
+\- Удален Vista Aeronautics fix из-за крашей.<br>
+\- Добавлен Aeronautics Camera Sync<br>
+\- Теперь по веревкам можно лазить вертикально<br>
+\- Теперь Jade отображает вес блоков<br>
+\- Исправлена проблема с крафтом медных проводов из PowerGrid<br>
+\- Обновлены моды на новые версии<br>
+\- Совместимости с Aeronautics
+
 :::
 
 ### Предыдущий сезон ML Create
@@ -99,7 +108,7 @@ title: ML Create & Aero
 
 
 ## Участники 
-**<span style="color: gray;">Общее количество:</span>** `108`<span style="color: green;">↑2</span>
+**<span style="color: gray;">Общее количество:</span>** `122`<span style="color: green;">↑14</span>
 <!-- **<span style="color: gray;"> (`0` + `0` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
 
 - **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
@@ -210,6 +219,22 @@ title: ML Create & Aero
 - IIWhyII <img src="https://api.mineatar.io/face/5bbf8f75-e4c6-466c-a37e-06929a9d1653?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
 - Foxlite3 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
 - CatBu1b <img src="https://api.mineatar.io/face/8f2098e5-be80-48db-b6b0-6c9620c1a4f6?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Normisi <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- MalsLegend <img src="https://api.mineatar.io/face/e23bb63d-3334-496f-8ef3-ef04426802ea?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- MaxDizel <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Sakira <img src="https://api.mineatar.io/face/fd2eea48-7ee4-4483-9ee7-c06bab6f11ee?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Leva55577 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- ARTplazma <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- klohky <img src="https://api.mineatar.io/face/f21ea5ad-4778-466e-8c42-98f11b984e19?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- detyader <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- LLiversy <img src="https://api.mineatar.io/face/25af025d-b511-4b7f-ab1f-791e49dd9a79?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- PingWin <img src="https://api.mineatar.io/face/a01184a2-d070-4904-8b3c-57d1c787160b?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Chelovenchik <img src="https://api.mineatar.io/face/8897ae5d-109f-404c-b8b1-3856d8ca2ae8?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- mikonet_p <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- niko_lesson <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Just <img src="https://api.mineatar.io/face/698efff3-fe26-4bbd-b56f-f61715cf0b82?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+
+
 
 
 <!-- #### Забанены: <br/><span style="color: gray;"><sup>Даные игроки были навсегда забанены из-за нарушений правил сервера</sup></span> {#banned} -->
