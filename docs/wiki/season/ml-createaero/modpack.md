@@ -9,9 +9,9 @@ lastUpdated: false
 
 **Версия игры: <Badge type="info" text="1.21.1" />** 
 
-Последняя Версия сборки: <Badge type="tip" text="v6.2" />
+Последняя Версия сборки: <Badge type="tip" text="v7.10" />
 
-Загрузчик модов: <Badge type="info" text="NeoForge v21.1.226+" />
+Загрузчик модов: <Badge type="warning" text="NeoForge v21.1.229+" />
 
 
 <!-- <BoxCube :items="[
@@ -42,6 +42,25 @@ lastUpdated: false
 
 <!-- ### LAST UPDATES (use to collapse them during editing) -->
 :::tabs 
+
+
+######  <!-- 7.10 --> 
+=== 7.10
+`10 Июня `<br/>
+> [!WARNING] Версия загрузчика обновилась на NeoForge v21.1.229+
+
+**<span style="color: gold;">※ ЭКСПЕРЕМЕНТАЛЬНОЕ ОБНОВЛЕНИЕ </span>** <Pill name="Create Aeronautics" link="https://modrinth.com/mod/create-aeronautics" image="https://cdn.modrinth.com/data/oWaK0Q19/f66b5589924884ffd81acb27f3ccb775867a962e_96.webp" /> <br/>
+**<span style="color: gold;">※ ЭКСПЕРЕМЕНТАЛЬНОЕ ОБНОВЛЕНИЕ </span>** <Pill name="Sable" link="https://modrinth.com/mod/sable" image="https://cdn.modrinth.com/data/T9PomCSv/8c0a8c64c9a5a8d446d0aa23d244cb9b52314a1d.png" /> <br/>
+
+
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create: Gears n' Kinetics" link="https://modrinth.com/mod/gears-n-kinetics" image="https://cdn.modrinth.com/data/gEWECBVL/08df3f9d56f30627049fcb622989aae0ec9a026c.gif" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create: Prismatic Shine" link="https://modrinth.com/mod/create-prismatic-shine" image="https://cdn.modrinth.com/data/udEtt0b2/8e7b38e2717be23c3b92237d6243cd25dcff0db4_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create Deep Seas" link="https://modrinth.com/mod/create-deep-seas" image="https://cdn.modrinth.com/data/mva5q4qZ/7ea25c903becb4282dbe790ff44689d363c08ae7_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="CC: Deep Seas" link="https://modrinth.com/mod/cc-deep-seas" image="https://cdn.modrinth.com/data/FFRmzdEr/fbe8962ef95cd4a3f523a69b4ec51ef6d443595b.png" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Synaxis" link="https://www.curseforge.com/minecraft/mc-mods/synaxis" image="https://media.forgecdn.net/avatars/thumbnails/1778/911/256/256/639128969835563262.png" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Immersive paintings" link="https://modrinth.com/mod/immersive-paintings" image="https://cdn.modrinth.com/data/6txNkua3/8c7abdd0a185dace29d4c4a0476f2d8af29475a9_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Snatched(Kidnap)" link="https://modrinth.com/mod/snatched" image="https://cdn.modrinth.com/data/FrAFqCoe/cba208741b957aeb96911f9e470f46a2ac1d8f9f_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Abyssal Decor" link="https://modrinth.com/mod/abyssal-decor" image="https://cdn.modrinth.com/data/dzmhUvoY/8a9cc57558107b8e5c4eeeb20a792ebab311f106.png" /> <br/>
 
 ######  <!-- 6.2 --> 
 === 6.2
@@ -116,15 +135,36 @@ lastUpdated: false
 ℹ️ Моды с тематикой мода <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/64/64/638598725500886388.png" />
 
 ###### <!-- Create -->
-=== Create 
-**<span style="color: green;">+ добавлен</span>** <Pill name="Create: Radars" link="https://modrinth.com/mod/create-radars" image="https://cdn.modrinth.com/data/BLu2Yqfq/d2e206a0bbee73647a9ebf99607abbae5a8960c7_96.webp" /> <br/>
-**<span style="color: green;">+ добавлен</span>** <Pill name="Create: FastSchematicCannon" link="https://modrinth.com/mod/create-fast-schematic-cannon" image="https://cdn.modrinth.com/data/DebMSCVn/1d3eefa70d95f6d0317b2b739227cafd93aefbf7_96.webp" /> <br/>
-**<span style="color: green;">+ добавлен</span>** <Pill name="Create: Shuffle Filter" link="https://modrinth.com/mod/create-shuffle-filter" image="https://cdn.modrinth.com/data/gv5RRavC/6addfe9f66010b7b44ff8f94b04f113fa3797e1d_96.webp" /> <br/>
+=== Create ✨
+**<span style="color: gold;">※ ЭКСПЕРЕМЕНТАЛЬНОЕ ОБНОВЛЕНИЕ </span>** <Pill name="Create Aeronautics" link="https://modrinth.com/mod/create-aeronautics" image="https://cdn.modrinth.com/data/oWaK0Q19/f66b5589924884ffd81acb27f3ccb775867a962e_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create: Gears n' Kinetics" link="https://modrinth.com/mod/gears-n-kinetics" image="https://cdn.modrinth.com/data/gEWECBVL/08df3f9d56f30627049fcb622989aae0ec9a026c.gif" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create: Prismatic Shine" link="https://modrinth.com/mod/create-prismatic-shine" image="https://cdn.modrinth.com/data/udEtt0b2/8e7b38e2717be23c3b92237d6243cd25dcff0db4_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Create Deep Seas" link="https://modrinth.com/mod/create-deep-seas" image="https://cdn.modrinth.com/data/mva5q4qZ/7ea25c903becb4282dbe790ff44689d363c08ae7_96.webp" /> <br/>
 <BoxCube :items="[
+      {
+        name: 'Create Aeronautics',
+        link: 'https://modrinth.com/mod/create-aeronautics',
+        image: 'https://cdn.modrinth.com/data/oWaK0Q19/f66b5589924884ffd81acb27f3ccb775867a962e_96.webp',desc: '✨ЭКСПЕРИМЕНТАЛЬНОЕ✨'
+      },
+      {
+    name: 'Create: Gears n\' Kinetics',
+    link: 'https://modrinth.com/mod/gears-n-kinetics',
+    image: 'https://cdn.modrinth.com/data/gEWECBVL/08df3f9d56f30627049fcb622989aae0ec9a026c.gif', desc: '✨НОВОЕ✨'
+  }, 
   {
+    name: 'Create: Prismatic Shine',
+    link: 'https://modrinth.com/mod/create-prismatic-shine',
+    image: 'https://cdn.modrinth.com/data/udEtt0b2/8e7b38e2717be23c3b92237d6243cd25dcff0db4_96.webp', desc: '✨НОВОЕ✨'
+  }, 
+  {
+    name: 'Create Deep Seas',
+    link: 'https://modrinth.com/mod/create-deep-seas',
+    image: 'https://cdn.modrinth.com/data/mva5q4qZ/7ea25c903becb4282dbe790ff44689d363c08ae7_96.webp',desc: '✨НОВОЕ✨'
+  }, 
+      {
     name: 'Create: Radars',
     link: 'https://modrinth.com/mod/create-radars',
-    image: 'https://cdn.modrinth.com/data/BLu2Yqfq/d2e206a0bbee73647a9ebf99607abbae5a8960c7_96.webp', 
+    image: 'https://cdn.modrinth.com/data/BLu2Yqfq/d2e206a0bbee73647a9ebf99607abbae5a8960c7_96.webp',
   }, 
   {
     name: 'Create: FastSchematicCannon',
@@ -145,11 +185,6 @@ lastUpdated: false
     name: 'Create',
     link: 'https://modrinth.com/mod/create',
     image: 'https://cdn.modrinth.com/data/LNytGWDc/61d716699bcf1ec42ed4926a9e1c7311be6087e2_96.webp',
-  },
-  {
-    name: 'Create Aeronautics',
-    link: 'https://modrinth.com/mod/create-aeronautics',
-    image: 'https://cdn.modrinth.com/data/oWaK0Q19/f66b5589924884ffd81acb27f3ccb775867a962e_96.webp',
   },
   {
     name: 'Steam \'n\' Rails Neoforge',
@@ -280,13 +315,23 @@ lastUpdated: false
 
 ###### <!-- Совместимости -->
 === Совместимости ✨
-
-**<span style="color: green;">+ добавлен</span>** <Pill name="Aeronautics Camera Sync" link="https://modrinth.com/mod/aero_cam_sync" image="https://cdn.modrinth.com/data/ZGxtWu73/25b377c4995c7b6c1007c05b2135a55c90db453e_96.webp" /> <br/>
+**<span style="color: gold;">※ ЭКСПЕРЕМЕНТАЛЬНОЕ ОБНОВЛЕНИЕ </span>** <Pill name="Sable" link="https://modrinth.com/mod/sable" image="https://cdn.modrinth.com/data/T9PomCSv/8c0a8c64c9a5a8d446d0aa23d244cb9b52314a1d.png" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="CC: Deep Seas" link="https://modrinth.com/mod/cc-deep-seas" image="https://cdn.modrinth.com/data/FFRmzdEr/fbe8962ef95cd4a3f523a69b4ec51ef6d443595b.png" /> <br/>
 <BoxCube :items="[ 
+{
+      name: 'Sable',
+      link: 'https://modrinth.com/mod/sable',
+      image: 'https://cdn.modrinth.com/data/T9PomCSv/8c0a8c64c9a5a8d446d0aa23d244cb9b52314a1d.png', desc: '✨ЭКСПЕРИМЕНТАЛЬНОЕ✨'
+},
+{
+      name: 'CC: Deep Seas',
+      link: 'https://modrinth.com/mod/cc-deep-seas',
+      image: 'https://cdn.modrinth.com/data/FFRmzdEr/fbe8962ef95cd4a3f523a69b4ec51ef6d443595b.png', desc: '✨НОВОЕ✨'
+},
 {
       name: 'Aeronautics Camera Sync',
       link: 'https://modrinth.com/mod/aero_cam_sync',
-      image: 'https://cdn.modrinth.com/data/ZGxtWu73/25b377c4995c7b6c1007c05b2135a55c90db453e_96.webp', desc: '✨НОВОЕ✨'
+      image: 'https://cdn.modrinth.com/data/ZGxtWu73/25b377c4995c7b6c1007c05b2135a55c90db453e_96.webp',
 },
 {
       name: 'Create Slice & Dice',
@@ -349,7 +394,7 @@ lastUpdated: false
 
 
 
-### Вайб   {#vibe}
+### Вайб ✨  {#vibe}
 :::: tabs 
 
 === ℹ️
@@ -509,10 +554,32 @@ lastUpdated: false
 ]"/>
 
 ###### <!-- Атмосфера -->
-=== Атмосфера 
-**<span style="color: green;">+ добавлен</span>** <Pill name="Architect's Palette" link="https://modrinth.com/mod/architects-palette" image="https://cdn.modrinth.com/data/vt0VyseM/4df31c9d6f41e35e4659711b3f9a5b0910d33c49_96.webp" /> <br/>
-**<span style="color: green;">+ добавлен</span>** <Pill name="Abundant Atmosphere" link="https://modrinth.com/mod/abundant-atmosphere" image="https://cdn.modrinth.com/data/N8ZATCCG/d3ab748e68b21f29fa8b7cee59419088563177bf_96.webp" /> <br/>
+=== Атмосфера ✨
+**<span style="color: green;">+ добавлен</span>** <Pill name="Synaxis" link="https://www.curseforge.com/minecraft/mc-mods/synaxis" image="https://media.forgecdn.net/avatars/thumbnails/1778/911/256/256/639128969835563262.png" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Immersive paintings" link="https://modrinth.com/mod/immersive-paintings" image="https://cdn.modrinth.com/data/6txNkua3/8c7abdd0a185dace29d4c4a0476f2d8af29475a9_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Snatched(Kidnap)" link="https://modrinth.com/mod/snatched" image="https://cdn.modrinth.com/data/FrAFqCoe/cba208741b957aeb96911f9e470f46a2ac1d8f9f_96.webp" /> <br/>
+**<span style="color: green;">+ добавлен</span>** <Pill name="Abyssal Decor" link="https://modrinth.com/mod/abyssal-decor" image="https://cdn.modrinth.com/data/dzmhUvoY/8a9cc57558107b8e5c4eeeb20a792ebab311f106.png" /> <br/>
 <BoxCube :items="[
+      {
+      name: 'Synaxis',
+      link: 'https://www.curseforge.com/minecraft/mc-mods/synaxis',
+      image: 'https://media.forgecdn.net/avatars/thumbnails/1778/911/256/256/639128969835563262.png',  desc: '✨НОВОЕ✨'
+},
+{
+      name: 'Immersive paintings',
+      link: 'https://modrinth.com/mod/immersive-paintings',
+      image: 'https://cdn.modrinth.com/data/6txNkua3/8c7abdd0a185dace29d4c4a0476f2d8af29475a9_96.webp',  desc: '✨НОВОЕ✨'
+},
+{
+      name: 'Snatched(Kidnap)',
+      link: 'https://modrinth.com/mod/snatched',
+      image: 'https://cdn.modrinth.com/data/FrAFqCoe/cba208741b957aeb96911f9e470f46a2ac1d8f9f_96.webp',  desc: '✨НОВОЕ✨'
+},
+{
+      name: 'Abyssal Decor',
+      link: 'https://modrinth.com/mod/abyssal-decor',
+      image: 'https://cdn.modrinth.com/data/dzmhUvoY/8a9cc57558107b8e5c4eeeb20a792ebab311f106.png', desc: '✨НОВОЕ✨'
+},
 {
       name: 'Architect\'s Palette',
       link: 'https://modrinth.com/mod/architects-palette',
