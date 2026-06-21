@@ -1,0 +1,304 @@
+---
+lastUpdated: true
+outline: 2,3
+title: ML Create & Aero
+---
+
+![](/WIKI/ML-Create-N-Aero/banner.png)
+
+# <iconify-icon icon="solar:archive-bold-duotone" style="margin-bottom:-0.3rem;margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Create & Aero <br/> <span style="color: gray;"><sup>Вперёд и вверх!</sup></span>
+
+**<span style="color: gray;">Версия Игры:</span> 1.21.1 NeoForge** <br/>
+**<span style="color: gray;">Трейлер:</span> [Смотреть](https://youtu.be/GC3_NxpO9VU)**<br/>
+**<span style="color: gray;">Статус:</span> Завершен**
+<br/><span style="color: gray;"><sub>25.04.2026 - 20.06.2026</sub></span><br/>
+
+### Подробнее
+- Мод <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png" color="#868dcc"/><br/>
+- Недавно релизнутый мод <Pill name="Create Aeronautics" link="https://www.curseforge.com/minecraft/mc-mods/create-aeronautics" image="https://media.forgecdn.net/avatars/thumbnails/1761/312/64/64/639120354691921005.png" color="#868dcc"/>
+- Куча аддонов и других модов
+
+**Оффициально последний сезон с модом <Pill name="Create" link="https://www.curseforge.com/minecraft/mc-mods/create" image="https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png" color="#868dcc"/>**
+
+## Документации / Ресурсы
+
+<Links :items="[
+    { 
+        name: 'Карта Сервера', 
+        link: 'ml-createaero/server-map', 
+        icon: 'solar:map-bold-duotone',
+        color: '#868dcc'
+    },
+    { 
+        name: 'Сборка', 
+        link: 'ml-createaero/modpack', 
+        icon: 'solar:box-bold-duotone',
+        color: '#868dcc'
+    },
+    { 
+        name: 'ParCool!', 
+        link: 'ml-createaero/parcool', 
+        icon: 'solar:running-round-bold-duotone', 
+        color: '#868dcc' 
+    },
+    // { 
+    //     name: 'Значки', 
+    //     link: 'ml-createareo/nickname-custom', 
+    //     icon: 'solar:medal-star-circle-bold-duotone',
+    //     color: '#868dcc'
+    // },
+  ]"
+/>
+
+
+## История
+::: details Апрель 2026
+
+`19 Апреля` - Администратор анонсировал выход сезона на `24 Апреля` или `1 Мая`
+
+`25 Апреля` - **<span style="color: green;">Сезон начался</span>**
+
+`26 Апреля` - В результате тех работ, были исправлены баги с аддонами,глобальный и локальный чаты, и добавлены <Pill name="Naturalist" link="https://modrinth.com/mod/naturalist" image="https://cdn.modrinth.com/data/F8BQNPWX/06f421b5c96c2002414373f3e23e07063021a370_96.webp" /> и <Pill name="Simple Voice Chat" link="https://modrinth.com/mod/simple-voice-chat" image="https://cdn.modrinth.com/data/9eGKb6K1/icon.png" />
+
+`30 Апреля` - Обновление принесло изменения сборки:<br>
+\- Исправлен баг с Create Connected<br>
+\- Удалены несколько клиентских модов<br>
+\- Добавлен мод <Pill name="Snow! Real Magic! ⛄" link="https://modrinth.com/mod/snow-real-magic" image="https://cdn.modrinth.com/data/iJNje1E8/428535ef57125022e0acea425752822ecfc796d7_96.webp" />
+
+:::
+::: details Май 2026
+
+`6 Мая` - Обновление принесло:<br>
+\- Исправлены баги и обновлены моды<br>
+\- Удален Simple Voice Chat и заменен на PlasmoVoice<br>
+\- Удален мод на сезоны SereneSeasons<br>
+\- Добавлен Create Propultion Simulated<br>
+\- Добавлен Vista
+
+`19 Мая` - Обновление принесло:<br>
+\- Добавлен Create Radars<br>
+\- Добавлен Create Fast Schematics <br>
+\- Добавлен Create: Shuffle Filtre <br>
+\- Добавлен Architects Pallete <br>
+\- Добавлен Abundant Atmosphere <br>
+\- Удален Create CC Total logistics <br>
+\- Исправлены баги <br>
+\- Добавлена наша система скинов без багов <br>
+\- Размеры мониторов увеличены до 24 на 24 <br>
+\- Дистанцию голосового чата можно увеличить до 80 блоков <br>
+\- Увеличено место для Computer Craft 
+
+`27 Мая` - Обновление принесло:<br>
+\- Удален Vista Aeronautics fix из-за крашей.<br>
+\- Добавлен Aeronautics Camera Sync<br>
+\- Теперь по веревкам можно лазить вертикально<br>
+\- Теперь Jade отображает вес блоков<br>
+\- Исправлена проблема с крафтом медных проводов из PowerGrid<br>
+\- Обновлены моды на новые версии<br>
+\- Совместимости с Aeronautics
+:::
+::: details Июнь 2026
+
+`10 Июня` - Обновление принесло:<br>
+\- На Sable и Aeronautics вышло не оффициальное обновление от MineLacs. Могут быть баги.<br>
+\- Новый античит под названием OneProtect<br>
+\- Требуемая версия загрузчика NeoForge поднялась на 21.1.229 и выше.<br>
+\- Добавлен Synaxis<br>
+\- Добавлен Immersive paintings<br>
+\- Добавлен Snatched(Kidnap)<br>
+\- Добавлен Abyssal Decor<br>
+\- Добавлен Create Deep Seas<br>
+\- Добавлен Create: Prismatic Shine<br>
+\- Добавлен Create: Gears n' Kinetics<br>
+\- Добавлен CC: Deep Seas<br>
+
+
+`20 Июня` - **<span style="color: red;">Сезон завершен</span>**
+
+:::
+
+
+### Предыдущие сезоны ML Create
+
+<Links :items="[
+    { 
+        name: 'ML Create 3', 
+        link: './ml-create-3', 
+        icon: 'solar:archive-bold-duotone',
+        color: '#868dcc'
+    },
+    { 
+        name: 'ML Create & Magic', 
+        link: './ml-createmagic', 
+        icon: 'solar:archive-bold-duotone',
+        color: '#868dcc'
+    },
+    { 
+        name: 'ML Create 2', 
+        link: './ml-create-2', 
+        icon: 'solar:archive-bold-duotone',
+        color: '#868dcc'
+    },
+    { 
+        name: 'ML Create 1', 
+        link: './ml-create', 
+        icon: 'solar:archive-bold-duotone',
+        color: '#868dcc'
+    },
+  ]"
+/>
+
+
+## Участники 
+**<span style="color: gray;">Общее количество:</span>** `144`<span style="color: green;"></span>
+<!-- **<span style="color: gray;"> (`0` + `0` [<iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon>](#banned))</span><br/>** -->
+
+- **<span style="color: orange;">SawaDawa177_</span>** <img src="https://api.mineatar.io/face/0c81442c240b4087851ff50f3d8fd589?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- **<span style="color: orange;">GreatShow6102</span>** <img src="https://api.mineatar.io/face/ceb1b631-d2ff-4166-8458-e4c8498e1248?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- xxxKiraxxxm <img src="https://api.mineatar.io/face/5a8d6840-36fe-45ef-adc3-64c1f4808e01?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- qywyx <img src="https://api.mineatar.io/face/45e529c8-4a8e-44eb-b02c-5b99e41a9d1c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- m1nus1k <img src="https://api.mineatar.io/face/2b4b6a4e-dfc1-41b4-926a-6cd0e18fb786?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- \_wushier\_ <img src="https://api.mineatar.io/face/c32a5078-28cd-4df6-8645-27e1e22d1e97?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- GoldOfYou <img src="https://api.mineatar.io/face/3f81ffc2-9c34-422c-be6e-6b40af0cfcd9?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Gg\_Rampage\_gG <img src="https://api.mineatar.io/face/9d84ecd9-eea7-460d-b2cb-d543dab8bd20?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Crossava3446 <img src="https://api.mineatar.io/face/4e2f837c-c04f-489a-afa5-f585921a0de4?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Nub4ik1 <img src="https://api.mineatar.io/face/d2b496f0-c2b0-4849-8dee-a6bda731a7eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- But3r <img src="https://api.mineatar.io/face/496b6db8-da5e-4d04-adb3-3a8afa4e1bd7?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- moinegr <img src="https://api.mineatar.io/face/075dbcda-f8de-4488-80e2-3123334fbda8?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- WIXSI_N <img src="https://api.mineatar.io/face/35cf0e0f-421f-4b8c-946f-fc4cee0ec346?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- GoonBAD <img src="https://api.mineatar.io/face/43e3fc5a-b4af-447b-8c37-642757212d02?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- PlayRest1R <img src="https://api.mineatar.io/face/b781cd67-f16d-47bc-9b87-9bdb4254664f?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- DVD314 <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- 777\_kek\_777 <img src="https://api.mineatar.io/face/81f3b078-a502-40eb-b4f6-c98de5dfdf44?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- QCOLDIIk <img src="https://api.mineatar.io/face/1c99f5d7-2a39-4c5a-9146-e872483e13f8?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- perebudishka <img src="https://api.mineatar.io/face/d72cf2d4-3225-4717-b742-dc1ed0f9225b?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- lipok_ <img src="https://api.mineatar.io/face/e9e3916c-d8c5-436e-bfcb-992770354a10?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Umkakoy <img src="https://api.mineatar.io/face/a270e3f1-a1a0-4a9f-a4e6-a8943c53721a?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- zerostar279 <img src="https://api.mineatar.io/face/cfc33bd0-b49d-4b65-99d8-92ee7090a011?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- _PurpleGuy1983 <img src="https://api.mineatar.io/face/99197b6e-cc42-475a-933c-78e25d2f3f94?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- InteIIigent <img src="https://api.mineatar.io/face/4dcb7f24-fe16-4a40-b1e1-9ad1555c0add?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Jeffrey_Epstein <img src="https://api.mineatar.io/face/9d037e00-9aea-4fbd-b279-ee37188d980d?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- TheHellGuy <img src="https://api.mineatar.io/face/3e30fe07-05b8-483e-93cb-6634b18de7d9?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- e6laaan <img src="https://api.mineatar.io/face/bb5ff5e3-2b39-4378-834b-23ab951fb494?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Arhived <img src="https://api.mineatar.io/face/81878916-355c-4222-abfd-4aacdddf3d98?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Va1lom <img src="https://api.mineatar.io/face/8a624809-144d-4c71-bcb9-5e6b632fff8f?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- 8526_ <img src="https://api.mineatar.io/face/306f233d-3c90-4eb5-8fc2-fbfd09637791?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- TheFueR <img src="https://api.mineatar.io/face/3beed1a1-9fdd-4cb0-b7c9-1599708427df?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Nurik1 <img src="https://api.mineatar.io/face/cfd2fd9a-ab6f-429e-a698-49d44c83fdfb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Flutell  <img src="https://api.mineatar.io/face/b4a1bb55-c5c2-46b9-a725-987733868976?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- XKMbIX <img src="https://api.mineatar.io/face/57066406-d405-4a6d-80c2-2f1b65c2cf9d?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- estetikbober <img src="https://api.mineatar.io/face/de47de91-9b28-4aa4-a38e-628fb573dc06?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- gachimax <img src="https://api.mineatar.io/face/5597a6cb-40fb-442b-a971-6f91b6d530d9?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- lil_pipa <img src="https://api.mineatar.io/face/97be8e63-f147-4ac5-9dd2-382fcca0fbb0?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- SurlitPL <img src="https://api.mineatar.io/face/a575dd44-b20d-40c2-8271-42ee8946e21a?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Oleksandr25308 <img src="https://api.mineatar.io/face/a1c18160-b345-420c-8107-c11febd3873c?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- molov126 <img src="https://api.mineatar.io/face/69765af0-4ac9-4a72-902e-62cd4dd8ff48?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- GLONK_BRETEN <img src="https://api.mineatar.io/face/646b8a96-2a37-4b8a-885e-7c1cc42ca87d?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Gertyty <img src="https://api.mineatar.io/face/b246c767-3d61-4abe-848a-95053a9717f1?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Boberegor <img src="https://api.mineatar.io/face/ae242518-7fe3-42f5-99dc-397427b47089?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Kubyenka <img src="https://api.mineatar.io/face/d5e8a320-0da1-488a-b6f2-4c7c9bbd388d?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- MrSpudya <img src="https://api.mineatar.io/face/a994dc62-c45a-4674-a61b-1bf9bcddf402?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- TOR <img src="https://api.mineatar.io/face/3666c651-3c5d-4f7e-af6a-a44de1a88aed?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- khkh <img src="https://api.mineatar.io/face/0dea23f1-9a16-4b9f-b1e1-6a6c25eeefa1?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- EkzoXdx <img src="https://api.mineatar.io/face/28c737a0-bdab-4d46-a843-e5ca37277fd5?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Xxxzolcse1xxX <img src="https://api.mineatar.io/face/b769ef5f-53f4-4698-bbf0-8d78241f9417?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Fropson <img src="https://api.mineatar.io/face/d4a6fb0f-e6f1-4440-9762-3a8f5498a6ee?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- PodXolms <img src="https://api.mineatar.io/face/57066406-d405-4a6d-80c2-2f1b65c2cf9d?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- JeshFlame <img src="https://api.mineatar.io/face/5d47ee1b-ce91-4a9c-bebc-dcc091cf1aa9?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- kapibar <img src="https://api.mineatar.io/face/b771fb09-5cd7-4150-8a30-7695c6f3979d?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Jigulenok <img src="https://api.mineatar.io/face/021790df-cc08-4c5f-bcb3-0853c0e3dd14?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- BurnItALL <img src="https://api.mineatar.io/face/1178cfbf-e578-4e44-94ee-b743eaa00842?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- 67Fpss <img src="https://api.mineatar.io/face/b9b27de8-b2fe-401a-9be2-f21e6837f3a5?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Morologus <img src="https://api.mineatar.io/face/79280402-d7bf-4388-a6ee-d961e95f9d49?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- MOJO <img src="https://api.mineatar.io/face/7ea06f73-0231-4960-bda5-add6571175bd?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- penyechik <img src="https://api.mineatar.io/face/0c7a4dce-f514-4d17-9d3d-e8c48a6f90b6?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- SuperUzbek <img src="https://api.mineatar.io/face/1c412cb3-80e9-4202-90f6-4331038113cf?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Normis <img src="https://api.mineatar.io/face/137696c3-5a63-4d62-b2d1-f09343cef7fe?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- BIRX <img src="https://api.mineatar.io/face/33eb48c9-5b39-4900-a940-581b80a0cacc?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Dice <img src="https://api.mineatar.io/face/0c9004bd-83f4-4007-ba18-8671bd10fbd2?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Velo\_4 <img src="https://api.mineatar.io/face/02d30873-4ed9-49b1-a1bf-dfb7fbdd448d?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- rectowo <img src="https://api.mineatar.io/face/326e9b66-d52e-4435-b0f1-1df0a3e3baad?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Nember <img src="https://api.mineatar.io/face/44159628-549e-4989-9652-21abbddf25f5?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Rudeus <img src="https://api.mineatar.io/face/b7347f0a-ccdb-49c9-bc3f-f23489b8b499?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- \_V1sm3t\_\_ <img src="https://api.mineatar.io/face/c4ac30aa-8a53-4791-aaa9-47ea81ae6714?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Tagjik2 <img src="https://api.mineatar.io/face/007333d9-79ed-43bf-92ea-c23bd662f0e6?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- IIWhyII <img src="https://api.mineatar.io/face/5bbf8f75-e4c6-466c-a37e-06929a9d1653?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- CatBu1b <img src="https://api.mineatar.io/face/8f2098e5-be80-48db-b6b0-6c9620c1a4f6?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- MalsLegend <img src="https://api.mineatar.io/face/e23bb63d-3334-496f-8ef3-ef04426802ea?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Sakira <img src="https://api.mineatar.io/face/fd2eea48-7ee4-4483-9ee7-c06bab6f11ee?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- klohky <img src="https://api.mineatar.io/face/f21ea5ad-4778-466e-8c42-98f11b984e19?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- LLiversy <img src="https://api.mineatar.io/face/25af025d-b511-4b7f-ab1f-791e49dd9a79?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- PingWin <img src="https://api.mineatar.io/face/a01184a2-d070-4904-8b3c-57d1c787160b?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Chelovenchik <img src="https://api.mineatar.io/face/8897ae5d-109f-404c-b8b1-3856d8ca2ae8?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Just <img src="https://api.mineatar.io/face/698efff3-fe26-4bbd-b56f-f61715cf0b82?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Misterkuku202 <img src="https://api.mineatar.io/face/698efff3-fe26-4bbd-b56f-f61715cf0b82?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- KIMOw <img src="https://api.mineatar.io/face/de7b686c-cd0e-4ca3-907d-79476cdf9d7f?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Dark_Magic <img src="https://api.mineatar.io/face/2648551d-6173-494c-abfe-d7990009923d?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- test_vada <img src="https://api.mineatar.io/face/627f69ed-3d9f-4f06-ad67-da213417fc4b?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- mrtresh6 <img src="https://api.mineatar.io/face/a0d3c260-5b6e-4f34-8504-b0844d7f4f6a?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Dsaw1875 <img src="https://api.mineatar.io/face/9d72226a-fafa-444e-bcb9-abd42fbabc24?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- ryslan766 <img src="https://api.mineatar.io/face/df35052b-af03-4436-ac23-5a507235d398?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Mim1k_ <img src="https://api.mineatar.io/face/ad7c3de7-d6d3-4797-a9f4-f5b6fb0719b8?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- BioKoTiK <img src="https://api.mineatar.io/face/4c0c607c-3490-4b68-b20d-72f48e0fa9f1?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Prikoxly <img src="https://api.mineatar.io/face/0ee8fb93-0520-4412-8e96-1c9a462108fd?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- Red_540 <img src="https://api.mineatar.io/face/9575399e-481a-4f63-bf5f-2721b1e35743?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- RatLZR <img src="https://api.mineatar.io/face/98d4971f-256f-43f5-9147-8eff04cb7cdb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- TheAmirtini <img src="https://api.mineatar.io/face/9a6fd1a6-65aa-45fe-b714-fdc6931a28b6?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" />
+- dada12O <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- TumRedSun  <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- chelovek137 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- SuperJDH <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- nikitos123987 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- TimPEst <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- AlexSanNell <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- rybakonserva <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- FEFEHRU <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- LectureComrade <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- xxx_rolt <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- qwertvd <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- goralbg <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Duktilar <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- 21asaser<img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Frike9010 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- WarZone2014 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- adodo_good <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- z <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- 21asaser <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- nerinoc <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- masik_sokol <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- basosa <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- zok82 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- zaichoten <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Rety228 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Maxition <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- talentever <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- JotaroTk <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- vanjaserega <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- GKjojogo <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- JAgnelJ <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- admin2211 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- piratzzxx <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- KartoxaVelikiy <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Taracancim <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Foxlite3 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Normisi <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- MaxDizel <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Leva55577 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- ARTplazma <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- detyader <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- mikonet_p <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- niko_lesson <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Konare1ka <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Andrew_Venom <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- FREEDon346 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Aneylny <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- deraytaer <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- Pelimeni_1_ <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- LasTik3w2 <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- man2008q <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+- aihwd <img src="/minecraft/playerHeads/steveHead.png" style="display: inline; margin: 0 2px; vertical-align: middle;" width="24" height="24"/>
+
+
+<!-- #### Забанены: <br/><span style="color: gray;"><sup>Даные игроки были навсегда забанены из-за нарушений правил сервера</sup></span> {#banned} -->
+
+<!-- <iconify-icon icon="solar:user-block-bold-duotone"  style="margin:center;color: #FF0000"></iconify-icon> <span style="color: gray;">DVD314</span> <img src="https://api.mineatar.io/face/9806b0b5-baa2-48c6-b70e-64af239a78eb?scale=3" style="display: inline; margin: 0 2px; vertical-align: middle;" /> <span style="color: gray;"><sub>[Подробнее](https://discord.com/channels/1120257989874561066/1335366888255127603)</sub></span><br/> -->

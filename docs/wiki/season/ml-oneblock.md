@@ -8,7 +8,7 @@ title: ML OneBlock
 
 # ML OneBlock <br/> <span style="color: gray;"><sup>Межсезонье</sup></span>
 **<span style="color: gray;">Версия Игры:</span> Объявляется Администрацией**<br/>
-**<span style="color: gray;">Статус:</span> <span style="color: lime;">Активен</span>**
+**<span style="color: gray;">Статус:</span> <span style="color: Gray;">Ожидание...</span>**
 
 **OneBlock** - это мини сезон, или можно сказать даже отдельный режим, который активный во время **между сезонами**, после закрытия предыдущего и во время разработки следующего.
 
@@ -24,7 +24,7 @@ title: ML OneBlock
 
 <!-- ::::: details  -->
 :::: tabs
-=== World - ???
+=== World - CreateAero
 <Pill name="ML World" link="/wiki/archive/ml-world" icon="solar:archive-bold-duotone" color="#868dcc" /> -> 
 <Pill name="ML Create & Areo" link="/wiki/season/ml-createareo" icon="solar:archive-bold-duotone" color="#868dcc" />
 

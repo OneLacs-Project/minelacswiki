@@ -10,7 +10,7 @@ export const wikiSidebar = {
             { text: '🌐 Сайт', link: 'https://minelacs.fun'},
             { text: '❓ Как зайти?', link: '/wiki/how-to-join'},
             {
-              text: '📑 Правила ✨',
+              text: '📑 Правила',
               link: '/rules/'
             },
             {
@@ -27,12 +27,6 @@ export const wikiSidebar = {
         { // Категория сезонов
           text: 'Сезон',
           items: [
-            { text: '✈️ ML Create & Aero', link: '/wiki/season/ml-createaero', 
-              collapsed: true, items: [
-                // { text: '📥 Карта Сервера', link: '/wiki/season/ml-createaero/server-map'},
-                { text: '📦 Сборка', link: '/wiki/season/ml-createaero/modpack'},
-              ]
-            },
             { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},
           ]
         },
@@ -48,6 +42,14 @@ export const wikiSidebar = {
           text: 'Архив',
           collapsed: false,
           items: [
+            { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Create & Aero ✨', link: '/wiki/archive/ml-createaero', 
+              collapsed: true, items: [
+                { text: '🖼️ Галерея', link: '/wiki/archive/ml-createaero/gallery'},
+                { text: '📥 Карта Сервера', link: '/wiki/archive/ml-createaero/server-map'},
+                { text: '📦 Сборка', link: '/wiki/archive/ml-createaero/modpack'},
+                { text: '🤸‍♂️ ParCool', link: '/wiki/archive/ml-createaero/parcool' },
+              ]
+            },
             { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML World', link: '/wiki/archive/ml-world',
               collapsed: true, items: [
                 { text: '📥 Карта Сервера', link: '/wiki/archive/ml-world/server-map'},
