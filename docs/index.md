@@ -14,8 +14,8 @@ hero:
     #   text: PLAY 2026
     #   link: /wiki/play/play26
     - theme: brand
-      text: ML Create & Aero
-      link: /wiki/archive/ml-createaero
+      text: ML Spark
+      link: /wiki/season/ml-spark
     - theme: alt
       text: Вики
       link: /wiki/how-to-join
@@ -29,11 +29,11 @@ hero:
     
  
 features: 
-  - icon: ✈️
-    title: MineLacs Create & Aero 
-    details: Оффициально последний сезон с модом Create на проекте MineLacs подошел к концу. 
-    link: /wiki/archive/ml-createaero
-    linkText: Подробнее о MineLacs Create & Aero 
+  - icon: ✨
+    title: MineLacs Spark
+    details: Следующий ванильный сезон анонсирован
+    link: /wiki/season/ml-spark
+    linkText: Подробнее о MineLacs Spark
   - icon: 📜
     title: Правила
     details: Последние изменения правил тут.

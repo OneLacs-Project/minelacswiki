@@ -28,6 +28,16 @@ export const wikiSidebar = {
           text: 'Сезон',
           items: [
             { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},
+            { text: '✨ ML Spark', link: '/wiki/season/ml-spark',
+              collapsed: true, items: [
+                // { text: '📥 Карта Сервера', link: '/wiki/season/ml-spark/server-map'},
+                // { text: '🖼️ Галерея', link: '/wiki/season/ml-spark/gallery'},
+                // { text: '⚙️ Доп Механики', link: '/wiki/season/ml-spark/additional-mechanics' },
+                // { text: '💬 FlectonePulse ', link: '/wiki/season/ml-spark/flectone-pulse' },
+                // { text: '🍷 Brewery', link: '/brewery/ml-spark/alcoholic-drinks'},
+
+              ]
+            },
           ]
         },
         { // Категория о нас
@@ -42,7 +52,7 @@ export const wikiSidebar = {
           text: 'Архив',
           collapsed: false,
           items: [
-            { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Create & Aero ✨', link: '/wiki/archive/ml-createaero', 
+            { text: '<iconify-icon icon="solar:archive-bold-duotone" style="margin-right:0.10rem;margin:center;color: #868dcc" ></iconify-icon> ML Create & Aero', link: '/wiki/archive/ml-createaero', 
               collapsed: true, items: [
                 { text: '🖼️ Галерея', link: '/wiki/archive/ml-createaero/gallery'},
                 { text: '📥 Карта Сервера', link: '/wiki/archive/ml-createaero/server-map'},
