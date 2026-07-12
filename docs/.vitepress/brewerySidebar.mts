@@ -25,8 +25,8 @@ export const brewerySidebar = {
         { text: 'Рецепты сезона', 
           items:[
           { text: '🍸 Свой рецепт', link: '/brewery/mechanics/your-recipe'},
-          { text: '🍷 Алкогольные напитки', link: '/brewery/default/alcoholic-drinks'},
-          { text: '📖 Неалкогольные напитки', link: '/brewery/default/non-alcoholic-drinks'},
+          { text: '🍷 Алкогольные напитки', link: '/brewery/ml-spark/alcoholic-drinks'},
+          { text: '📖 Неалкогольные напитки', link: '/brewery/ml-spark/non-alcoholic-drinks'},
         
 
         ]},

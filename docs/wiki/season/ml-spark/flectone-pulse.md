@@ -5,7 +5,7 @@ title: FlectonePulse
 ---
 
 <!-- icon="solar:archive-bold-duotone" -->
-<Pill name="ML World" link="/wiki/archive/ml-world"  color="#868dcc"  /> <br/>
+<Pill name="ML Spark" link="/wiki/season/ml-spark"  color="#868dcc"  /> <br/>
 
 
  

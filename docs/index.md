@@ -31,7 +31,7 @@ hero:
 features: 
   - icon: ✨
     title: MineLacs Spark
-    details: Следующий ванильный сезон анонсирован
+    details: Следующий ванильный сезон начался
     link: /wiki/season/ml-spark
     linkText: Подробнее о MineLacs Spark
   - icon: 📜

@@ -30,11 +30,11 @@ export const wikiSidebar = {
             { text: '⌛ Межсезонье', link: '/wiki/season/ml-oneblock'},
             { text: '✨ ML Spark', link: '/wiki/season/ml-spark',
               collapsed: true, items: [
-                // { text: '📥 Карта Сервера', link: '/wiki/season/ml-spark/server-map'},
+                { text: '⚙️ Доп Механики', link: '/wiki/season/ml-spark/additional-mechanics' },
+                { text: '🍷 Brewery', link: '/brewery/ml-spark/alcoholic-drinks'},
+                { text: '💬 FlectonePulse ', link: '/wiki/season/ml-spark/flectone-pulse' },
                 // { text: '🖼️ Галерея', link: '/wiki/season/ml-spark/gallery'},
-                // { text: '⚙️ Доп Механики', link: '/wiki/season/ml-spark/additional-mechanics' },
-                // { text: '💬 FlectonePulse ', link: '/wiki/season/ml-spark/flectone-pulse' },
-                // { text: '🍷 Brewery', link: '/brewery/ml-spark/alcoholic-drinks'},
+                // { text: '📥 Карта Сервера', link: '/wiki/season/ml-spark/server-map'},
 
               ]
             },
