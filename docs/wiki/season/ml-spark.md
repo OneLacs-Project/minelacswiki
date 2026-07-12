@@ -26,6 +26,7 @@ title: ML Spark
 
 
 ## Документации / Ресурсы 
+Сборка (не обязательна): <Pill name=".ZIP" link="https://github.com/OneLacs-Project/minelacspages/releases/download/minelacssparkone/MineLacs-Spark-1.zip" icon="solar:zip-file-bold-duotone" color="#868dcc"  /> <Pill name=".MRPACK" link="https://github.com/OneLacs-Project/minelacspages/releases/download/minelacssparkone/MineLacs-Spark-1.mrpack" icon="solar:zip-file-bold-duotone" color="#868dcc" image="https://raw.githubusercontent.com/gabrielvicenteYT/modrinth-icons/a05e2307b42762d64a370a3cf3e8b6b30735dce1/Branding/Mark/mark-dark.svg" />
 <Links :items="[
     { 
         name: 'Доп Механики', 
@@ -117,6 +118,33 @@ title: ML Spark
   </div>
 </div> 
 
+---
+
+<!-- emotecraft  -->
+<div style="display: flex; align-items: center;"> 
+    <!-- Картинка -->
+   <div style="flex: 0 0 190px;">
+    <a href="https://modrinth.com/mod/entity-model-features" target="_blank"> <!-- Гиперссылка в отдельную вкладку -->
+      <img  src="https://cdn.modrinth.com/data/4I1XuqiY/6e5bbd0d06b1741bfdab6c0cfab6de8fdaf0064c_96.webp" style="flex: 0 0; ">
+    </a>
+    <a href="https://modrinth.com/user/Traben" target="_blank" style="text-decoration: none;">
+      <span style="color: gray;"><sub>by <i>Traben</i></sub></span>
+    </a>
+  </div>
+  <div style="flex: 0 0 190px;">
+    <a href="https://modrinth.com/mod/entitytexturefeatures" target="_blank"> <!-- Гиперссылка в отдельную вкладку -->
+      <img  src="https://cdn.modrinth.com/data/BVzZfTc1/af683d206d50b05258d865b0d6e4aa2f2cee12f2_96.webp" style="flex: 0 0; ">
+    </a>
+    <a href="https://modrinth.com/user/Traben" target="_blank" style="text-decoration: none;">
+      <span style="color: gray;"><sub>by <i>Traben</i></sub></span>
+    </a>
+  </div>
+    <!-- Заголовок -->
+  <div style="flex: 1; padding-right: 20px; text-align: right;">
+    <h1> EMF и ETF <br/> <span style="color: gray;"><sup>Украшаем</sup></span></h1>  
+  </div>
+    <!-- Картинка -->
+</div> 
 :::
 
 ## История
